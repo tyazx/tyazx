@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change begets change. Nothing propagates so fast."</i>
+<i>"Sometimes you will never know the value of something, until it becomes a memory."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
