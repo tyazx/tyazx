@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I persist long enough I will win."</i>
+<i>"Happiness is only real, when shared."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
