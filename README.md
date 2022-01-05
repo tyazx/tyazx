@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life has no limitations except the ones you make."</i>
+<i>"Hardly anybody recognizes the most significant moments of their life at the time they happen."</i>
 <br>
-<b>- Les Brown</b>
+<b>- W.P. Kinsella</b>
 </blockquote>
 </p>
 
