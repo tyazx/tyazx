@@ -1,0 +1,28 @@
+name: Quotes Updater
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 */2 * * *"
+
+jobs:
+  updater:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2      
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+
+      - name: Update Quotes
+        run: chmod +x gas.sh && bash gas.sh
+
+      - name: Push
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          force: true
+          directory: "."
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
