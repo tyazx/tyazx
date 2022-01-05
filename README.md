@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go confidently in the direction of your dreams! Live the life you've imagined."</i>
+<i>"Boldness makes even the smallest animal dangerous."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
