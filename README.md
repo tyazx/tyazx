@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts."</i>
+<i>"It is up to each of us to sing as we feel moved by the overall song of life."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
