@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim."</i>
+<i>"One of the most difficult things is not to change society - but to change yourself."</i>
 <br>
-<b>- John D. Rockefeller</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
