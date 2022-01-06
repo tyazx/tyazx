@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The goal is not to show how great you are to others, but how vulnerable you are to yourself."</i>
+<i>"There are two kinds of perfect people: those who are dead, and those who have not been born yet."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
