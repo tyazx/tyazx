@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What the eye doesn't see and the mind doesn't know, doesn't exist."</i>
+<i>"Courage Is a Love Affair with the Unknown"</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
