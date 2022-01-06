@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners."</i>
+<i>"Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
