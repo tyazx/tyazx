@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where there is no struggle, there is no strength. "</i>
+<i>"Walking with a friend in the dark is better than walking alone in the light."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
