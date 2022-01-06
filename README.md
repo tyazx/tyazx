@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A comfort zone is a beautiful place, but nothing ever grows there."</i>
+<i>"Human beings believe just as they breathe - in order to survive."</i>
 <br>
-<b>- Unknown</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
