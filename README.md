@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not follow the ideas of others, but learn to listen to the voice within yourself."</i>
+<i>"The key to immortality is first living a life worth remembering. "</i>
 <br>
-<b>- Dogen</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
