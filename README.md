@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you seek is seeking you."</i>
+<i>"I would rather die on my feet than live on my knees."</i>
 <br>
-<b>- Rumi</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
