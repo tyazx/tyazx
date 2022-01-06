@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not the love you make. It's the love you give. "</i>
+<i>"All men who have achieved great things have been great dreamers. "</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Orison Swett Marden</b>
 </blockquote>
 </p>
 
