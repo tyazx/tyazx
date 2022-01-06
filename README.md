@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our life isn't how much we can take out, but how much we can put in.  "</i>
+<i>"You will face many defeats in life, but never let yourself be defeated."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
