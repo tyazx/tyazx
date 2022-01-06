@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The key to immortality is first living a life worth remembering. "</i>
+<i>"It's not the love you make. It's the love you give. "</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Nikola Tesla</b>
 </blockquote>
 </p>
 
