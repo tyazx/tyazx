@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you've made a mistake, it's better just to laugh at it."</i>
+<i>"Happiness is the spiritual experience of living every minute with love, grace and gratitude."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
