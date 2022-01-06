@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are dark shadows on the earth, but its lights are stronger in the contrast."</i>
+<i>"What the eye doesn't see and the mind doesn't know, doesn't exist."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
