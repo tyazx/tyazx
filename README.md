@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The season of failure is the best time for sowing the seeds of success. "</i>
+<i>"Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough. "</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
