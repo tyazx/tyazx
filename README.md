@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you practiced for the day, then you have won. If you were lazy for the day, then you have lost."</i>
+<i>"Do not pray for an easy life, pray for the strength to endure a difficult one.  "</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
