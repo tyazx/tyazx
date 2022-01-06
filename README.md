@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage Is a Love Affair with the Unknown"</i>
+<i>"Excellence is not an exception, it is a prevailing attitude."</i>
 <br>
-<b>- Osho</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
