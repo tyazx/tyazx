@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years."</i>
+<i>"Enthusiasm is a vital element toward the individual success of every man or woman."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Conrad Hilton</b>
 </blockquote>
 </p>
 
