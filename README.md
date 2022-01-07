@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The destiny of man is in his own soul. "</i>
+<i>"I have never let my schooling interfere with my education."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
