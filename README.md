@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nourish the mind like you would your body. The mind cannot survive on junk food."</i>
+<i>"Whatever happens always happens on time."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
