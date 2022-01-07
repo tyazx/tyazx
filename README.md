@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best fighter is never angry."</i>
+<i>"Being a good example is the best form of service."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
