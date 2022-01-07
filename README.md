@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes you have to lose all you have to find out who you truly are."</i>
+<i>"Write to help yourself, publish to help others."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
