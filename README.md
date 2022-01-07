@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Would you rather learn to deal with the truth now than be forced to do so later on?"</i>
+<i>"Some people dream of success, while others wake up and work hard at it."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
