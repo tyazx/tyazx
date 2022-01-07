@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Insanity is relative. It depends on who has who locked in what cage.  "</i>
+<i>"Growing up is losing some illusions, in order to acquire others."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
