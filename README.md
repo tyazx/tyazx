@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only normal people are the ones you don't know very well."</i>
+<i>"Sometimes you have to lose all you have to find out who you truly are."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
