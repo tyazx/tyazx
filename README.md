@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better to die fighting for freedom than be a prisoner all the days of your life."</i>
+<i>"There are two kinds of perfect people: those who are dead, and those who have not been born yet."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
