@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never lose hope. Storms make people stronger and never last forever."</i>
+<i>"Man must use what he has, not hope for what is not."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- G.I. Gurdjieff</b>
 </blockquote>
 </p>
 
