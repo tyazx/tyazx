@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only place success comes before work is in the dictionary."</i>
+<i>"Everyone you meet is fighting a battle you know nothing about. Be kind. Always."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Robin Williams</b>
 </blockquote>
 </p>
 
