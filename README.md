@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have never let my schooling interfere with my education."</i>
+<i>"The key to immortality is first living a life worth remembering. "</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
