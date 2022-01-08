@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were."</i>
+<i>"You may be disappointed if you fail, but you are doomed if you don't try. "</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
