@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're walking down the right path and you're willing to keep walking, eventually you'll make progress."</i>
+<i>"The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.  "</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
