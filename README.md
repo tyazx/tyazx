@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only thing we have to fear is fear itself."</i>
+<i>"The soul should always stand ajar, ready to welcome the ecstatic experience."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
