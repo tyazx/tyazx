@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. "</i>
+<i>"Love and compassion are necessities, not luxuries. Without them, humanity cannot survive."</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
