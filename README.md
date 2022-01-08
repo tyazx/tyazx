@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Begin at once to live, and count each separate day as a separate life.  "</i>
+<i>"Progress is limited by your ability to change your mind."</i>
 <br>
-<b>- Seneca</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
