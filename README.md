@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life begins where fear ends."</i>
+<i>"We must create our own world or we will die from inaction."</i>
 <br>
-<b>- Osho</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
