@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are always your own best guru, your own best teacher, the answers are always inside you."</i>
+<i>"Investing in yourself is the best investment you will ever make."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
