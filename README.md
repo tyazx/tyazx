@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be prepared is half the victory. "</i>
+<i>"The price of inaction is far greater than the cost of making a mistake."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
