@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you change the way you look at things, the things you look at change. "</i>
+<i>"When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. "</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Charles Swindoll</b>
 </blockquote>
 </p>
 
