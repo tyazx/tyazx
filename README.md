@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The price of inaction is far greater than the cost of making a mistake."</i>
+<i>"Make failure your teacher, not your undertaker.  "</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
