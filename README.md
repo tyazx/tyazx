@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do one thing every day that scares you."</i>
+<i>"You will never do anything in this world without courage. It is the greatest quality of the mind next to honor."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
