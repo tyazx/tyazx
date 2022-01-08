@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mind is the creator of everything. You should therefore guide it to create only good."</i>
+<i>"Observe things as they are and don't pay attention to other people."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
