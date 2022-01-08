@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.  "</i>
+<i>"Be thankful for everything that happens in your life; it's all an experience."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
