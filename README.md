@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love and compassion are necessities, not luxuries. Without them, humanity cannot survive."</i>
+<i>"You are always your own best guru, your own best teacher, the answers are always inside you."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
