@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny."</i>
+<i>"If you're walking down the right path and you're willing to keep walking, eventually you'll make progress."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
