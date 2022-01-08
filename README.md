@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Silence is a source of great strength."</i>
+<i>"Life begins where fear ends."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
