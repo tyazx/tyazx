@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Progress is limited by your ability to change your mind."</i>
+<i>"Coming together is a beginning, staying together is progress, and working together is success. "</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
