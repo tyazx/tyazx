@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe you can and you're halfway there."</i>
+<i>"It's better to dance than to march through life."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
