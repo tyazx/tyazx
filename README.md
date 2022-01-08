@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The few who do are the envy of the many who only watch."</i>
+<i>"Write to help yourself, publish to help others."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
