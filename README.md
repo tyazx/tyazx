@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You will never do anything in this world without courage. It is the greatest quality of the mind next to honor."</i>
+<i>"Begin at once to live, and count each separate day as a separate life.  "</i>
 <br>
-<b>- James Allen</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
