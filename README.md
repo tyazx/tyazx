@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To plant a garden is to believe in tomorrow.  "</i>
+<i>"Fear of death is fear of surrender to Infinity. Learn to surrender, to exist at Infinity while alive, and fear of death dissolves."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Adi Da Samraj</b>
 </blockquote>
 </p>
 
