@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All our dreams can come true, if we have the courage to pursue them."</i>
+<i>"Never fear quarrels, but seek hazardous adventures."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
