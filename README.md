@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man should fear never beginning to live."</i>
+<i>"People should pursue what they're passionate about. That will make them happier than pretty much anything else."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
