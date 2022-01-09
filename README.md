@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is simply the opportunity to begin again, this time more intelligently."</i>
+<i>"The dreamers are the saviors of the worlds."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
