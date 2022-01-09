@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life. "</i>
+<i>"The people who are crazy enough to think they can change the world are the ones who do."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
