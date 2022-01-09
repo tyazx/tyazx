@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can see through others only when we can see through ourselves."</i>
+<i>"Focused, hard work is the real key to success."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- John Carmack</b>
 </blockquote>
 </p>
 
