@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change is hard at first, messy in the middle and gorgeous at the end."</i>
+<i>"The only person you should try to be better than is the person you were yesterday."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
