@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man."</i>
+<i>"The wiser you get, the less you care to look like a fool."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
