@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is a wisdom of the head, and there is a wisdom of the heart."</i>
+<i>"Aim for the moon. If you miss, you may hit a star."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- W. Clement Stone</b>
 </blockquote>
 </p>
 
