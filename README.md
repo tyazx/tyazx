@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world makes way for the man who knows where he is going."</i>
+<i>"Change yourself and you have done your part in changing the world."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
