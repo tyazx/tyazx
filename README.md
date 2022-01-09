@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There's more to life than being a passenger."</i>
+<i>"We all give up great expectations along the way."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
