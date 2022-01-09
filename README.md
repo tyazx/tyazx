@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We need never be ashamed of our tears."</i>
+<i>"Not doing it is certainly the best way to not getting it.  "</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
