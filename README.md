@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hope means hoping when everything seems hopeless."</i>
+<i>"When you reach the end of your rope, tie a knot in it and hang on."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
