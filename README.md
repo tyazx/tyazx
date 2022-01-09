@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward."</i>
+<i>"Just do the best you can. No one can do more than that."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
