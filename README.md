@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you realize you've made a mistake, take immediate steps to correct it."</i>
+<i>"How people treat you is their karma; how you react is yours. "</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
