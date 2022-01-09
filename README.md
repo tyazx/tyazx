@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only person you should try to be better than is the person you were yesterday."</i>
+<i>"To achieve, you need thought. You have to know what you are doing and that's real power."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
