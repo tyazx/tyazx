@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just do the best you can. No one can do more than that."</i>
+<i>"Failure is simply the opportunity to begin again, this time more intelligently."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
