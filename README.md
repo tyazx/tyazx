@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The dreamers are the saviors of the worlds."</i>
+<i>"Anyone telling you it's pointless to share your perspective is sharing their perspective."</i>
 <br>
-<b>- James Allen</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
