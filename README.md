@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where focus goes, energy flows."</i>
+<i>"There is a wisdom of the head, and there is a wisdom of the heart."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
