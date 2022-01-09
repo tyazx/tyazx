@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life has more imagination than we carry in our dreams."</i>
+<i>"To be fully alive, fully human, and completely awake is to be continually thrown out of the nest."</i>
 <br>
-<b>- Christopher Columbus</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
