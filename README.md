@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your heart is the size of an ocean. Go find yourself in its hidden depths."</i>
+<i>"Life has more imagination than we carry in our dreams."</i>
 <br>
-<b>- Rumi</b>
+<b>- Christopher Columbus</b>
 </blockquote>
 </p>
 
