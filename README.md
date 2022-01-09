@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life should be touched, not strangled.  "</i>
+<i>"Tradition is the illusion of permanence. "</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
