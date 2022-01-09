@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love."</i>
+<i>"Ask no questions, and you'll be told no lies."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
