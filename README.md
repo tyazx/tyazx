@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People should pursue what they're passionate about. That will make them happier than pretty much anything else."</i>
+<i>"There's more to life than being a passenger."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
