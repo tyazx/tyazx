@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy."</i>
+<i>"If you are patient in one moment of anger, you will escape a hundred days of sorrow. "</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
