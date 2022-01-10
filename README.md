@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Focused, hard work is the real key to success."</i>
+<i>"A person who does not read is no better than one cannot read."</i>
 <br>
-<b>- John Carmack</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
