@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you reach the top of the mountain, keep climbing. "</i>
+<i>"Happiness can be found, even in the darkest of times, if one only remembers to turn on the light."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
