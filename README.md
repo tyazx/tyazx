@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All animals except man know that the principal business of life is to enjoy it."</i>
+<i>"Be brave to stand for what you believe in even if you stand alone."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
