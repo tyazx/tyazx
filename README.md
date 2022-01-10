@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that."</i>
+<i>"When you believe in a thing, believe in it all the way, implicitly and unquestionable."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
