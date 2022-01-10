@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Listening well is as powerful as talking well, and is also as essential to true conversation."</i>
+<i>"Don't think money does everything or you are going to end up doing everything for money."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
