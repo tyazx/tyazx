@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We've got to live, no matter how many skies have fallen."</i>
+<i>"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
