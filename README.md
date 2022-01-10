@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being entirely honest with oneself is a good exercise."</i>
+<i>"Doing what you love is the cornerstone of having abundance in your life. "</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
