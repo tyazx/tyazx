@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As mortals, we're ruled by conditions, not by ourselves."</i>
+<i>"Listening well is as powerful as talking well, and is also as essential to true conversation."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
