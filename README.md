@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We suffer more often in imagination than in reality.  "</i>
+<i>"The wise warrior avoids the battle."</i>
 <br>
-<b>- Seneca</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
