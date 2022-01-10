@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pursue what catches your heart, not what catches your eyes."</i>
+<i>"Success comes from knowing that you did your best to become the best that you are capable of becoming."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
