@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why change? Everyone has his own style. When you have found it, you should stick to it."</i>
+<i>"What do we live for, if it is not to make life less difficult for each other?"</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
