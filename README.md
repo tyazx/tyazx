@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your goals are the road maps that guide you and show you what is possible for your life."</i>
+<i>"We've got to live, no matter how many skies have fallen."</i>
 <br>
-<b>- Les Brown</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
