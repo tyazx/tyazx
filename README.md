@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Write to help yourself, publish to help others."</i>
+<i>"Whatever you are, be a good one."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
