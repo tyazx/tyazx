@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Living life in style also means living a life of balance."</i>
+<i>"Being entirely honest with oneself is a good exercise."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
