@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When angry count to ten before you speak. If very angry, count to one hundred."</i>
+<i>"Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
