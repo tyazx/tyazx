@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A person who does not read is no better than one cannot read."</i>
+<i>"When you reach the top of the mountain, keep climbing. "</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
