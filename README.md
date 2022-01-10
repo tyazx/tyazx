@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How people treat you is their karma; how you react is yours. "</i>
+<i>"Nourish the mind like you would your body. The mind cannot survive on junk food."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
