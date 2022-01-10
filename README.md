@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can start changing our world for the better daily, no matter how small the action."</i>
+<i>"When angry count to ten before you speak. If very angry, count to one hundred."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
