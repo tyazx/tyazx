@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There's no next time. It's now or never."</i>
+<i>"Honesty is the first chapter in the book of wisdom."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
