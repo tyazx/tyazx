@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you are, be a good one."</i>
+<i>"There's no next time. It's now or never."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
