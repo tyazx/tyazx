@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it."</i>
+<i>"I have lost friends, some by death...others by sheer inability to cross the street."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
