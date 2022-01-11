@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect."</i>
+<i>"Love is the absence of judgment."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
