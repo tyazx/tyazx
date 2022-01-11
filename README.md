@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Plants grow weak without wind."</i>
+<i>"When you're curious, you find lots of interesting things to do."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
