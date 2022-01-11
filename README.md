@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Have the fearless attitude of a hero and the loving heart of a child."</i>
+<i>"Your imagination is your preview of life's coming attractions."</i>
 <br>
-<b>- Soyen Shaku</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
