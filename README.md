@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't program yourself, life will program you."</i>
+<i>"Plants grow weak without wind."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
