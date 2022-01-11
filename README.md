@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you're curious, you find lots of interesting things to do."</i>
+<i>"The eyes of others our prisons; their thoughts our cages."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
