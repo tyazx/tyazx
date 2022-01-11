@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One loyal friend is worth ten thousand relatives."</i>
+<i>"There are no shortcuts to any place worth going. "</i>
 <br>
-<b>- Euripides</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
