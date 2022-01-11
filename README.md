@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We tend to live up to our expectations."</i>
+<i>"When the fish is caught we pay no more attention to the trap."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
