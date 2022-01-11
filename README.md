@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the fish is caught we pay no more attention to the trap."</i>
+<i>"The person who says something is impossible should not interrupt the person who is doing it."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
