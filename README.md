@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True life is lived when tiny changes occur."</i>
+<i>"One loyal friend is worth ten thousand relatives."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
