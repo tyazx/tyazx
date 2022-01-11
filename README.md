@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before preparing to improve the world, first look around your own home three times. "</i>
+<i>"Have the fearless attitude of a hero and the loving heart of a child."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Soyen Shaku</b>
 </blockquote>
 </p>
 
