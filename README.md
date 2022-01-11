@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Speak when you are angry - and you'll make the best speech you'll ever regret."</i>
+<i>"What's right is what's left if you do everything else wrong."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Robin Williams</b>
 </blockquote>
 </p>
 
