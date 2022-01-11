@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The person who says something is impossible should not interrupt the person who is doing it."</i>
+<i>"You don't know who is important to you until you actually lose them."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
