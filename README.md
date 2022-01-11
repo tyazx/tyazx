@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Speak when you are angry - and you'll make the best speech you'll ever regret."</i>
+<i>"The future is no more uncertain than the present."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
