@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way we feel is the direct result of what we think."</i>
+<i>"Speak when you are angry - and you'll make the best speech you'll ever regret."</i>
 <br>
-<b>- Peter A. Cohen</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
