@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have lost friends, some by death...others by sheer inability to cross the street."</i>
+<i>"Realize deeply that the present moment is all you ever have. "</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
