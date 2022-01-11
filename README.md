@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Honesty is the first chapter in the book of wisdom."</i>
+<i>"Creativity is the greatest rebellion in existence."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
