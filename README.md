@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing in the world so irresistibly contagious as laughter and good humor."</i>
+<i>"Life is not just the passing of time. Life is the collection of experiences and their intensity."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
