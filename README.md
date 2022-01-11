@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Of all men's miseries the bitterest is this: to know so much and to have control over nothing. "</i>
+<i>"When you rise in the morning, form a resolution to make the day a happy one for a fellow creature."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Sydney Smith</b>
 </blockquote>
 </p>
 
