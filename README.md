@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no shortcuts to any place worth going. "</i>
+<i>"Before preparing to improve the world, first look around your own home three times. "</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
