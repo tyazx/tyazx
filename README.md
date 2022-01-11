@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people."</i>
+<i>"Speak when you are angry - and you'll make the best speech you'll ever regret."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
