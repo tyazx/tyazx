@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember, today is the tomorrow you worried about yesterday."</i>
+<i>"A Rolling Stone Gathers No Moss."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
