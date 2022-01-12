@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hope and fear come from feeling that we lack something; they come from a sense of poverty."</i>
+<i>"People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
