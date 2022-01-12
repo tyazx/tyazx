@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Expect the best of yourself, and then do what is necessary to make it a reality."</i>
+<i>"The best teacher is experience and not through someone's distorted point of view."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Jack Kerouac</b>
 </blockquote>
 </p>
 
