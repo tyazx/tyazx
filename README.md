@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Raise your words, not voice. It is rain that grows flowers, not thunder."</i>
+<i>"Great loves too must be endured."</i>
 <br>
-<b>- Rumi</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
