@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ideas do not reach perfection in a day, no matter how much study is put upon them."</i>
+<i>"A clear conscience is the sure sign of a bad memory."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
