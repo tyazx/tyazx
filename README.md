@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you are, be a good one."</i>
+<i>"Whatever satisfies the soul is truth."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
