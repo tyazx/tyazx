@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Empty your mind, be formless."</i>
+<i>"I skate to where the puck is going to be, not where it has been."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
