@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can put lipstick on a pig. It's still a pig."</i>
+<i>"Expect the best of yourself, and then do what is necessary to make it a reality."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
