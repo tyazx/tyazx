@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind."</i>
+<i>"Your imagination is your preview of life's coming attractions."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
