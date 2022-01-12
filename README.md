@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best teacher is experience and not through someone's distorted point of view."</i>
+<i>"Life is a traveling to the edge of knowledge, then a leap taken."</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
