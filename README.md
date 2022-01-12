@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more we value things, the less we value ourselves.  "</i>
+<i>"The quality, not the longevity, of one's life is what is important."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
