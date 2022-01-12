@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do every act of your life as if it were your last."</i>
+<i>"The more we value things, the less we value ourselves.  "</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
