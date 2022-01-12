@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect."</i>
+<i>"Raise your words, not voice. It is rain that grows flowers, not thunder."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
