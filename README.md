@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Champions keep playing until they get it right."</i>
+<i>"How people treat you is their karma; how you react is yours. "</i>
 <br>
-<b>- Billie Jean King</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
