@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All human wisdom is contained in these two words - Wait and Hope"</i>
+<i>"Shoot for the moon, because even if you miss, you'll land among the stars."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
