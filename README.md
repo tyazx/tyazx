@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.  "</i>
+<i>"All human wisdom is contained in these two words - Wait and Hope"</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
