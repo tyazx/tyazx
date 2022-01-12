@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Living life in style also means living a life of balance."</i>
+<i>"There is a big difference between being centered and being self-centered."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
