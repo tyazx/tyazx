@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life can be wonderful if you're not afraid of it."</i>
+<i>"In the middle of chaos lies opportunity.  "</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
