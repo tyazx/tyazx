@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your imagination is your preview of life's coming attractions."</i>
+<i>"When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.  "</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
