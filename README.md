@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution."</i>
+<i>"Greatness comes from living with purpose and passion."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
