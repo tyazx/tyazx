@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can spend our whole lives escaping from the monsters of our minds."</i>
+<i>"By perseverance the snail reached the ark."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Charles Spurgeon</b>
 </blockquote>
 </p>
 
