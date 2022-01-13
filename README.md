@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not bite at the bait of pleasure, till you know there is no hook beneath it."</i>
+<i>"Your world is a living expression of how you are using and have used your mind."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
