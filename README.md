@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"20 percent of your activities will account for 80 percent of your results."</i>
+<i>"There is nothing like looking if you want to find something."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
