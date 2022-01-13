@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most wasted day of all is that on which we have not laughed."</i>
+<i>"Someone who points out your flaws to you is not necessarily your enemy. Someone who speaks of your virtues is not necessarily your friend."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
