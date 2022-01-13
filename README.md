@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quality, not the longevity, of one's life is what is important."</i>
+<i>"The most wasted day of all is that on which we have not laughed."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
