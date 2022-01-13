@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality."</i>
+<i>"Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. "</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
