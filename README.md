@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not believe that you will reach your destination without leaving the shore. "</i>
+<i>"Everyone sees what you appear to be, few experience what you really are."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Niccolo Machiavelli</b>
 </blockquote>
 </p>
 
