@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Someone who points out your flaws to you is not necessarily your enemy. Someone who speaks of your virtues is not necessarily your friend."</i>
+<i>"In the middle of difficulty lies opportunity."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
