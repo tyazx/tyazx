@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is great not because he hasn't failed; a man is great because failure hasn't stopped him."</i>
+<i>"Happiness is the meaning and the purpose of life, the whole aim and end of human existence."</i>
 <br>
-<b>- Confucius</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
