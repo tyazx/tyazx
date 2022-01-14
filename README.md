@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that."</i>
+<i>"Don't settle, and don't struggle."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
