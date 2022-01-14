@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever your heart clings to and confides in, that is really your God."</i>
+<i>"Fool me once, shame on you; fool me twice, shame on me. "</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
