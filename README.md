@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Showing off is the fool's idea of glory. "</i>
+<i>"Whatever your heart clings to and confides in, that is really your God."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
