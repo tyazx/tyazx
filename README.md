@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The two most powerful warriors are patience and time."</i>
+<i>"Just get out and do it. You will be very, very glad that you did."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
