@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind."</i>
+<i>"When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
