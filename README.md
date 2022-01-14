@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is simply what our feelings do to us."</i>
+<i>"When we allow negative messages to fester in our head, they take on a life of their own."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
