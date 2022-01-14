@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control."</i>
+<i>"Art, like morality, consists of drawing the line somewhere."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
