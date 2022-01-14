@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Old age is like everything else. To make a success of it, you've got to start young."</i>
+<i>"The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
