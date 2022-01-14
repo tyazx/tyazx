@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If ever you feel like an animal among men, be a lion."</i>
+<i>"Don't wait for the right opportunity: create it."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
