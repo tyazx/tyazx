@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Shoot for the moon, because even if you miss, you'll land among the stars."</i>
+<i>"Showing off is the fool's idea of glory. "</i>
 <br>
-<b>- Les Brown</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
