@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better to light a candle than to curse the darkness. "</i>
+<i>"Plants grow weak without wind."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
