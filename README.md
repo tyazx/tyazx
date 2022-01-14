@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You play the hand you're dealt. I think the game's worthwhile.  "</i>
+<i>"Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
