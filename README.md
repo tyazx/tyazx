@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart."</i>
+<i>"Success is stumbling from failure to failure with no loss of enthusiasm."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
