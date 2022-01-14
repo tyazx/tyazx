@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have within you right now, everything you need to deal with whatever the world can throw at you."</i>
+<i>"If ever you feel like an animal among men, be a lion."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
