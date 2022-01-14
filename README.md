@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first step is to establish that something is possible; then probability will occur."</i>
+<i>"Man must use what he has, not hope for what is not."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- G.I. Gurdjieff</b>
 </blockquote>
 </p>
 
