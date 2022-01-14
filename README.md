@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know your gifts and share them."</i>
+<i>"Care about what other people think and you will always be their prisoner."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
