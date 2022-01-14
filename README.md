@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Getting lost along your path is a part of finding the path you are meant to be on."</i>
+<i>"It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
