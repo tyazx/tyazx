@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most tragic thing in the world is a man of genius who is not a man of honor."</i>
+<i>"The first step is to establish that something is possible; then probability will occur."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
