@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest of all mistakes is to do nothing because you think you can only do a little.  "</i>
+<i>"It is better to change an opinion than to persist in a wrong one."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
