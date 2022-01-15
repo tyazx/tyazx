@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What gets measured gets improved."</i>
+<i>"The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Benjamin Mays</b>
 </blockquote>
 </p>
 
