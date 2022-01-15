@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is more important than knowledge."</i>
+<i>"What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
