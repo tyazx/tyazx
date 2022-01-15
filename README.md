@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Health is the greatest of all possessions."</i>
+<i>"An un-examined life is not worth living."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
