@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear is a natural reaction to moving closer to the truth."</i>
+<i>"We win by helping each other win."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
