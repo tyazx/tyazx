@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The mind can calculate, but the spirit yearns, and the heart wants what the heart wants."</i>
+<i>"Listening well is as powerful as talking well, and is also as essential to true conversation."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
