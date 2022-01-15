@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Listening well is as powerful as talking well, and is also as essential to true conversation."</i>
+<i>"Success is stumbling from failure to failure with no loss of enthusiasm."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
