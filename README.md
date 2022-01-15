@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is the price that life exacts for granting peace."</i>
+<i>"Change is hardest at the beginning, messiest in the middle and best at the end."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
