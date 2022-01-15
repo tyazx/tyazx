@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An un-examined life is not worth living."</i>
+<i>"Confuse them with your silence and amaze them with your actions."</i>
 <br>
-<b>- Socrates</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
