@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a constant series of opportunities."</i>
+<i>"We can't help everyone, but everyone can help someone."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
