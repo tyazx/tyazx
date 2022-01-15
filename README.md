@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let us rather run the risk of wearing out than rusting out."</i>
+<i>"Why fit in when you were born to stand out?"</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
