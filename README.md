@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is stumbling from failure to failure with no loss of enthusiasm."</i>
+<i>"No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
