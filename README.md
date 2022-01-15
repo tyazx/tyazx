@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Genius is one percent inspiration and ninety-nine percent perspiration."</i>
+<i>"Just do the best you can. No one can do more than that."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
