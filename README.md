@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never was anything great achieved without danger."</i>
+<i>"Not all those who wander are lost."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
