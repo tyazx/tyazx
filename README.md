@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In all chaos there is a cosmos, in all disorder a secret order."</i>
+<i>"To forget the whole world is easy; to make the whole world forget you is hard."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
