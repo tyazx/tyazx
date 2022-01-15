@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confuse them with your silence and amaze them with your actions."</i>
+<i>"Genius is one percent inspiration and ninety-nine percent perspiration."</i>
 <br>
-<b>- Unknown</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
