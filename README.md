@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a succession of lessons, which must be lived to be understood."</i>
+<i>"A strong man overcomes an obstacle, a wise man goes the whole way."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
