@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A bird does not sing because it has an answer. It sings because it has a song."</i>
+<i>"Nothing is more creative...nor destructive...than a brilliant mind with a purpose."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
