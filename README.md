@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't spend major time on minor things."</i>
+<i>"Always seek out the seed of triumph in every adversity."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
