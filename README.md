@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Forget yesterday - it has already forgotten you. Don't sweat tomorrow - you haven't even met. Instead, open your eyes and your heart to a truly precious gift – today."</i>
+<i>"Do not regret the past. Look to the future."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Soyen Shaku</b>
 </blockquote>
 </p>
 
