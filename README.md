@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing like looking if you want to find something."</i>
+<i>"The most important things are the hardest to say."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
