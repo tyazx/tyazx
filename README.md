@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!"</i>
+<i>"A bird does not sing because it has an answer. It sings because it has a song."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
