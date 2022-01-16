@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A strong man overcomes an obstacle, a wise man goes the whole way."</i>
+<i>"Only the hand that erases can write the true thing."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
