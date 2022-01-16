@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything."</i>
+<i>"If you're really truthful with yourself, it's a wonderful guidance.  "</i>
 <br>
-<b>- Sydney Smith</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
