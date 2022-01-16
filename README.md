@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's your road, and yours alone, others may walk it with you, but no one can walk it for you."</i>
+<i>"When you're at the end of your rope, tie a knot and hold on."</i>
 <br>
-<b>- Rumi</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
