@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more one judges, the less one loves."</i>
+<i>"Growing up is losing some illusions, in order to acquire others."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
