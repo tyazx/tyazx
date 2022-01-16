@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment."</i>
+<i>"Thinking is difficult, that's why most people judge."</i>
 <br>
-<b>- Buddha</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
