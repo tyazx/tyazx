@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is the meaning and the purpose of life, the whole aim and end of human existence."</i>
+<i>"The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. "</i>
 <br>
-<b>- Aristotle</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
