@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always seek out the seed of triumph in every adversity."</i>
+<i>"Dreams are the royal road to the unconscious. "</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
