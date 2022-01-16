@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Correct what you can. Learn from what you can't."</i>
+<i>"There is nothing like looking if you want to find something."</i>
 <br>
-<b>- Toni Morrison</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
