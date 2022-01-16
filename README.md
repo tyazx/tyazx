@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thinking is difficult, that's why most people judge."</i>
+<i>"Courage is not having the strength to go on; it is going on when you don't have the strength."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
