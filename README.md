@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A very little key will open a very heavy door."</i>
+<i>"The more one judges, the less one loves."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
