@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Any fool can paint a picture, but it takes a wise man to be able to sell it."</i>
+<i>"It's your road, and yours alone, others may walk it with you, but no one can walk it for you."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
