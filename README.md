@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Poetry is written with tears, fiction with blood, and history with invisible ink."</i>
+<i>"A Quitter never wins – and – a Winner never quits."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
