@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything that is done in the world is done by hope."</i>
+<i>"Engage in those actions and thoughts that nurture the good qualities you want to have."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
