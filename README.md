@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be able to forget means sanity."</i>
+<i>"Everything that is done in the world is done by hope."</i>
 <br>
-<b>- Jack London</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
