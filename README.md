@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never put off to tomorrow what you can do to-day."</i>
+<i>"In the long run, the sharpest weapon of all is a kind and gentle spirit."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
