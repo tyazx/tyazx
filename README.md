@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure will never overtake me if my determination to succeed is strong enough."</i>
+<i>"I am not proud, but I am happy; and happiness blinds, I think, more than pride."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
