@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace is not absence of conflict, it is the ability to handle conflict by peaceful means."</i>
+<i>"You have as much laughter as you have faith."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
