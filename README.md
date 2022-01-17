@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're really truthful with yourself, it's a wonderful guidance.  "</i>
+<i>"If life were predictable it would cease to be life, and be without flavor."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
