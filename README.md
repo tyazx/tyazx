@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True friendship ought never to conceal what it thinks. "</i>
+<i>"When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there."</i>
 <br>
-<b>- St. Jerome</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
