@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is but one dream flowing into another."</i>
+<i>"Failure will never overtake me if my determination to succeed is strong enough."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
