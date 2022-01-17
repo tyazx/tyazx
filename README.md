@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The harder the conflict, the greater the triumph. "</i>
+<i>"Kind words can be short and easy to speak, but their echoes are truly endless."</i>
 <br>
-<b>- George Washington</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
