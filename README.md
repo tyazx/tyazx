@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Victory is always possible for the person who refuses to stop fighting."</i>
+<i>"To be able to forget means sanity."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
