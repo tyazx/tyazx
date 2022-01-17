@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe you can and you're halfway there."</i>
+<i>"Failure is an option, fear is not."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- James Cameron</b>
 </blockquote>
 </p>
 
