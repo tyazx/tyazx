@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let your learning lead to knowledge. Let your learning lead to action."</i>
+<i>"Poetry is written with tears, fiction with blood, and history with invisible ink."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
