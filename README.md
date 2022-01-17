@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A Quitter never wins – and – a Winner never quits."</i>
+<i>"Believe you can and you're halfway there."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
