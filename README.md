@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You gain strength, courage and confidence by every experience in which you really stop to look fear in the face."</i>
+<i>"We would accomplish many more things if we did not think of them as impossible."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
