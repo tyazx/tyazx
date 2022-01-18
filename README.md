@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your dreams, you never know when you might need them."</i>
+<i>"If you're waiting until you feel talented enough to make it, you'll never make it."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
