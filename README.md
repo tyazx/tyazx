@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can avoid reality, but you cannot avoid the consequences of avoiding reality."</i>
+<i>"If you don't know, the thing to do is not to get scared, but to learn."</i>
 <br>
 <b>- Ayn Rand</b>
 </blockquote>
