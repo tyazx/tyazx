@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The opportunity of defeating the enemy is provided by the enemy himself."</i>
+<i>"Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
