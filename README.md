@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't make things happen then things will happen to you."</i>
+<i>"When you realize you've made a mistake, take immediate steps to correct it."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
