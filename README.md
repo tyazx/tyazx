@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only man who never makes mistakes is the man who never does anything."</i>
+<i>"A Quitter never wins – and – a Winner never quits."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
