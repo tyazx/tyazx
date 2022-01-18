@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be the silent watcher of your thoughts and behavior. You are beneath the thinker."</i>
+<i>"If you set your goals ridiculously high and its a failure, you will fail above everyone elses success."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- James Cameron</b>
 </blockquote>
 </p>
 
