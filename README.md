@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A Quitter never wins – and – a Winner never quits."</i>
+<i>"Winning isn't everything, but wanting to win is."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
