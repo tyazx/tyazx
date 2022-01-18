@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A fear of weakness only strengthens weakness."</i>
+<i>"When you judge others, you do not define them, you define yourself."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
