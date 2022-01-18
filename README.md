@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To live is to be willing to die over and over again."</i>
+<i>"A fear of weakness only strengthens weakness."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
