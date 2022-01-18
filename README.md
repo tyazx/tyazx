@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ask no questions, and you'll be told no lies."</i>
+<i>"To earn more you must learn more."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
