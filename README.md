@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for."</i>
+<i>"The opportunity of defeating the enemy is provided by the enemy himself."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
