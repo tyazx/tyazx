@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People spend too much time doing and not enough time thinking about what they should be doing."</i>
+<i>"One beam, no matter how big, cannot support an entire house on its own."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
