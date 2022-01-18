@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always keep your eyes open. Keep watching. Because whatever you see can inspire you."</i>
+<i>"Ripe fruit falls by itself - but it doesn't fall in your mouth. "</i>
 <br>
-<b>- Grace Coddington</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
