@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To earn more you must learn more."</i>
+<i>"Nothing good ever comes of violence."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
