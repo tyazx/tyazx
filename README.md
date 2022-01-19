@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your very silence shows you agree."</i>
+<i>"He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has."</i>
 <br>
-<b>- Euripides</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
