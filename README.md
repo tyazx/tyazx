@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is found in unlikely places."</i>
+<i>"Growing up is losing some illusions, in order to acquire others."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
