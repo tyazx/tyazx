@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the oldest human needs is having someone to wonder where you are when you don't come home at night. "</i>
+<i>"It's better to dance than to march through life."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
