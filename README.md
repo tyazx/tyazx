@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even a hare will bite when it is cornered. "</i>
+<i>"The question is not what you look at, but what you see."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
