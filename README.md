@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make yourself so useful to other people, that they think you are irreplaceable."</i>
+<i>"Be yourself; everyone else is already taken "</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
