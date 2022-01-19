@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People who say it cannot be done should not interrupt those who are doing it."</i>
+<i>"We can change our lives. We can do, have, and be exactly what we wish."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
