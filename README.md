@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust, but verify."</i>
+<i>"New beginnings are disguised as painful endings."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
