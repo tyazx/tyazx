@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for."</i>
+<i>"You must be willing to do what others won't do, to have what others won't have."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
