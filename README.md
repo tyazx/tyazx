@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intelligence is the ability to adapt to change."</i>
+<i>"Failure is feedback. Learn from it and move on."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
