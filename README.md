@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today."</i>
+<i>"Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
