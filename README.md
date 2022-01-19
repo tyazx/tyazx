@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your only obligation in any lifetime is to be true to yourself."</i>
+<i>"Turn your face to the sun, as flowers know how to do."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
