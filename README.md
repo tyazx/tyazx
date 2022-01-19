@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the time is gone, you can never get it back."</i>
+<i>"As a matter of fact is an expression that precedes many an expression that isn't."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
