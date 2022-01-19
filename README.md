@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is feedback. Learn from it and move on."</i>
+<i>"Courage is found in unlikely places."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
