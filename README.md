@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each problem has a positive side."</i>
+<i>"Your very silence shows you agree."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
