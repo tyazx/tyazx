@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without struggle, no progress and no result. Every breaking of habit produces a change in the machine."</i>
+<i>"The moment you stop to think about whether you love someone, you've already stopped loving that person forever."</i>
 <br>
-<b>- G.I. Gurdjieff</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
