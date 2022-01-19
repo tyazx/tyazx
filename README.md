@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be yourself; everyone else is already taken "</i>
+<i>"Care about what other people think and you will always be their prisoner."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
