@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We cannot expect to be happy always... by experiencing evil as well as good we become wise."</i>
+<i>"The biggest challenge after success is shutting up about it."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
