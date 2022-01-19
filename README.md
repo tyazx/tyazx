@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thought is so cunning, so clever, that it distorts everything for its own convenience."</i>
+<i>"When the time is gone, you can never get it back."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
