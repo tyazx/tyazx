@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're afraid - don't do it, - if you're doing it - don't be afraid! "</i>
+<i>"Without struggle, no progress and no result. Every breaking of habit produces a change in the machine."</i>
 <br>
-<b>- Genghis Khan</b>
+<b>- G.I. Gurdjieff</b>
 </blockquote>
 </p>
 
