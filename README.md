@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is going from failure to failure without losing your enthusiasm"</i>
+<i>"Experience is a comb which nature gives us when we are bald. "</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
