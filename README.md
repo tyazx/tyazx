@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always focus on the front windshield and not the rear view mirror."</i>
+<i>"The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
