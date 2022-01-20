@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All cruelty springs from weakness.  "</i>
+<i>"Absurdity is the ecstasy of intellectualism."</i>
 <br>
-<b>- Seneca</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
