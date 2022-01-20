@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I think self-awareness is probably the most important thing towards being a champion. "</i>
+<i>"What lies behind us and what lies before us are tiny matters compared to what lies within us."</i>
 <br>
-<b>- Billie Jean King</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
