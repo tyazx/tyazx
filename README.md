@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your worth consists in what you are and not in what you have."</i>
+<i>"Success on the outside means nothing unless you also have success within."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
