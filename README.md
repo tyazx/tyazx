@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions."</i>
+<i>"All cruelty springs from weakness.  "</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
