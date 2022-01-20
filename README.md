@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are able to employ your will always for constructive purposes, you become the controller of your destiny."</i>
+<i>"The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
