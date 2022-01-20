@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way we feel is the direct result of what we think."</i>
+<i>"Concentrated power has always been the enemy of liberty."</i>
 <br>
-<b>- Peter A. Cohen</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
