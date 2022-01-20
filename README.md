@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust in dreams, for in them is the hidden gate to eternity.  "</i>
+<i>"Work harder on yourself than you do on your job."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
