@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results."</i>
+<i>"You can start changing our world for the better daily, no matter how small the action."</i>
 <br>
-<b>- James Allen</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
