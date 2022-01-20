@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust is built and maintained by many small actions over time."</i>
+<i>"Create with the heart; build with the mind."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
