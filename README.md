@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I was angered, for I had no shoes. Then I met a man who had no feet. "</i>
+<i>"The world makes way for the man who knows where he is going."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
