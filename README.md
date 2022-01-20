@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Expect the best, plan for the worst, and prepare to be surprised. "</i>
+<i>"I was angered, for I had no shoes. Then I met a man who had no feet. "</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
