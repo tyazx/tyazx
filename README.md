@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through."</i>
+<i>"Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
