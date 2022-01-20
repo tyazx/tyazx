@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You will have bad times, but they will always wake you up to the stuff you weren't paying attention to."</i>
+<i>"The goal is not to show how great you are to others, but how vulnerable you are to yourself."</i>
 <br>
-<b>- Robin Williams</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
