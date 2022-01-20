@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest."</i>
+<i>"Expect the best, plan for the worst, and prepare to be surprised. "</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
