@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing has more strength than dire necessity."</i>
+<i>"No duty is more urgent than that of returning thanks."</i>
 <br>
-<b>- Euripides</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
