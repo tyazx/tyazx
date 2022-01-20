@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Today I begin a new life. I will greet this day with love in my heart."</i>
+<i>"The quality of your commitments will determine the course of your life."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
