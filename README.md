@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success on the outside means nothing unless you also have success within."</i>
+<i>"The two most powerful warriors are patience and time."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
