@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is what you have before you understand the problem."</i>
+<i>"Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
