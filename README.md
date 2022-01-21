@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The worst part of success is trying to find someone who is happy for you."</i>
+<i>"In the middle of chaos lies opportunity.  "</i>
 <br>
-<b>- Bette Midler</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
