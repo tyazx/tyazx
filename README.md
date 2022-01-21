@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you."</i>
+<i>"Live life as though nobody is watching, and express yourself as though everyone is listening."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
