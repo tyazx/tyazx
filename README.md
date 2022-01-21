@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars."</i>
+<i>"Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
