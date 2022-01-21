@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life."</i>
+<i>"Friendship takes time and energy if it's going to work."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
