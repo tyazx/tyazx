@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't get in life what you want; you get in life what you are."</i>
+<i>"The quality of your life is determined by the quality of questions you ask."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
