@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is one long process of getting tired."</i>
+<i>"Trust, like the soul, never returns once it is gone."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
