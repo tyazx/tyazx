@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who dream by day are cognizant of many things which escape those who dream only by night."</i>
+<i>"Others can stop you temporarily – you are the only one who can do it permanently."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
