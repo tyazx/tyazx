@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quiet people have the loudest minds."</i>
+<i>"Each day provides it's own gifts."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
