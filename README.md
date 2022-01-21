@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The purpose of life is the life of purpose."</i>
+<i>"Boldness makes even the smallest animal dangerous."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
