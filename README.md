@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one has ever become poor by giving."</i>
+<i>"Where does a thought go when it's forgotten?"</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
