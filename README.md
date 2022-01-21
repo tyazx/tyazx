@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Conscience is a man's compass. "</i>
+<i>"Sadness is but a wall between two gardens."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
