@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The difference between impossible and possible is a willing heart."</i>
+<i>"A person hears only what they understand."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
