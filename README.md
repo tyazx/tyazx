@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A person hears only what they understand."</i>
+<i>"It isn't that they can't see the solution. It is that they can't see the problem."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
