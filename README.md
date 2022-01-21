@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quality of your life is determined by the quality of questions you ask."</i>
+<i>"Love is the expression of one's values."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
