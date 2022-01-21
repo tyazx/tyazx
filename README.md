@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like a beautiful melody, only the lyrics are messed up."</i>
+<i>"Confidence is what you have before you understand the problem."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
