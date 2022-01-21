@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship takes time and energy if it's going to work."</i>
+<i>"A fool sees himself as another, but a wise man sees others as himself."</i>
 <br>
-<b>- Betty White</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
