@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creative people are often found either disagreeable or intimidating by mediocrities."</i>
+<i>"Life is like a beautiful melody, only the lyrics are messed up."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
