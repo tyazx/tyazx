@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust, like the soul, never returns once it is gone."</i>
+<i>"Opportunities don't often come along. So, when they do, you have to grab them."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
