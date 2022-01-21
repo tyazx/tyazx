@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Boldness makes even the smallest animal dangerous."</i>
+<i>"The difference between impossible and possible is a willing heart."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
