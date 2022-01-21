@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A fool sees himself as another, but a wise man sees others as himself."</i>
+<i>"Every defeat, every heartbreak every loss, contains its own seed, its own lesson on how to improve your performance the next time."</i>
 <br>
-<b>- Dogen</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
