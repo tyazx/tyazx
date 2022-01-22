@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reversing your treatment of the man you have wronged is better than asking his forgiveness."</i>
+<i>"Life is not meant to be easy my child, but take courage: it can be delightful."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
