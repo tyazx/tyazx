@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have never in my life learned anything from any man who agreed with me."</i>
+<i>"Every hour of every day is an unspeakably perfect miracle."</i>
 <br>
-<b>- Dudley Field Malone</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
