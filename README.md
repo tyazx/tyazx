@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The businessman's tool is value."</i>
+<i>"A person hears only what they understand."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
