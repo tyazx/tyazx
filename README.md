@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every hour of every day is an unspeakably perfect miracle."</i>
+<i>"Attitude, not aptitude, determines altitude.  "</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
