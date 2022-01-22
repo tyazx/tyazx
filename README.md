@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you."</i>
+<i>"He who laughs at himself never runs out of things to laugh at."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
