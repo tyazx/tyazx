@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best thing to hold onto in life is each other."</i>
+<i>"Enlightenment is intimacy with all things."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
