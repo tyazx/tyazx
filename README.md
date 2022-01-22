@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What loneliness is more lonely than distrust?"</i>
+<i>"Dream big and dare to fail."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Norman Vaughan</b>
 </blockquote>
 </p>
 
