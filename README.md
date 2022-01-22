@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Who you are is always right."</i>
+<i>"Those who know, do. Those that understand, teach."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
