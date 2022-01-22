@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence breeds beauty.  "</i>
+<i>"If you need inspiration, don't do it."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
