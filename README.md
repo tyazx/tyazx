@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Allow motion to equal emotion."</i>
+<i>"The way to get started is to quit talking and begin doing."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
