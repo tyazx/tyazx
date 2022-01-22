@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust is built and maintained by many small actions over time."</i>
+<i>"If you don't make things happen then things will happen to you."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
