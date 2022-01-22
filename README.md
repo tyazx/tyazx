@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truly rich men are the ones who have health, loved ones and a work they love."</i>
+<i>"All you need is the plan, the road map, and the courage to press on to your destination."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
