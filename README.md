@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let anyone define you. You define yourself."</i>
+<i>"If they wrote it to make money, don't read it."</i>
 <br>
-<b>- Billie Jean King</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
