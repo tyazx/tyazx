@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Conscience is a man's compass. "</i>
+<i>"Whatever is begun in anger, ends in shame."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
