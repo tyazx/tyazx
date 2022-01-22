@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who wants to achieve a dream must stay strong, focused and steady."</i>
+<i>"There is no limitations except those we create for ourselves."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
