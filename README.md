@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we did all the things we are capable of, we would literally astound ourselves."</i>
+<i>"What loneliness is more lonely than distrust?"</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
