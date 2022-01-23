@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The farther backward you can look, the farther forward you are likely to see."</i>
+<i>"Unhappiness enters through a door that has been left open."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
