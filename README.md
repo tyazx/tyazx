@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to make God laugh, tell him about your plans. "</i>
+<i>"Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
