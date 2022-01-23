@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Forget yesterday - it has already forgotten you. Don't sweat tomorrow - you haven't even met. Instead, open your eyes and your heart to a truly precious gift – today."</i>
+<i>"Supreme excellence consists of breaking the enemy's resistance without fighting."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
