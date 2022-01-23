@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adventure is not outside man; it is within."</i>
+<i>"For all evils there are two remedies - time and silence."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
