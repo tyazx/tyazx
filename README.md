@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For all evils there are two remedies - time and silence."</i>
+<i>"Forget yesterday - it has already forgotten you. Don't sweat tomorrow - you haven't even met. Instead, open your eyes and your heart to a truly precious gift – today."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
