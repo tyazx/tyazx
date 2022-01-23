@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to light a single candle than to curse the darkness."</i>
+<i>"Nothing is particularly hard if you divide it into small jobs. "</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
