@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is particularly hard if you divide it into small jobs. "</i>
+<i>"Speak when you are angry - and you'll make the best speech you'll ever regret."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
