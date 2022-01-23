@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for."</i>
+<i>"The farther backward you can look, the farther forward you are likely to see."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
