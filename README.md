@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time stays long enough for anyone who will use it."</i>
+<i>"No duty is more urgent than that of returning thanks."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
