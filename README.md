@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fashion fades, only style remains the same."</i>
+<i>"I would rather be a little nobody, then to be an evil somebody."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
