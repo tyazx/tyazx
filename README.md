@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are content to be simply yourself and don't compare or compete, everybody will respect you. "</i>
+<i>"If we will be quiet and ready enough, we shall find compensation in every disappointment."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
