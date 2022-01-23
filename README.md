@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wise speak only of what they know."</i>
+<i>"When the time is gone, you can never get it back."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
