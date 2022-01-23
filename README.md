@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing important is learned; it is simply remembered."</i>
+<i>"First learn the meaning of what you say, and then speak."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
