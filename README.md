@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each path to knowledge involves different rules and these rules are not interchangeable."</i>
+<i>"The way to change others' minds is with affection, and not anger."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
