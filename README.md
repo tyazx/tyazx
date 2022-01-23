@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives."</i>
+<i>"I defeat my enemies when I make them my friends."</i>
 <br>
-<b>- Betty White</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
