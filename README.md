@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?"</i>
+<i>"Mistakes are always forgivable, if one has the courage to admit them. "</i>
 <br>
-<b>- Seneca</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
