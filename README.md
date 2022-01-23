@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever is begun in anger, ends in shame."</i>
+<i>"Reversing your treatment of the man you have wronged is better than asking his forgiveness."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
