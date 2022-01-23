@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your work is to discover your work and then, with all your heart, to give yourself to it."</i>
+<i>"Courage is resistance to fear, mastery of fear - not absence of fear."</i>
 <br>
-<b>- Buddha</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
