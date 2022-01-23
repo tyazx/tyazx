@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man."</i>
+<i>"Time stays long enough for anyone who will use it."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
