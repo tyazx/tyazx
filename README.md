@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's wise to tell the truth. It's even wiser to tell it kindly."</i>
+<i>"One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
