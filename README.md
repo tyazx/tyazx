@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have to live life with a sense of urgency so not a minute is wasted."</i>
+<i>"The shoe that fits one person pinches another; there is no recipe for living that suits all cases."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
