@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Insanity is relative. It depends on who has who locked in what cage.  "</i>
+<i>"Adventure is not outside man; it is within."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
