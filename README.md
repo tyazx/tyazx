@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unhappiness enters through a door that has been left open."</i>
+<i>"The less people know, the more stubbornly they know it."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
