@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Supreme excellence consists of breaking the enemy's resistance without fighting."</i>
+<i>"If the happiness and prosperity of other people depend on you, you have nothing to fear anymore."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
