@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"First learn the meaning of what you say, and then speak."</i>
+<i>"Honor is the foundation of courage."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
