@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I defeat my enemies when I make them my friends."</i>
+<i>"All power is from within and therefore under our control."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
