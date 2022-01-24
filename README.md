@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you believe with feeling becomes your reality. "</i>
+<i>"Supreme excellence consists of breaking the enemy's resistance without fighting."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
