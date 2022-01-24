@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all self-made, but only the successful will admit it."</i>
+<i>"Know your gifts and share them."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
