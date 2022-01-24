@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only normal people are the ones you don't know very well."</i>
+<i>"Never allow a person to tell you no who doesn't have the power to say yes."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
