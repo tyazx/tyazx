@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To some degree, you control your life by controlling your time."</i>
+<i>"Do not fear failure but rather fear not trying."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
