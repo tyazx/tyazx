@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's your outlook on life that counts."</i>
+<i>"The key to immortality is first living a life worth remembering. "</i>
 <br>
-<b>- Betty White</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
