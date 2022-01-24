@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many roads lead to the path, but basically there are only two: reason and practice. "</i>
+<i>"Instead of worrying about what you cannot control, shift your energy to what you can create."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
