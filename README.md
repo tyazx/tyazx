@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All you need is the plan, the road map, and the courage to press on to your destination."</i>
+<i>"The best thing to hold onto in life is each other."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
