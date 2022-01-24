@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best thing to hold onto in life is each other."</i>
+<i>"Better to have, and not need, than to need, and not have."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
