@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Very little is needed to make a happy life; it is all within yourself, in your way of thinking."</i>
+<i>"A leader leads by example, not by force."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
