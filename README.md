@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is never final; failure is never fatal."</i>
+<i>"Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
