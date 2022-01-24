@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Although the world is full of suffering, it is also full of the overcoming of it."</i>
+<i>"Don't set your own goals by what other people make important."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
