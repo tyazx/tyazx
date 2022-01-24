@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not fear failure but rather fear not trying."</i>
+<i>"We are all self-made, but only the successful will admit it."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
