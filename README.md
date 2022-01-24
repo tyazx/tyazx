@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Supreme excellence consists of breaking the enemy's resistance without fighting."</i>
+<i>"The heart that gives, gathers."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
