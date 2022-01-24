@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The key to immortality is first living a life worth remembering. "</i>
+<i>"The hard path is often the right one. The river teaches more than the shore."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
