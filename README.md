@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence breeds beauty.  "</i>
+<i>"Victory is always possible for the person who refuses to stop fighting."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
