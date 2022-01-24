@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Victory is always possible for the person who refuses to stop fighting."</i>
+<i>"Dreams are the royal road to the unconscious. "</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
