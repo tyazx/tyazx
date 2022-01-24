@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't set your own goals by what other people make important."</i>
+<i>"Tomorrow is only found in the calendar of fools."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
