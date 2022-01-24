@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment."</i>
+<i>"Till it has loved, no man or woman can become itself."</i>
 <br>
-<b>- Buddha</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
