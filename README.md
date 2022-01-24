@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The past has no power over the present moment. "</i>
+<i>"When one does not have what one wants, one must want what one has."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
