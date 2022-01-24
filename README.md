@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no value in anything until it is finished. "</i>
+<i>"The best way to predict your future is to create it."</i>
 <br>
-<b>- Genghis Khan</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
