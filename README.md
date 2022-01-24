@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can put lipstick on a pig. It's still a pig."</i>
+<i>"When you rise in the morning, form a resolution to make the day a happy one for a fellow creature."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Sydney Smith</b>
 </blockquote>
 </p>
 
