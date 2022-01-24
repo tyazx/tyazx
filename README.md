@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never allow a person to tell you no who doesn't have the power to say yes."</i>
+<i>"I am not proud, but I am happy; and happiness blinds, I think, more than pride."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
