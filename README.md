@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The heart that gives, gathers."</i>
+<i>"I have lost friends, some by death...others by sheer inability to cross the street."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
