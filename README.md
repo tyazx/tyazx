@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have lost friends, some by death...others by sheer inability to cross the street."</i>
+<i>"There is no value in anything until it is finished. "</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Genghis Khan</b>
 </blockquote>
 </p>
 
