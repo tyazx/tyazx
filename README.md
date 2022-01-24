@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Till it has loved, no man or woman can become itself."</i>
+<i>"Believe you can and you're halfway there."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
