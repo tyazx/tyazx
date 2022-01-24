@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone sees what you appear to be, few experience what you really are."</i>
+<i>"You can put lipstick on a pig. It's still a pig."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
