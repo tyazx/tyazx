@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams are the royal road to the unconscious. "</i>
+<i>"Every man desires to live long, but no man wishes to be old."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
