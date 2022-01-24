@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything."</i>
+<i>"Words are the clothes thoughts wear."</i>
 <br>
-<b>- Sydney Smith</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
