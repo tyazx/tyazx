@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A leader leads by example, not by force."</i>
+<i>"A man with outward courage dares to die: a man with inner courage dares to live."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
