@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough. "</i>
+<i>"It is truth that liberates, not your effort to be free."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
