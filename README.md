@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it."</i>
+<i>"Love is the expression of one's values."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
