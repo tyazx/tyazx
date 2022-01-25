@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enjoy life. There's plenty of time to be dead."</i>
+<i>"Art is to console those who are broken by life."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
