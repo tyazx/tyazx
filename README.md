@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One must be poor to know the luxury of giving."</i>
+<i>"The highest form of ignorance is when you reject something you don't know anything about. "</i>
 <br>
-<b>- George Eliot</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
