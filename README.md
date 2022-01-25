@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It isn't what you do, but how you do it."</i>
+<i>"Out of your vulnerabilities will come your strength."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
