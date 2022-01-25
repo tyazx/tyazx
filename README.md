@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most virtuous are those who content themselves with being virtuous without seeking to appear so."</i>
+<i>"A man sees in the world what he carries in his heart."</i>
 <br>
-<b>- Plato</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
