@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is about creating value."</i>
+<i>"It is better to learn late than never."</i>
 <br>
-<b>- Candice Carpenter</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
