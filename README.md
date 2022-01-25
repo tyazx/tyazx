@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wealth is the product of man's capacity to think."</i>
+<i>"The measure of who we are is what we do with what we have."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
