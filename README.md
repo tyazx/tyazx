@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who possesses most must be most afraid of loss."</i>
+<i>"Fear, uncertainty, and discomfort are your compasses toward growth."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
