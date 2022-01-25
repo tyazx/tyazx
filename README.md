@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you."</i>
+<i>"It is the power of thought that gives man power over nature."</i>
 <br>
-<b>- Sonia Ricotti</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
