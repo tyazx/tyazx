@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Insanity: doing the same thing over and over again and expecting different results."</i>
+<i>"The future belongs to those who believe in the beauty of their dreams."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
