@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge is a treasure, but practice is the key to it."</i>
+<i>"Enjoy life. There's plenty of time to be dead."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
