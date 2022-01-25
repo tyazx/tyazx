@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must not sit down and wait for miracles. Up and be going!"</i>
+<i>"Passion is energy. Feel the power that comes from focusing on what excites you. "</i>
 <br>
-<b>- John Eliot</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
