@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who can make you believe absurdities can make you commit atrocities. "</i>
+<i>"Knowledge is a treasure, but practice is the key to it."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
