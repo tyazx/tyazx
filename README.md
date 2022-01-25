@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference."</i>
+<i>"When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Sonia Ricotti</b>
 </blockquote>
 </p>
 
