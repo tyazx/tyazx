@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Normal is the average of deviance."</i>
+<i>"What the mind can conceive, it can achieve."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
