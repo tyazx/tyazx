@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Art is to console those who are broken by life."</i>
+<i>"Success is about creating value."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Candice Carpenter</b>
 </blockquote>
 </p>
 
