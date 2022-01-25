@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It isn't what you do, but how you do it."</i>
+<i>"Obstacles don't block the path, they are the path."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
