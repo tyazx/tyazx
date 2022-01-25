@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Out of your vulnerabilities will come your strength."</i>
+<i>"The secret of getting ahead is getting started."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
