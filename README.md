@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intelligent men are cruel. Stupid men are monstrously cruel."</i>
+<i>"Normal is the average of deviance."</i>
 <br>
-<b>- Jack London</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
