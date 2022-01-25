@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Passion is energy. Feel the power that comes from focusing on what excites you. "</i>
+<i>"The worst part of success is trying to find someone who is happy for you."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Bette Midler</b>
 </blockquote>
 </p>
 
