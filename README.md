@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stop acting so small. You are the universe in ecstatic motion."</i>
+<i>"Not why the addiction but why the pain."</i>
 <br>
-<b>- Rumi</b>
+<b>- Gabor Mate</b>
 </blockquote>
 </p>
 
