@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Continuous effort - not strength or intelligence - is the key to unlocking our potential."</i>
+<i>"We must embrace pain and burn it as fuel for our journey."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Kenji Miyazawa</b>
 </blockquote>
 </p>
 
