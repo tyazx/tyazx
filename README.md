@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're really truthful with yourself, it's a wonderful guidance.  "</i>
+<i>"The question is not what you look at, but what you see."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
