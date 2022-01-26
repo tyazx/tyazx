@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One must be poor to know the luxury of giving."</i>
+<i>"It isn't what you do, but how you do it."</i>
 <br>
-<b>- George Eliot</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
