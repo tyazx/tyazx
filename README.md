@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you are motivated by Love, The more Fearless & Free your action will be."</i>
+<i>"A person is only by the thoughts that he chooses."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
