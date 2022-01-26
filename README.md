@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never whine, never complain, never try to justify yourself."</i>
+<i>"Peace begins with a smile."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
