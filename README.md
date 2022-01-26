@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Would you rather learn to deal with the truth now than be forced to do so later on?"</i>
+<i>"Your mind will make you rich or poor, depending on the use you put to it."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
