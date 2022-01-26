@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our greatest fears lie in anticipation."</i>
+<i>"Knowing others is wisdom, knowing yourself is enlightenment."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
