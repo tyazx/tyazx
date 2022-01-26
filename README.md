@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It isn't what you do, but how you do it."</i>
+<i>"If you are lucky enough to find love, remember it is there and don't throw it away."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
