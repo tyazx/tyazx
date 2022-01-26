@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fools talk, cowards are silent, wise men listen."</i>
+<i>"A Rolling Stone Gathers No Moss."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
