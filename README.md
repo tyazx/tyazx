@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality."</i>
+<i>"Faults are yours to fix, not to curse."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
