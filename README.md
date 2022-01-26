@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better a diamond with a flaw than a pebble without one."</i>
+<i>"True wealth is of the heart, not of the purse."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
