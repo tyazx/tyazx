@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your friends close, and your enemies closer."</i>
+<i>"Tradition is the illusion of permanence. "</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
