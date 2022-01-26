@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest."</i>
+<i>"Would you rather learn to deal with the truth now than be forced to do so later on?"</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
