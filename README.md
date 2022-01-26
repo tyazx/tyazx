@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is feedback. Learn from it and move on."</i>
+<i>"Those who cannot change their minds cannot change anything."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
