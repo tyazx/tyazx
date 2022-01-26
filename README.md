@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The harder you work, the harder it is to surrender."</i>
+<i>"Life is a process. We are a process. The universe is a process."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Anne Wilson Schaef</b>
 </blockquote>
 </p>
 
