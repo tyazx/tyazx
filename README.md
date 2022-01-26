@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A person is only by the thoughts that he chooses."</i>
+<i>"Confidence comes not from always being right but not fearing to be wrong."</i>
 <br>
-<b>- James Allen</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
