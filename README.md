@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must cultivate our garden. "</i>
+<i>"Watch what you say, and whaterver you say, practice it."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Soyen Shaku</b>
 </blockquote>
 </p>
 
