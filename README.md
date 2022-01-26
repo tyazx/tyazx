@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches."</i>
+<i>"As soon as you trust yourself, you will know how to live."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
