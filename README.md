@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no shortcuts to any place worth going. "</i>
+<i>"The harder you work, the harder it is to surrender."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
