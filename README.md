@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your mind will make you rich or poor, depending on the use you put to it."</i>
+<i>"Don't let anyone define you. You define yourself."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Billie Jean King</b>
 </blockquote>
 </p>
 
