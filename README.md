@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man."</i>
+<i>"Better a diamond with a flaw than a pebble without one."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
