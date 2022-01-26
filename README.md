@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All problems are interpersonal relationship problems."</i>
+<i>"Failure is feedback. Learn from it and move on."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
