@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The question is not what you look at, but what you see."</i>
+<i>"Never whine, never complain, never try to justify yourself."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
