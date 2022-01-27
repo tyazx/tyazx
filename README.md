@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man is guilty of all the good he did not do. "</i>
+<i>"Men go to far greater lengths to avoid what they fear than to obtain what they desire."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
