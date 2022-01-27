@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My mind seems to have become a kind of machine for grinding general laws out of large collections of facts."</i>
+<i>"A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
