@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stop comparing yourself to others and focus on your own improvement."</i>
+<i>"Every drop in the ocean counts. "</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
