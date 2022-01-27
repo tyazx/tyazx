@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do something to move yourself toward your major goal every day."</i>
+<i>"The businessman's tool is value."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
