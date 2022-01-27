@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"They say love is the best investment; the more you give, the more you get in return."</i>
+<i>"Be yourself; everyone else is already taken "</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
