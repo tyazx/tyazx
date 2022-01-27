@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Today will never happen again. Don't waste it with a false start or no start at all."</i>
+<i>"Just do what must be done. This may not be happiness but it is greatness."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
