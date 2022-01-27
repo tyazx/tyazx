@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who violates another's honor loses his own."</i>
+<i>"Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
