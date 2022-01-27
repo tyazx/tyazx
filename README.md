@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be yourself; everyone else is already taken "</i>
+<i>"It's easier to lose than to win.  "</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
