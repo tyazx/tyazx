@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is the sum of small efforts, repeated day in and day out."</i>
+<i>"Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
