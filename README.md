@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition."</i>
+<i>"No experience is a cause of success or failure. We do not suffer from the shock of our experiences, so-called trauma – but we make out of them just what suits our purposes."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
