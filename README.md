@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Death and life have their determined appointments; riches and honors depend upon heaven. "</i>
+<i>"Do something to move yourself toward your major goal every day."</i>
 <br>
-<b>- Confucius</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
