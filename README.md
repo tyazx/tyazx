@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Have a heart that never hardens, and a temper that never tires, and a touch that never hurts."</i>
+<i>"Some people don't like change, but you need to embrace change if the alternative is disaster."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
