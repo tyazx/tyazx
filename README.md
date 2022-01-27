@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pursue what catches your heart, not what catches your eyes."</i>
+<i>"Always focus on the front windshield and not the rear view mirror."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
