@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just do what must be done. This may not be happiness but it is greatness."</i>
+<i>"Each path to knowledge involves different rules and these rules are not interchangeable."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
