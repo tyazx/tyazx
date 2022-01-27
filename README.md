@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more I want to get something done, the less I call it work."</i>
+<i>"Today will never happen again. Don't waste it with a false start or no start at all."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
