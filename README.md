@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's easier to lose than to win.  "</i>
+<i>"Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
