@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd."</i>
+<i>"In order to be irreplaceable one must always be different."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
