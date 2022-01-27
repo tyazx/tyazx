@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to find yourself is to lose yourself in the service of others."</i>
+<i>"Victims recite problems, leaders provide solutions."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
