@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world is open for play, everything and everybody is mockable in a wonderful way."</i>
+<i>"What you get by achieving your goals is not as important as what you become by achieving your goals."</i>
 <br>
-<b>- Robin Williams</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
