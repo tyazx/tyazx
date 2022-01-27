@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't set your own goals by what other people make important."</i>
+<i>"Don't spend time beating on a wall, hoping to transform it into a door."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
