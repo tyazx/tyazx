@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A lot of people have gone further than they thought they could because someone else thought they could."</i>
+<i>"Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.  "</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
