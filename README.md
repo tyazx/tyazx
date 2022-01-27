@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes it is harder to deprive oneself of a pain than of a pleasure."</i>
+<i>"He that can have patience can have what he will."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
