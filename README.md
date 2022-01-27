@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people don't like change, but you need to embrace change if the alternative is disaster."</i>
+<i>"Don't set your own goals by what other people make important."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
