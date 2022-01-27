@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't talk about what you have done or what you are going to do."</i>
+<i>"He who wishes to be obeyed must know how to command."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Niccolo Machiavelli</b>
 </blockquote>
 </p>
 
