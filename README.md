@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Greatness comes from living with purpose and passion."</i>
+<i>"Pursue what catches your heart, not what catches your eyes."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
