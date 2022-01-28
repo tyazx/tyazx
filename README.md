@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The goal is not to show how great you are to others, but how vulnerable you are to yourself."</i>
+<i>"In the midst of chaos, there is also opportunity."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
