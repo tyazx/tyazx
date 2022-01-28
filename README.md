@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quality, not the longevity, of one's life is what is important."</i>
+<i>"Until you make the unconscious conscious, it will direct your life and you will call it fate."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
