@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to not feel hopeless is to get up and do something."</i>
+<i>"However difficult life may seem, there is always something you can do and succeed at."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
