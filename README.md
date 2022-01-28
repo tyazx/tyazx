@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice."</i>
+<i>"Self-control is strength."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
