@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing that results in human progress is achieved with unanimous consent."</i>
+<i>"Progress lies not in enhancing what is, but in advancing toward what will be."</i>
 <br>
-<b>- Christopher Columbus</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
