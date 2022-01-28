@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Self-control is strength."</i>
+<i>"The quality, not the longevity, of one's life is what is important."</i>
 <br>
-<b>- James Allen</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
