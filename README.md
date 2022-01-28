@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You will not do incredible things without an incredible dream."</i>
+<i>"An intelligence test sometimes shows a man how smart he would have been not to have taken it."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
