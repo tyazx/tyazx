@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Blessed is he who expects nothing, for he shall never be disappointed."</i>
+<i>"A journey of a thousand miles begins with a single step."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
