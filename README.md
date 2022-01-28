@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't explain your philosophy. Embody it."</i>
+<i>"Hope is not a strategy. Luck is not a factor. Fear is not an option."</i>
 <br>
-<b>- Epictetus</b>
+<b>- James Cameron</b>
 </blockquote>
 </p>
 
