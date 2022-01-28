@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When we allow negative messages to fester in our head, they take on a life of their own."</i>
+<i>"You will not do incredible things without an incredible dream."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
