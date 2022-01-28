@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Until you make the unconscious conscious, it will direct your life and you will call it fate."</i>
+<i>"Life can be wonderful if you're not afraid of it."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
