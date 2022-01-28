@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man is affected not by events but by the view he takes of them.  "</i>
+<i>"The best way to not feel hopeless is to get up and do something."</i>
 <br>
-<b>- Seneca</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
