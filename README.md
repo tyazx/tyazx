@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing."</i>
+<i>"Trust is built and maintained by many small actions over time."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
