@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality."</i>
+<i>"Trust, like the soul, never returns once it is gone."</i>
 <br>
-<b>- James Cameron</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
