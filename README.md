@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To live is the rarest thing in the world. Most people exist, that is all. "</i>
+<i>"A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
