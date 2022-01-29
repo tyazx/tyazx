@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only real security that a man can have in this world is a reserve of knowledge, experience and ability. "</i>
+<i>"No experience is a cause of success or failure. We do not suffer from the shock of our experiences, so-called trauma – but we make out of them just what suits our purposes."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
