@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A clear conscience never fears midnight knocking."</i>
+<i>"To live is the rarest thing in the world. Most people exist, that is all. "</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
