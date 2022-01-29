@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let the beauty of what you love be what you do."</i>
+<i>"Be where your enemy is not."</i>
 <br>
-<b>- Rumi</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
