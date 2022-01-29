@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If your mind is empty, it is always ready for anything, it is open to everything."</i>
+<i>"Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
