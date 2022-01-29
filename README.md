@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let anyone define you. You define yourself."</i>
+<i>"We must learn to live together as brothers or perish together as fools."</i>
 <br>
-<b>- Billie Jean King</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
