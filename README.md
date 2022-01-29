@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no fear for one whose mind is not filled with desires."</i>
+<i>"Let the beauty of what you love be what you do."</i>
 <br>
-<b>- Buddha</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
