@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can never cross the ocean unless you have the courage to lose sight of the shore."</i>
+<i>"Peaceful is the one who expects nothing."</i>
 <br>
-<b>- Christopher Columbus</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
