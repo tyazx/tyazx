@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty."</i>
+<i>"Would you rather live your life according to the approval of others or aligned with your truth and your dreams?"</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
