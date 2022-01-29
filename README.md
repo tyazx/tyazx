@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die."</i>
+<i>"Some of us learn from other people's mistakes and the rest of us have to be other people.  "</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
