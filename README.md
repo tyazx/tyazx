@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less you try to impress, the more peaceful you can be."</i>
+<i>"Nothing is really work unless you would rather be doing something else. "</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
