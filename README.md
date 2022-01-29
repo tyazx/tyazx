@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am thankful to all those who said no. It's because of them, I did it myself.  "</i>
+<i>"Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
