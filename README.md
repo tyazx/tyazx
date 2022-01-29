@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Would you rather live your life according to the approval of others or aligned with your truth and your dreams?"</i>
+<i>"Everything has beauty but not everyone sees it."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
