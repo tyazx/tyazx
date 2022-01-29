@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Expect the best, plan for the worst, and prepare to be surprised. "</i>
+<i>"A clear conscience never fears midnight knocking."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
