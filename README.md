@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The question isn't who is going to let me; it's who is going to stop me."</i>
+<i>"Expect the best, plan for the worst, and prepare to be surprised. "</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
