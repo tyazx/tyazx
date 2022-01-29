@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is really simple, but men insist on making it complicated. "</i>
+<i>"There is no fear for one whose mind is not filled with desires."</i>
 <br>
-<b>- Confucius</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
