@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Becoming a great leader doesn't mean being perfect. it means living with your imperfections."</i>
+<i>"Life is a long lesson in humility. "</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
