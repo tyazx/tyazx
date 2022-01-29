@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The merit of all things lies in their difficulty."</i>
+<i>"The less you try to impress, the more peaceful you can be."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
