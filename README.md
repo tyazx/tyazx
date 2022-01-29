@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tradition is the illusion of permanence. "</i>
+<i>"The merit of all things lies in their difficulty."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
