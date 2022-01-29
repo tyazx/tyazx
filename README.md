@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must learn to live together as brothers or perish together as fools."</i>
+<i>"The only real security that a man can have in this world is a reserve of knowledge, experience and ability. "</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
