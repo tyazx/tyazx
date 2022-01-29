@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Correct what you can. Learn from what you can't."</i>
+<i>"Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die."</i>
 <br>
-<b>- Toni Morrison</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
