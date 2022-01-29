@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust in dreams, for in them is the hidden gate to eternity.  "</i>
+<i>"Life is a constant series of opportunities."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
