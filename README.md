@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The temptation to give up is strongest just before victory."</i>
+<i>"One loyal friend is worth ten thousand relatives."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
