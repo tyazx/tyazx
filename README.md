@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am thankful to all those who said no. It's because of them, I did it myself.  "</i>
+<i>"The goal of an artist is to create the definitive work that cannot be surpassed."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
