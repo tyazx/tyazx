@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who permits himself to tell a lie once, finds it much easier to do it the second time."</i>
+<i>"You can have the mind or you can have the moment."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
