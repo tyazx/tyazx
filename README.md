@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunity is missed by most people because it is dressed in overalls and looks like work."</i>
+<i>"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
