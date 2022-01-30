@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trying to define yourself is like trying to bite your own teeth."</i>
+<i>"Every strike brings me closer to the next home run. "</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Babe Ruth</b>
 </blockquote>
 </p>
 
