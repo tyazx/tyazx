@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If anything is worth doing, do it with all your heart."</i>
+<i>"Courage Is a Love Affair with the Unknown"</i>
 <br>
-<b>- Buddha</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
