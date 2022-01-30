@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"At the center of your being you have the answer; you know who you are and you know what you want."</i>
+<i>"The problem happens when we have multiple desires. When we have fuzzy desires. When we want to do ten different things and we're not clear about which is the one we care about."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
