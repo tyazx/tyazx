@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!"</i>
+<i>"The greatest of empires, is the empire over one's self."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
