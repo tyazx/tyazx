@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An investment in knowledge pays the best interest."</i>
+<i>"Life does not get better by chance, it gets better by change."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
