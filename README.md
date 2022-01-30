@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can have the mind or you can have the moment."</i>
+<i>"You can often change your circumstances by changing your attitude."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
