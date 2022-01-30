@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more we have the less we own."</i>
+<i>"Imagination is everything. It is the preview of life's coming attractions."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
