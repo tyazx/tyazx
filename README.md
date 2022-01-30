@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good character is the best tombstone. Carve your name on hearts, not on marble."</i>
+<i>"Some people find fault like there is a reward for it.  "</i>
 <br>
-<b>- Charles Spurgeon</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
