@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more I want to get something done, the less I call it work."</i>
+<i>"Be a good animal, true to your instincts."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
