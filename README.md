@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being."</i>
+<i>"Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!"</i>
 <br>
-<b>- Anita Krizzan</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
