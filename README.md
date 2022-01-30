@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fools resist. The wise embrace."</i>
+<i>"It is easy to discover what another has discovered before."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Christopher Columbus</b>
 </blockquote>
 </p>
 
