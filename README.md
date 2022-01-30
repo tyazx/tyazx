@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose."</i>
+<i>"Someone who points out your flaws to you is not necessarily your enemy. Someone who speaks of your virtues is not necessarily your friend."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
