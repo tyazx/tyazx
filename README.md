@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head."</i>
+<i>"We know nothing of tomorrow, our business is to be good and happy today."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Sydney Smith</b>
 </blockquote>
 </p>
 
