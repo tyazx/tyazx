@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When it comes to mastering a skill, time is the magic ingredient."</i>
+<i>"You are free, and that is why you are lost."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
