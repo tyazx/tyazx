@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to know what God thinks about money just look at the people He gives it to."</i>
+<i>"A successful man is one who can lay a firm foundation with the bricks others have thrown at him.  "</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- David Brinkley</b>
 </blockquote>
 </p>
 
