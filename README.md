@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do what you can, with what you have, where you are."</i>
+<i>"Your imagination is your preview of life's coming attractions."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
