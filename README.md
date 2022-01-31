@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A person is only by the thoughts that he chooses."</i>
+<i>"Do something to move yourself toward your major goal every day."</i>
 <br>
-<b>- James Allen</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
