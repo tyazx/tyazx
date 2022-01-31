@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My mind seems to have become a kind of machine for grinding general laws out of large collections of facts."</i>
+<i>"it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
