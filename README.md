@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are free, and that is why you are lost."</i>
+<i>"Adventure is not outside man; it is within."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
