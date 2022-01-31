@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is found in unlikely places."</i>
+<i>"Do what you can, with what you have, where you are."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
