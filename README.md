@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My instinct is always to seek out challenges as opposed to avoiding them."</i>
+<i>"When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
