@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus."</i>
+<i>"The truth is rarely pure and never simple. "</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
