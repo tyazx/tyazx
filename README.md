@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Character is the result of two things: mental attitude and the way we spend our time."</i>
+<i>"Courage is found in unlikely places."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
