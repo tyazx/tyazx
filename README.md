@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your imagination is your preview of life's coming attractions."</i>
+<i>"A person is only by the thoughts that he chooses."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
