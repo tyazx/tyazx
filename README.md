@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All animals except man know that the principal business of life is to enjoy it."</i>
+<i>"Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
