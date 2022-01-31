@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truth is rarely pure and never simple. "</i>
+<i>"If I persist long enough I will win."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
