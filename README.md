@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adventure is not outside man; it is within."</i>
+<i>"You change the world by being yourself."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
