@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Obstacles don't block the path, they are the path."</i>
+<i>"Motivation gets you going and habit gets you there.  "</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
