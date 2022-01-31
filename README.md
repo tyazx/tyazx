@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are patient in one moment of anger, you will escape a hundred days of sorrow. "</i>
+<i>"The Truth is realized in an instant; the Act is practiced step by step."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Seungsahn</b>
 </blockquote>
 </p>
 
