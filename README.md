@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A successful man is one who can lay a firm foundation with the bricks others have thrown at him.  "</i>
+<i>"It is truth that liberates, not your effort to be free."</i>
 <br>
-<b>- David Brinkley</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
