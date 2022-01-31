@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The smallest act of kindness is worth more than the greatest intention.  "</i>
+<i>"Be fascinated instead of frustrated."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
