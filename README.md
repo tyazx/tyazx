@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The Truth is realized in an instant; the Act is practiced step by step."</i>
+<i>"Grudges are for those who insist that they are owed something; forgiveness, however, is for those who are substantial enough to move on."</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
