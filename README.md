@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You change the world by being yourself."</i>
+<i>"Obstacles don't block the path, they are the path."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
