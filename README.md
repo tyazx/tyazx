@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I persist long enough I will win."</i>
+<i>"Confidence is what you have before you understand the problem."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
