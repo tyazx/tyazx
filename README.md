@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid to go slowly. Be afraid of stopping."</i>
+<i>"The smallest act of kindness is worth more than the greatest intention.  "</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
