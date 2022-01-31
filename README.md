@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We know nothing of tomorrow, our business is to be good and happy today."</i>
+<i>"A man sees in the world what he carries in his heart."</i>
 <br>
-<b>- Sydney Smith</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
