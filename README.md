@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The friend is the man who knows all about you, and still likes you."</i>
+<i>"Take into account that great love and great achievements involve great risk."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
