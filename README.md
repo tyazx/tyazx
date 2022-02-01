@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A dream doesn't become reality through magic it takes sweat, determination and hard work."</i>
+<i>"Take into account that great love and great achievements involve great risk."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
