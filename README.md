@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is indeed a radical act of love just to sit down and be quiet for a time by yourself."</i>
+<i>"Peace if possible, truth at all costs."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
