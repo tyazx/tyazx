@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams are the touchstones of our characters."</i>
+<i>"Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
