@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are the only problem you will ever have and you are the only solution."</i>
+<i>"Be not afraid of growing slowly, be afraid only of standing still. "</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
