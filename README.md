@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be like a postage stamp. Stick to it until you get there."</i>
+<i>"A thing must be loved before it is lovable."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
