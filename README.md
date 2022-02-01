@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it!"</i>
+<i>"Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
