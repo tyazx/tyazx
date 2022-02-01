@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When a man is penalized for honesty he learns to lie."</i>
+<i>"So we beat on, boats against the current, borne back ceaselessly into the past."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
