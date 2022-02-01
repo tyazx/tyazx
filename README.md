@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is the art of drawing sufficient conclusions from insufficient premises."</i>
+<i>"Experience is simply the name we give our mistakes. "</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
