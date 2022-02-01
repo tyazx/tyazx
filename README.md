@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is a big difference between being centered and being self-centered."</i>
+<i>"There is an essence of when you are fearless, you become more creative."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
