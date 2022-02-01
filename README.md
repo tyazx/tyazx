@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years."</i>
+<i>"When you love someone, you love the person as they are, and not as you'd like them to be."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
