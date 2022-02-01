@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must welcome change as the rule but not as your ruler. "</i>
+<i>"A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
