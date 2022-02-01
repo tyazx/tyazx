@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Begin at once to live, and count each separate day as a separate life.  "</i>
+<i>"You can discover what your enemy fears most by observing the means he uses to frighten you."</i>
 <br>
-<b>- Seneca</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
