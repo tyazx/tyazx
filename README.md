@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Watch what you say, and whaterver you say, practice it."</i>
+<i>"Dreams are the touchstones of our characters."</i>
 <br>
-<b>- Soyen Shaku</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
