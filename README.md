@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you give, the more comes back to you."</i>
+<i>"Success comes to those who become success conscious."</i>
 <br>
 <b>- Napoleon Hill</b>
 </blockquote>
