@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every failure brings with it the seed of an equivalent success."</i>
+<i>"The more perfect a person is on the outside, the more demons they have on the inside."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
