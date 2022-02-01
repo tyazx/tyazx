@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hardly anybody recognizes the most significant moments of their life at the time they happen."</i>
+<i>"The more you give, the more comes back to you."</i>
 <br>
-<b>- W.P. Kinsella</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
