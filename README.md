@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anger exceeding limits causes fear and excessive kindness eliminates respect."</i>
+<i>"Watch what you say, and whaterver you say, practice it."</i>
 <br>
-<b>- Euripides</b>
+<b>- Soyen Shaku</b>
 </blockquote>
 </p>
 
