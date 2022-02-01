@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth will always be truth, regardless of lack of understanding, disbelief or ignorance. "</i>
+<i>"Every failure brings with it the seed of an equivalent success."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
