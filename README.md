@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Optimism is the one quality more associated with success and happiness than any other."</i>
+<i>"Truth will always be truth, regardless of lack of understanding, disbelief or ignorance. "</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- W. Clement Stone</b>
 </blockquote>
 </p>
 
