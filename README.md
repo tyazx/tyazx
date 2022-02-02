@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches."</i>
+<i>"Greatest success comes just one step beyond the point at which defeat overtakes you."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
