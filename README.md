@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Among the things you can give and still keep are your word, a smile, and a grateful heart."</i>
+<i>"We think too much and feel too little."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
