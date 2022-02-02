@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The power of man has grown in every sphere, except over himself."</i>
+<i>"Don't be afraid to see what you see."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
