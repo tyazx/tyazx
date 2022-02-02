@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The measure of who we are is what we do with what we have."</i>
+<i>"There are few reasons for telling the truth, but for lying the number is infinite."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
