@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no excuse for not trying."</i>
+<i>"Curiosity is the most powerful thing you own."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- James Cameron</b>
 </blockquote>
 </p>
 
