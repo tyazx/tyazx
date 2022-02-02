@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you're the only sane person, you look like the only insane person."</i>
+<i>"Patience expands your options. If you insist on immediate gratification, your choices are severely limited."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
