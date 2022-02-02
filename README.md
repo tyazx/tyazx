@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most wasted day of all is that on which we have not laughed."</i>
+<i>"A wise person should have money in their head, but not in their heart."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
