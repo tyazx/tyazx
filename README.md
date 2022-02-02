@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You will succeed because most people are lazy."</i>
+<i>"Work as though you would live forever, and live as though you would die today. Go another mile."</i>
 <br>
-<b>- Shahir Zag</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
