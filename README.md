@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes you put walls up not to keep people out, but to see who cares enough to break them down."</i>
+<i>"What the caterpillar calls the end of the world, the master calls a butterfly."</i>
 <br>
-<b>- Socrates</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
