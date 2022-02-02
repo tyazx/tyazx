@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To seek greatness is the only righteous vengeance."</i>
+<i>"There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
