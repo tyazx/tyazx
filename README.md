@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies."</i>
+<i>"When you're the only sane person, you look like the only insane person."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
