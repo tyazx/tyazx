@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're really truthful with yourself, it's a wonderful guidance.  "</i>
+<i>"Not doing it is certainly the best way to not getting it.  "</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
