@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are few reasons for telling the truth, but for lying the number is infinite."</i>
+<i>"Wherever you are, it's the place you need to be."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
