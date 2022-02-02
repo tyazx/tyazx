@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone is a moon, and has a dark side which he never shows to anybody."</i>
+<i>"The most wasted day of all is that on which we have not laughed."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
