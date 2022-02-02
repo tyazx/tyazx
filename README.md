@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform."</i>
+<i>"It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
