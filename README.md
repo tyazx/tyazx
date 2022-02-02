@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where there's life, there's hope."</i>
+<i>"The more you give, the more comes back to you."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
