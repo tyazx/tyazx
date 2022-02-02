@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Find your Light; They can't love you if they can't see you."</i>
+<i>"We've got to live, no matter how many skies have fallen."</i>
 <br>
-<b>- Bette Midler</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
