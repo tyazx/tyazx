@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Yesterday is gone. Tomorrow has not yet come. We have only today."</i>
+<i>"Where there's life, there's hope."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
