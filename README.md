@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can know only that we know nothing. And that is the highest degree of human wisdom."</i>
+<i>"Who looks outside, dreams; who looks inside, awakes."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
