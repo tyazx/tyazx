@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is best to begin at the beginning."</i>
+<i>"Care about what other people think and you will always be their prisoner."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
