@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Understanding that rests in what it does not understand is the finest."</i>
+<i>"Don't cry because it's over. Smile because it happened."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
