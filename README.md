@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't wait for extraordinary opportunities. Seize common occasions and make them great."</i>
+<i>"Rivers know this: there is no hurry. We shall get there some day."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- A.A. Milne</b>
 </blockquote>
 </p>
 
