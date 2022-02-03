@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A Penny Saved is a Penny Earned"</i>
+<i>"It is what we make out of what we have, not what we are given, that separates one person from another."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
