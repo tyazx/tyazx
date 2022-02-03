@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can often change your circumstances by changing your attitude."</i>
+<i>"It is far easier to start something than it is to finish it."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
