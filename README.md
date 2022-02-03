@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fools read fast. Geniuses reread."</i>
+<i>"You can often change your circumstances by changing your attitude."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
