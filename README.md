@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every failure brings with it the seed of an equivalent success."</i>
+<i>"Be a master of change rather than a victim of change."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
