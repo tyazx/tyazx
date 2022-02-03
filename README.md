@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always try to be a little kinder than necessary."</i>
+<i>"Problems remain as problems because people are busy defending them rather than finding solutions."</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
