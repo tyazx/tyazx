@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for."</i>
+<i>"Too many of us are not living our dreams because we are living our fears."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
