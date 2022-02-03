@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear is stupid. So are regrets."</i>
+<i>"Success is the sum of small efforts, repeated day in and day out."</i>
 <br>
-<b>- Marilyn Monroe</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
