@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We know nothing of tomorrow, our business is to be good and happy today."</i>
+<i>"Always try to be a little kinder than necessary."</i>
 <br>
-<b>- Sydney Smith</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
