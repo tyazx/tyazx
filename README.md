@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good things aren't supposed to just fall into your lap."</i>
+<i>"A man's worth is no greater than his ambitions."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
