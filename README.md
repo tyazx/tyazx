@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My mind seems to have become a kind of machine for grinding general laws out of large collections of facts."</i>
+<i>"Imagination means nothing without doing.  "</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
