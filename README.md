@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be where your enemy is not."</i>
+<i>"The longer we dwell on our misfortunes, the greater is their power to harm us."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
