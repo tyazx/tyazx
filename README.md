@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness."</i>
+<i>"Nothing important is learned; it is simply remembered."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
