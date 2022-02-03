@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sadness is but a wall between two gardens."</i>
+<i>"Every failure brings with it the seed of an equivalent success."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
