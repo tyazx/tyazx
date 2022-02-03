@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever your heart clings to and confides in, that is really your God."</i>
+<i>"Everything has beauty but not everyone sees it."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
