@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ideas do not reach perfection in a day, no matter how much study is put upon them."</i>
+<i>"Understanding that rests in what it does not understand is the finest."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
