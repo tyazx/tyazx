@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who cannot change their minds cannot change anything."</i>
+<i>"Fear is stupid. So are regrets."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Marilyn Monroe</b>
 </blockquote>
 </p>
 
