@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. "</i>
+<i>"A Penny Saved is a Penny Earned"</i>
 <br>
-<b>- St. Jerome</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
