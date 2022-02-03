@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours. "</i>
+<i>"It is passion that makes man live; wisdom makes one only last."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
