@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People have the illusion that all over the world, all the time, all kinds of fantastic things are happening."</i>
+<i>"Ideas do not reach perfection in a day, no matter how much study is put upon them."</i>
 <br>
-<b>- David Brinkley</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
