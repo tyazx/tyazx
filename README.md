@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Progress is impossible without change, and those who cannot change their minds cannot change anything."</i>
+<i>"Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours. "</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Orison Swett Marden</b>
 </blockquote>
 </p>
 
