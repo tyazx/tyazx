@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing important is learned; it is simply remembered."</i>
+<i>"To affect the quality of the day, that is the highest of arts."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
