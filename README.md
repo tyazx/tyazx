@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The longer we dwell on our misfortunes, the greater is their power to harm us."</i>
+<i>"Great things are not done by impulse, but by a series of small things brought together."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
