@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Muddy water is best cleared by leaving it alone."</i>
+<i>"Out of suffering have emerged the strongest souls; the most massive characters are seared with scars."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
