@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be a master of change rather than a victim of change."</i>
+<i>"Fools read fast. Geniuses reread."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
