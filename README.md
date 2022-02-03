@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rivers know this: there is no hurry. We shall get there some day."</i>
+<i>"Good judgment comes from experience, and experience comes from bad judgment."</i>
 <br>
-<b>- A.A. Milne</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
