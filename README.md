@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Talk sense to a fool and he calls you foolish."</i>
+<i>"From the errors of others, a wise man corrects his own."</i>
 <br>
-<b>- Euripides</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
