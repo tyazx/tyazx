@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to find yourself is to lose yourself in the service of others."</i>
+<i>"You have to accept whatever comes, and the only important thing is that you meet it with the best you have to give."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
