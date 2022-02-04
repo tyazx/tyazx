@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about."</i>
+<i>"To be able to forget means sanity."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
