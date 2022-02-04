@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man gotta right to decide his own destiny."</i>
+<i>"There are no second chances in life, except to feel remorse."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
