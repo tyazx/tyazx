@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy."</i>
+<i>"Greatness comes from living with purpose and passion."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
