@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never stand begging for that which you have the power to earn."</i>
+<i>"Real loss is only possible when you love something more than you love yourself."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Robin Williams</b>
 </blockquote>
 </p>
 
