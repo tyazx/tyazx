@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We would accomplish many more things if we did not think of them as impossible."</i>
+<i>"Confuse them with your silence and amaze them with your actions."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
