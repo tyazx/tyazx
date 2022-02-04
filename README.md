@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree. "</i>
+<i>"Confidence is what you have before you understand the problem."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
