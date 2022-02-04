@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no second chances in life, except to feel remorse."</i>
+<i>"There is only one thing in the world worse than being talked about, and that is not being talked about. "</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
