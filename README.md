@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People have the illusion that all over the world, all the time, all kinds of fantastic things are happening."</i>
+<i>"Make improvements, not excuses. Seek respect, not attention."</i>
 <br>
-<b>- David Brinkley</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
