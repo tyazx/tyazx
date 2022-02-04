@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is the beginning of creation."</i>
+<i>"Conquer the devils with a little thing called love."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
