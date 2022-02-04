@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give a girl the right shoes, and she can conquer the world."</i>
+<i>"Perplexity is the beginning of knowledge."</i>
 <br>
-<b>- Bette Midler</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
