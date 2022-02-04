@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Instead of being intimidated by the limitations, be inspired to find new ways around them."</i>
+<i>"You're on earth. There's no cure for that."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
