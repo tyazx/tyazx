@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher."</i>
+<i>"Go as far as you can see and you will see further.  "</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
