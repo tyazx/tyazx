@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Still your waters."</i>
+<i>"Every man gotta right to decide his own destiny."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
