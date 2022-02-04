@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Boldness makes even the smallest animal dangerous."</i>
+<i>"Debt is the slavery of the free."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
