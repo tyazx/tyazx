@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is what you have before you understand the problem."</i>
+<i>"Simple words, repeated daily, can change your life."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
