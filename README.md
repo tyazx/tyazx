@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By the practice of meditation, you will find that you are carrying within your heart a portable paradise."</i>
+<i>"I was angered, for I had no shoes. Then I met a man who had no feet. "</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
