@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only one thing in the world worse than being talked about, and that is not being talked about. "</i>
+<i>"Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
