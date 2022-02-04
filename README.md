@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Beware of false knowledge, it is more dangerous than ignorance."</i>
+<i>"Force has no place where there is need of skill. "</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
