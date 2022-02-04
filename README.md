@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man."</i>
+<i>"If it entertains you now but will bore you someday, it's a distraction. Keep looking."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
