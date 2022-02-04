@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throughout this life, you can never be certain of living long enough to take another breath."</i>
+<i>"Develop success from failures. Discouragement and failure are two of the surest stepping stones to success."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
