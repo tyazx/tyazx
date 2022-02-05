@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In youth we run into difficulties. In old age difficulties run into us. "</i>
+<i>"As a matter of fact is an expression that precedes many an expression that isn't."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
