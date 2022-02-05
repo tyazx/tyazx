@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stop acting so small. You are the universe in ecstatic motion."</i>
+<i>"It is not titles that honour men, but men that honour titles."</i>
 <br>
-<b>- Rumi</b>
+<b>- Niccolo Machiavelli</b>
 </blockquote>
 </p>
 
