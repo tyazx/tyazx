@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know yourself and you will win all battles."</i>
+<i>"No experience is a cause of success or failure. We do not suffer from the shock of our experiences, so-called trauma – but we make out of them just what suits our purposes."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
