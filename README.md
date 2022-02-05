@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do something to move yourself toward your major goal every day."</i>
+<i>"Behind every beautiful thing, there's some kind of pain."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
