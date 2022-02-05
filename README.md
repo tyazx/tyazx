@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be kind, for everyone you meet is fighting a hard battle."</i>
+<i>"A thing must be loved before it is lovable."</i>
 <br>
-<b>- Plato</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
