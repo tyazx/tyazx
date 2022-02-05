@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions."</i>
+<i>"If what you're doing is not your passion, you have nothing to lose."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
