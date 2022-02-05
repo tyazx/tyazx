@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not titles that honour men, but men that honour titles."</i>
+<i>"It will never rain roses: when we want to have more roses, we must plant more roses."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
