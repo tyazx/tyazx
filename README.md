@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To every action there is always opposed an equal reaction."</i>
+<i>"Do something to move yourself toward your major goal every day."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
