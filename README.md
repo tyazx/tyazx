@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace of mind is that mental condition in which you have accepted the worst."</i>
+<i>"Failure will never overtake me if my determination to succeed is strong enough."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
