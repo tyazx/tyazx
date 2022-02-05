@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As a matter of fact is an expression that precedes many an expression that isn't."</i>
+<i>"Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
