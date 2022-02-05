@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The highest form of ignorance is when you reject something you don't know anything about. "</i>
+<i>"Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
