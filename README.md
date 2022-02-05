@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is just the same as learning to swim. Do not be afraid of making mistakes, for there is no other way of learning how to live!"</i>
+<i>"The highest form of ignorance is when you reject something you don't know anything about. "</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
