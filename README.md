@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future."</i>
+<i>"Faith means believing the unbelievable."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
