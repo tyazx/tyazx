@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind."</i>
+<i>"A successful man is one who can lay a firm foundation with the bricks others have thrown at him.  "</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- David Brinkley</b>
 </blockquote>
 </p>
 
