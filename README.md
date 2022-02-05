@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No snowflake ever falls in the wrong place."</i>
+<i>"What you do today can improve all your tomorrows."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
