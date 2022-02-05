@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Identify your problems, but give your power and energy to solutions."</i>
+<i>"Do not stop thinking of life as an adventure."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
