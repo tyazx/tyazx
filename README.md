@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it."</i>
+<i>"Understanding that rests in what it does not understand is the finest."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
