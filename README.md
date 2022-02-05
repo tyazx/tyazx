@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is the greatest friend."</i>
+<i>"Identify your problems, but give your power and energy to solutions."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
