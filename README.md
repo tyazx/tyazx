@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What the mind can conceive, it can achieve."</i>
+<i>"Successful people are not without problems. They're simply people who've learned to solve their problems."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
