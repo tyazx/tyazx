@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have a choice everyday regarding the attitude we will embrace for that day."</i>
+<i>"Never let the things you can't do stop you from doing what you can."</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
