@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always focus on the front windshield and not the rear view mirror."</i>
+<i>"Be happy in the moment, that's enough. Each moment is all we need, not more."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
