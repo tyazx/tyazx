@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If anything is worth doing, do it with all your heart."</i>
+<i>"Enjoy life. There's plenty of time to be dead."</i>
 <br>
-<b>- Buddha</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
