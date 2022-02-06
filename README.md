@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing ever goes away until it has taught us what we need to know."</i>
+<i>"Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
