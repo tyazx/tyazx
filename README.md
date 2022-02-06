@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing more frightful than ignorance in action."</i>
+<i>"Where there is no struggle, there is no strength. "</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
