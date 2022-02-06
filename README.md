@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do you have the patience to wait until your mud settles and the water is clear?"</i>
+<i>"Success is never final, failure is never fatal. It's courage that counts."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
