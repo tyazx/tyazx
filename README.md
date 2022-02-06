@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enjoy life. There's plenty of time to be dead."</i>
+<i>"Whatever you are, be a good one."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
