@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is never final, failure is never fatal. It's courage that counts."</i>
+<i>"To know even one life has breathed easier because you have lived. This is to have succeeded."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
