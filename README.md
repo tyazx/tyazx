@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is consistency of thinking about what is possible and how to make it possible."</i>
+<i>"In the end, it's not the years in your life that count. It's the life in your years."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
