@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The highest level of wisdom is when you not only accept but love adversity."</i>
+<i>"To forget the whole world is easy; to make the whole world forget you is hard."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
