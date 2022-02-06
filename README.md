@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is only real, when shared."</i>
+<i>"Quality means doing it right when no one is looking."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
