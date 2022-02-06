@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Worry is a waste of emotional reserve."</i>
+<i>"Every man is guilty of all the good he did not do. "</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
