@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The heart that gives, gathers."</i>
+<i>"Get busy living, or get busy dying."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
