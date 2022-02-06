@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where words fail, music speaks."</i>
+<i>"Judge a man by his questions rather than his answers."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
