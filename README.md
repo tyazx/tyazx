@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A mountain never yields to the wind no matter how strong it is."</i>
+<i>"There is nothing more frightful than ignorance in action."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
