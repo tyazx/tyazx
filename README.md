@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never let the things you can't do stop you from doing what you can."</i>
+<i>"Thinking is the hardest work there is, which is probably the reason why so few engage in it."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
