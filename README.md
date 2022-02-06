@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man is guilty of all the good he did not do. "</i>
+<i>"We have a choice everyday regarding the attitude we will embrace for that day."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Charles Swindoll</b>
 </blockquote>
 </p>
 
