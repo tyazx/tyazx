@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where there is no struggle, there is no strength. "</i>
+<i>"The highest level of wisdom is when you not only accept but love adversity."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
