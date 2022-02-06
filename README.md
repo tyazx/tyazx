@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who look for the bad in people will surely find it."</i>
+<i>"Facts are the enemy of truth. "</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
