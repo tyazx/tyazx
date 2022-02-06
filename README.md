@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Judge a man by his questions rather than his answers."</i>
+<i>"Where focus goes, energy flows."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
