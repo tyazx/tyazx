@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have to keep breaking your heart until it opens."</i>
+<i>"Life is simply what our feelings do to us."</i>
 <br>
-<b>- Rumi</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
