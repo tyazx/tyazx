@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your time is limited, so don't waste it living someone elses. life. Don't be trapped by dogma - which is living with the results of other people's thinking."</i>
+<i>"You can never cross the ocean unless you have the courage to lose sight of the shore."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Christopher Columbus</b>
 </blockquote>
 </p>
 
