@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quality means doing it right when no one is looking."</i>
+<i>"Success comes from knowing that you did your best to become the best that you are capable of becoming."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
