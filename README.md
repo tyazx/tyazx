@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we know how to adapt, we end up being superior."</i>
+<i>"Never spend your money before you have earned it."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
