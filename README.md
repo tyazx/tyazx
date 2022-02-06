@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Empty your mind, be formless."</i>
+<i>"The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
