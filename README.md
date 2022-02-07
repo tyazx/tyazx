@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level."</i>
+<i>"Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
