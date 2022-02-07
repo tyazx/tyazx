@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remain calm. Be kind."</i>
+<i>"Never fear quarrels, but seek hazardous adventures."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
