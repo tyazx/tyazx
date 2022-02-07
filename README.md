@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through."</i>
+<i>"All life is an experiment. The more experiments you make, the better."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
