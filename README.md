@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no such thing as a great talent without great willpower."</i>
+<i>"Age is a very high price to pay for maturity."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
