@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have."</i>
+<i>"Time is more valuable than money. You can get more money, but you cannot get more time."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
