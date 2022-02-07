@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing important is learned; it is simply remembered."</i>
+<i>"A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
