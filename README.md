@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life goes by fast. Enjoy it. Calm down. It's all funny."</i>
+<i>"The road to success and the road to failure are almost exactly the same."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Colin R. Davis</b>
 </blockquote>
 </p>
 
