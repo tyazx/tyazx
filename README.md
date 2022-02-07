@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make yourself so useful to other people, that they think you are irreplaceable."</i>
+<i>"If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
