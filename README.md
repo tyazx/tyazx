@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live calmly. The time will come when the flowers bloom by themselves."</i>
+<i>"To succeed takes more than the desire to win. It also takes the acceptance that we could fail."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
