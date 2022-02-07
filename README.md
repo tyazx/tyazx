@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it."</i>
+<i>"Nothing important is learned; it is simply remembered."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
