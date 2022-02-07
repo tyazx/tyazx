@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is nothing more than a few simple disciplines practiced every day."</i>
+<i>"The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Winston Churchill </b>
 </blockquote>
 </p>
 
