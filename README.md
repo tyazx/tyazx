@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the root is strong, the fruit is sweet."</i>
+<i>"Everything you've ever wanted is on the other side of fear."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
