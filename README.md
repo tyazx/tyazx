@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In youth we run into difficulties. In old age difficulties run into us. "</i>
+<i>"Be willing to be a beginner every single morning."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
