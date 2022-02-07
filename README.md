@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Real learning comes about when the competitive spirit has ceased."</i>
+<i>"There is nothing like looking if you want to find something."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
