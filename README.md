@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always forgive your enemies - nothing annoys them so much. "</i>
+<i>"Courage Is a Love Affair with the Unknown"</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
