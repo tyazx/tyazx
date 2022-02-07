@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be willing to be a beginner every single morning."</i>
+<i>"Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
