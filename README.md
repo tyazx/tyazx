@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present."</i>
+<i>"Success is nothing more than a few simple disciplines practiced every day."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
