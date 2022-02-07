@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing like looking if you want to find something."</i>
+<i>"Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
