@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!"</i>
+<i>"It is difficult to free fools from the chains they revere. "</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
