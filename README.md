@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be truly ignorant, be content with your own knowledge."</i>
+<i>"Men do not attract which they want but that which they are."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
