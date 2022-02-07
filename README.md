@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything has its beauty, but not everyone sees it. "</i>
+<i>"Trust is built and maintained by many small actions over time."</i>
 <br>
-<b>- Confucius</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
