@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One loses many laughs by not laughing at oneself."</i>
+<i>"You're never given a dream without also being given the power to make it true."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
