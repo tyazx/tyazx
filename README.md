@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where you are right now doesn't have to determine where you'll end up."</i>
+<i>"Successful people ask better questions, and as a result, they get better answers."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
