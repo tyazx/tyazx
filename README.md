@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to find yourself is to lose yourself in the service of others."</i>
+<i>"Out of suffering have emerged the strongest souls; the most massive characters are seared with scars."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
