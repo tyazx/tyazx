@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do what you can, with what you have, where you are."</i>
+<i>"It is better to be looked over than overlooked."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
