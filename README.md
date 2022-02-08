@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A mistake is only an error, it becomes a mistake when you fail to correct it."</i>
+<i>"Do what you can, with what you have, where you are."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
