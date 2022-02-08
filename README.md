@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily."</i>
+<i>"The world makes way for the man who knows where he is going."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
