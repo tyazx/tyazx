@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people ask better questions, and as a result, they get better answers."</i>
+<i>"Charms strike the sight, but merit wins the soul."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
