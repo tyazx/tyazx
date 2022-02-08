@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world makes way for the man who knows where he is going."</i>
+<i>"You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
