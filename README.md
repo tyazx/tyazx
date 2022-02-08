@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The opposite of courage in our society is not cowardice... it is conformity."</i>
+<i>"Mind is the creator of everything. You should therefore guide it to create only good."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
