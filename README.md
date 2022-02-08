@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You'll never find rainbows if you're looking down.  "</i>
+<i>"My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
