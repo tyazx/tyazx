@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be pushed around by the fears in your mind. Be led by the dreams in your heart."</i>
+<i>"When you are content to be simply yourself and don't compare or compete, everybody will respect you. "</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
