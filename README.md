@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Like it or not, this moment is all we really have to work with."</i>
+<i>"Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Charles Spurgeon</b>
 </blockquote>
 </p>
 
