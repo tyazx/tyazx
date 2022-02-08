@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We will outstretch the hand if you unclench your fist."</i>
+<i>"You don't have to be great to start, but you have to start to be great.  "</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
