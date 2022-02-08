@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why do you stay in prison when the door is so wide open?"</i>
+<i>"People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily."</i>
 <br>
-<b>- Rumi</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
