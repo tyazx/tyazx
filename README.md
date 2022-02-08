@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If it is not right, do not do it, if it is not true, do not say it."</i>
+<i>"The only normal people are the ones you don't know very well."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
