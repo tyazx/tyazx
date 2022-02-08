@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let someone elses. opinion become your reality."</i>
+<i>"What we know is a drop, what we don't know is an ocean. "</i>
 <br>
-<b>- Les Brown</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
