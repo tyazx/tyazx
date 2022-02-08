@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All men who have achieved great things have been great dreamers. "</i>
+<i>"A different result requires doing something different."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
