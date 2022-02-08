@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"May you live all the days of your life."</i>
+<i>"To be truly ignorant, be content with your own knowledge."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
