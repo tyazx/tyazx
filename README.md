@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle."</i>
+<i>"Success is good at any age, but the sooner you find it, the longer you will enjoy it."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
