@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be fully alive is to feel that everything is possible."</i>
+<i>"Take interest and even delight in doing the small things well."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
