@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you stop questioning, you stop learning."</i>
+<i>"All men who have achieved great things have been great dreamers. "</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Orison Swett Marden</b>
 </blockquote>
 </p>
 
