@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're never given a dream without also being given the power to make it true."</i>
+<i>"The best way to find yourself is to lose yourself in the service of others."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
