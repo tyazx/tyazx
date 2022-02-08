@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours."</i>
+<i>"May you live all the days of your life."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
