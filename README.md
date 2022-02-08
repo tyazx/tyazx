@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths."</i>
+<i>"Just do the best you can. No one can do more than that."</i>
 <br>
-<b>- Charles Spurgeon</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
