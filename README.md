@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is useless to meet revenge with revenge; it will heal nothing."</i>
+<i>"You'll never find rainbows if you're looking down.  "</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
