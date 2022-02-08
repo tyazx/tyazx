@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is far easier to start something than it is to finish it."</i>
+<i>"As you think, so shall you become. "</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
