@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are the average of the five people you spend the most time with."</i>
+<i>"There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
