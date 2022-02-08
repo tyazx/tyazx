@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your goals are the road maps that guide you and show you what is possible for your life."</i>
+<i>"It is far easier to start something than it is to finish it."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
