@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Question everything. Learn something. Answer nothing."</i>
+<i>"The world doesn't always give you want, but it often gives you what you need."</i>
 <br>
-<b>- Euripides</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
