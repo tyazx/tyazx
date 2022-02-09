@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't have time to do it right, when will you have time to do it over?"</i>
+<i>"There is a difference between giving directions and giving direction."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
