@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It always seems impossible until it's done."</i>
+<i>"Unless you change how you are, you will always have what you got."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
