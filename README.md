@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everybody's life is either rewarding or an example."</i>
+<i>"Plants grow weak without wind."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
