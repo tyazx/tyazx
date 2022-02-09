@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not change direction, you may end up where you are heading."</i>
+<i>"To know even one life has breathed easier because you have lived. This is to have succeeded."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
