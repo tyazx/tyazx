@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be true to yourself, help others, make each day your masterpiece"</i>
+<i>"Stay away from people who makes you feel like you are wasting their time."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
