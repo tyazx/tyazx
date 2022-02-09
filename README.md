@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The question is not what you look at, but what you see."</i>
+<i>"If you see yourself as prosperous, you will be."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
