@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Waste no more time arguing about what a good man should be. Be one."</i>
+<i>"When you judge others, you do not define them, you define yourself."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
