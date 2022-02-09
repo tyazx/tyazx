@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We become what we believe."</i>
+<i>"If you're waiting until you feel talented enough to make it, you'll never make it."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
