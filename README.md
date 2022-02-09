@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Identify your problems, but give your power and energy to solutions."</i>
+<i>"Change your thoughts and you change your world."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
