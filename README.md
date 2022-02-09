@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stay away from people who makes you feel like you are wasting their time."</i>
+<i>"Waste no more time arguing about what a good man should be. Be one."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
