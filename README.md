@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To know even one life has breathed easier because you have lived. This is to have succeeded."</i>
+<i>"The man who does not value himself, cannot value anything or anyone."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
