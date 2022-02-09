@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't want anything. Then you get everything."</i>
+<i>"It's not what you pay a man, but what he costs you that counts."</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
