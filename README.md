@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For things to change, you have to change."</i>
+<i>"You are what you do, not what you say you'll do."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
