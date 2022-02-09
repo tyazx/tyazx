@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're waiting until you feel talented enough to make it, you'll never make it."</i>
+<i>"If you want to see things just as they are, then you yourself must practice just as you are."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
