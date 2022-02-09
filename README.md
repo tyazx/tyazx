@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"This is such a short and precious life that it's really important that you don't spend it being unhappy."</i>
+<i>"To be in harmony with the wholeness of things is not to have anxiety over imperfections."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
