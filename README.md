@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are as many opinions as there are experts."</i>
+<i>"There are no shortcuts to any place worth going."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
