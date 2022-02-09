@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your mind will make you rich or poor, depending on the use you put to it."</i>
+<i>"Do not believe that you will reach your destination without leaving the shore. "</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
