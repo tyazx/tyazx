@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Growing up is losing some illusions, in order to acquire others."</i>
+<i>"People are not disturbed by things, but by the views they take of them."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
