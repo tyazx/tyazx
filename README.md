@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The man who does not value himself, cannot value anything or anyone."</i>
+<i>"We live only now. Everything else is either passed or is unknown."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
