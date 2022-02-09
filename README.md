@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?"</i>
+<i>"It's not the men in your life that matters, it's the life in your men."</i>
 <br>
-<b>- Seneca</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
