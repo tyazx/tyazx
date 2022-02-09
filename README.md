@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you judge others, you do not define them, you define yourself."</i>
+<i>"We become what we believe."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
