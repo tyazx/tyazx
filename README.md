@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage Is a Love Affair with the Unknown"</i>
+<i>"Identify your problems, but give your power and energy to solutions."</i>
 <br>
-<b>- Osho</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
