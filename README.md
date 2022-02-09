@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We live only now. Everything else is either passed or is unknown."</i>
+<i>"Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?"</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
