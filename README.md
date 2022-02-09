@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen."</i>
+<i>"Write to help yourself, publish to help others."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
