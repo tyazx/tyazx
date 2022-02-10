@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unless you're ashamed of yourself now and then, you're not honest."</i>
+<i>"The one who boasts does so only out of a feeling of inferiority."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
