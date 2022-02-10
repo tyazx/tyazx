@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be truly ignorant, be content with your own knowledge."</i>
+<i>"The only thing we have to fear is fear itself."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
