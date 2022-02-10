@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't change your mind just because people are offended; change your mind if you're wrong."</i>
+<i>"Those who are easily shocked should be shocked more often."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
