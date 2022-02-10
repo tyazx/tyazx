@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throw me to the wolves and I will return leading the pack.  "</i>
+<i>"If you've made a mistake, it's better just to laugh at it."</i>
 <br>
-<b>- Seneca</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
