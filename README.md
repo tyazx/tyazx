@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The worst part of success is trying to find someone who is happy for you."</i>
+<i>"The season of failure is the best time for sowing the seeds of success. "</i>
 <br>
-<b>- Bette Midler</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
