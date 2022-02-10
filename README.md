@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's much better to do good in a way that no one knows anything about it."</i>
+<i>"A crisis is an opportunity riding the dangerous wind."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
