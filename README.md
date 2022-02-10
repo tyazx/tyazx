@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't spend major time on minor things."</i>
+<i>"If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
