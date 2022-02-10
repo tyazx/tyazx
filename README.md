@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the greatest of all mistakes to do nothing because you can only do little; do something."</i>
+<i>"True knowledge exists in knowing that you know nothing."</i>
 <br>
-<b>- Sydney Smith</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
