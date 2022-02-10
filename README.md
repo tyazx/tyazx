@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't like something, change it. If you can't change it, change your attitude."</i>
+<i>"A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
