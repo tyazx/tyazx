@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not engaging in ignorance is wisdom. "</i>
+<i>"Teachers open the door. You enter by yourself. "</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
