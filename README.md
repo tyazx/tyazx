@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throughout this life, you can never be certain of living long enough to take another breath."</i>
+<i>"A hut full of laughter is richer than a palace full of sadness."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
