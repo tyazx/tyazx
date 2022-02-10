@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The worst part of success is trying to find someone who is happy for you."</i>
+<i>"Art is to console those who are broken by life."</i>
 <br>
-<b>- Bette Midler</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
