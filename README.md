@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  "</i>
+<i>"A person who does not read is no better than one cannot read."</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
