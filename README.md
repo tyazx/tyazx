@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The harder the conflict, the greater the triumph. "</i>
+<i>"It is up to each of us to sing as we feel moved by the overall song of life."</i>
 <br>
-<b>- George Washington</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
