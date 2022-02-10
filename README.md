@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can discover what your enemy fears most by observing the means he uses to frighten you."</i>
+<i>"Not engaging in ignorance is wisdom. "</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
