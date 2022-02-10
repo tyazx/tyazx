@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness."</i>
+<i>"A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday."</i>
 <br>
-<b>- Unknown</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
