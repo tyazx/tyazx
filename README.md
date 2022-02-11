@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is best to begin at the beginning."</i>
+<i>"Just trust that everything is unfolding the way it is supposed to. Don't resist... Great things are waiting for you around the corner."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Sonia Ricotti</b>
 </blockquote>
 </p>
 
