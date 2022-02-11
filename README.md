@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All has not been said and never will be."</i>
+<i>"Focused, hard work is the real key to success."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- John Carmack</b>
 </blockquote>
 </p>
 
