@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Doing what you love is the cornerstone of having abundance in your life. "</i>
+<i>"Experience is simply the name we give our mistakes. "</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
