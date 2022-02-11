@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The dreamers are the saviors of the worlds."</i>
+<i>"For things to change, you have to change."</i>
 <br>
-<b>- James Allen</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
