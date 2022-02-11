@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People have the illusion that all over the world, all the time, all kinds of fantastic things are happening."</i>
+<i>"Most people fail in life because they major in minor things."</i>
 <br>
-<b>- David Brinkley</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
