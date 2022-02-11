@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing has any power over me other than that which I give it through my conscious thoughts."</i>
+<i>"Live life as though nobody is watching, and express yourself as though everyone is listening."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
