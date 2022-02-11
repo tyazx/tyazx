@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The primary point of this existence is to live, and all living things move and grow."</i>
+<i>"Do not try to be on the side of the majority, but live according to your inner laws."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
