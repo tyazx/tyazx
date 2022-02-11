@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are shaped and fashioned by what we love."</i>
+<i>"Receive without complaint, Work with fate."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
