@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A person is only by the thoughts that he chooses."</i>
+<i>"Life is what you make it. Always has been, always will be."</i>
 <br>
-<b>- James Allen</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
