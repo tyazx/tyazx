@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be fully alive, fully human, and completely awake is to be continually thrown out of the nest."</i>
+<i>"All has not been said and never will be."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
