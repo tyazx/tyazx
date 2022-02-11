@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it."</i>
+<i>"You can start changing our world for the better daily, no matter how small the action."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
