@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Once you choose hope, anything's possible."</i>
+<i>"Let the beauty of what you love be what you do."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
