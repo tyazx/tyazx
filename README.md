@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not try to be on the side of the majority, but live according to your inner laws."</i>
+<i>"Take care of your cents: dollars will take care of themselves."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
