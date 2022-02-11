@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is the price that life exacts for granting peace."</i>
+<i>"Learning never exhausts the mind. "</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
