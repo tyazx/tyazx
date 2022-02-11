@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You only live once, but if you do it right, once is enough."</i>
+<i>"Courage is the price that life exacts for granting peace."</i>
 <br>
-<b>- Mae West</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
