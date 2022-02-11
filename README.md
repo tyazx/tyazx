@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are more people who wish to be loved than there are who are willing to love. "</i>
+<i>"The dreamers are the saviors of the worlds."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
