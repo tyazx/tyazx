@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A journey of a thousand miles must begin with a single step."</i>
+<i>"What people say, what people do, and what they say they do are entirely different things. "</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
