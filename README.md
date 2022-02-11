@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For things to change, you have to change."</i>
+<i>"We are shaped and fashioned by what we love."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
