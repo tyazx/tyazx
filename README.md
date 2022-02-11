@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Paths are made by walking."</i>
+<i>"Have a vision. Be demanding."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
