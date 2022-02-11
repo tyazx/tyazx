@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't wait for extraordinary opportunities. Seize common occasions and make them great."</i>
+<i>"So we beat on, boats against the current, borne back ceaselessly into the past."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
