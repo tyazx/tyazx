@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The act of taking the first step is what separates the winners from the losers."</i>
+<i>"Heroes don't need to talk about what they did."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- W.P. Kinsella</b>
 </blockquote>
 </p>
 
