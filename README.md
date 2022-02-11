@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What people say, what people do, and what they say they do are entirely different things. "</i>
+<i>"You only live once, but if you do it right, once is enough."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
