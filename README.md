@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can start changing our world for the better daily, no matter how small the action."</i>
+<i>"Projecting your mind into a successful situation is the most powerful means to achieve goals.  "</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
