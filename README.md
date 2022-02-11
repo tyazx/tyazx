@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"So we beat on, boats against the current, borne back ceaselessly into the past."</i>
+<i>"The quality of your life is the quality of your relationships."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
