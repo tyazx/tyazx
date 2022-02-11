@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a gift and the trick is not to expect it, but to delight in it when it comes."</i>
+<i>"To be fully alive, fully human, and completely awake is to be continually thrown out of the nest."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
