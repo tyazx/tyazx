@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"At first dreams seem impossible, then improbable, then inevitable."</i>
+<i>"The wise man reads both books and life itself."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
