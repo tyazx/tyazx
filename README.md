@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quality of your life is the quality of your relationships."</i>
+<i>"At first dreams seem impossible, then improbable, then inevitable."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
