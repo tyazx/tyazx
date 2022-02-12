@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid to see what you see."</i>
+<i>"Intelligence is the ability to adapt to change."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
