@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not doing it is certainly the best way to not getting it.  "</i>
+<i>"There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- G.I. Gurdjieff</b>
 </blockquote>
 </p>
 
