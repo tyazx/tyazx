@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace."</i>
+<i>"Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy."</i>
 <br>
-<b>- Dogen</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
