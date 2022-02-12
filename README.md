@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be alive - is Power."</i>
+<i>"If I can pay the bills, I'm happy."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Morgan Wootten</b>
 </blockquote>
 </p>
 
