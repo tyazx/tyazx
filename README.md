@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not look for a sanctuary in anyone except your self."</i>
+<i>"The biggest adventure is what lies ahead."</i>
 <br>
-<b>- Buddha</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
