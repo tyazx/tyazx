@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can't help everyone, but everyone can help someone."</i>
+<i>"To be alive - is Power."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
