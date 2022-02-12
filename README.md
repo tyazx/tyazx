@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It doesn't matter how much you want. What really matters is how much you want it."</i>
+<i>"Take into account that great love and great achievements involve great risk."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
