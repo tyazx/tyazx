@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do."</i>
+<i>"An investment in knowledge pays the best interest."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
