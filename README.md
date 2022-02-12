@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There's no coming to consciousness without pain"</i>
+<i>"Do not look for a sanctuary in anyone except your self."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
