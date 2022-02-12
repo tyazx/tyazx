@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction."</i>
+<i>"The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you."</i>
 <br>
-<b>- G.I. Gurdjieff</b>
+<b>- Sonia Ricotti</b>
 </blockquote>
 </p>
 
