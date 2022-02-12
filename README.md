@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for."</i>
+<i>"The future belongs to those who learn more skills and combine them in creative ways."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
