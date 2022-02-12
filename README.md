@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"She who loves roses must be patient and not cry out when she is pierced by thorns."</i>
+<i>"The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly."</i>
 <br>
-<b>- Kenji Miyazawa</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
