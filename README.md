@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"So long as we are being remembered, we remain alive."</i>
+<i>"Genius, in truth, means little more than the faculty of perceiving in an unhabitual way."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
