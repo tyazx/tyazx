@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything you look at can become a fairy tale and you can get a story from everything you touch."</i>
+<i>"There are no mistakes in life, only lessons."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
