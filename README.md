@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The smallest act of kindness is worth more than the greatest intention.  "</i>
+<i>"Don't look back ? you're not going that way."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
