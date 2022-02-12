@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nature is pleased with simplicity. And nature is no dummy."</i>
+<i>"Art is the signature of civilizations. "</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
