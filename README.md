@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Art is the signature of civilizations. "</i>
+<i>"We can't help everyone, but everyone can help someone."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
