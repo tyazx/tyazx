@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing."</i>
+<i>"When you have to make a choice and don't make it, that is in itself a choice."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
