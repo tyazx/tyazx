@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Genius, in truth, means little more than the faculty of perceiving in an unhabitual way."</i>
+<i>"Observe things as they are and don't pay attention to other people."</i>
 <br>
-<b>- William James</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
