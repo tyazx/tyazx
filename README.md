@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Art is the signature of civilizations. "</i>
+<i>"No one ever is defeated until defeat has been accepted as a reality."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
