@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anything you may hold firmly in your imagination can be yours."</i>
+<i>"Every time we liberate a woman, we liberate a man. "</i>
 <br>
-<b>- William James</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
