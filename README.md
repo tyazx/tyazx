@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hardly anybody recognizes the most significant moments of their life at the time they happen."</i>
+<i>"Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is."</i>
 <br>
-<b>- W.P. Kinsella</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
