@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd."</i>
+<i>"Hardly anybody recognizes the most significant moments of their life at the time they happen."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- W.P. Kinsella</b>
 </blockquote>
 </p>
 
