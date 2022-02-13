@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't wait for extraordinary opportunities. Seize common occasions and make them great."</i>
+<i>"Confidence is contagious. So is lack of confidence."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
