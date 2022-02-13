@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. "</i>
+<i>"I live by letting things happen."</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
