@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less people know, the more stubbornly they know it."</i>
+<i>"Problems remain as problems because people are busy defending them rather than finding solutions."</i>
 <br>
-<b>- Osho</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
