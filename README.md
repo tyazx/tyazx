@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy."</i>
+<i>"Falling down is not failure. Failure comes when you stay where you have fallen."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
