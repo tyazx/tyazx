@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Obstacles are those frightful things you see when you take your eyes off your goals."</i>
+<i>"The power of man has grown in every sphere, except over himself."</i>
 <br>
-<b>- Sydney Smith</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
