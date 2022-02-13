@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is one of the most tangible things in a world which offers fewer and fewer supports."</i>
+<i>"Without the rain there would be no rainbow."</i>
 <br>
-<b>- Kenneth Branagh</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
