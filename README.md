@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I live by letting things happen."</i>
+<i>"Develop success from failures. Discouragement and failure are two of the surest stepping stones to success."</i>
 <br>
-<b>- Dogen</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
