@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like a wheel. Sooner or later, it always comes around to where you started again."</i>
+<i>"Don't cry because it's over. Smile because it happened."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
