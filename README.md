@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others."</i>
+<i>"The best fighter is never angry."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
