@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The power of man has grown in every sphere, except over himself."</i>
+<i>"To the world you may be one person; but to one person you may be the world."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
