@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Problems remain as problems because people are busy defending them rather than finding solutions."</i>
+<i>"You're always free to change your mind and choose a different future, or a different past."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
