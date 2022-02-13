@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who look for the bad in people will surely find it."</i>
+<i>"You talk when you cease to be at peace with your thoughts."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
