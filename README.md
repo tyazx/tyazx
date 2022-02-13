@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every time we liberate a woman, we liberate a man. "</i>
+<i>"Everything you've ever wanted is on the other side of fear."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
