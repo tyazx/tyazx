@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only way round is through."</i>
+<i>"Judge your success by what you had to give up in order to get it."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
