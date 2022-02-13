@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is too important to be taken seriously."</i>
+<i>"If you want peace, accept. If you want suffering, expect."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
