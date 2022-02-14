@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It takes half your life before you discover life is a do-it-yourself project."</i>
+<i>"Unless you change how you are, you will always have what you got."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
