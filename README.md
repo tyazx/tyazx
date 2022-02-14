@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Absurdity is the ecstasy of intellectualism."</i>
+<i>"Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
