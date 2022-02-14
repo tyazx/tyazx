@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You miss 100% of the shots you don't take."</i>
+<i>"Those who attain the middle Dominate the whole."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
