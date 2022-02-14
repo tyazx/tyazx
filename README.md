@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A crisis is an opportunity riding the dangerous wind."</i>
+<i>"The less people know, the more stubbornly they know it."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
