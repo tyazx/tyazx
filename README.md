@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less people know, the more stubbornly they know it."</i>
+<i>"People don't care how much you know until they know how much you care."</i>
 <br>
-<b>- Osho</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
