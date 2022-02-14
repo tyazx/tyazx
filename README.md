@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you reach the top of the mountain, keep climbing. "</i>
+<i>"A crisis is an opportunity riding the dangerous wind."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
