@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nature does not hurry, yet everything is accomplished."</i>
+<i>"We take care of the future best by taking care of the present now."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
