@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't have time to do it right, when will you have time to do it over?"</i>
+<i>"Growing up is losing some illusions, in order to acquire others."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
