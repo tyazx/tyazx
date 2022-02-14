@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination means nothing without doing.  "</i>
+<i>"Love your enemies, for they tell you your faults."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
