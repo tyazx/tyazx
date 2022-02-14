@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only by acceptance of the past, can you alter it."</i>
+<i>"As you think, you travel, and as you love, you attract."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
