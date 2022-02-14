@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no significance in life without struggle."</i>
+<i>"If you don't have time to do it right, when will you have time to do it over?"</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
