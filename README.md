@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A strong man overcomes an obstacle, a wise man goes the whole way."</i>
+<i>"When you reach the top of the mountain, keep climbing. "</i>
 <br>
 <b>- Zen Proverb</b>
 </blockquote>
