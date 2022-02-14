@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words can only have a positive effect on others if and when they are ready to listen."</i>
+<i>"It is not titles that honour men, but men that honour titles."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Niccolo Machiavelli</b>
 </blockquote>
 </p>
 
