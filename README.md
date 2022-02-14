@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly."</i>
+<i>"You give but little when you give of your possessions. It is when you give of yourself that you truly give."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
