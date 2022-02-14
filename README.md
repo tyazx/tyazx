@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unless you change how you are, you will always have what you got."</i>
+<i>"Dreams are the touchstones of our characters."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
