@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Old age is like everything else. To make a success of it, you've got to start young."</i>
+<i>"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. "</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
