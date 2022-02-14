@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A change is brought about because ordinary people do extraordinary things."</i>
+<i>"Old age is like everything else. To make a success of it, you've got to start young."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
