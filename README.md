@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stop wasting time defending your problems and work on addressing them instead."</i>
+<i>"The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
