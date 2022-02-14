@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Growth comes at the point of resistance."</i>
+<i>"The most important things are the hardest to say."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
