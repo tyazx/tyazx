@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not titles that honour men, but men that honour titles."</i>
+<i>"Don?t hesitate or allow yourself to make excuses. Just get out and do it."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
