@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some men see things as they are and ask why. Others dream things that never were and ask why not."</i>
+<i>"There is no significance in life without struggle."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
