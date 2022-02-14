@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love your enemies, for they tell you your faults."</i>
+<i>"It takes half your life before you discover life is a do-it-yourself project."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
