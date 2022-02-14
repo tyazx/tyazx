@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams are the touchstones of our characters."</i>
+<i>"Some men see things as they are and ask why. Others dream things that never were and ask why not."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
