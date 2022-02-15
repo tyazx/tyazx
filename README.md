@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quality is more important than quantity. One home run is much better than two doubles."</i>
+<i>"Nothing ever goes away until it has taught us what we need to know."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
