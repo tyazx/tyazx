@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A wise person should have money in their head, but not in their heart."</i>
+<i>"Life goes by fast. Enjoy it. Calm down. It's all funny."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
