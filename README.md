@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A hut full of laughter is richer than a palace full of sadness."</i>
+<i>"A path is made by walking on it."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
