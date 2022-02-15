@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your worth consists in what you are and not in what you have."</i>
+<i>"Life is one long process of getting tired."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
