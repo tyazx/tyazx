@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not why the addiction but why the pain."</i>
+<i>"One must be poor to know the luxury of giving."</i>
 <br>
-<b>- Gabor Mate</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
