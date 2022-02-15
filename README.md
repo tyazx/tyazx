@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One must be poor to know the luxury of giving."</i>
+<i>"It matters not what someone is born, but what they grow to be."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
