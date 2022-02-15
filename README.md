@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Others can stop you temporarily ? you are the only one who can do it permanently."</i>
+<i>"Wise men speak because they have something to say; Fools because they have to say something."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
