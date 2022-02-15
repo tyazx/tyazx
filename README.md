@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do every act of your life as if it were your last."</i>
+<i>"Success is never final; failure is never fatal."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Conrad Hilton</b>
 </blockquote>
 </p>
 
