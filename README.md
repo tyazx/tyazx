@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change is hardest at the beginning, messiest in the middle and best at the end."</i>
+<i>"A wise person should have money in their head, but not in their heart."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
