@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is one long process of getting tired."</i>
+<i>"Whoever is happy will make others happy too."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
