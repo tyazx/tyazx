@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is easier to fight for one's principles than to live up to them. "</i>
+<i>"With the new day comes new strength and new thoughts."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
