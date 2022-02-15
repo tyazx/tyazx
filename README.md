@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing is not enough, we must apply. Willing is not enough, we must do."</i>
+<i>"Not why the addiction but why the pain."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Gabor Mate</b>
 </blockquote>
 </p>
 
