@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's the job that's never started that takes the longest to finish."</i>
+<i>"A hut full of laughter is richer than a palace full of sadness."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
