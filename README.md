@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wise men speak because they have something to say; Fools because they have to say something."</i>
+<i>"None of us can change our yesterdays but all of us can change our tomorrows."</i>
 <br>
-<b>- Plato</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
