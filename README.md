@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you seek is seeking you."</i>
+<i>"Change is hardest at the beginning, messiest in the middle and best at the end."</i>
 <br>
-<b>- Rumi</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
