@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never buy a thing you do not want, because it is cheap, it will be dear to you."</i>
+<i>"It is easier to fight for one's principles than to live up to them. "</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
