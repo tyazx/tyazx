@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be approximately right rather than exactly wrong."</i>
+<i>"Art is to console those who are broken by life."</i>
 <br>
-<b>- John Tukey</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
