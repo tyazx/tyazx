@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is easier than fault finding."</i>
+<i>"Always focus on the front windshield and not the rear view mirror."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
