@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly."</i>
+<i>"It's the job that's never started that takes the longest to finish."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
