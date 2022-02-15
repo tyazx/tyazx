@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whoever is happy will make others happy too."</i>
+<i>"We have more possibilities available in each moment than we realize."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
