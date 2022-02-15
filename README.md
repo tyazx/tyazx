@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To succeed takes more than the desire to win. It also takes the acceptance that we could fail."</i>
+<i>"To every action there is always opposed an equal reaction."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
