@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never allow a person to tell you no who doesn't have the power to say yes."</i>
+<i>"Action may not always bring happiness, but there is no happiness without action."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
