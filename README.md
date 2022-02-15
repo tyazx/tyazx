@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For changes to be of any true value, they've got to be lasting and consistent."</i>
+<i>"One always begins to forgive a place as soon as it's left behind."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
