@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a question and how we live it is our answer."</i>
+<i>"You have within you right now, everything you need to deal with whatever the world can throw at you."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
