@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the keys to happiness is a bad memory."</i>
+<i>"You're on earth. There's no cure for that."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
