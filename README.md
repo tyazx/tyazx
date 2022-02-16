@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"They who have conquered doubt and fear have conquered failure."</i>
+<i>"You have to keep breaking your heart until it opens."</i>
 <br>
-<b>- James Allen</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
