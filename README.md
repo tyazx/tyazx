@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't criticize what you can't understand. "</i>
+<i>"They who have conquered doubt and fear have conquered failure."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
