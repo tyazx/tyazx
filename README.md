@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As soon as you trust yourself, you will know how to live."</i>
+<i>"Your chances of success in any undertaking can always be measured by your belief in yourself."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
