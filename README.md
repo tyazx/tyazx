@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The trouble with most of us is that we'd rather be ruined by praise than saved by criticism."</i>
+<i>"All you need is the plan, the road map, and the courage to press on to your destination."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
