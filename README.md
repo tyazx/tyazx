@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Guilt is perhaps the most painful companion of death."</i>
+<i>"Dream big. Start small. But most of all, start."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
