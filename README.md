@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is stumbling from failure to failure with no loss of enthusiasm."</i>
+<i>"The future belongs to those who learn more skills and combine them in creative ways."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
