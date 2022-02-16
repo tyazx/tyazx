@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Real growth comes through intense, difficult, and challenging situations."</i>
+<i>"All you need is the plan, the road map, and the courage to press on to your destination."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
