@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Circumstances rule men; men do not rule circumstances. "</i>
+<i>"It takes a minute to have a crush on someone, an hour to like someone, and a day to love someone... but it takes a lifetime to forget someone."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
