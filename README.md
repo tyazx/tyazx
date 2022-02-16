@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's easier to lose than to win.  "</i>
+<i>"Keep your dreams, you never know when you might need them."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
