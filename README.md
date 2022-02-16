@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change is inevitable but personal growth is a choice."</i>
+<i>"Never let the things you can't do stop you from doing what you can."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
