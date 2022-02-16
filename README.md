@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the fish is caught we pay no more attention to the trap."</i>
+<i>"Don't criticize what you can't understand. "</i>
 <br>
-<b>- Huang Po</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
