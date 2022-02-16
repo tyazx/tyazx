@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Passion creates, addiction consumes."</i>
+<i>"Your world is a living expression of how you are using and have used your mind."</i>
 <br>
-<b>- Gabor Mate</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
