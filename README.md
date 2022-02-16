@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I can pay the bills, I'm happy."</i>
+<i>"Change is inevitable but personal growth is a choice."</i>
 <br>
-<b>- Morgan Wootten</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
