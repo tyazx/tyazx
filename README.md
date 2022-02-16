@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be the change that you want to see in the world."</i>
+<i>"When the fish is caught we pay no more attention to the trap."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
