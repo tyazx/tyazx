@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To live is the rarest thing in the world. Most people exist, that is all. "</i>
+<i>"The pain of parting is nothing to the joy of meeting again."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
