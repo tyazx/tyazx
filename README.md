@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything is possible. The impossible just takes longer."</i>
+<i>"It's not the men in your life that matters, it's the life in your men."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
