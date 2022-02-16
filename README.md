@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have no more right to consume happiness without producing it than to consume wealth without producing it."</i>
+<i>"Be the change that you want to see in the world."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
