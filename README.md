@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We cannot expect to be happy always... by experiencing evil as well as good we become wise."</i>
+<i>"Only the hand that erases can write the true thing."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
