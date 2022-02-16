@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only the hand that erases can write the true thing."</i>
+<i>"Coming together is a beginning, staying together is progress, and working together is success. "</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
