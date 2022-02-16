@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pain doesn't last. And when it's gone, we have something to show for it. Growth."</i>
+<i>"We have no more right to consume happiness without producing it than to consume wealth without producing it."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
