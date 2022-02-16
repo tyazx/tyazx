@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your very silence shows you agree."</i>
+<i>"Learn from the mistakes of others. You can't live long enough to make them all yourself."</i>
 <br>
-<b>- Euripides</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
