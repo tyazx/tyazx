@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never let the things you can't do stop you from doing what you can."</i>
+<i>"One of the keys to happiness is a bad memory."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
