@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You will have bad times, but they will always wake you up to the stuff you weren't paying attention to."</i>
+<i>"Words, once they are printed, have a life of their own."</i>
 <br>
-<b>- Robin Williams</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
