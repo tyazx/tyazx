@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not what we get. But who we become, what we contribute... that gives meaning to our lives."</i>
+<i>"Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
