@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the first signs of the beginning of understanding is the wish to die. "</i>
+<i>"Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Sonia Ricotti</b>
 </blockquote>
 </p>
 
