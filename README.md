@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have a brain and mind of your own. Use it, and reach your own decisions."</i>
+<i>"The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Benjamin Mays</b>
 </blockquote>
 </p>
 
