@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A golden cage is still just a cage."</i>
+<i>"Focus is a matter of deciding what things you're not going to do."</i>
 <br>
-<b>- Anita Krizzan</b>
+<b>- John Carmack</b>
 </blockquote>
 </p>
 
