@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Focus is a matter of deciding what things you're not going to do."</i>
+<i>"If we know how to adapt, we end up being superior."</i>
 <br>
-<b>- John Carmack</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
