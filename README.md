@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nourish the mind like you would your body. The mind cannot survive on junk food."</i>
+<i>"Keep your face to the sunshine and you cannot see the shadows."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
