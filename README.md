@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Obstacles are those frightful things you see when you take your eyes off your goals."</i>
+<i>"A dream doesn't become reality through magic it takes sweat, determination and hard work."</i>
 <br>
-<b>- Sydney Smith</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
