@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men are equal; it is not birth but virtue that makes the difference."</i>
+<i>"Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be. "</i>
 <br>
-<b>- Voltaire</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
