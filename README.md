@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Art, like morality, consists of drawing the line somewhere."</i>
+<i>"You have a brain and mind of your own. Use it, and reach your own decisions."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
