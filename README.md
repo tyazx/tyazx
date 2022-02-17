@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace is not absence of conflict, it is the ability to handle conflict by peaceful means."</i>
+<i>"It's not the size of the dog in the fight, it's the size of the fight in the dog."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
