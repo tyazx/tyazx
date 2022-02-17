@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is pretty simple: someone to love, something to do, something to look forward to."</i>
+<i>"Goodness is the only investment that never fails."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
