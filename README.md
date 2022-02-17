@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the end, it's not the years in your life that count. It's the life in your years."</i>
+<i>"Nourish the mind like you would your body. The mind cannot survive on junk food."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
