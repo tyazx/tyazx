@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The important thing is not what one is born with but what use one makes of that equipment."</i>
+<i>"One of the first signs of the beginning of understanding is the wish to die. "</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
