@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever your mind can conceive and believe, it can achieve."</i>
+<i>"Genius, in truth, means little more than the faculty of perceiving in an unhabitual way."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
