@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best teacher is experience and not through someone's distorted point of view."</i>
+<i>"So we beat on, boats against the current, borne back ceaselessly into the past."</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
