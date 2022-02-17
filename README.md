@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we know how to adapt, we end up being superior."</i>
+<i>"A random act of kindness, no matter how small, can make a tremendous impact on someone else's life."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
