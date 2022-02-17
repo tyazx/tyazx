@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Progress is limited by your ability to change your mind."</i>
+<i>"From error to error one discovers the entire truth."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
