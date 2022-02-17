@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live and act within the limit of your knowledge and keep expanding it to the limit of your life."</i>
+<i>"Art, like morality, consists of drawing the line somewhere."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
