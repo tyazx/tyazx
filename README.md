@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The worst part of success is trying to find someone who is happy for you."</i>
+<i>"There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever."</i>
 <br>
-<b>- Bette Midler</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
