@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not the size of the dog in the fight, it's the size of the fight in the dog."</i>
+<i>"In the end, it's not the years in your life that count. It's the life in your years."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
