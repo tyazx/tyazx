@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities."</i>
+<i>"Definitions belong to the definers, not the defined."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Toni Morrison</b>
 </blockquote>
 </p>
 
