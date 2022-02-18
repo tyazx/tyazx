@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only place success comes before work is in the dictionary."</i>
+<i>"Forgive yourself for your faults and your mistakes and move on."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
