@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let someone elses. opinion become your reality."</i>
+<i>"Don't set your own goals by what other people make important."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
