@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fools resist. The wise embrace."</i>
+<i>"Shoot for the moon. Even if you miss, you'll land among the stars."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
