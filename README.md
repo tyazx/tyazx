@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Greatness comes from living with purpose and passion."</i>
+<i>"In order to be irreplaceable one must always be different."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
