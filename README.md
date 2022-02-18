@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not the size of the dog in the fight, it's the size of the fight in the dog."</i>
+<i>"Never was anything great achieved without danger."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Niccolo Machiavelli</b>
 </blockquote>
 </p>
 
