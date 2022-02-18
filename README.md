@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Seek not the good in external things;seek it in yourselves."</i>
+<i>"You can do two things at once, but you can't focus effectively on two things at once."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
