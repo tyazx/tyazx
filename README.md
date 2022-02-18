@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't wait for the right opportunity: create it."</i>
+<i>"Truth is the offspring of silence and meditation."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
