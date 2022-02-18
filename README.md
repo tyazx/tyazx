@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't set your own goals by what other people make important."</i>
+<i>"Sometimes you have to shut your eyes, so you can see the real beauty."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Kilian Jornet</b>
 </blockquote>
 </p>
 
