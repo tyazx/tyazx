@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not that we have too little time to do all the things we need to do , it is that we feel the need to do too many things in the time we have."</i>
+<i>"Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree. "</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
