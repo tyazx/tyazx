@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not how much we give but how much love we put into giving."</i>
+<i>"The only place success comes before work is in the dictionary."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
