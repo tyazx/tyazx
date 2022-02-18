@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Greatness comes from living with purpose and passion."</i>
+<i>"Intense love does not measure, it just gives."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
