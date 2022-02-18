@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Information changes your mind. Action changes your circumstances."</i>
+<i>"Each day your life grows a day shorter. Make every move count."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
