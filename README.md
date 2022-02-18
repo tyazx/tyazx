@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each day your life grows a day shorter. Make every move count."</i>
+<i>"If I have seen further than others, it is by standing upon the shoulders of giants."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
