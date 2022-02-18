@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way."</i>
+<i>"In the middle of chaos lies opportunity.  "</i>
 <br>
-<b>- Osho</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
