@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your chances of success in any undertaking can always be measured by your belief in yourself."</i>
+<i>"I was angered, for I had no shoes. Then I met a man who had no feet. "</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
