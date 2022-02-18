@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you spend too much time thinking about a thing, you'll never get it done. "</i>
+<i>"He who wishes to be obeyed must know how to command."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Niccolo Machiavelli</b>
 </blockquote>
 </p>
 
