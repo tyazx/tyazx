@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A golden cage is still just a cage."</i>
+<i>"Greatness comes from living with purpose and passion."</i>
 <br>
-<b>- Anita Krizzan</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
