@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Very little is needed to make a happy life; it is all within yourself, in your way of thinking."</i>
+<i>"Absorb what is useful, discard what is useless and add what is specifically your own.  "</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
