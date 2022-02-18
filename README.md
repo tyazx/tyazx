@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the middle of chaos lies opportunity.  "</i>
+<i>"If you look for perfection, you'll never be content."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
