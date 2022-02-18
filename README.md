@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only reason to be alive is to enjoy it."</i>
+<i>"Your chances of success in any undertaking can always be measured by your belief in yourself."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
