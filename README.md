@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending."</i>
+<i>"I've always tried to go a step past wherever people expected me to end up."</i>
 <br>
-<b>- Carl Bard</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
