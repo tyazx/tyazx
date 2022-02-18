@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind."</i>
+<i>"You can easily judge the character of a man by how he treats those who can do nothing for him."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
