@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are not what you think you are, You are not what others think you are, You are what you think others think you are."</i>
+<i>"Peace of mind is that mental condition in which you have accepted the worst."</i>
 <br>
-<b>- Unknown</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
