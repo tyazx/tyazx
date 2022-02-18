@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If no one ever broke the rules, then we'd never advance."</i>
+<i>"The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
