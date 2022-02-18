@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life goes by fast. Enjoy it. Calm down. It's all funny."</i>
+<i>"Seek not the good in external things;seek it in yourselves."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
