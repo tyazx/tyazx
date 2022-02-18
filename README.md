@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace of mind is that mental condition in which you have accepted the worst."</i>
+<i>"Information changes your mind. Action changes your circumstances."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
