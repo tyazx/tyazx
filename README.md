@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Normal is the average of deviance."</i>
+<i>"Faults are yours to fix, not to curse."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
