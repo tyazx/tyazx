@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If it entertains you now but will bore you someday, it's a distraction. Keep looking."</i>
+<i>"Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
