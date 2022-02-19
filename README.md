@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The single biggest problem in communication is the illusion that it has taken place."</i>
+<i>"The more one judges, the less one loves."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
