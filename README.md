@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Write to help yourself, publish to help others."</i>
+<i>"To live is the rarest thing in the world. Most people exist, that is all. "</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
