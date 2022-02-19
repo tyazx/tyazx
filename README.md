@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. "</i>
+<i>"Do not think you will necessarily be aware of your own enlightenment."</i>
 <br>
-<b>- St. Jerome</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
