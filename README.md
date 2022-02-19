@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do Something. If it works, do more of it. If it doesn't, do something else."</i>
+<i>"Judge your success by what you had to give up in order to get it."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
