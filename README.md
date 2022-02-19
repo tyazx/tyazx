@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Among the things you can give and still keep are your word, a smile, and a grateful heart."</i>
+<i>"Better to have, and not need, than to need, and not have."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
