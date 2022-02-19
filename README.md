@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We lie the loudest when we lie to ourselves."</i>
+<i>"Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Sydney Smith</b>
 </blockquote>
 </p>
 
