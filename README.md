@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It always seems impossible until it's done."</i>
+<i>"We live only now. Everything else is either passed or is unknown."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
