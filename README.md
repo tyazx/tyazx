@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more one judges, the less one loves."</i>
+<i>"The worst part of success is trying to find someone who is happy for you."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Bette Midler</b>
 </blockquote>
 </p>
 
