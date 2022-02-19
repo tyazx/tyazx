@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The clock indicates the moment...but what does eternity indicate?"</i>
+<i>"We lie the loudest when we lie to ourselves."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
