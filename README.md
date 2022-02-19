@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you can't make them see the light, make them feel the heat."</i>
+<i>"The most important thing is to enjoy your life, to be happy, it's all that matters."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
