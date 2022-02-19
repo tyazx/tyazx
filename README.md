@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No problem can be solved from the same level of consciousness that created it."</i>
+<i>"Life is a long lesson in humility. "</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
