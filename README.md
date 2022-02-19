@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am not the outcome. I am never the result. I am only the effort."</i>
+<i>"The clock indicates the moment...but what does eternity indicate?"</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
