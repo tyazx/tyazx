@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest test of courage on earth is to bear defeat without losing heart."</i>
+<i>"Every failure brings with it the seed of an equivalent success."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
