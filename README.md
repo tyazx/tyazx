@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Receive without complaint, Work with fate."</i>
+<i>"It always seems impossible until it's done."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
