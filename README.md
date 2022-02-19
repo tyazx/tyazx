@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I have seen further than others, it is by standing upon the shoulders of giants."</i>
+<i>"Don't criticize what you can't understand. "</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
