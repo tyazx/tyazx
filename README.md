@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Is it really possible to tell someone else what one feels?"</i>
+<i>"There is nothing in the world so irresistibly contagious as laughter and good humor."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
