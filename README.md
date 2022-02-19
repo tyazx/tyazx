@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I didn't get there by wishing for it or hoping for it, but by working for it."</i>
+<i>"Write to help yourself, publish to help others."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
