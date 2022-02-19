@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How much pain they have cost us, the evils which have never happened."</i>
+<i>"I learned the value of hard work by working hard. "</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
