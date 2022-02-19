@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't need to be better than anyone else, you just need to be better than you used to be."</i>
+<i>"Facts are the enemy of truth. "</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
