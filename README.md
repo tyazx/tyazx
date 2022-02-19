@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Note that this journey is uniquely yours, no one elses. So the path has to be your own."</i>
+<i>"Is it really possible to tell someone else what one feels?"</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
