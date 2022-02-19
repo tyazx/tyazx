@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To live is the rarest thing in the world. Most people exist, that is all. "</i>
+<i>"Life is too important to be taken seriously."</i>
 <br>
 <b>- Oscar Wilde</b>
 </blockquote>
