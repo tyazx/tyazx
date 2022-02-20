@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life begins where fear ends."</i>
+<i>"Make yourself so useful to other people, that they think you are irreplaceable."</i>
 <br>
-<b>- Osho</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
