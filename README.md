@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When something is important enough, you do it even if the odds are not in your favor."</i>
+<i>"There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
