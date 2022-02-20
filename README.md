@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone you meet is fighting a battle you know nothing about. Be kind. Always."</i>
+<i>"Where words fail, music speaks."</i>
 <br>
-<b>- Robin Williams</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
