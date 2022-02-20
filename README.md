@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality."</i>
+<i>"Those who seek the easy way do not seek the true way."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
