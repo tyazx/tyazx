@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Things turn out best for the people who make the best of the way things turn out."</i>
+<i>"Although the world is full of suffering, it is also full of the overcoming of it."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
