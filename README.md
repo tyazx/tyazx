@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you."</i>
+<i>"An intelligence test sometimes shows a man how smart he would have been not to have taken it."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
