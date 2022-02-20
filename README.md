@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Follow your heart, listen to your inner voice, stop caring about what others think."</i>
+<i>"Never close your lips to those whom you have already opened your heart."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
