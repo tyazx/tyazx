@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who seek the easy way do not seek the true way."</i>
+<i>"Don't give up on your dreams, or your dreams will give up on you."</i>
 <br>
-<b>- Dogen</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
