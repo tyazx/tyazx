@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away."</i>
+<i>"Life begins where fear ends."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
