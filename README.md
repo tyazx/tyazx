@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never close your lips to those whom you have already opened your heart."</i>
+<i>"Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
