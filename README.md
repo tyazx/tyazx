@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is not something outside to be discovered, it is something inside to be realized."</i>
+<i>"You can start changing our world for the better daily, no matter how small the action."</i>
 <br>
-<b>- Osho</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
