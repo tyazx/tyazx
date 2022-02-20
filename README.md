@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Obstacles are those frightful things you see when you take your eyes off your goal."</i>
+<i>"There are no shortcuts to any place worth going."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
