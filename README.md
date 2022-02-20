@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The Truth is realized in an instant; the Act is practiced step by step."</i>
+<i>"I am always doing what I cannot do yet, in order to learn how to do it."</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
