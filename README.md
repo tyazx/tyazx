@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give more than you think you can, trusting that you are richer than you think."</i>
+<i>"When something is important enough, you do it even if the odds are not in your favor."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
