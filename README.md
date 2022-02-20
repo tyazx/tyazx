@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board."</i>
+<i>"Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
