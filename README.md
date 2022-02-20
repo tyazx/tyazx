@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If it's not broken, tinker with it till you find out how it works."</i>
+<i>"There is no excuse for not trying."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
