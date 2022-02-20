@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can start changing our world for the better daily, no matter how small the action."</i>
+<i>"If it's not broken, tinker with it till you find out how it works."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
