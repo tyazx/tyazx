@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear is your worst enemy. Risk is your best friend."</i>
+<i>"A loving heart is the truest wisdom."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
