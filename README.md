@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An intelligence test sometimes shows a man how smart he would have been not to have taken it."</i>
+<i>"From error to error one discovers the entire truth."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
