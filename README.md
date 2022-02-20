@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no excuse for not trying."</i>
+<i>"To find yourself, think for yourself."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
