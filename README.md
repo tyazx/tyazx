@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To find yourself, think for yourself."</i>
+<i>"Little by little, one travels far."</i>
 <br>
-<b>- Socrates</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
