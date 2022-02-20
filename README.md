@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunity comes when you continually push forward."</i>
+<i>"Talent is luck. The important thing in life is courage."</i>
 <br>
-<b>- Sonia Ricotti</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
