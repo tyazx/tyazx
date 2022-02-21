@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just living is not enough... one must have sunshine, freedom, and a little flower. "</i>
+<i>"Respect other people's feelings. It might mean nothing to you, but it could mean everything to them."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
