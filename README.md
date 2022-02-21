@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A single dream is more powerful than a thousand realities."</i>
+<i>"Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
