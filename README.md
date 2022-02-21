@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are shaped and fashioned by what we love."</i>
+<i>"Nature does not hurry, yet everything is accomplished."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
