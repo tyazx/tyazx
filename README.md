@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you consider things like the stars, our affairs don't seem to matter very much, do they?"</i>
+<i>"A single dream is more powerful than a thousand realities."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
