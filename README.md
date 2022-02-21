@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Inspire yourself to be great. Being good isn't good enough."</i>
+<i>"We are shaped and fashioned by what we love."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
