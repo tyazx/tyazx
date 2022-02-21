@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the End, we will remember not the words of our enemies, but the silence of our friends."</i>
+<i>"When you consider things like the stars, our affairs don't seem to matter very much, do they?"</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
