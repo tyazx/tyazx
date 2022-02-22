@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There's more to life than being a passenger."</i>
+<i>"Blessed is he who expects nothing, for he shall never be disappointed."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
