@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust, like the soul, never returns once it is gone."</i>
+<i>"A man is but a product of his thoughts. What he thinks he becomes."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
