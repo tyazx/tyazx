@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity."</i>
+<i>"If you do not push the boundaries, you will never know where they are."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
