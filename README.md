@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is but a product of his thoughts. What he thinks he becomes."</i>
+<i>"Sometimes you have to shut your eyes, so you can see the real beauty."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Kilian Jornet</b>
 </blockquote>
 </p>
 
