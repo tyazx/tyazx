@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is in your moments of decision that your destiny is shaped."</i>
+<i>"Some people are old at 18 and some are young at 90. Time is a concept that humans created."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
