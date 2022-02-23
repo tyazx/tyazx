@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The friend is the man who knows all about you, and still likes you."</i>
+<i>"Discipline is the mark of intelligent living."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
