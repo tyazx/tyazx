@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose."</i>
+<i>"We turn not older with years but newer every day."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
