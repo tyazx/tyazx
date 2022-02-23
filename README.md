@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I think self-awareness is probably the most important thing towards being a champion. "</i>
+<i>"Make yourself so useful to other people, that they think you are irreplaceable."</i>
 <br>
-<b>- Billie Jean King</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
