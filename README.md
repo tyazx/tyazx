@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I can pay the bills, I'm happy."</i>
+<i>"It is your attitude, not your aptitude, that determines your altitude."</i>
 <br>
-<b>- Morgan Wootten</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
