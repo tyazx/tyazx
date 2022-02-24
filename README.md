@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There can be no deep disappointment where there is not deep love."</i>
+<i>"The past has no power over the present moment. "</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
