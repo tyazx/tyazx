@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Cherish forever what makes you unique, cuz you're really a yawn if it goes."</i>
+<i>"Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality."</i>
 <br>
-<b>- Bette Midler</b>
+<b>- James Cameron</b>
 </blockquote>
 </p>
 
