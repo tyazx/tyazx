@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more we have the less we own."</i>
+<i>"Far and away the best prize that life has to offer is the chance to work hard at work worth doing."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
