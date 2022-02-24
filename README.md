@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'm not afraid of death, but I'm in no hurry to die."</i>
+<i>"If I can pay the bills, I'm happy."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Morgan Wootten</b>
 </blockquote>
 </p>
 
