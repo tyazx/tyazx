@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The past has no power over the present moment. "</i>
+<i>"You may forget with whom you laughed, but you will never forget with whom you wept.  "</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
