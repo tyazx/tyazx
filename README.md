@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is your attitude, not your aptitude, that determines your altitude."</i>
+<i>"Where violence reigns, reason is weak."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
