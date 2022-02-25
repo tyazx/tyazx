@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you are motivated by Love, The more Fearless & Free your action will be."</i>
+<i>"Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
