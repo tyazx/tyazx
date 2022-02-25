@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A single act of kindness throws out roots in all directions, and the roots spring up and make new trees."</i>
+<i>"This is the real secret of life - to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
