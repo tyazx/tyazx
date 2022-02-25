@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge."</i>
+<i>"Ponder and deliberate before you make a move."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
