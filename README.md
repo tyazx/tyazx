@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime."</i>
+<i>"It is well known that those who do not trust themselves never trust others."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
