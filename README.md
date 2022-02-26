@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To improve is to change, so to be perfect is to change often."</i>
+<i>"Give out what you most want to come back."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
