@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wealth is the product of man's capacity to think."</i>
+<i>"Everything that is made beautiful and fair and lovely is made for the eye of one who sees."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
