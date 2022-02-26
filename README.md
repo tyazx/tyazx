@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace is letting it be. Letting life flow, letting emotions flow through you."</i>
+<i>"Unhappiness enters through a door that has been left open."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
