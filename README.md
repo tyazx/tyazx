@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is only real when shared."</i>
+<i>"To improve is to change, so to be perfect is to change often."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
