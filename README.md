@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The measure of who we are is what we do with what we have."</i>
+<i>"Happiness is only real when shared."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
