@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unhappiness enters through a door that has been left open."</i>
+<i>"Wealth is the product of man's capacity to think."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
