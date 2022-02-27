@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man is guilty of all the good he did not do. "</i>
+<i>"Our truest life is when we are in dreams awake."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
