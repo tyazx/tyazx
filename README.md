@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The right thing to do and the hard thing to do are usually the same."</i>
+<i>"One beam, no matter how big, cannot support an entire house on its own."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
