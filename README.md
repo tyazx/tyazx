@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle."</i>
+<i>"Courage is not having the strength to go on; it is going on when you don't have the strength."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
