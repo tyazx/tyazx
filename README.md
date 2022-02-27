@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One beam, no matter how big, cannot support an entire house on its own."</i>
+<i>"Every man is guilty of all the good he did not do. "</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
