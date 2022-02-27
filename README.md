@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe."</i>
+<i>"Don't be pushed around by the fears in your mind. Be led by the dreams in your heart."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
