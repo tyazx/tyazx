@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your heart is the size of an ocean. Go find yourself in its hidden depths."</i>
+<i>"An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head."</i>
 <br>
-<b>- Rumi</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
