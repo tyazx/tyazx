@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head."</i>
+<i>"Ponder and deliberate before you make a move."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
