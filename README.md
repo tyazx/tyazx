@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be pushed around by the fears in your mind. Be led by the dreams in your heart."</i>
+<i>"When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
