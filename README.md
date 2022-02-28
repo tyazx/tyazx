@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Excellence is not a skill. It is an attitude. "</i>
+<i>"It is our choices that show what we truly are, far more than our abilities."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
