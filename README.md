@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the nature of the wise to resist pleasures, but the foolish to be a slave to them."</i>
+<i>"No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
