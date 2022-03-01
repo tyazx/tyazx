@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is safer to search in the maze than to remain in a cheeseless situation."</i>
+<i>"Leadership is solving problems"</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
