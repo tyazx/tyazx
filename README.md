@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do every act of your life as if it were your last."</i>
+<i>"Always try to be a little kinder than necessary."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
