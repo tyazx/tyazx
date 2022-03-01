@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Far and away the best prize that life has to offer is the chance to work hard at work worth doing."</i>
+<i>"Never put off to tomorrow what you can do to-day."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
