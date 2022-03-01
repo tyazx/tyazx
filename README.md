@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Amateurs sit and wait for inspiration, the rest of us just get up and got to work."</i>
+<i>"Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
