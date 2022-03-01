@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want."</i>
+<i>"Far and away the best prize that life has to offer is the chance to work hard at work worth doing."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
