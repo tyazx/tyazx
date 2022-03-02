@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am not proud, but I am happy; and happiness blinds, I think, more than pride."</i>
+<i>"Success is built sequentially. It's one thing at a time."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
