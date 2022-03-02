@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great minds are always feared by lesser minds."</i>
+<i>"Most of us will do anything to avoid facing ourselves."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
