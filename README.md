@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no significance in life without struggle."</i>
+<i>"Success is about doing the right thing, not about doing everything right."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
