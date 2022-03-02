@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is about doing the right thing, not about doing everything right."</i>
+<i>"Great minds are always feared by lesser minds."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
