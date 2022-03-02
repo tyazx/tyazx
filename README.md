@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never be bored, and you will never be boring."</i>
+<i>"Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
