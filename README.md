@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Either you choose to stay in the shallow end of the pool or you go out into the ocean."</i>
+<i>"Never be bored, and you will never be boring."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
