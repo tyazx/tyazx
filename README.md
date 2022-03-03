@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you think you can do a thing or think you can't do a thing, you're right."</i>
+<i>"Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
