@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The score never interested me, only the game."</i>
+<i>"Not all those who wander are lost."</i>
 <br>
-<b>- Mae West</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
