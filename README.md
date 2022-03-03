@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best of us sometimes eat our words.  "</i>
+<i>"Never waste a minute of your precious life thinking about people you don't like."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
