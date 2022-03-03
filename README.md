@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The chief cause of failure and unhappiness is trading what you want most for what you want right now."</i>
+<i>"The score never interested me, only the game."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
