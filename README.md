@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is simply the opportunity to begin again, this time more intelligently."</i>
+<i>"Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
