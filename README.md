@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most difficult times for many of us are the ones we give ourselves."</i>
+<i>"You can have the mind or you can have the moment."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
