@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can have the mind or you can have the moment."</i>
+<i>"All leaders are readers."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
