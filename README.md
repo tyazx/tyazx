@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I love fools' experiments. I am always making them."</i>
+<i>"There is always room in your life for thinking bigger, pushing limits and imagining the impossible."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
