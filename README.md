@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our stories may be singular, but our destination is shared."</i>
+<i>"It is during our darkest moments that we must focus to see the light."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
