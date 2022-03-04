@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Guilt is perhaps the most painful companion of death."</i>
+<i>"The purpose of life is the life of purpose."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
