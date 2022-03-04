@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about."</i>
+<i>"Guilt is perhaps the most painful companion of death."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
