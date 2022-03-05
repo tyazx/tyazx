@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People should pursue what they're passionate about. That will make them happier than pretty much anything else."</i>
+<i>"The older you get the stronger the wind gets - and it's always in your face."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
