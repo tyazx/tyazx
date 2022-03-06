@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most of us will do anything to avoid facing ourselves."</i>
+<i>"Death smiles at us all. All we can do is smile back."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
