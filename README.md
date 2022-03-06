@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for."</i>
+<i>"Most of us will do anything to avoid facing ourselves."</i>
 <br>
-<b>- Socrates</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
