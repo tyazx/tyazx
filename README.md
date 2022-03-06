@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Death smiles at us all. All we can do is smile back."</i>
+<i>"No one can confidently say that he will still be living tomorrow."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
