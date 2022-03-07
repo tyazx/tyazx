@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Find something you love and do it better than everyone else."</i>
+<i>"The greatest doer must also be a great dreamer."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
