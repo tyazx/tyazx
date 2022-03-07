@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wise speak only of what they know."</i>
+<i>"Let us rather run the risk of wearing out than rusting out."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
