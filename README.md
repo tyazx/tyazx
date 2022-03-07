@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let us rather run the risk of wearing out than rusting out."</i>
+<i>"The glow of one warm thought is to me worth more than money."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
