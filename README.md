@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is knowing what not to fear."</i>
+<i>"The wise speak only of what they know."</i>
 <br>
-<b>- Plato</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
