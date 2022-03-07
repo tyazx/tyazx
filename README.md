@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is built sequentially. It's one thing at a time."</i>
+<i>"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
