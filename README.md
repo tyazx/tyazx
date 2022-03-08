@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man's worth is no greater than his ambitions."</i>
+<i>"Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
