@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The glow of one warm thought is to me worth more than money."</i>
+<i>"It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
