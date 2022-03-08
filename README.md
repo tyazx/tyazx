@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is like most opinions - best unexpressed."</i>
+<i>"May you live all the days of your life."</i>
 <br>
-<b>- Kenneth Branagh</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
