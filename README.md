@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are your best thing."</i>
+<i>"Love is not about possession. Love is about appreciation."</i>
 <br>
-<b>- Toni Morrison</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
