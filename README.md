@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is not about possession. Love is about appreciation."</i>
+<i>"When you're curious, you find lots of interesting things to do."</i>
 <br>
-<b>- Osho</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
