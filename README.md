@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff."</i>
+<i>"Truth is such a rare thing, it is delighted to tell it."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
