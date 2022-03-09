@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is such a rare thing, it is delighted to tell it."</i>
+<i>"Tomorrow is only found in the calendar of fools."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
