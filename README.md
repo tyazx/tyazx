@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else."</i>
+<i>"The wiser you get, the less you care to look like a fool."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
