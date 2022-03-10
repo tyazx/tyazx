@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always seek out the seed of triumph in every adversity."</i>
+<i>"It is the greatest of all mistakes to do nothing because you can only do little; do something."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Sydney Smith</b>
 </blockquote>
 </p>
 
