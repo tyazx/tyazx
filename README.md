@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In all chaos there is a cosmos, in all disorder a secret order."</i>
+<i>"The soul without imagination is what an observatory would be without a telescope."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
