@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The soul without imagination is what an observatory would be without a telescope."</i>
+<i>"The less you open your heart to others, the more your heart suffers."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
