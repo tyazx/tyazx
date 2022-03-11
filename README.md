@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can, you should, and if you're brave enough to start, you will."</i>
+<i>"Don't change your mind just because people are offended; change your mind if you're wrong."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
