@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head."</i>
+<i>"You can, you should, and if you're brave enough to start, you will."</i>
 <br>
 <b>- Stephen King</b>
 </blockquote>
