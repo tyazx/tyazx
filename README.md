@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less you open your heart to others, the more your heart suffers."</i>
+<i>"If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
