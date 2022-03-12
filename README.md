@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Turn off your mind, relax, and float downstream."</i>
+<i>"Your next step is simple. You are the first domino."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
