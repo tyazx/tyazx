@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your next step is simple. You are the first domino."</i>
+<i>"A thing must be loved before it is lovable."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
