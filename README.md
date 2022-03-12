@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like riding a bicycle. To keep your balance you must keep moving."</i>
+<i>"Not engaging in ignorance is wisdom. "</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
