@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not engaging in ignorance is wisdom. "</i>
+<i>"In peace, sons bury their fathers. In war, fathers bury their sons. "</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
