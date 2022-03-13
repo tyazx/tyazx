@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't need to be better than anyone else, you just need to be better than you used to be."</i>
+<i>"If you've made a mistake, it's better just to laugh at it."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
