@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Avoiding failure is to avoid progress."</i>
+<i>"There is little success where there is little laughter."</i>
 <br>
-<b>- Unknown</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
