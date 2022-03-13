@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing."</i>
+<i>"Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
