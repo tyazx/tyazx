@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Relax. Nothing is under control."</i>
+<i>"Listen to what you know instead of what you fear."</i>
 <br>
-<b>- Adi Da Samraj</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
