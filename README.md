@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Greatness comes from living with purpose and passion."</i>
+<i>"You have to keep breaking your heart until it opens."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
