@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All our dreams can come true, if we have the courage to pursue them."</i>
+<i>"If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
