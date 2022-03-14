@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the keys to happiness is a bad memory."</i>
+<i>"There's more to life than being a passenger."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
