@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are the only real obstacle in your path to a fulfilling life."</i>
+<i>"One of the first signs of the beginning of understanding is the wish to die. "</i>
 <br>
-<b>- Les Brown</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
