@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the first signs of the beginning of understanding is the wish to die. "</i>
+<i>"The merit of all things lies in their difficulty."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
