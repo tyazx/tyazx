@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All human wisdom is contained in these two words - Wait and Hope"</i>
+<i>"The world would go on even without you. Don't take yourself so seriously."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
