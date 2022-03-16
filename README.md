@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be brave to stand for what you believe in even if you stand alone."</i>
+<i>"Every man desires to live long, but no man wishes to be old."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
