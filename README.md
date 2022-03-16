@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We run to win, not just to be in the race.  "</i>
+<i>"The best way to predict your future is to create it."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
