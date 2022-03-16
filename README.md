@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to predict your future is to create it."</i>
+<i>"Don't be afraid to give up the good to go for the great."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- John D. Rockefeller</b>
 </blockquote>
 </p>
 
