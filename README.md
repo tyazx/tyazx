@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success comes from knowing that you did your best to become the best that you are capable of becoming."</i>
+<i>"One of the first signs of the beginning of understanding is the wish to die. "</i>
 <br>
-<b>- John Wooden</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
