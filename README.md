@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The merit of all things lies in their difficulty."</i>
+<i>"It will never rain roses: when we want to have more roses, we must plant more roses."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
