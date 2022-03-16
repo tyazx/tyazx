@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where there is anger, there is always pain underneath."</i>
+<i>"Be brave to stand for what you believe in even if you stand alone."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
