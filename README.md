@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man desires to live long, but no man wishes to be old."</i>
+<i>"We run to win, not just to be in the race.  "</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
