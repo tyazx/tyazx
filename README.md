@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Others have seen what is and asked why. I have seen what could be and asked why not"</i>
+<i>"If you take responsibility for yourself you will develop a hunger to accomplish your dream."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
