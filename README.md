@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Care about what other people think and you will always be their prisoner."</i>
+<i>"A single dream is more powerful than a thousand realities."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
