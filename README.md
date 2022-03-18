@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If everyone is moving forward together, then success takes care of itself."</i>
+<i>"Judge a man by his questions rather than his answers."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
