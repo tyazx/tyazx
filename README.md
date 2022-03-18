@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Simplicity is the glory of expression."</i>
+<i>"Throw your heart over the bar and your body will follow."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
