@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wise speak only of what they know."</i>
+<i>"Don't settle, and don't struggle."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
