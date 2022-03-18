@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Debt is the slavery of the free."</i>
+<i>"The wise speak only of what they know."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
