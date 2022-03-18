@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who violates another's honor loses his own."</i>
+<i>"Debt is the slavery of the free."</i>
 <br>
 <b>- Publilius Syrus</b>
 </blockquote>
