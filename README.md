@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow. "</i>
+<i>"Remember to look up at the stars and not down at your feet."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
