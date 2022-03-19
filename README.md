@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember to look up at the stars and not down at your feet."</i>
+<i>"True knowledge exists in knowing that you know nothing."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
