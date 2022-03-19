@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who realize their folly are not true fools."</i>
+<i>"Normality is a paved road: It's comfortable to walk,? but no flowers grow on it."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
