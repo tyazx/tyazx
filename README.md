@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Normality is a paved road: It's comfortable to walk,? but no flowers grow on it."</i>
+<i>"A leader leads by example, not by force."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
