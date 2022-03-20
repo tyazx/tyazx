@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The sun shines upon good and bad alike."</i>
+<i>"In order to be irreplaceable one must always be different."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
