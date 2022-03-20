@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"At first dreams seem impossible, then improbable, then inevitable."</i>
+<i>"Fear is your worst enemy. Risk is your best friend."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
