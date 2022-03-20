@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The dreamers are the saviors of the worlds."</i>
+<i>"No one returns from a long journey the same person they were before."</i>
 <br>
-<b>- James Allen</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
