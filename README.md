@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wheresoever you go, go with all your heart."</i>
+<i>"Throw me to the wolves and I will return leading the pack.  "</i>
 <br>
-<b>- Confucius</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
