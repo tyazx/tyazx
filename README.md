@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change happens when the pain of holding on becomes greater than the fear of letting go."</i>
+<i>"Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
