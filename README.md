@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wise learn many things from their enemies."</i>
+<i>"Change happens when the pain of holding on becomes greater than the fear of letting go."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
