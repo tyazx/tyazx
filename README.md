@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life isn't about finding yourself. Life is about creating yourself."</i>
+<i>"Guilt is perhaps the most painful companion of death."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
