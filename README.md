@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you know what you want, and you want it bad enough, you will find a way to get it."</i>
+<i>"We never know the love of a parent till we become parents ourselves."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
