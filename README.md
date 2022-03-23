@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Guilt is perhaps the most painful companion of death."</i>
+<i>"Work for something because it is good, not just because it stands a chance to succeed."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
