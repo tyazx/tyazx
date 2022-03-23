@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes."</i>
+<i>"The wiser you get, the less you care to look like a fool."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
