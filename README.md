@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wiser you get, the less you care to look like a fool."</i>
+<i>"Walking with a friend in the dark is better than walking alone in the light."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
