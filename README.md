@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What is a friend? A single soul dwelling in two bodies."</i>
+<i>"When you know what you want, and you want it bad enough, you will find a way to get it."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
