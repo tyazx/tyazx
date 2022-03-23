@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We never know the love of a parent till we become parents ourselves."</i>
+<i>"It all depends on what you choose to believe."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
