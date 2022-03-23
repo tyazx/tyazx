@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results."</i>
+<i>"What is a friend? A single soul dwelling in two bodies."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
