@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live, travel, adventure, bless, and don't be sorry.  "</i>
+<i>"We are always complaining that our days are few, and acting as though there would be no end of them.  "</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
