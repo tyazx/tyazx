@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am not absentminded. It is the presence of mind that makes me unaware of everything else."</i>
+<i>"Happiness depends upon ourselves."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
