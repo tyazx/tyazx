@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We become brave by doing brave acts."</i>
+<i>"It is the power of the mind to be unconquerable."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
