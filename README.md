@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it."</i>
+<i>"The roots of education are bitter, but the fruit is sweet."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
