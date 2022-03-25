@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't make things happen then things will happen to you."</i>
+<i>"Change happens when the pain of holding on becomes greater than the fear of letting go."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
