@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The score never interested me, only the game."</i>
+<i>"We become brave by doing brave acts."</i>
 <br>
-<b>- Mae West</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
