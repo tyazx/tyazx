@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nature does not hurry, yet everything is accomplished."</i>
+<i>"Once you choose hope, anything's possible."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
