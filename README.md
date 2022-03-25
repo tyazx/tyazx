@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Once you choose hope, anything's possible."</i>
+<i>"Dance first. Think later. It's the natural order."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
