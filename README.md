@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your happiness is what truly matters most. Do what you have to do in order to be happy."</i>
+<i>"He who fails to plan, plans to fail."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
