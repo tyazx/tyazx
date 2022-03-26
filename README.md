@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control."</i>
+<i>"Judgments prevent us from seeing the good that lies beyond appearances.  "</i>
 <br>
-<b>- Epictetus</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
