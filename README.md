@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Judgments prevent us from seeing the good that lies beyond appearances.  "</i>
+<i>"Thinking is difficult, that's why most people judge."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
