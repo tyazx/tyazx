@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take interest and even delight in doing the small things well."</i>
+<i>"In the End, we will remember not the words of our enemies, but the silence of our friends."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
