@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't know, the thing to do is not to get scared, but to learn."</i>
+<i>"A lie can travel half way around the world while the truth is putting on its shoes."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
