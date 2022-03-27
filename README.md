@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One must be deeply aware of the impermanence of the world."</i>
+<i>"The opposite of courage in our society is not cowardice... it is conformity."</i>
 <br>
-<b>- Dogen</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
