@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who can make you believe absurdities can make you commit atrocities. "</i>
+<i>"Whatever your mind can conceive and believe, it can achieve."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
