@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new."</i>
+<i>"People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
