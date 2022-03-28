@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The saddest aspect of life is that there is no one on earth whose happiness is such that he won't sometimes wish he were dead rather than alive."</i>
+<i>"Little minds have little worries, big minds have no time for worries."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
