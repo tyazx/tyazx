@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated."</i>
+<i>"Don´t hesitate or allow yourself to make excuses. Just get out and do it."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
