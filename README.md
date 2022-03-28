@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes it is harder to deprive oneself of a pain than of a pleasure."</i>
+<i>"You do not read a book for the book's sake, but for your own."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
