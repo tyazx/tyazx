@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Little minds have little worries, big minds have no time for worries."</i>
+<i>"If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
