@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Still your waters."</i>
+<i>"Failure is acceptable. Not trying is a whole different ball park."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
