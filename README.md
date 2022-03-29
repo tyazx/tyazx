@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed."</i>
+<i>"Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
