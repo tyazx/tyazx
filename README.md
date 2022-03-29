@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every day do something that will inch you closer to a better tomorrow."</i>
+<i>"I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves."</i>
 <br>
-<b>- Unknown</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
