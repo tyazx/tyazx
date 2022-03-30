@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take care of your body. It's the only place you have to live."</i>
+<i>"Within every desire is the mechanics of its fulfillment."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
