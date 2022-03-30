@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future."</i>
+<i>"Life and death are of supreme importance. Time swiftly passes by and opportunity is lost."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
