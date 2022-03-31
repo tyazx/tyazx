@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Become the kind of leader that people would follow voluntarily, even if you had no title or position."</i>
+<i>"You cannot teach a crab to walk straight."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
