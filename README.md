@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people dream of success, while others wake up and work hard at it."</i>
+<i>"Enthusiasm is a vital element toward the individual success of every man or woman."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Conrad Hilton</b>
 </blockquote>
 </p>
 
