@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is consistency of thinking about what is possible and how to make it possible."</i>
+<i>"Creativity is the greatest rebellion in existence."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
