@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A fall into a ditch makes you wiser."</i>
+<i>"The purpose of life is the life of purpose."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
