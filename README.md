@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No grand idea was ever born in a conference, but a lot of foolish ideas have died there."</i>
+<i>"No man will make a great leader who wants to do it all himself or to get all the credit for doing it."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
