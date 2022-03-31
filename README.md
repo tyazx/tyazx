@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creativity is the greatest rebellion in existence."</i>
+<i>"A fall into a ditch makes you wiser."</i>
 <br>
-<b>- Osho</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
