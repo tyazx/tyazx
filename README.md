@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you realize you've made a mistake, take immediate steps to correct it."</i>
+<i>"Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
