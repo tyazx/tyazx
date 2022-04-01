@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What's the point in being smart enough to read, if everything you read makes you dumb?"</i>
+<i>"What lies behind us and what lies before us are tiny matters compared to what lies within us."</i>
 <br>
-<b>- C. Sean McGee</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
