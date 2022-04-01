@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enthusiasm is a vital element toward the individual success of every man or woman."</i>
+<i>"A goal is a dream with a deadline."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
