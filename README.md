@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you're curious, you find lots of interesting things to do."</i>
+<i>"There can be no deep disappointment where there is not deep love."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
