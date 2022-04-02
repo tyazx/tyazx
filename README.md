@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anger begins with folly, and ends with repentance. "</i>
+<i>"Today will never happen again. Don't waste it with a false start or no start at all."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
