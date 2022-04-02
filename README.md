@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A diamond is a piece of charcoal that handled stress exceptionally well."</i>
+<i>"To love means loving the unlovable."</i>
 <br>
-<b>- Unknown</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
