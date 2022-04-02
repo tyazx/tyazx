@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have to keep breaking your heart until it opens."</i>
+<i>"What you get by achieving your goals is not as important as what you become by achieving your goals."</i>
 <br>
-<b>- Rumi</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
