@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live your life and forget your age."</i>
+<i>"A diamond is a piece of charcoal that handled stress exceptionally well."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
