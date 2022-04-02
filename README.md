@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In peace, sons bury their fathers. In war, fathers bury their sons. "</i>
+<i>"Human beings believe just as they breathe - in order to survive."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
