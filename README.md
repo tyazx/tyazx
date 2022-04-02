@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To love means loving the unlovable."</i>
+<i>"Anger begins with folly, and ends with repentance. "</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
