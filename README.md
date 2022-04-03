@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The heart wants what it wants. There's no logic. "</i>
+<i>"Success is liking yourself, liking what you do, and liking how you do it."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
