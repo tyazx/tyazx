@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is liking yourself, liking what you do, and liking how you do it."</i>
+<i>"There are no second chances in life, except to feel remorse."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
