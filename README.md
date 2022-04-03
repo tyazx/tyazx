@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for."</i>
+<i>"Just as true humor is laughter at oneself, true humanity is knowledge of oneself."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
