@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you want to be honored by others, you learn to honor them first."</i>
+<i>"When you make a choice, you change the future."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
