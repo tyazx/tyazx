@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man is happy who does not think himself so."</i>
+<i>"When you want to be honored by others, you learn to honor them first."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
