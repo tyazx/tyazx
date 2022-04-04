@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way to change others' minds is with affection, and not anger."</i>
+<i>"Don't be afraid to go slowly. Be afraid of stopping."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
