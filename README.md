@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Magic is believing in yourself, if you can do that, you can make anything happen."</i>
+<i>"The more you praise and celebrate your life, the more there is in life to celebrate. "</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
