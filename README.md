@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want something you've never had you must be willing to do something you've never done."</i>
+<i>"We have to live life with a sense of urgency so not a minute is wasted."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
