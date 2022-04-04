@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Too many of us are not living our dreams because we are living our fears."</i>
+<i>"Magic is believing in yourself, if you can do that, you can make anything happen."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
