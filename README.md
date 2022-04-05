@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can discover what your enemy fears most by observing the means he uses to frighten you."</i>
+<i>"Everyone wants to go to Heaven, but no one wants to die."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
