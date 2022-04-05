@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!"</i>
+<i>"When people are free to do as they please, they usually imitate each other."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
