@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you praise and celebrate your life, the more there is in life to celebrate. "</i>
+<i>"Don't give up the fight, Stand up for your rights."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
