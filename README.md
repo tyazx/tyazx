@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A different result requires doing something different."</i>
+<i>"He who hesitates is a damned fool."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
