@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want things to be different, perhaps the answer is to become different yourself."</i>
+<i>"Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have?"</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
