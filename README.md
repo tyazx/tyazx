@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where we fall are the stepping-stones for our journey."</i>
+<i>"A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
