@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Turn your wounds into wisdom. "</i>
+<i>"Misfortune shows those who are not really friends."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
