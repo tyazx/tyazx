@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quiet people have the loudest minds."</i>
+<i>"Give so much away people insist on paying you."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
