@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you chase two rabbits, you catch none."</i>
+<i>"The meaning of life is just to be alive. It is so plain and so obvious and so simple."</i>
 <br>
-<b>- Confucius</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
