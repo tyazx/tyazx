@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the midst of movement and chaos, keep stillness inside of you."</i>
+<i>"If it entertains you now but will bore you someday, it's a distraction. Keep looking."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
