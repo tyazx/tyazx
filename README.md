@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Misfortune shows those who are not really friends."</i>
+<i>"The mind that turns ever outward Will have no end to craving. Only the mind turned inward Will find a still-point of peace."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
