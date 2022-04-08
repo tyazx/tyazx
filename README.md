@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The measure of who we are is what we do with what we have."</i>
+<i>"In the midst of movement and chaos, keep stillness inside of you."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
