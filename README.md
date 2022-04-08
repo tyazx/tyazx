@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The mind that turns ever outward Will have no end to craving. Only the mind turned inward Will find a still-point of peace."</i>
+<i>"You can tell more about a person by what he says about others than you can by what others say about him."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
