@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions."</i>
+<i>"Our truest life is when we are in dreams awake."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
