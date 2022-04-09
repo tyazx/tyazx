@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A day wasted on others is not wasted on one's self."</i>
+<i>"When you move beyond your fear, you feel free."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
