@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is within the reach of just about everyone."</i>
+<i>"The more people you help become successful the more successful you become."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
