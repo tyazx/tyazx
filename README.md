@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quiet people have the loudest minds."</i>
+<i>"Being entirely honest with oneself is a good exercise."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
