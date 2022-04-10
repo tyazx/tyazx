@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adventure is not outside man; it is within."</i>
+<i>"If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you."</i>
 <br>
-<b>- George Eliot</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
