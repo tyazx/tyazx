@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you."</i>
+<i>"I skate to where the puck is going to be, not where it has been."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
