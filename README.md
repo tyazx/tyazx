@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I skate to where the puck is going to be, not where it has been."</i>
+<i>"If you put water into a cup, it becomes the cup."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
