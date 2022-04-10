@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't wish it were easier, wish you were better."</i>
+<i>"Adventure is not outside man; it is within."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
