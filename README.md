@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The present moment is filled with joy and happiness. If you are attentive, you will see it."</i>
+<i>"Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
