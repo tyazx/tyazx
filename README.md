@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only defense against the world is a thorough knowledge of it."</i>
+<i>"The key to immortality is first living a life worth remembering. "</i>
 <br>
-<b>- John Locke</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
