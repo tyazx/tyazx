@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is."</i>
+<i>"I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
