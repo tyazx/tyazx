@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you."</i>
+<i>"When you judge others, you do not define them, you define yourself."</i>
 <br>
-<b>- Jeffrey Gitomer</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
