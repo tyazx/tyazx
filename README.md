@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a series of choices and all we can do is make them."</i>
+<i>"Success comes to those who become success conscious."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
