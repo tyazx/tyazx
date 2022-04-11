@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success comes to those who become success conscious."</i>
+<i>"The only defense against the world is a thorough knowledge of it."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
