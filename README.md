@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing others is wisdom, knowing yourself is enlightenment."</i>
+<i>"Knowledge is a treasure, but practice is the key to it."</i>
 <br>
 <b>- Lao Tzu</b>
 </blockquote>
