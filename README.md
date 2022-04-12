@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go for it now. The future is promised to no one. "</i>
+<i>"Sometimes good things fall apart so better things can fall together."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Marilyn Monroe</b>
 </blockquote>
 </p>
 
