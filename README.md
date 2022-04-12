@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I try more and more to be myself, caring relatively little whether people approve or disapprove."</i>
+<i>"It's easy to be a critic, but being a doer requires effort, risk, and change.  "</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
