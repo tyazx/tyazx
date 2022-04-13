@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Silence is sometimes the best answer"</i>
+<i>"Do not wait for leaders; do it alone, person to person."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
