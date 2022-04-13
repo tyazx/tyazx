@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control."</i>
+<i>"Emancipate yourself from mental slavery, none but ourselves can free our mind."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
