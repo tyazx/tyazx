@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The moment you stop to think about whether you love someone, you've already stopped loving that person forever."</i>
+<i>"Knowledge has to be improved, challenged, and increased constantly, or it vanishes."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
