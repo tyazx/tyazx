@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not wait for leaders; do it alone, person to person."</i>
+<i>"Wherever you are is the entry point."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
