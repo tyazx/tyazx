@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The purpose of life is the life of purpose."</i>
+<i>"A hopeless man is a very desperate and dangerous man, almost a dead man."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
