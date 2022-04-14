@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead."</i>
+<i>"To be fully alive, fully human, and completely awake is to be continually thrown out of the nest."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
