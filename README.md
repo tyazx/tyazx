@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't need to be better than anyone else, you just need to be better than you used to be."</i>
+<i>"Confidence breeds beauty.  "</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
