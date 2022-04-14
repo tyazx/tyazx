@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always forgive your enemies - nothing annoys them so much. "</i>
+<i>"You don't need to be better than anyone else, you just need to be better than you used to be."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
