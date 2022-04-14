@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Self-knowledge is the beginning of self-correction."</i>
+<i>"If you can see it in your mind, you can hold it in your mind."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
