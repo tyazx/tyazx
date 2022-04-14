@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A hopeless man is a very desperate and dangerous man, almost a dead man."</i>
+<i>"To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
