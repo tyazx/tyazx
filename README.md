@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence breeds beauty.  "</i>
+<i>"We must embrace pain and burn it as fuel for our journey."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Kenji Miyazawa</b>
 </blockquote>
 </p>
 
