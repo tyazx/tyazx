@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can see it in your mind, you can hold it in your mind."</i>
+<i>"The purpose of life is the life of purpose."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
