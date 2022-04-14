@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't know where you're going, you will probably end up somewhere else."</i>
+<i>"Self-knowledge is the beginning of self-correction."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
