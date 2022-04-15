@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must embrace pain and burn it as fuel for our journey."</i>
+<i>"Failure is an option here. If things are not failing, you are not innovating enough."</i>
 <br>
-<b>- Kenji Miyazawa</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
