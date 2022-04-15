@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most courageous act is still to think for yourself. Aloud."</i>
+<i>"Motivation is what gets you started. Habit is what keeps you going."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
