@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is an option here. If things are not failing, you are not innovating enough."</i>
+<i>"The most courageous act is still to think for yourself. Aloud."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
