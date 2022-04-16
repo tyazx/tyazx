@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To love means loving the unlovable."</i>
+<i>"Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
