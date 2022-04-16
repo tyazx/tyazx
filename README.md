@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality."</i>
+<i>"The key to immortality is first living a life worth remembering. "</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
