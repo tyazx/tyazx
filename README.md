@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must find the place inside yourself where nothing is impossible."</i>
+<i>"Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
