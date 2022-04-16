@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can have more than we've got because we can become more than we are."</i>
+<i>"To love means loving the unlovable."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
