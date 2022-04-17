@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity."</i>
+<i>"Like it or not, this moment is all we really have to work with."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
