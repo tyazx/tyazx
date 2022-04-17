@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything is possible. The impossible just takes longer."</i>
+<i>"Far and away the best prize that life has to offer is the chance to work hard at work worth doing."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
