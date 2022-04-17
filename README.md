@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only by acceptance of the past, can you alter it."</i>
+<i>"For all evils there are two remedies - time and silence."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
