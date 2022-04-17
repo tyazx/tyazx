@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The grass is greener where you water it."</i>
+<i>"Humans and prosperity never endure side by side for long."</i>
 <br>
-<b>- Neil Barringham</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
