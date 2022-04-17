@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Deliberately seek the company of people who influence you to think and act on building the life you desire."</i>
+<i>"The grass is greener where you water it."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Neil Barringham</b>
 </blockquote>
 </p>
 
