@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Humans and prosperity never endure side by side for long."</i>
+<i>"Everything you can imagine is real."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
