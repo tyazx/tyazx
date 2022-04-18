@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you genuinely want something, don't wait for it - teach yourself."</i>
+<i>"You are what you do, not what you say you'll do."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
