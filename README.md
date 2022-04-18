@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He is not a lover who does not love forever."</i>
+<i>"If you genuinely want something, don't wait for it - teach yourself."</i>
 <br>
-<b>- Euripides</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
