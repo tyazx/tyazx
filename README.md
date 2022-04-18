@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is those who concentrate on but one thing at a time who advance in this world."</i>
+<i>"Our life isn't how much we can take out, but how much we can put in.  "</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
