@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power."</i>
+<i>"Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
