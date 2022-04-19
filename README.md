@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all in the gutter, but some of us are looking at the stars. "</i>
+<i>"Live and act within the limit of your knowledge and keep expanding it to the limit of your life."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
