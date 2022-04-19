@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The cost of leadership is self-interest."</i>
+<i>"We are all in the gutter, but some of us are looking at the stars. "</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
