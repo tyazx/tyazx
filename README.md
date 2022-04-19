@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus."</i>
+<i>"Public opinion is the worst of all opinions."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
