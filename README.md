@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Victims recite problems, leaders provide solutions."</i>
+<i>"The cost of leadership is self-interest."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
