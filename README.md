@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Public opinion is the worst of all opinions."</i>
+<i>"When you judge another, you do not define them, you define yourself"</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
