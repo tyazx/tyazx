@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live and act within the limit of your knowledge and keep expanding it to the limit of your life."</i>
+<i>"Every artist dips his brush in his own soul, and paints his own nature into his pictures."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
