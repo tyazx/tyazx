@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question."</i>
+<i>"The difference between impossible and possible is a willing heart."</i>
 <br>
-<b>- John Tukey</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
