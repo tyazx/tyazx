@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A very little key will open a very heavy door."</i>
+<i>"It's not the love you make. It's the love you give. "</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Nikola Tesla</b>
 </blockquote>
 </p>
 
