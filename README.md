@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The difference between impossible and possible is a willing heart."</i>
+<i>"A very little key will open a very heavy door."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
