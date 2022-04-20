@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Either you choose to stay in the shallow end of the pool or you go out into the ocean."</i>
+<i>"Stop being a prisoner of your past. Become the architect of your future."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
