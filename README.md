@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people get ahead during the time that others waste."</i>
+<i>"An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- John Tukey</b>
 </blockquote>
 </p>
 
