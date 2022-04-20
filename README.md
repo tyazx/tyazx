@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stop being a prisoner of your past. Become the architect of your future."</i>
+<i>"Let the beauty of what you love be what you do."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
