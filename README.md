@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't ever save anything for a special occasion. Being alive is the special occasion."</i>
+<i>"It is not fair to ask of others what you are not willing to do yourself."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
