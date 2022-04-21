@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every strike brings me closer to the next home run. "</i>
+<i>"Don't let the past steal your present."</i>
 <br>
-<b>- Babe Ruth</b>
+<b>- Cherralea Morgen</b>
 </blockquote>
 </p>
 
