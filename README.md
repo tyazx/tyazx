@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Prefer to be defeated in the presence of the wise than to excel among fools."</i>
+<i>"Don't ever save anything for a special occasion. Being alive is the special occasion."</i>
 <br>
-<b>- Dogen</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
