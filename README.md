@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not fair to ask of others what you are not willing to do yourself."</i>
+<i>"Be mindful. Be grateful. Be positive. Be true. Be kind."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
