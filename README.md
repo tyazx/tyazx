@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Originality is the fine art of remembering what you hear but forgetting where you heard it. "</i>
+<i>"Prefer to be defeated in the presence of the wise than to excel among fools."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
