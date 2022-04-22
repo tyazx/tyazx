@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A mountain never yields to the wind no matter how strong it is."</i>
+<i>"Believe in your infinite potential. Your only limitations are those you set upon yourself."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
