@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Strategy is a commodity, execution is an art."</i>
+<i>"Where words fail, music speaks."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
