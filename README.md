@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What people need and what they want may be very different."</i>
+<i>"Strategy is a commodity, execution is an art."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
