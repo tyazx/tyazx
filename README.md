@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Normality is a paved road: It's comfortable to walk,? but no flowers grow on it."</i>
+<i>"Keep your dreams, you never know when you might need them."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
