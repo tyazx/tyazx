@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Kindness is a language which the deaf can hear and the blind can see."</i>
+<i>"Debt is the slavery of the free."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
