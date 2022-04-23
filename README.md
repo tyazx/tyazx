@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. "</i>
+<i>"Normality is a paved road: It's comfortable to walk,? but no flowers grow on it."</i>
 <br>
-<b>- George Washington</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
