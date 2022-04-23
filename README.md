@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where words fail, music speaks."</i>
+<i>"Only when one allows themself the right to die, do they then give yourself the permission to live."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- C. Sean McGee</b>
 </blockquote>
 </p>
 
