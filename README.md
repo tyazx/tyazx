@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is up to each of us to sing as we feel moved by the overall song of life."</i>
+<i>"We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Gabor Mate</b>
 </blockquote>
 </p>
 
