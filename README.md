@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Optimism is the one quality more associated with success and happiness than any other."</i>
+<i>"People tend to complicate their own lives, as if living weren't already complicated enough."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
