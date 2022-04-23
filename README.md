@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man must use what he has, not hope for what is not."</i>
+<i>"Optimism is the one quality more associated with success and happiness than any other."</i>
 <br>
-<b>- G.I. Gurdjieff</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
