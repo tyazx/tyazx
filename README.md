@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all born ignorant, but one must work hard to remain stupid."</i>
+<i>"Your worth consists in what you are and not in what you have."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
