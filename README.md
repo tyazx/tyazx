@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even if you're sure you can win, be careful that you can live with what you lose."</i>
+<i>"We are all born ignorant, but one must work hard to remain stupid."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
