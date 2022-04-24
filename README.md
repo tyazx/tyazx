@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your only limitations are those you set up in your mind or permit others to set up for you."</i>
+<i>"it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
