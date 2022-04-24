@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your dreams, you never know when you might need them."</i>
+<i>"Everyone has the right to make his own decisions, but none has the right to force his decision on others."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
