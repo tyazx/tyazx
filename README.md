@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear can hold you prisoner. Hope can set you free."</i>
+<i>"What is planted in each person's soul will sprout.  "</i>
 <br>
-<b>- Stephen King</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
