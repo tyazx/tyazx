@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given."</i>
+<i>"Your only limitations are those you set up in your mind or permit others to set up for you."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
