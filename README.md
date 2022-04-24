@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What is planted in each person's soul will sprout.  "</i>
+<i>"The more often a stupidity is repeated, the more it gets the appearance of wisdom."</i>
 <br>
-<b>- Rumi</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
