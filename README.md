@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is not just the passing of time. Life is the collection of experiences and their intensity."</i>
+<i>"Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
