@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Living life in style also means living a life of balance."</i>
+<i>"Work for something because it is good, not just because it stands a chance to succeed."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
