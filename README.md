@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime."</i>
+<i>"Life is not just the passing of time. Life is the collection of experiences and their intensity."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
