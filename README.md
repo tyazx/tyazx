@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If someone betrays you once, it's their fault; if they betray you twice, it's your fault."</i>
+<i>"Living life in style also means living a life of balance."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
