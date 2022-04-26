@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intelligence is the ability to adapt to change."</i>
+<i>"The only real mistake is the one from which we learn nothing. "</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
