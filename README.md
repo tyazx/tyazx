@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be fascinated instead of frustrated."</i>
+<i>"The wisest men follow their own direction."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
