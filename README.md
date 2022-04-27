@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no shortcuts to any place worth going."</i>
+<i>"The act of taking the first step is what separates the winners from the losers."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
