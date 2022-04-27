@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe that life is worth living and your belief will help create the fact."</i>
+<i>"Keep your dreams, you never know when you might need them."</i>
 <br>
-<b>- William James</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
