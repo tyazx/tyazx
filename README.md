@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Look to the beauty of this day, miracles are all around you."</i>
+<i>"Quality is not an act, it is a habit."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
