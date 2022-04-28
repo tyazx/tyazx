@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you're at the end of your rope, tie a knot and hold on."</i>
+<i>"Those who bring sunshine into the lives of others cannot keep it from themselves."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
