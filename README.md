@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quality is not an act, it is a habit."</i>
+<i>"Always render more and better service than is expected of you, no matter what your task may be."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
