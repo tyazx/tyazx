@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anything you may hold firmly in your imagination can be yours."</i>
+<i>"Study logic and math, because once you've mastered them, you won't fear any book."</i>
 <br>
-<b>- William James</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
