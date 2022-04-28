@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always render more and better service than is expected of you, no matter what your task may be."</i>
+<i>"We forge the chains we wear in life."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
