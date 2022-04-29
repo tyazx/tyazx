@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In nature there is no alienation. Everything belongs."</i>
+<i>"Write to help yourself, publish to help others."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
