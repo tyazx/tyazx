@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Write to help yourself, publish to help others."</i>
+<i>"Poetry is written with tears, fiction with blood, and history with invisible ink."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
