@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who laughs at himself never runs out of things to laugh at."</i>
+<i>"We become what we believe."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
