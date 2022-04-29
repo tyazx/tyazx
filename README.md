@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Forget safety. Live where you fear to live."</i>
+<i>"In nature there is no alienation. Everything belongs."</i>
 <br>
-<b>- Rumi</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
