@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can have more than we've got because we can become more than we are."</i>
+<i>"Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
