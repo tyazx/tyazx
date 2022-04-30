@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We ordinary people must forge our own beauty."</i>
+<i>"You may be one person in this world, but to one person you may mean the world."</i>
 <br>
-<b>- Kenji Miyazawa</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
