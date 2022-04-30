@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing your own darkness is the best method for dealing with the darknesses of other people."</i>
+<i>"When you move beyond your fear, you feel free."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
