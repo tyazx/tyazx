@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Greatness comes from living with purpose and passion."</i>
+<i>"You have the potential for greatness."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
