@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You may be one person in this world, but to one person you may mean the world."</i>
+<i>"If you don't program yourself, life will program you."</i>
 <br>
-<b>- Unknown</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
