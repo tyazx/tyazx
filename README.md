@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No amount of regretting can change the past, and no amount of worrying can change the future."</i>
+<i>"Believe you can and you will be halfway there."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
