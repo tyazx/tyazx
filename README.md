@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have the potential for greatness."</i>
+<i>"Our greatest glory is not in never falling but in rising every time we fall."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
