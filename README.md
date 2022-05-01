@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is not just the passing of time. Life is the collection of experiences and their intensity."</i>
+<i>"Learn from the rejection and turn it into an opportunity!"</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
