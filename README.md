@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is simply the opportunity to begin again, this time more intelligently."</i>
+<i>"The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
