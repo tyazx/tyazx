@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is during our darkest moments that we must focus to see the light."</i>
+<i>"There is no limitations except those we create for ourselves."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
