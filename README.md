@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is simply what our feelings do to us."</i>
+<i>"Given the choice between the experience of pain and nothing, I would choose pain."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
