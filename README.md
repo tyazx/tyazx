@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Productize your perspective."</i>
+<i>"The only man who never makes mistakes is the man who never does anything."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
