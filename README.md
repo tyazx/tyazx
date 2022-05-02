@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give so much away people insist on paying you."</i>
+<i>"It is during our darkest moments that we must focus to see the light."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
