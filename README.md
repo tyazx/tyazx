@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The people who are crazy enough to think they can change the world are the ones who do."</i>
+<i>"Too many of us are not living our dreams because we are living our fears."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
