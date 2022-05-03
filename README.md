@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is dangerous to be right in matters on which the established authorities are wrong."</i>
+<i>"It is impossible for a man to learn what he thinks he already knows."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
