@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed."</i>
+<i>"Better the cottage where one is merry than the palace where one weeps."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
