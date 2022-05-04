@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"an action committed in anger is an action doomed to failure. "</i>
+<i>"Even the finest sword plunged into salt water will eventually rust."</i>
 <br>
-<b>- Genghis Khan</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
