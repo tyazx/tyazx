@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't try to steer the river."</i>
+<i>"Enjoy every minute of life. Never second-guess life."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
