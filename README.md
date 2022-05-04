@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live and act within the limit of your knowledge and keep expanding it to the limit of your life."</i>
+<i>"Inspire yourself to be great. Being good isn't good enough."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
