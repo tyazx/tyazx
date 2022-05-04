@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enjoy every minute of life. Never second-guess life."</i>
+<i>"Live and act within the limit of your knowledge and keep expanding it to the limit of your life."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
