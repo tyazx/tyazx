@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good character is the best tombstone. Carve your name on hearts, not on marble."</i>
+<i>"an action committed in anger is an action doomed to failure. "</i>
 <br>
-<b>- Charles Spurgeon</b>
+<b>- Genghis Khan</b>
 </blockquote>
 </p>
 
