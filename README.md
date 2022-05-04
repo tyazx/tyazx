@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even the finest sword plunged into salt water will eventually rust."</i>
+<i>"Have a vision. Be demanding."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
