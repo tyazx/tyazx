@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has."</i>
+<i>"Engage in those actions and thoughts that nurture the good qualities you want to have."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
