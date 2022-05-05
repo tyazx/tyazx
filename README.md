@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's better to stand by someone's side than by yourself."</i>
+<i>"A lot of people have gone further than they thought they could because someone else thought they could."</i>
 <br>
-<b>- Jack London</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
