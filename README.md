@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace of mind is that mental condition in which you have accepted the worst."</i>
+<i>"He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
