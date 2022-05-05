@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Have a vision. Be demanding."</i>
+<i>"It's better to stand by someone's side than by yourself."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
