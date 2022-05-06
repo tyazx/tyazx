@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a question and how we live it is our answer."</i>
+<i>"The more you extend kindness to yourself, the more it will become your automatic response to others."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
