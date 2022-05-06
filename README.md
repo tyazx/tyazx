@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Correct what you can. Learn from what you can't."</i>
+<i>"Do what is right, not what is easy, nor what is popular."</i>
 <br>
-<b>- Toni Morrison</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
