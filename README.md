@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The harder you work, the harder it is to surrender."</i>
+<i>"Wealth consists not in having great possessions, but in having few wants."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
