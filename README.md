@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not go where the path may lead, go instead where there is no path and leave a trail."</i>
+<i>"It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
