@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have to live life with a sense of urgency so not a minute is wasted."</i>
+<i>"The harder you work, the harder it is to surrender."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
