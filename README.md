@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you extend kindness to yourself, the more it will become your automatic response to others."</i>
+<i>"Success is not to be pursued, it is to be attracted by the person you become."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
