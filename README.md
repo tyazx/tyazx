@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything eaten is killed. Every meal is a sacrifice."</i>
+<i>"Wit is educated insolence."</i>
 <br>
-<b>- Adi Da Samraj</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
