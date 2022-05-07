@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you've never eaten while crying you don t know what life tastes like."</i>
+<i>"A dead thing can go with the stream, but only a living thing can go against it."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
