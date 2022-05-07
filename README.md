@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness."</i>
+<i>"He that can have patience can have what he will."</i>
 <br>
-<b>- Unknown</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
