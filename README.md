@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A dead thing can go with the stream, but only a living thing can go against it."</i>
+<i>"Hold yourself responsible for a higher standard than anybody else expects of you."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
