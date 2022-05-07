@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He that can have patience can have what he will."</i>
+<i>"Everything eaten is killed. Every meal is a sacrifice."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Adi Da Samraj</b>
 </blockquote>
 </p>
 
