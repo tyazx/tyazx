@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction."</i>
+<i>"The only thing worse than being blind is having sight but no vision."</i>
 <br>
-<b>- G.I. Gurdjieff</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
