@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn from the rejection and turn it into an opportunity!"</i>
+<i>"Keep your face always toward the sunshine -  shadows will fall behind you."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
