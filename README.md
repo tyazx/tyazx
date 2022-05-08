@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The chief danger in life is that you may take too many precautions."</i>
+<i>"Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
