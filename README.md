@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Little by little, one travels far."</i>
+<i>"Learn from the rejection and turn it into an opportunity!"</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
