@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You never know when a moment and a few sincere words can have an impact on a life.  "</i>
+<i>"We can have more than we've got because we can become more than we are."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
