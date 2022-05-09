@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Treat every moment as your last. It is not preparation for something else."</i>
+<i>"Acknowledging the good that you already have in your life is the foundation for all abundance."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
