@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's OK to have your eggs in one basket as long as you control what happens to that basket."</i>
+<i>"The way out is in."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
