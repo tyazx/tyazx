@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage."</i>
+<i>"Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
