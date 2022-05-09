@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort."</i>
+<i>"Treat every moment as your last. It is not preparation for something else."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
