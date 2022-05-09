@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is the sum of small efforts, repeated day in and day out."</i>
+<i>"You are not one person, but three: The one you think you are; The one others think you are; The one you really are."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
