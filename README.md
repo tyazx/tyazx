@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The guest will judge better of a feast than the cook."</i>
+<i>"I defeat my enemies when I make them my friends."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
