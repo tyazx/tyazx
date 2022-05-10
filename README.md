@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"an action committed in anger is an action doomed to failure. "</i>
+<i>"The guest will judge better of a feast than the cook."</i>
 <br>
-<b>- Genghis Khan</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
