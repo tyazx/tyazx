@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A zen master's life is one continuous mistake."</i>
+<i>"Continuous effort - not strength or intelligence - is the key to unlocking our potential."</i>
 <br>
-<b>- Dogen</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
