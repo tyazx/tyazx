@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take responsibility of your own happiness, never put it in other people's hands."</i>
+<i>"The saddest aspect of life is that there is no one on earth whose happiness is such that he won't sometimes wish he were dead rather than alive."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
