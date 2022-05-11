@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people fail in life not because they aim too high and miss, but because they aim too low and hit."</i>
+<i>"Everything is possible. The impossible just takes longer."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
