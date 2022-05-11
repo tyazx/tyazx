@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing good ever comes of violence."</i>
+<i>"Most people fail in life not because they aim too high and miss, but because they aim too low and hit."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
