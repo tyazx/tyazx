@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even a hare will bite when it is cornered. "</i>
+<i>"What you get by achieving your goals is not as important as what you become by achieving your goals."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
