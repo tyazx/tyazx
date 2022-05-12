@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We take care of the future best by taking care of the present now."</i>
+<i>"He who violates another's honor loses his own."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
