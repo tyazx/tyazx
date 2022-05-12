@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are what we repeatedly do. Excellence, then, is not an act, but a habit."</i>
+<i>"Don't concern yourself with the money. Be of service. Build. Work. Dream. Create."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
