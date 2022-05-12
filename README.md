@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Progress lies not in enhancing what is, but in advancing toward what will be."</i>
+<i>"If a man knows not to which port he sails, no wind is favorable.  "</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
