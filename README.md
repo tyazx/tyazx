@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday."</i>
+<i>"Your vision will become clear only when you can look into your own heart."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
