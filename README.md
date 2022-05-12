@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people dream of success, while others wake up and work hard at it."</i>
+<i>"Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
