@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control."</i>
+<i>"Life can be the scariest and most beautiful thing simultaneously."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
