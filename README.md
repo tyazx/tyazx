@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible."</i>
+<i>"The roots of education are bitter, but the fruit is sweet."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
