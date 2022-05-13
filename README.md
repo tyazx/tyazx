@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mind is the creator of everything. You should therefore guide it to create only good."</i>
+<i>"He who can, does."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
