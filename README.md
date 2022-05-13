@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The roots of education are bitter, but the fruit is sweet."</i>
+<i>"It is never too late to be what you might have been."</i>
 <br>
-<b>- Aristotle</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
