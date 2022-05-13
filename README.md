@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life can be the scariest and most beautiful thing simultaneously."</i>
+<i>"Teachers open the door. You enter by yourself. "</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
