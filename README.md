@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is never too late to be what you might have been."</i>
+<i>"Not doing it is certainly the best way to not getting it.  "</i>
 <br>
-<b>- George Eliot</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
