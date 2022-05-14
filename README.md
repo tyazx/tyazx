@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am who I am today because of the choices I made yesterday."</i>
+<i>"With the new day comes new strength and new thoughts."</i>
 <br>
 <b>- Eleanor Roosevelt</b>
 </blockquote>
