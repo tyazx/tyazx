@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"With the new day comes new strength and new thoughts."</i>
+<i>"We can't help everyone, but everyone can help someone."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
