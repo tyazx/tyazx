@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you see yourself as prosperous, you will be."</i>
+<i>"It is during our darkest moments that we must focus to see the light."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
