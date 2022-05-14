@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"With the new day comes new strength and new thoughts."</i>
+<i>"You must welcome change as the rule but not as your ruler. "</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
