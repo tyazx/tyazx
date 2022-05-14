@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is during our darkest moments that we must focus to see the light."</i>
+<i>"Fashion fades, only style remains the same."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
