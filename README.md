@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who can, does."</i>
+<i>"Mastering others is strength, mastering yourself is true power."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
