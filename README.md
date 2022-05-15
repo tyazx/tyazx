@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Raise your words, not voice. It is rain that grows flowers, not thunder."</i>
+<i>"Those who seek the easy way do not seek the true way."</i>
 <br>
-<b>- Rumi</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
