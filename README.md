@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime."</i>
+<i>"Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
