@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When one does not have what one wants, one must want what one has."</i>
+<i>"Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
