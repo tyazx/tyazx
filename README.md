@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who seek the easy way do not seek the true way."</i>
+<i>"Success in any endeavor depends on the degree to which it is an expression of your true self. "</i>
 <br>
-<b>- Dogen</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
