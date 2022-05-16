@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't want anything. Then you get everything."</i>
+<i>"No man can get rich himself unless he enriches others."</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
