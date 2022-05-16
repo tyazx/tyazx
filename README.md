@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man can get rich himself unless he enriches others."</i>
+<i>"The best time to plant a tree was 20 years ago. The second best time is now."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
