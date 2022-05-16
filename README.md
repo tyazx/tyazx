@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The idea of ourselves is our escape from the fact of what we really are."</i>
+<i>"When you can't make them see the light, make them feel the heat."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
