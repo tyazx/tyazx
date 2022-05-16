@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one can confidently say that he will still be living tomorrow."</i>
+<i>"A Quitter never wins - and - a Winner never quits."</i>
 <br>
-<b>- Euripides</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
