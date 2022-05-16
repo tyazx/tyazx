@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you can't make them see the light, make them feel the heat."</i>
+<i>"Don't want anything. Then you get everything."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Seungsahn</b>
 </blockquote>
 </p>
 
