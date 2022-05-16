@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best time to plant a tree was 20 years ago. The second best time is now."</i>
+<i>"The grass is greener where you water it."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Neil Barringham</b>
 </blockquote>
 </p>
 
