@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't wait for extraordinary opportunities. Seize common occasions and make them great."</i>
+<i>"The idea of ourselves is our escape from the fact of what we really are."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
