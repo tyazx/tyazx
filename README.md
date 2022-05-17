@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given."</i>
+<i>"Knowing your own darkness is the best method for dealing with the darknesses of other people."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
