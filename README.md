@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Conquer the devils with a little thing called love."</i>
+<i>"Pleasure can be supported by an illusion; but happiness rests upon truth. "</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
