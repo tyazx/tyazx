@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must not be afraid of dreaming the seemingly impossible if we want the seemingly impossible to become a reality."</i>
+<i>"Conquer the devils with a little thing called love."</i>
 <br>
-<b>- Vaclav Havel</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
