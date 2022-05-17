@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pleasure can be supported by an illusion; but happiness rests upon truth. "</i>
+<i>"We create the world and ourselves;"</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
