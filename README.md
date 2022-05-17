@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you extend kindness to yourself, the more it will become your automatic response to others."</i>
+<i>"The cost of leadership is self-interest."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
