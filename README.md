@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity."</i>
+<i>"We must not be afraid of dreaming the seemingly impossible if we want the seemingly impossible to become a reality."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
