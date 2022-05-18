@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge."</i>
+<i>"Age is a very high price to pay for maturity."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
