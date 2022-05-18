@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom."</i>
+<i>"Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge."</i>
 <br>
-<b>- Sonia Ricotti</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
