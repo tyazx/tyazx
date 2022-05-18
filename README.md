@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The cost of leadership is self-interest."</i>
+<i>"You are not one person, but three: The one you think you are; The one others think you are; The one you really are."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
