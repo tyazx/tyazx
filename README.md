@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To raise your consciousness, surround yourself with people of higher consciousness."</i>
+<i>"You will have bad times, but they will always wake you up to the stuff you weren't paying attention to."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Robin Williams</b>
 </blockquote>
 </p>
 
