@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"This is such a short and precious life that it's really important that you don't spend it being unhappy."</i>
+<i>"Life is what happens to you while you're busy making other plans."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
