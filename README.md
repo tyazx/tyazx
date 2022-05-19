@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way of success is the way of continuous pursuit of knowledge."</i>
+<i>"Time flies whether you are having fun or not."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
