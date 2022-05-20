@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It doesn't matter where you are, you are nowhere compared to where you can go."</i>
+<i>"Science can flourish only in an atmosphere of free speech. "</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
