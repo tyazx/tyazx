@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Self-control is strength."</i>
+<i>"Start each day with a positive thought and a grateful heart."</i>
 <br>
-<b>- James Allen</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
