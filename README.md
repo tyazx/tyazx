@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The key to success is to focus our conscious mind on things we desire not things we fear. "</i>
+<i>"It doesn't matter where you are, you are nowhere compared to where you can go."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
