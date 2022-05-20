@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't imagine it, you can't have it."</i>
+<i>"The key to success is to focus our conscious mind on things we desire not things we fear. "</i>
 <br>
-<b>- Toni Morrison</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
