@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work for something because it is good, not just because it stands a chance to succeed."</i>
+<i>"The essence of the Way is detachment."</i>
 <br>
-<b>- Vaclav Havel</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
