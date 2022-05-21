@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything you've ever wanted is on the other side of fear."</i>
+<i>"Dream big and dare to fail."</i>
 <br>
-<b>- George Addair</b>
+<b>- Norman Vaughan</b>
 </blockquote>
 </p>
 
