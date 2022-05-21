@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like playing the violin in public and learning the instrument as one goes on."</i>
+<i>"The only lost cause is one we give up on before we enter the struggle."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
