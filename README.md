@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What the eye doesn't see and the mind doesn't know, doesn't exist."</i>
+<i>"Before anything else, preparation is the key to success."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
