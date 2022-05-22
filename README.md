@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest."</i>
+<i>"Blessed is he who expects nothing, for he shall never be disappointed."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
