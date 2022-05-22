@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't imagine it, you can't have it."</i>
+<i>"None of us can change our yesterdays but all of us can change our tomorrows."</i>
 <br>
-<b>- Toni Morrison</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
