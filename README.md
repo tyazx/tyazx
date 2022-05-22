@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be the silent watcher of your thoughts and behavior. You are beneath the thinker."</i>
+<i>"Deeds will not be less valiant because they are upraised."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
