@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Blessed is he who expects nothing, for he shall never be disappointed."</i>
+<i>"Life itself is the most wonderful fairy tale."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
