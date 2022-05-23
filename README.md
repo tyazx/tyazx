@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ladder of success is best climbed by stepping on the rungs of opportunity."</i>
+<i>"You talk when you cease to be at peace with your thoughts."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
