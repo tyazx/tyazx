@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life does not get better by chance, it gets better by change."</i>
+<i>"To belittle, you have to be little."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
