@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You talk when you cease to be at peace with your thoughts."</i>
+<i>"Life does not get better by chance, it gets better by change."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
