@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You will succeed because most people are lazy."</i>
+<i>"To be great is to be misunderstood."</i>
 <br>
-<b>- Shahir Zag</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
