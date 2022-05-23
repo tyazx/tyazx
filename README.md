@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be great is to be misunderstood."</i>
+<i>"There is an essence of when you are fearless, you become more creative."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
