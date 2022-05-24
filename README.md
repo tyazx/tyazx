@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can."</i>
+<i>"I cannot make my days longer so I strive to make them better."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
