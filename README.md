@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We know nothing of tomorrow, our business is to be good and happy today."</i>
+<i>"Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood."</i>
 <br>
-<b>- Sydney Smith</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
