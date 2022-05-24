@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let the past steal your present."</i>
+<i>"Where violence reigns, reason is weak."</i>
 <br>
-<b>- Cherralea Morgen</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
