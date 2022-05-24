@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I cannot make my days longer so I strive to make them better."</i>
+<i>"We are all different. Don't judge, understand instead."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
