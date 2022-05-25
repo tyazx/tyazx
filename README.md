@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one can compete with you on being you. Most of life is a search for who and what needs you the most."</i>
+<i>"You have as much laughter as you have faith."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
