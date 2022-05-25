@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Appear weak when you are strong, and strong when you are weak."</i>
+<i>"The secret of getting ahead is getting started."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
