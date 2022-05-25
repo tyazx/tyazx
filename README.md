@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one can confidently say that he will still be living tomorrow."</i>
+<i>"No one can compete with you on being you. Most of life is a search for who and what needs you the most."</i>
 <br>
-<b>- Euripides</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
