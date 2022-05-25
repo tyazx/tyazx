@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For every effect there is a root cause. Find and address the root cause rather than try to fix the effect, as there is no end to the latter."</i>
+<i>"Thinking is the hardest work there is. That is why so few people engage in it."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
