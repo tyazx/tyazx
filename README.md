@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything."</i>
+<i>"For every effect there is a root cause. Find and address the root cause rather than try to fix the effect, as there is no end to the latter."</i>
 <br>
-<b>- Sydney Smith</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
