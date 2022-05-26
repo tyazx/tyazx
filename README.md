@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing ever goes away until it has taught us what we need to know."</i>
+<i>"Each day provides it's own gifts."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
