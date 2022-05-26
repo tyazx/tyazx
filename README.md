@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To do great work one must be very idle as well as very industrious."</i>
+<i>"Someday death will take us to another star."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
