@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone you meet is fighting a battle you know nothing about. Be kind. Always."</i>
+<i>"I've always tried to go a step past wherever people expected me to end up."</i>
 <br>
-<b>- Robin Williams</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
