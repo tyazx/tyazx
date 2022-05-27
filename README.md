@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Investing in yourself is the best investment you will ever make."</i>
+<i>"When you have to make a choice and don't make it, that is in itself a choice."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
