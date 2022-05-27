@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A dead thing can go with the stream, but only a living thing can go against it."</i>
+<i>"We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
