@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order for you to be the BEST you can be for others, first you must be BEST for yourself."</i>
+<i>"Do not go where the path may lead, go instead where there is no path and leave a trail."</i>
 <br>
-<b>- Jeffrey Gitomer</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
