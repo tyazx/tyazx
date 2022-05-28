@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you are, be a good one."</i>
+<i>"Be yourself; everyone else is already taken "</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
