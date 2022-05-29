@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be thankful for everything that happens in your life; it's all an experience."</i>
+<i>"You can have results or excuses, but not both."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
