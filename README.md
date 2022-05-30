@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are content to be simply yourself and don't compare or compete, everybody will respect you. "</i>
+<i>"Go for it now. The future is promised to no one. "</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
