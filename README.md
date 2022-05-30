@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have not failed. I've just found 10,000 ways that won't work."</i>
+<i>"Change yourself and you have done your part in changing the world."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
