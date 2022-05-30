@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing brings down walls as surely as acceptance."</i>
+<i>"Do you want to know who you are? Don't ask. Act! Action will delineate and define you."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
