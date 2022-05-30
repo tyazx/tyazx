@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tradition is the illusion of permanence. "</i>
+<i>"When you are content to be simply yourself and don't compare or compete, everybody will respect you. "</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
