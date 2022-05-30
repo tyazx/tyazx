@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can."</i>
+<i>"The only limits in your life are those that you set yourself."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
