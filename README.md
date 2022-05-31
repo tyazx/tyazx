@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not how long, but how well you have lived is the main thing."</i>
+<i>"There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen."</i>
 <br>
-<b>- Seneca</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
