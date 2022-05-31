@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dream big and dare to fail."</i>
+<i>"Real loss is only possible when you love something more than you love yourself."</i>
 <br>
-<b>- Norman Vaughan</b>
+<b>- Robin Williams</b>
 </blockquote>
 </p>
 
