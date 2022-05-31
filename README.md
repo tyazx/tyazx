@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Giving back involves a certain amount of giving up."</i>
+<i>"We can change our lives. We can do, have, and be exactly what we wish."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
