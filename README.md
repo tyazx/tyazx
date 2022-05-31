@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything is created twice, first in the mind and then in reality."</i>
+<i>"Giving back involves a certain amount of giving up."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
