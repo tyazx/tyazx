@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Real loss is only possible when you love something more than you love yourself."</i>
+<i>"Whatever is begun in anger, ends in shame."</i>
 <br>
-<b>- Robin Williams</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
