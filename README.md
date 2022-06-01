@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life reflects your own thoughts back to you."</i>
+<i>"Reading should be a pleasure, not a chore."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
