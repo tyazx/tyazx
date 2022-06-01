@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The art of being wise is knowing what to overlook."</i>
+<i>"It is easy to discover what another has discovered before."</i>
 <br>
-<b>- William James</b>
+<b>- Christopher Columbus</b>
 </blockquote>
 </p>
 
