@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"At first dreams seem impossible, then improbable, then inevitable."</i>
+<i>"Why do you stay in prison when the door is so wide open?"</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
