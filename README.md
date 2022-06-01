@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Concentrated power has always been the enemy of liberty."</i>
+<i>"You live by what you thrill to, and there's the end of it."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
