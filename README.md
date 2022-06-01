@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To lead an orchestra, you must turn your back on the crowd."</i>
+<i>"The art of being wise is knowing what to overlook."</i>
 <br>
-<b>- Aristotle</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
