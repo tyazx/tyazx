@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not look for approval except for the consciousness of doing your best."</i>
+<i>"Being entirely honest with oneself is a good exercise."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
