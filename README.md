@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reading should be a pleasure, not a chore."</i>
+<i>"Concentrated power has always been the enemy of liberty."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
