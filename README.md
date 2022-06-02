@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you seek is seeking you."</i>
+<i>"Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing."</i>
 <br>
-<b>- Rumi</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
