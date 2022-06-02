@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry."</i>
+<i>"When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. "</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
