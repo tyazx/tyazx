@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do you want to know who you are? Don't ask. Act! Action will delineate and define you."</i>
+<i>"Life is not just the passing of time. Life is the collection of experiences and their intensity."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
