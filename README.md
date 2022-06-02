@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People should pursue what they're passionate about. That will make them happier than pretty much anything else."</i>
+<i>"There is an essence of when you are fearless, you become more creative."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
