@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is an essence of when you are fearless, you become more creative."</i>
+<i>"Success is built sequentially. It's one thing at a time."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
