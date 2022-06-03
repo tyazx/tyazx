@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am not the outcome. I am never the result. I am only the effort."</i>
+<i>"Those who attain the middle Dominate the whole."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
