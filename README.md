@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not what we get. But who we become, what we contribute... that gives meaning to our lives."</i>
+<i>"Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
