@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only by acceptance of the past, can you alter it."</i>
+<i>"Dance first. Think later. It's the natural order."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
