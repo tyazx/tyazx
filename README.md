@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing."</i>
+<i>"The hard path is often the right one. The river teaches more than the shore."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
