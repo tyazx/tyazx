@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thinking is the hardest work there is. That is why so few people engage in it."</i>
+<i>"Imagination is everything. It is the preview of life's coming attractions."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
