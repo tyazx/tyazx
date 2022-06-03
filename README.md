@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let what you cannot do interfere with what you can do."</i>
+<i>"Only by acceptance of the past, can you alter it."</i>
 <br>
-<b>- John Wooden</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
