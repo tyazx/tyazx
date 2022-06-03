@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is everything. It is the preview of life's coming attractions."</i>
+<i>"It is not what we get. But who we become, what we contribute... that gives meaning to our lives."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
