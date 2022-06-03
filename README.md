@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A heart is not judged by how much you love, but by how much you are loved by others."</i>
+<i>"Don't let what you cannot do interfere with what you can do."</i>
 <br>
-<b>- Judy Garland</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
