@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The hard path is often the right one. The river teaches more than the shore."</i>
+<i>"A heart is not judged by how much you love, but by how much you are loved by others."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
