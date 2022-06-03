@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who attain the middle Dominate the whole."</i>
+<i>"I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
