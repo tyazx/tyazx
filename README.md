@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every day may not be good, but there's something good in every day."</i>
+<i>"The wise warrior avoids the battle."</i>
 <br>
-<b>- Unknown</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
