@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most difficult times for many of us are the ones we give ourselves."</i>
+<i>"When one does not have what one wants, one must want what one has."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
