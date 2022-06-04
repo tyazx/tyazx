@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves."</i>
+<i>"Every day may not be good, but there's something good in every day."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
