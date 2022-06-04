@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Decide what your truth is. Then live it."</i>
+<i>"No man is more cheated than the selfish man."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
