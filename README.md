@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unless you're ashamed of yourself now and then, you're not honest."</i>
+<i>"Most people achieved their greatest success one step beyond what looked like their greatest failure."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
