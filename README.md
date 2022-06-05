@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Because a thing seems difficult for you, do not think it impossible."</i>
+<i>"If you take responsibility for yourself you will develop a hunger to accomplish your dream."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
