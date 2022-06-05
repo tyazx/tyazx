@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each path to knowledge involves different rules and these rules are not interchangeable."</i>
+<i>"Judge a man by his questions rather than his answers."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
