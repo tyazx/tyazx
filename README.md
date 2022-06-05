@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not look for a sanctuary in anyone except your self."</i>
+<i>"When we allow negative messages to fester in our head, they take on a life of their own."</i>
 <br>
-<b>- Buddha</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
