@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability."</i>
+<i>"Time stays long enough for anyone who will use it."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
