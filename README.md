@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who permits himself to tell a lie once, finds it much easier to do it the second time."</i>
+<i>"Focus is a matter of deciding what things you're not going to do."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- John Carmack</b>
 </blockquote>
 </p>
 
