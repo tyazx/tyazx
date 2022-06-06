@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Preoccupied with a single leaf you won't see the tree."</i>
+<i>"He who permits himself to tell a lie once, finds it much easier to do it the second time."</i>
 <br>
-<b>- Unknown</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
