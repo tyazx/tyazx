@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Focus is a matter of deciding what things you're not going to do."</i>
+<i>"Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control."</i>
 <br>
-<b>- John Carmack</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
