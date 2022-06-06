@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wisest men follow their own direction."</i>
+<i>"Realistic people do not accomplish extraordinary things."</i>
 <br>
-<b>- Euripides</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
