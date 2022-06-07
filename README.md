@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thoughts become things. If you see it in your mind, you will hold it in your hand."</i>
+<i>"Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Charles Spurgeon</b>
 </blockquote>
 </p>
 
