@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths."</i>
+<i>"Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat."</i>
 <br>
-<b>- Charles Spurgeon</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
