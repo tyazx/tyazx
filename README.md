@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are dark shadows on the earth, but its lights are stronger in the contrast."</i>
+<i>"Thoughts become things. If you see it in your mind, you will hold it in your hand."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
