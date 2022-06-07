@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat."</i>
+<i>"Remember that the best relationship is one in which your love for each other exceeds your need for each other."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
