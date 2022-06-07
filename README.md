@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What would life be if we had no courage to attempt anything? "</i>
+<i>"One never does wrong by doing right."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
