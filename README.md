@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember that the best relationship is one in which your love for each other exceeds your need for each other."</i>
+<i>"The best teacher is experience and not through someone's distorted point of view."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Jack Kerouac</b>
 </blockquote>
 </p>
 
