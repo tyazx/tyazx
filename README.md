@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed."</i>
+<i>"What would life be if we had no courage to attempt anything? "</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
