@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just because something isn't a lie does not mean that it isn't deceptive."</i>
+<i>"By words the mind is winged."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
