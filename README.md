@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Absence makes the heart grow fonder."</i>
+<i>"The score never interested me, only the game."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
