@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make failure your teacher, not your undertaker.  "</i>
+<i>"Great minds are always feared by lesser minds."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
