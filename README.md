@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The score never interested me, only the game."</i>
+<i>"It's better to dance than to march through life."</i>
 <br>
-<b>- Mae West</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
