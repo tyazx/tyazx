@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never waste a minute of your precious life thinking about people you don't like."</i>
+<i>"Always forgive your enemies - nothing annoys them so much. "</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
