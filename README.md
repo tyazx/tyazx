@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's better to dance than to march through life."</i>
+<i>"You make your own luck if you stay at it long enough."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
