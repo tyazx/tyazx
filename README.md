@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right."</i>
+<i>"The quality, not the longevity, of one's life is what is important."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
