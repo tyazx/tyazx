@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability."</i>
+<i>"We forge the chains we wear in life."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
