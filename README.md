@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whether you think you can or think you can't – you are right."</i>
+<i>"Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
