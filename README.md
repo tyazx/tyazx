@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't break your ropes while you're alive, do you think ghosts will do it after?"</i>
+<i>"Courage is found in unlikely places."</i>
 <br>
-<b>- Kabir</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
