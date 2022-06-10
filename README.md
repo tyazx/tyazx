@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quiet people have the loudest minds."</i>
+<i>"Mastering others is strength, mastering yourself is true power."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
