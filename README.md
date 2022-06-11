@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing yourself is the beginning of all wisdom."</i>
+<i>"The guest will judge better of a feast than the cook."</i>
 <br>
 <b>- Aristotle</b>
 </blockquote>
