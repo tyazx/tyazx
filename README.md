@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Smell the cheese often so you know when it is getting old."</i>
+<i>"An ounce of performance is worth pounds of promises."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
