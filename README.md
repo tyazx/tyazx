@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never give up work. Work gives you meaning and purpose and life is empty without it."</i>
+<i>"Being entirely honest with oneself is a good exercise."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
