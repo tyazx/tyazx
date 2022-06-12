@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The whole of life, from the moment you are born to the moment you die, is a process of learning."</i>
+<i>"Whatever happens always happens on time."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
