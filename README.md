@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do anything, but let it produce joy."</i>
+<i>"If a thing is worth doing, it is worth doing badly."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
