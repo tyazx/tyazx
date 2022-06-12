@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being entirely honest with oneself is a good exercise."</i>
+<i>"A dream doesn't become reality through magic it takes sweat, determination and hard work."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
