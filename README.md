@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first rule of business; treat others like they want to treat you."</i>
+<i>"I skate to where the puck is going to be, not where it has been."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
