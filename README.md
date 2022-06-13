@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I skate to where the puck is going to be, not where it has been."</i>
+<i>"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. "</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
