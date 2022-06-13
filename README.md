@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A mistake is only an error, it becomes a mistake when you fail to correct it."</i>
+<i>"Definiteness of purpose is the starting point of all achievement. "</i>
 <br>
-<b>- John Lennon</b>
+<b>- W. Clement Stone</b>
 </blockquote>
 </p>
 
