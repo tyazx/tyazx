@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Definiteness of purpose is the starting point of all achievement. "</i>
+<i>"The dreamers are the saviors of the worlds."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
