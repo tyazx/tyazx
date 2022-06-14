@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!"</i>
+<i>"Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
