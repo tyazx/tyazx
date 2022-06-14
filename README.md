@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To live is the rarest thing in the world. Most people exist, that is all. "</i>
+<i>"The world is open for play, everything and everybody is mockable in a wonderful way."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Robin Williams</b>
 </blockquote>
 </p>
 
