@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy."</i>
+<i>"Life is not just the passing of time. Life is the collection of experiences and their intensity."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
