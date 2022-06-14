@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life has more imagination than we carry in our dreams."</i>
+<i>"Things may come to those who wait, but only the things left by those who hustle."</i>
 <br>
-<b>- Christopher Columbus</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
