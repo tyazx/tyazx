@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only put off until tomorrow what you are willing to die having left undone."</i>
+<i>"Life has more imagination than we carry in our dreams."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Christopher Columbus</b>
 </blockquote>
 </p>
 
