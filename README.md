@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man must use what he has, not hope for what is not."</i>
+<i>"To live is the rarest thing in the world. Most people exist, that is all. "</i>
 <br>
-<b>- G.I. Gurdjieff</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
