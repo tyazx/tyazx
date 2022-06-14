@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're really truthful with yourself, it's a wonderful guidance.  "</i>
+<i>"Man must use what he has, not hope for what is not."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- G.I. Gurdjieff</b>
 </blockquote>
 </p>
 
