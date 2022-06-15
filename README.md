@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Difficult roads often lead to beautiful destinations."</i>
+<i>"A bird does not sing because it has an answer. It sings because it has a song."</i>
 <br>
-<b>- Unknown</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
