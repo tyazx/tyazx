@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I defeat my enemies when I make them my friends."</i>
+<i>"It is in the darkness that one finds the light."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
