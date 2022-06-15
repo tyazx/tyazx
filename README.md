@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want things to be different, perhaps the answer is to become different yourself."</i>
+<i>"I defeat my enemies when I make them my friends."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
