@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can spend our whole lives escaping from the monsters of our minds."</i>
+<i>"If you are ever the smartest person in the room, you are in the wrong room."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- C. Sean McGee</b>
 </blockquote>
 </p>
 
