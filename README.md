@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A bird does not sing because it has an answer. It sings because it has a song."</i>
+<i>"You cannot change your destination overnight but you can change your direction overnight."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
