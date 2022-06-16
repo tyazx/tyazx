@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The soul without imagination is what an observatory would be without a telescope."</i>
+<i>"When people are free to do as they please, they usually imitate each other."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
