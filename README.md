@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A needle is not sharp at both ends. "</i>
+<i>"The soul without imagination is what an observatory would be without a telescope."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
