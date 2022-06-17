@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot always control what goes on outside. But you can always control what goes on inside. "</i>
+<i>"Make no small plans for they have no power to stir the soul."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Niccolo Machiavelli</b>
 </blockquote>
 </p>
 
