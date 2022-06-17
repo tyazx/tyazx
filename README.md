@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make no small plans for they have no power to stir the soul."</i>
+<i>"People are doing the best that they can from their own level of consciousness."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
