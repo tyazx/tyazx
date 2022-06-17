@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship takes time and energy if it's going to work."</i>
+<i>"Respect is earned by effort not age, all things age without effort."</i>
 <br>
-<b>- Betty White</b>
+<b>- C. Sean McGee</b>
 </blockquote>
 </p>
 
