@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Lying can never save us from another lie."</i>
+<i>"Everybody's life is either rewarding or an example."</i>
 <br>
-<b>- Vaclav Havel</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
