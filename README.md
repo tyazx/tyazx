@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Chop your own wood and it will warm you twice. "</i>
+<i>"Champions keep playing until they get it right."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Billie Jean King</b>
 </blockquote>
 </p>
 
