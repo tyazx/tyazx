@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even the smallest person can change the course of the future."</i>
+<i>"You play the hand you're dealt. I think the game's worthwhile.  "</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
