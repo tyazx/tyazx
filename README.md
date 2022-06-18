@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where the willingness is great, the difficulties cannot be great."</i>
+<i>"Even the smallest person can change the course of the future."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
