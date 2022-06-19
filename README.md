@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can never cross the ocean unless you have the courage to lose sight of the shore."</i>
+<i>"Believe that life is worth living and your belief will help create the fact."</i>
 <br>
-<b>- Christopher Columbus</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
