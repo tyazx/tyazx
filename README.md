@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no accidents... there is only some purpose that we haven't yet understood."</i>
+<i>"Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
