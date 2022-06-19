@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Debt is the slavery of the free."</i>
+<i>"There are no accidents... there is only some purpose that we haven't yet understood."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
