@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best teacher is experience and not through someone's distorted point of view."</i>
+<i>"You can never cross the ocean unless you have the courage to lose sight of the shore."</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Christopher Columbus</b>
 </blockquote>
 </p>
 
