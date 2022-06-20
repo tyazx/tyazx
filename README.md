@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree. "</i>
+<i>"Creativity is the greatest rebellion in existence."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
