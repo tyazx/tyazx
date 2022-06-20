@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the practice of tolerance, one's enemy is the best teacher."</i>
+<i>"We can't help everyone, but everyone can help someone."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
