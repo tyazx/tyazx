@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are today where your thoughts have brought you."</i>
+<i>"Begin at once to live, and count each separate day as a separate life.  "</i>
 <br>
-<b>- James Allen</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
