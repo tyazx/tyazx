@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your problem isn't the problem. Your reaction is the problem."</i>
+<i>"No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way."</i>
 <br>
-<b>- Unknown</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
