@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is simply what our feelings do to us."</i>
+<i>"We need never be ashamed of our tears."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
