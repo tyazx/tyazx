@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people feel the rain. Others just get wet. "</i>
+<i>"The person who cannot control his words shows that he cannot control himself."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
