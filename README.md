@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We need never be ashamed of our tears."</i>
+<i>"Character is the result of two things: mental attitude and the way we spend our time."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
