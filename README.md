@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The road to success and the road to failure are almost exactly the same."</i>
+<i>"Some people feel the rain. Others just get wet. "</i>
 <br>
-<b>- Colin R. Davis</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
