@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without education, we are in a horrible and deadly danger of taking educated people seriously."</i>
+<i>"Life is simply what our feelings do to us."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
