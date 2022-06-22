@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The person who cannot control his words shows that he cannot control himself."</i>
+<i>"It matters not what someone is born, but what they grow to be."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
