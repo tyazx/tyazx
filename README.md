@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It matters not what someone is born, but what they grow to be."</i>
+<i>"Without education, we are in a horrible and deadly danger of taking educated people seriously."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
