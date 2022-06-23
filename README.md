@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now."</i>
+<i>"If you run you stand a chance of losing, but if you don't run you've already lost."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
