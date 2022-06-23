@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is not something ready made. It comes from your own actions."</i>
+<i>"You can often change your circumstances by changing your attitude."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
