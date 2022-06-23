@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing yourself is the beginning of all wisdom."</i>
+<i>"Your conscience is the measure of the honesty of your selfishness. Listen to it carefully."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
