@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your conscience is the measure of the honesty of your selfishness. Listen to it carefully."</i>
+<i>"Everyone thinks of changing the world, but no one thinks of changing himself."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
