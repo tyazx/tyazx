@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"At first dreams seem impossible, then improbable, then inevitable."</i>
+<i>"Heal the past, live the present, dream the future."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
