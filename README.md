@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner."</i>
+<i>"At first dreams seem impossible, then improbable, then inevitable."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
