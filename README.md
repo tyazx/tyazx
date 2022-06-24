@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"At first dreams seem impossible, then improbable, then inevitable."</i>
+<i>"Few things are more deceptive than memories."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
