@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is either a daring adventure, or it is nothing."</i>
+<i>"Do not use life to give life to death. Do not use death to bring death to life."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
