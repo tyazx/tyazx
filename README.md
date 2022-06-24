@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life can only be understood backwards; but it must be lived forwards."</i>
+<i>"Sometimes success isn't about making the right decision, it's more about making some decision."</i>
 <br>
-<b>- Soren Kierkegaard</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
