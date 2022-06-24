@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Few things are more deceptive than memories."</i>
+<i>"Attitude is a little thing that makes a big difference."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
