@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you."</i>
+<i>"Life is either a daring adventure, or it is nothing."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
