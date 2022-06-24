@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting."</i>
+<i>"Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. "</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
