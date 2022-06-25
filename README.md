@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid that you do not know something. Be afraid of not learning about it."</i>
+<i>"If you genuinely want something, don't wait for it - teach yourself."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
