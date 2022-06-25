@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you reach the top of the mountain, keep climbing. "</i>
+<i>"The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
