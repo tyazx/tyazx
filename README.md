@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every day may not be good, but there's something good in every day."</i>
+<i>"Patience is bitter, but its fruit is sweet."</i>
 <br>
-<b>- Unknown</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
