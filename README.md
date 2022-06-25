@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Patience is bitter, but its fruit is sweet."</i>
+<i>"He who violates another's honor loses his own."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
