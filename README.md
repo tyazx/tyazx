@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're only given a little spark of madness. You mustn't lose it."</i>
+<i>"I know of only one duty, and that is to love."</i>
 <br>
-<b>- Robin Williams</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
