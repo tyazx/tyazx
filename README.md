@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are free, and that is why you are lost."</i>
+<i>"Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
