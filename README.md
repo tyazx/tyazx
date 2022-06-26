@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every time we liberate a woman, we liberate a man. "</i>
+<i>"Don't let what you cannot do interfere with what you can do."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
