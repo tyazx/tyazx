@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who leaves the game wins it."</i>
+<i>"Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Sonia Ricotti</b>
 </blockquote>
 </p>
 
