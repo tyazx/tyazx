@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let what you cannot do interfere with what you can do."</i>
+<i>"Be a master of change rather than a victim of change."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
