@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A loving heart is the truest wisdom."</i>
+<i>"What do we live for if not to make life less difficult for each other?"</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
