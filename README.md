@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The fear of death is more to be feared, than death itself."</i>
+<i>"Be kind, for everyone you meet is fighting a harder battle."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
