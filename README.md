@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Laziness may appear attractive, but work gives satisfaction."</i>
+<i>"Give out what you most want to come back."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
