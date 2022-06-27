@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny."</i>
+<i>"Always be a first rate version of yourself and not a second rate version of someone else."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
