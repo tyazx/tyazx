@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I love fools' experiments. I am always making them."</i>
+<i>"It is safer to search in the maze than to remain in a cheeseless situation."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
