@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What do we live for if not to make life less difficult for each other?"</i>
+<i>"Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. "</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
