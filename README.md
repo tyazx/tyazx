@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You already have every characteristic necessary for success if you recognize, claim, develop and use them."</i>
+<i>"If the grass is greener on the other side, maybe that's because you're not taking good care of your grass."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
