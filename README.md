@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People are not disturbed by things, but by the views they take of them."</i>
+<i>"Keep your eyes on the stars, but remember to keep your feet on the ground."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
