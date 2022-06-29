@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like a wheel. Sooner or later, it always comes around to where you started again."</i>
+<i>"I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
