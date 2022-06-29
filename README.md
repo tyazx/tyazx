@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wherever there is danger, there lurks opportunity; wherever there is opportunity, there lurks danger. The two are inseparable."</i>
+<i>"Life is not just the passing of time. Life is the collection of experiences and their intensity."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
