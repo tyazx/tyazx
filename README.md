@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know the rules well, so you can break them effectively."</i>
+<i>"Rudeness is the weak man's imitation of strength."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
