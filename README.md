@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is not just the passing of time. Life is the collection of experiences and their intensity."</i>
+<i>"The fewer the words, the better the prayer."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
