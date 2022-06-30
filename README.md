@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is useless to meet revenge with revenge; it will heal nothing."</i>
+<i>"Courage is resistance to fear, mastery of fear - not absence of fear."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
