@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Eighty percent of success is showing up. "</i>
+<i>"It is useless to meet revenge with revenge; it will heal nothing."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
