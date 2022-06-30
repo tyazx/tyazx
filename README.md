@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Attitude drives actions. Actions drive results. Results drive lifestyles."</i>
+<i>"Eighty percent of success is showing up. "</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
