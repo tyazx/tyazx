@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To plant a garden is to believe in tomorrow.  "</i>
+<i>"You can, you should, and if you're brave enough to start, you will."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
