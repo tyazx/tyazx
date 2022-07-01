@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot change your destination overnight but you can change your direction overnight."</i>
+<i>"Conscience is a man's compass. "</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
