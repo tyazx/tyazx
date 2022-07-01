@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is acceptable. Not trying is a whole different ball park."</i>
+<i>"Smell the cheese often so you know when it is getting old."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
