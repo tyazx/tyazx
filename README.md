@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world."</i>
+<i>"No duty is more urgent than that of returning thanks."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
