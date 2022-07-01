@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All problems are interpersonal relationship problems."</i>
+<i>"Happiness is not a goal...it's a by-product of a life well lived."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
