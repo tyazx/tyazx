@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't know where you're going, you will probably end up somewhere else."</i>
+<i>"The primary point of this existence is to live, and all living things move and grow."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
