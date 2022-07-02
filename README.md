@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Patience is bitter, but its fruit is sweet."</i>
+<i>"Peace is letting it be. Letting life flow, letting emotions flow through you."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
