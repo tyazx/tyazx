@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hold yourself responsible for a higher standard than anybody else expects of you."</i>
+<i>"From a certain point onward there is no longer any turning back. That is the point that must be reached."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
