@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take care of your body. It's the only place you have to live."</i>
+<i>"Man must use what he has, not hope for what is not."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- G.I. Gurdjieff</b>
 </blockquote>
 </p>
 
