@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A golden cage is still just a cage."</i>
+<i>"All I can do is be me, whoever that is."</i>
 <br>
-<b>- Anita Krizzan</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
