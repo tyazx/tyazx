@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If ever you feel like an animal among men, be a lion."</i>
+<i>"Take care of your body. It's the only place you have to live."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
