@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I was wise enough to never grow up while fooling most people into believing I had. "</i>
+<i>"A golden cage is still just a cage."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
