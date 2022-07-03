@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"From a certain point onward there is no longer any turning back. That is the point that must be reached."</i>
+<i>"Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Charles Spurgeon</b>
 </blockquote>
 </p>
 
