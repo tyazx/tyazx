@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are dark shadows on the earth, but its lights are stronger in the contrast."</i>
+<i>"The wise learn many things from their enemies."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
