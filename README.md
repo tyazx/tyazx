@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Blessed is he who expects nothing, for he shall be disappointed."</i>
+<i>"Being a good example is the best form of service."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
