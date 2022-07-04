@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Genius is patience."</i>
+<i>"Many a man has failed because he had his wishbone where his backbone should have been."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
