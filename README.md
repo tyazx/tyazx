@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Within every desire is the mechanics of its fulfillment."</i>
+<i>"The person who says something is impossible should not interrupt the person who is doing it."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
