@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Who you are is always right."</i>
+<i>"Always forgive your enemies - nothing annoys them so much. "</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
