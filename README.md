@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have the potential for greatness."</i>
+<i>"Everybody's life is either rewarding or an example."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
