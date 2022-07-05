@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everybody's life is either rewarding or an example."</i>
+<i>"It is better to fail in originality than to succeed in imitation."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Herman Melville</b>
 </blockquote>
 </p>
 
