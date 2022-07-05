@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question."</i>
+<i>"The goal is not to be perfect by the end, the goal is to be better today."</i>
 <br>
-<b>- John Tukey</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
