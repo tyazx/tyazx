@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is consistency of thinking about what is possible and how to make it possible."</i>
+<i>"The soul without imagination is what an observatory would be without a telescope."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
