@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results."</i>
+<i>"We are all self-made, but only the successful will admit it."</i>
 <br>
-<b>- James Allen</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
