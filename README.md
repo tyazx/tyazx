@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Start each day with a positive thought and a grateful heart."</i>
+<i>"Believe in one thing too much and you have no room for new ideas.  "</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
