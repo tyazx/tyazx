@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not what you've got; it's what you do that makes the difference."</i>
+<i>"Nothing ever goes away until it has taught us what we need to know."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
