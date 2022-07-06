@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are lucky enough to find love, remember it is there and don't throw it away."</i>
+<i>"Some people find fault like there is a reward for it.  "</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
