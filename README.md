@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you think the world is withholding from you, you are withholding from the world."</i>
+<i>"Success is good at any age, but the sooner you find it, the longer you will enjoy it."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
