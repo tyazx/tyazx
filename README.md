@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Till it has loved, no man or woman can become itself."</i>
+<i>"I believe that potential is unlimited - success depends on daring to act on dreams.   "</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
