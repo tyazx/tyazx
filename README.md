@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is what we make out of what we have, not what we are given, that separates one person from another."</i>
+<i>"We must not sit down and wait for miracles. Up and be going!"</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
