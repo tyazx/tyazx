@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is good at any age, but the sooner you find it, the longer you will enjoy it."</i>
+<i>"The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now!"</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
