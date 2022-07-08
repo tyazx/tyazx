@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enthusiasm is a vital element toward the individual success of every man or woman."</i>
+<i>"The more we value things, the less we value ourselves.  "</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
