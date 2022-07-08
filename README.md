@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order to attain the impossible, one must attempt the absurd."</i>
+<i>"Enthusiasm is a vital element toward the individual success of every man or woman."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Conrad Hilton</b>
 </blockquote>
 </p>
 
