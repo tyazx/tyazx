@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more we value things, the less we value ourselves.  "</i>
+<i>"When we think about our strengths, we are strong. When we think about our weaknesses, we are weak."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Peter A. Cohen</b>
 </blockquote>
 </p>
 
