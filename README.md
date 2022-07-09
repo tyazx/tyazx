@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a long lesson in humility. "</i>
+<i>"Others have seen what is and asked why. I have seen what could be and asked why not"</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
