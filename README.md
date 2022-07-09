@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Others have seen what is and asked why. I have seen what could be and asked why not"</i>
+<i>"A dead thing can go with the stream, but only a living thing can go against it."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
