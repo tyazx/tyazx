@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quality is more important than quantity. One home run is much better than two doubles."</i>
+<i>"It is never too late to be what you might have been."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
