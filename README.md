@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be in harmony with the wholeness of things is not to have anxiety over imperfections."</i>
+<i>"Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them."</i>
 <br>
-<b>- Dogen</b>
+<b>- W. Clement Stone</b>
 </blockquote>
 </p>
 
