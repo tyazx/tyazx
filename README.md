@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Conflict cannot survive without your participation. "</i>
+<i>"Before preparing to improve the world, first look around your own home three times. "</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
