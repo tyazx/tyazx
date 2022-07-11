@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything has beauty but not everyone sees it."</i>
+<i>"Trust, but verify."</i>
 <br>
-<b>- Confucius</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
