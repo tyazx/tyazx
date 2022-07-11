@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less people know, the more stubbornly they know it."</i>
+<i>"The future belongs to those who believe in the beauty of their dreams."</i>
 <br>
-<b>- Osho</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
