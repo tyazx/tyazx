@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who wants to achieve a dream must stay strong, focused and steady."</i>
+<i>"The less people know, the more stubbornly they know it."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
