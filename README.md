@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Motivation gets you going and habit gets you there.  "</i>
+<i>"What's right is what's left if you do everything else wrong."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Robin Williams</b>
 </blockquote>
 </p>
 
