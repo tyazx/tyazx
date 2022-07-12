@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future doesn't belong to the faint-hearted; it belongs to the brave."</i>
+<i>"Motivation gets you going and habit gets you there.  "</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
