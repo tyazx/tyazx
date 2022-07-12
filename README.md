@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Till it has loved, no man or woman can become itself."</i>
+<i>"Getting lost along your path is a part of finding the path you are meant to be on."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
