@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A journey of a thousand miles must begin with a single step."</i>
+<i>"The future doesn't belong to the faint-hearted; it belongs to the brave."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
