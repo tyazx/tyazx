@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Getting lost along your path is a part of finding the path you are meant to be on."</i>
+<i>"A journey of a thousand miles must begin with a single step."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
