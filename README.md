@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There's no coming to consciousness without pain"</i>
+<i>"Everyone must choose one of two pains: The pain of discipline or the pain of regret."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
