@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water."</i>
+<i>"There's no coming to consciousness without pain"</i>
 <br>
-<b>- Buddha</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
