@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be polite to all, but intimate with few."</i>
+<i>"Imagination means nothing without doing.  "</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
