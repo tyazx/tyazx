@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination means nothing without doing.  "</i>
+<i>"Hope means hoping when everything seems hopeless."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
