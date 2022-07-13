@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every traveler has a home of his own, and he learns to appreciate it the more from his wandering."</i>
+<i>"What lies behind us and what lies before us are tiny matters compared to what lies within us."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
