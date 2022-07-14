@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who bring sunshine into the lives of others cannot keep it from themselves."</i>
+<i>"If you think you can do a thing or think you can't do a thing, you're right."</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
