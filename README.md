@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"New beginnings are disguised as painful endings."</i>
+<i>"Through discipline comes freedom."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
