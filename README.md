@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A hopeless man is a very desperate and dangerous man, almost a dead man."</i>
+<i>"Kind words can be short and easy to speak, but their echoes are truly endless."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
