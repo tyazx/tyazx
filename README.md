@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Kind words can be short and easy to speak, but their echoes are truly endless."</i>
+<i>"Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
