@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Follow the man who seeks the truth; run from the man who has found it."</i>
+<i>"The highest form of ignorance is when you reject something you don't know anything about. "</i>
 <br>
-<b>- Vaclav Havel</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
