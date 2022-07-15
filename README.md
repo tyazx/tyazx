@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more."</i>
+<i>"If you take responsibility for yourself you will develop a hunger to accomplish your dream."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
