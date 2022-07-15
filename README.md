@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you take responsibility for yourself you will develop a hunger to accomplish your dream."</i>
+<i>"Be confident, not certain."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
