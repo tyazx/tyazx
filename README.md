@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be confident, not certain."</i>
+<i>"The decisions of our past are the architects of our present."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
