@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours."</i>
+<i>"Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
