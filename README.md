@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be the change that you want to see in the world."</i>
+<i>"It doesn't matter where you are coming from. All that matters is where you are going. "</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
