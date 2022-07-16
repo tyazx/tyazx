@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Leadership is solving problems"</i>
+<i>"It is better to fail in originality than to succeed in imitation."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Herman Melville</b>
 </blockquote>
 </p>
 
