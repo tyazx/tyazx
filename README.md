@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It doesn't matter where you are coming from. All that matters is where you are going. "</i>
+<i>"He who violates another's honor loses his own."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
