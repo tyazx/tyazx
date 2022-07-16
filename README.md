@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What the mind can conceive and believe, and the heart desire, you can achieve."</i>
+<i>"We suffer more often in imagination than in reality."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
