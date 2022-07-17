@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Obstacles don't block the path, they are the path."</i>
+<i>"Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
