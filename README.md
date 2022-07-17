@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is never final; failure is never fatal."</i>
+<i>"Obstacles don't block the path, they are the path."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
