@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no limit to the amount of good you can do if you don't care who gets the credit."</i>
+<i>"Even if you stumble and fall down, it doesn't mean you've chosen the wrong path."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
