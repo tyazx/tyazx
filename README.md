@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you believe with feeling becomes your reality. "</i>
+<i>"Be confident, not certain."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
