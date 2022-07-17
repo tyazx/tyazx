@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success comes to those who become success conscious."</i>
+<i>"There is no limit to the amount of good you can do if you don't care who gets the credit."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
