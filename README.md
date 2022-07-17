@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never stand begging for that which you have the power to earn."</i>
+<i>"Success comes to those who become success conscious."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
