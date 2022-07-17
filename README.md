@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be confident, not certain."</i>
+<i>"Just do the best you can. No one can do more than that."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
