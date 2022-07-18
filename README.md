@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured."</i>
+<i>"All leaders are readers."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
