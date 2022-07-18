@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Health is the greatest of all possessions."</i>
+<i>"Your time is limited, so don't waste it living someone elses. life. Don't be trapped by dogma - which is living with the results of other people's thinking."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
