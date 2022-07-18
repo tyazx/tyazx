@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the practice of tolerance, one's enemy is the best teacher."</i>
+<i>"Health is the greatest of all possessions."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
