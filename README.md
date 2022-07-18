@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All leaders are readers."</i>
+<i>"Don't be afraid to give up the good to go for the great."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- John D. Rockefeller</b>
 </blockquote>
 </p>
 
