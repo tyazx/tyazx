@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Facts are the enemy of truth. "</i>
+<i>"Wrong turns are as important as right turns. More important, sometimes."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
