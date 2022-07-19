@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything has beauty but not everyone sees it."</i>
+<i>"The pen is the tongue of the mind. "</i>
 <br>
-<b>- Confucius</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
