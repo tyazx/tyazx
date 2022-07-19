@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You'll see it when you believe it. "</i>
+<i>"In all chaos there is a cosmos, in all disorder a secret order."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
