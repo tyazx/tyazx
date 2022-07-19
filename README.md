@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do something worth remembering."</i>
+<i>"Duty makes us do things well, but love makes us do them beautifully.  "</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
