@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sorrow is how we learn to love."</i>
+<i>"You cannot control the behavior of others, but you can always choose how you respond to it."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
