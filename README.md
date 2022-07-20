@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best answer to anger is silence."</i>
+<i>"Reading should be a pleasure, not a chore."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
