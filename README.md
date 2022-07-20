@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pen is the tongue of the mind. "</i>
+<i>"Dream big. Start small. But most of all, start."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
