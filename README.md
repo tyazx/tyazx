@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One never does wrong by doing right."</i>
+<i>"You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
