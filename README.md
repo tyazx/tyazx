@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot control the behavior of others, but you can always choose how you respond to it."</i>
+<i>"One never does wrong by doing right."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
