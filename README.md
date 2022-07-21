@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quality of your life is determined by the quality of questions you ask."</i>
+<i>"The difference between impossible and possible is a willing heart."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
