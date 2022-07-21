@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is an essence of when you are fearless, you become more creative."</i>
+<i>"To arrive at the simplest truth requires years of contemplation."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
