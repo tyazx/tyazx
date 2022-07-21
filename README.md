@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now."</i>
+<i>"Take responsibility of your own happiness, never put it in other people's hands."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
