@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you put water into a cup, it becomes the cup."</i>
+<i>"There is an essence of when you are fearless, you become more creative."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
