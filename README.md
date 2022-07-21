@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A tiger doesn't lose sleep over the opinion of sheep."</i>
+<i>"Success is getting what you want. Happiness is wanting what you get."</i>
 <br>
-<b>- Shahir Zag</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
