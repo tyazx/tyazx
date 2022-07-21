@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The difference between impossible and possible is a willing heart."</i>
+<i>"Once you learn to quit, it becomes a habit."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
