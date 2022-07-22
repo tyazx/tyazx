@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The salvation of the world lies in the human heart."</i>
+<i>"The most virtuous are those who content themselves with being virtuous without seeking to appear so."</i>
 <br>
-<b>- Vaclav Havel</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
