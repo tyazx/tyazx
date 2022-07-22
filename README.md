@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What keeps life fascinating is the constant creativity of the soul."</i>
+<i>"What is planted in each person's soul will sprout.  "</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
