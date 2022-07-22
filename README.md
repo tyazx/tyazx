@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the midst of chaos, there is also opportunity."</i>
+<i>"What keeps life fascinating is the constant creativity of the soul."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
