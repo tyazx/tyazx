@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I can think of nothing less pleasurable than a life devoted to pleasure."</i>
+<i>"Do not follow the ideas of others, but learn to listen to the voice within yourself."</i>
 <br>
-<b>- John D. Rockefeller</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
