@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most virtuous are those who content themselves with being virtuous without seeking to appear so."</i>
+<i>"Your only limitations are those you set up in your mind or permit others to set up for you."</i>
 <br>
-<b>- Plato</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
