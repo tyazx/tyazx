@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not follow the ideas of others, but learn to listen to the voice within yourself."</i>
+<i>"I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars."</i>
 <br>
-<b>- Dogen</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
