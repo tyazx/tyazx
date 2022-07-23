@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All cruelty springs from weakness.  "</i>
+<i>"The goal is not to be perfect by the end, the goal is to be better today."</i>
 <br>
-<b>- Seneca</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
