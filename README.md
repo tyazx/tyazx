@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You may forget with whom you laughed, but you will never forget with whom you wept.  "</i>
+<i>"A crisis is an opportunity riding the dangerous wind."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
