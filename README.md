@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are free, and that is why you are lost. "</i>
+<i>"You may forget with whom you laughed, but you will never forget with whom you wept.  "</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
