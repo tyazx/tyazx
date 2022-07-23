@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Conquer the devils with a little thing called love."</i>
+<i>"You are free, and that is why you are lost. "</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
