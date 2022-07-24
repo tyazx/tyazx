@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you make a choice, you change the future."</i>
+<i>"Learn only how to avoid seeking for and attaching yourselves to anything."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
