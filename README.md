@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn only how to avoid seeking for and attaching yourselves to anything."</i>
+<i>"When the time is gone, you can never get it back."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
