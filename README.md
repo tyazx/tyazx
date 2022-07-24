@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the time is gone, you can never get it back."</i>
+<i>"The two most powerful warriors are patience and time."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
