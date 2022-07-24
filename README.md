@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a gift and the trick is not to expect it, but to delight in it when it comes."</i>
+<i>"Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
