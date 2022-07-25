@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words used to attract the dull of wit are not to be relied on."</i>
+<i>"A day wasted on others is not wasted on one's self."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
