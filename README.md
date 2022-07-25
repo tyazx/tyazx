@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed."</i>
+<i>"A single act of kindness throws out roots in all directions, and the roots spring up and make new trees."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
