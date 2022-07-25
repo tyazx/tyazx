@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A day wasted on others is not wasted on one's self."</i>
+<i>"Nothing has more strength than dire necessity."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
