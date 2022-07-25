@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is the beginning of creation."</i>
+<i>"Respect was invented to cover the empty place where love should be."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
