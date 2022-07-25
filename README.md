@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only way out is through."</i>
+<i>"Fear is stupid. So are regrets."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Marilyn Monroe</b>
 </blockquote>
 </p>
 
