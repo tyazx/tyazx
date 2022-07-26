@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each day provides it's own gifts."</i>
+<i>"an action committed in anger is an action doomed to failure. "</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Genghis Khan</b>
 </blockquote>
 </p>
 
