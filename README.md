@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A fear of weakness only strengthens weakness."</i>
+<i>"Everyone you meet is fighting a battle you know nothing about. Be kind. Always."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Robin Williams</b>
 </blockquote>
 </p>
 
