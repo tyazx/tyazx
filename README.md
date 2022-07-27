@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A fall into a ditch makes you wiser."</i>
+<i>"Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
