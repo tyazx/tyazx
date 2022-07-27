@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is what you have before you understand the problem."</i>
+<i>"Intelligent men are cruel. Stupid men are monstrously cruel."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
