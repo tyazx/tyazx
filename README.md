@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunity comes when you continually push forward."</i>
+<i>"Do all things with love."</i>
 <br>
-<b>- Sonia Ricotti</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
