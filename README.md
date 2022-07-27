@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go confidently in the direction of your dreams! Live the life you've imagined."</i>
+<i>"Confidence is what you have before you understand the problem."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
