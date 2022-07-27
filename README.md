@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intelligent men are cruel. Stupid men are monstrously cruel."</i>
+<i>"You have the freedom to be yourself, your true self, here and now, and nothing can stand in your way."</i>
 <br>
-<b>- Jack London</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
