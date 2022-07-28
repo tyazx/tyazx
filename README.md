@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where we fall are the stepping-stones for our journey."</i>
+<i>"Where there is anger, there is always pain underneath."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
