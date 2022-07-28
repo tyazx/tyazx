@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream."</i>
+<i>"The best way to not feel hopeless is to get up and do something."</i>
 <br>
-<b>- Unknown</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
