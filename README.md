@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I don't ever give up. I'd have to be dead or completely incapacitated."</i>
+<i>"Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. "</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
