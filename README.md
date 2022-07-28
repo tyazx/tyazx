@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be totally at leisure for one day is to be immortal for one day. "</i>
+<i>"There is no limit to the amount of good you can do if you don't care who gets the credit."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
