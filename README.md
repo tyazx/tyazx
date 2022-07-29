@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Exceptional thinkers ignore their critics and go about their business making history."</i>
+<i>"Wise people, even though all laws were abolished, would still lead the same life."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
