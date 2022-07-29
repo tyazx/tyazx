@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wise people, even though all laws were abolished, would still lead the same life."</i>
+<i>"Educating the mind without educating the heart is no education at all."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
