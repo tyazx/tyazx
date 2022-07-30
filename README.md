@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Old age is like everything else. To make a success of it, you've got to start young."</i>
+<i>"Growth comes at the point of resistance."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
