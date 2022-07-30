@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Growth comes at the point of resistance."</i>
+<i>"Your vision will become clear only when you can look into your own heart."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
