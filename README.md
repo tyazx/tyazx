@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone sees what you appear to be, few experience what you really are."</i>
+<i>"Don't ever save anything for a special occasion. Being alive is the special occasion."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
