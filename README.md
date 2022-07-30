@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe in your infinite potential. Your only limitations are those you set upon yourself."</i>
+<i>"Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
