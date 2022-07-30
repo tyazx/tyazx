@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness."</i>
+<i>"Believe in your infinite potential. Your only limitations are those you set upon yourself."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
