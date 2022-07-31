@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Very little is needed to make a happy life; it is all within yourself, in your way of thinking."</i>
+<i>"If you don't have time to do it right, when will you have time to do it over?"</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
