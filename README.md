@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The deeper the truth in a creative work, the longer it will live.  "</i>
+<i>"Throw your heart over the fence and the rest will follow"</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
