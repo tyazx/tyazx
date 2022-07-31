@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don´t hesitate or allow yourself to make excuses. Just get out and do it."</i>
+<i>"I never dwell on what happened. You can't change it. Move forward."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
