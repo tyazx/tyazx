@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life has more imagination than we carry in our dreams."</i>
+<i>"You are the sky. Everything else - it's just the weather."</i>
 <br>
-<b>- Christopher Columbus</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
