@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What's right is what's left if you do everything else wrong."</i>
+<i>"The deeper the truth in a creative work, the longer it will live.  "</i>
 <br>
-<b>- Robin Williams</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
