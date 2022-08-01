@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose."</i>
+<i>"Happiness is the spiritual experience of living every minute with love, grace and gratitude."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
