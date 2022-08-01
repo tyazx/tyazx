@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest deception men suffer is from their own opinions."</i>
+<i>"Embody what you teach, and teach only what you have embodied."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
