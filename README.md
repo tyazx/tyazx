@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Embody what you teach, and teach only what you have embodied."</i>
+<i>"As a man thinketh in his heart, so shall he be."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
