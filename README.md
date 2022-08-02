@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of happiness is not in doing what you like but in liking what you have to do."</i>
+<i>"We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
