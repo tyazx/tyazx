@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is a wisdom of the head, and there is a wisdom of the heart."</i>
+<i>"The secret of happiness is not in doing what you like but in liking what you have to do."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
