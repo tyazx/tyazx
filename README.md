@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unless you're ashamed of yourself now and then, you're not honest."</i>
+<i>"There is a wisdom of the head, and there is a wisdom of the heart."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
