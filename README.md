@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people do what unsuccessful people are not willing to do."</i>
+<i>"You already have every characteristic necessary for success if you recognize, claim, develop and use them."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
