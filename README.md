@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The privilege of a lifetime is to become who you truly are."</i>
+<i>"Don't talk about what you have done or what you are going to do."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
