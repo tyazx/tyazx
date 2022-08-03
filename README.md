@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life does not get better by chance, it gets better by change."</i>
+<i>"The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
