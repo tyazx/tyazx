@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'd rather welcome change than cling to the past."</i>
+<i>"I believe that one of life's greatest risks is never daring to risk."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
