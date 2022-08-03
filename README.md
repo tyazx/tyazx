@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are patient in one moment of anger, you will escape a hundred days of sorrow. "</i>
+<i>"The greatest discovery of all time is that a person can change their future by merely changing their attitude."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
