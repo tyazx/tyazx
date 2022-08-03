@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest discovery of all time is that a person can change their future by merely changing their attitude."</i>
+<i>"To wish you were someone else is to waste the person you are."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
