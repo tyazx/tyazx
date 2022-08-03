@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To wish you were someone else is to waste the person you are."</i>
+<i>"Enjoy every minute of life. Never second-guess life."</i>
 <br>
-<b>- Unknown</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
