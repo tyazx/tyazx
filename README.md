@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Either write something worth reading or do something worth writing."</i>
+<i>"Better late than never."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
