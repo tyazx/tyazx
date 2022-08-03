@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less."</i>
+<i>"If you are patient in one moment of anger, you will escape a hundred days of sorrow. "</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
