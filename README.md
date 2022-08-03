@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is not meant to be easy my child, but take courage: it can be delightful."</i>
+<i>"Life does not get better by chance, it gets better by change."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
