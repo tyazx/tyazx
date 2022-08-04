@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What the mind can conceive, it can achieve."</i>
+<i>"Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
