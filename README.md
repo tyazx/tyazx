@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quality is not an act, it is a habit."</i>
+<i>"There is no value in anything until it is finished. "</i>
 <br>
-<b>- Aristotle</b>
+<b>- Genghis Khan</b>
 </blockquote>
 </p>
 
