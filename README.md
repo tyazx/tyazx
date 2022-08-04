@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I believe that one of life's greatest risks is never daring to risk."</i>
+<i>"A man who cannot tolerate small misfortunes can never accomplish great things."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
