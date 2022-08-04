@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The heart wants what it wants - or else it does not care."</i>
+<i>"Quality is not an act, it is a habit."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
