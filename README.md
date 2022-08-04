@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no value in anything until it is finished. "</i>
+<i>"Observe things as they are and don't pay attention to other people."</i>
 <br>
-<b>- Genghis Khan</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
