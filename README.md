@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man who cannot tolerate small misfortunes can never accomplish great things."</i>
+<i>"The heart wants what it wants - or else it does not care."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
