@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are free, and that is why you are lost. "</i>
+<i>"Never confuse a single defeat with a final defeat."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
