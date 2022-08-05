@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Integrity is the ability to stand by an idea."</i>
+<i>"Perplexity is the beginning of knowledge."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
