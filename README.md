@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world doesn't always give you want, but it often gives you what you need."</i>
+<i>"Never allow someone to be your priority while allowing yourself to be their option."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
