@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perplexity is the beginning of knowledge."</i>
+<i>"You have to keep breaking your heart until it opens."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
