@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time heals what reason cannot.  "</i>
+<i>"Adults are just children who earn money."</i>
 <br>
-<b>- Seneca</b>
+<b>- Kenneth Branagh</b>
 </blockquote>
 </p>
 
