@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"May you live all the days of your life."</i>
+<i>"What we dwell on is who we become."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
