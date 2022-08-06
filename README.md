@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Concentrated power has always been the enemy of liberty."</i>
+<i>"From a certain point onward there is no longer any turning back. That is the point that must be reached."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
