@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter how tall the mountain is, it cannot block the sun."</i>
+<i>"Success is within the reach of just about everyone."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
