@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"From a certain point onward there is no longer any turning back. That is the point that must be reached."</i>
+<i>"What you resist, persists."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
