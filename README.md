@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is within the reach of just about everyone."</i>
+<i>"Is it really possible to tell someone else what one feels?"</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
