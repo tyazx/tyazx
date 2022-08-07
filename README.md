@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What we dwell on is who we become."</i>
+<i>"I have not failed. I've just found 10,000 ways that won't work."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
