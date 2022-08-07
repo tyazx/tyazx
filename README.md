@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Well done is better than well said."</i>
+<i>"Know your gifts and share them."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
