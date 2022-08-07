@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Becoming a great leader doesn't mean being perfect. it means living with your imperfections."</i>
+<i>"Small men think they are small; great men never know they are great. "</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
