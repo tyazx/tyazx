@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is about doing the right thing, not about doing everything right."</i>
+<i>"Our life isn't how much we can take out, but how much we can put in.  "</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
