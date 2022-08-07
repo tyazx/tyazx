@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have not failed. I've just found 10,000 ways that won't work."</i>
+<i>"At first dreams seem impossible, then improbable, then inevitable."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
