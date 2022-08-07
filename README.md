@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To judge a man by his weakest link or deed is like judging the power of the ocean by one wave."</i>
+<i>"Success is about doing the right thing, not about doing everything right."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
