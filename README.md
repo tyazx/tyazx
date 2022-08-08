@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything that is made beautiful and fair and lovely is made for the eye of one who sees."</i>
+<i>"Conflict cannot survive without your participation. "</i>
 <br>
-<b>- Rumi</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
