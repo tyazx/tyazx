@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To plant a garden is to believe in tomorrow.  "</i>
+<i>"A vital part of the happiness formula is self-discipline. Whoever conquers himself knows deep happiness that fills the heart with joy."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
