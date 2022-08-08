@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unless you're ashamed of yourself now and then, you're not honest."</i>
+<i>"An intelligent person hires people who are more intelligent than he is."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
