@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A vital part of the happiness formula is self-discipline. Whoever conquers himself knows deep happiness that fills the heart with joy."</i>
+<i>"Never put off to tomorrow what you can do to-day."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
