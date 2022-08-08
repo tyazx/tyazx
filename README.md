@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society."</i>
+<i>"The less you try to impress, the more peaceful you can be."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
