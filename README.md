@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who cheats the earth will be cheated by the earth."</i>
+<i>"Amateurs sit and wait for inspiration, the rest of us just get up and got to work."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
