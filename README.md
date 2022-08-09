@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes things become possible if we want them bad enough."</i>
+<i>"Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.  "</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
