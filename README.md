@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn only how to avoid seeking for and attaching yourselves to anything."</i>
+<i>"Wrong does not cease to be wrong because the majority share in it."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
