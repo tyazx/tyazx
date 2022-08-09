@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.  "</i>
+<i>"If the only prayer you ever say in your entire life is thank you, it will be enough."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
