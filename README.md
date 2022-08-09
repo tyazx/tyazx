@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A mistake is only an error, it becomes a mistake when you fail to correct it."</i>
+<i>"Sometimes things become possible if we want them bad enough."</i>
 <br>
-<b>- John Lennon</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
