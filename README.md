@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wrong does not cease to be wrong because the majority share in it."</i>
+<i>"The key to success is action."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
