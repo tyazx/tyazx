@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is a wisdom of the head, and there is a wisdom of the heart."</i>
+<i>"Change the changeable, accept the unchangeable, and remove yourself from the unacceptable. "</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
