@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Kindness is a language which the deaf can hear and the blind can see."</i>
+<i>"Only those who will risk going too far can possibly find out how far one can go."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
