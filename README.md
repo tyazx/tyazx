@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only those who will risk going too far can possibly find out how far one can go."</i>
+<i>"The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
