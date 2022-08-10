@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest adventure you can ever take is to live the life of your dreams. "</i>
+<i>"Truth is like most opinions - best unexpressed."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Kenneth Branagh</b>
 </blockquote>
 </p>
 
