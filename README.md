@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most courageous act is still to think for yourself. Aloud."</i>
+<i>"Night is a more quiet time to work. It aids thought."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
