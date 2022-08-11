@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting."</i>
+<i>"Be mindful. Be grateful. Be positive. Be true. Be kind."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
