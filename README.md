@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We become brave by doing brave acts."</i>
+<i>"We lie the loudest when we lie to ourselves."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
