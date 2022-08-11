@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists."</i>
+<i>"It is the mark of an educated mind to be able to entertain a thought without accepting it."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
