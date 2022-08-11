@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The art of being wise is knowing what to overlook."</i>
+<i>"The most courageous act is still to think for yourself. Aloud."</i>
 <br>
-<b>- William James</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
