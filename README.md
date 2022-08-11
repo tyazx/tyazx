@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What is planted in each person's soul will sprout.  "</i>
+<i>"The art of being wise is knowing what to overlook."</i>
 <br>
-<b>- Rumi</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
