@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the mark of an educated mind to be able to entertain a thought without accepting it."</i>
+<i>"What is planted in each person's soul will sprout.  "</i>
 <br>
-<b>- Aristotle</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
