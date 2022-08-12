@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make improvements, not excuses. Seek respect, not attention."</i>
+<i>"Successful people ask better questions, and as a result, they get better answers."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
