@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As mortals, we're ruled by conditions, not by ourselves."</i>
+<i>"Because a thing seems difficult for you, do not think it impossible."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
