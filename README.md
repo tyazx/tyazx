@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make your mind your own business."</i>
+<i>"The man who removes a mountain begins by carrying away small stones."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
