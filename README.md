@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wise men speak because they have something to say; Fools because they have to say something."</i>
+<i>"The only person you should try to be better than is the person you were yesterday."</i>
 <br>
-<b>- Plato</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
