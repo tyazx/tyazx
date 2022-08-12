@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people ask better questions, and as a result, they get better answers."</i>
+<i>"Make your mind your own business."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
