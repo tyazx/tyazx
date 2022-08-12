@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Because a thing seems difficult for you, do not think it impossible."</i>
+<i>"If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
