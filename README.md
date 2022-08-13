@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"May you find grace as you surrender to life. May you find happiness, as you stop seeking it."</i>
+<i>"Stop wasting time defending your problems and work on addressing them instead."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
