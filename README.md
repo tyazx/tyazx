@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stop wasting time defending your problems and work on addressing them instead."</i>
+<i>"Success is getting what you want, happiness is wanting what you get."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- W.P. Kinsella</b>
 </blockquote>
 </p>
 
