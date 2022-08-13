@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Here and now...breathe and relax...in battle and in life."</i>
+<i>"We build too many walls and not enough bridges."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
