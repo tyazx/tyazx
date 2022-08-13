@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The smallest of actions is always better than the noblest of intentions."</i>
+<i>"Yesterday is but today's memory, tomorrow is today's dream."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
