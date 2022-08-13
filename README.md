@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have to accept whatever comes, and the only important thing is that you meet it with the best you have to give."</i>
+<i>"May you find grace as you surrender to life. May you find happiness, as you stop seeking it."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
