@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Yesterday is but today's memory, tomorrow is today's dream."</i>
+<i>"To belittle, you have to be little."</i>
 <br>
 <b>- Kahlil Gibran</b>
 </blockquote>
