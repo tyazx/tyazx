@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity."</i>
+<i>"The smallest of actions is always better than the noblest of intentions."</i>
 <br>
-<b>- Charles Spurgeon</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
