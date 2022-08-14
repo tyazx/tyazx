@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Have a vision. Be demanding."</i>
+<i>"Discipline is the bridge between goals and accomplishment."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
