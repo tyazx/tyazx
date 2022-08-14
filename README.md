@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Discipline is the bridge between goals and accomplishment."</i>
+<i>"A friend to all is a friend to none."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
