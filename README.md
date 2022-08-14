@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Cultivate the merry heart, develop the happiness habit, and life will become a continual feast."</i>
+<i>"The more you take responsibility for your past and present, the more you are able to create the future you seek."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
