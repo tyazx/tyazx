@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not pray for an easy life, pray for the strength to endure a difficult one.  "</i>
+<i>"Have a vision. Be demanding."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
