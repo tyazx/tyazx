@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A friend to all is a friend to none."</i>
+<i>"We will outstretch the hand if you unclench your fist."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
