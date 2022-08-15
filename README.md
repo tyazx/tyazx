@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you set your goals ridiculously high and its a failure, you will fail above everyone elses success."</i>
+<i>"We must accept finite disappointment, but never lose infinite hope."</i>
 <br>
-<b>- James Cameron</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
