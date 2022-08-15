@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you."</i>
+<i>"If you set your goals ridiculously high and its a failure, you will fail above everyone elses success."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- James Cameron</b>
 </blockquote>
 </p>
 
