@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ideas do not reach perfection in a day, no matter how much study is put upon them."</i>
+<i>"Treat everyone with politeness and kindness, not because they are nice, but because you are."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
