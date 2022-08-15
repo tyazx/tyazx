@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enthusiasm is a vital element toward the individual success of every man or woman."</i>
+<i>"Ideas do not reach perfection in a day, no matter how much study is put upon them."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
