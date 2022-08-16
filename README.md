@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't build a reputation on what you are going to do. "</i>
+<i>"Life is ours to be spent, not to be saved. "</i>
 <br>
-<b>- Henry Ford</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
