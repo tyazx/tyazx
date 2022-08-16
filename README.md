@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is ours to be spent, not to be saved. "</i>
+<i>"When you want to be honored by others, you learn to honor them first."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
