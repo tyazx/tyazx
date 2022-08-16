@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence."</i>
+<i>"Success is getting what you want. Happiness is wanting what you get."</i>
 <br>
-<b>- Sydney Smith</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
