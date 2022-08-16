@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success comes from knowing that you did your best to become the best that you are capable of becoming."</i>
+<i>"Sometimes success isn't about making the right decision, it's more about making some decision."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
