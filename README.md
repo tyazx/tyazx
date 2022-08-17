@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A leader is one who knows the way, goes the way, and shows the way."</i>
+<i>"No need to hurry. No need to sparkle. No need to be anybody but oneself."</i>
 <br>
-<b>- Unknown</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
