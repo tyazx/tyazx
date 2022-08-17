@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wealth is the product of man's capacity to think."</i>
+<i>"Hope means hoping when everything seems hopeless."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
