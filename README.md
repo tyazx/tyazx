@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To create more positive results in your life, replace 'if only' with 'next time'."</i>
+<i>"When you realize you've made a mistake, take immediate steps to correct it."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
