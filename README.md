@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man is happy unless he believes he is."</i>
+<i>"I am not the outcome. I am never the result. I am only the effort."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
