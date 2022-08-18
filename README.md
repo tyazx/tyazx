@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can have it all. You just can't have it all at once. "</i>
+<i>"From morning till night, we should never rely on a single thing."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
