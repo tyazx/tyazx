@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest adventure is what lies ahead."</i>
+<i>"Everything that irritates us about others."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
