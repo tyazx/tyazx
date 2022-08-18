@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"From morning till night, we should never rely on a single thing."</i>
+<i>"Words are the clothes thoughts wear."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
