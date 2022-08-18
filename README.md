@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness."</i>
+<i>"Truth is such a rare thing, it is delighted to tell it."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
