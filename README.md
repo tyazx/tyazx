@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work."</i>
+<i>"Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
