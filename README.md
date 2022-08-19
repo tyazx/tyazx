@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you judge another, you do not define them, you define yourself"</i>
+<i>"Life is ours to be spent, not to be saved. "</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
