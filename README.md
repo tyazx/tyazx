@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You never know when a moment and a few sincere words can have an impact on a life.  "</i>
+<i>"While some of us act without thinking, too many of us think without acting."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
