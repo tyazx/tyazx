@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change begets change. Nothing propagates so fast."</i>
+<i>"The way out is in."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
