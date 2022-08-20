@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard."</i>
+<i>"Let each man exercise the art he knows."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
