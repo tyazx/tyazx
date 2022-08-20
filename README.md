@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let each man exercise the art he knows."</i>
+<i>"I never said it would be easy, I only said it would be worth it."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
