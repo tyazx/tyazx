@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Silence is a source of great strength."</i>
+<i>"Excellence is not an exception, it is a prevailing attitude."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
