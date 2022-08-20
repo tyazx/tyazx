@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way out is in."</i>
+<i>"There is no one giant step that does it. It's a lot of little steps."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Peter A. Cohen</b>
 </blockquote>
 </p>
 
