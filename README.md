@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Study logic and math, because once you've mastered them, you won't fear any book."</i>
+<i>"Everybody by your side ain't on your side."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
