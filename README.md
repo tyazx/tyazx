@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live the moment for the moment."</i>
+<i>"The journey, not the destination matters."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
