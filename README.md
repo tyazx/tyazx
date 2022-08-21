@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Leadership is solving problems"</i>
+<i>"Knowledge isn't power until it is applied."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
