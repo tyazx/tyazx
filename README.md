@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only real mistake is the one from which we learn nothing. "</i>
+<i>"Every one of us is the sum total of his own thoughts."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
