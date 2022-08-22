@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're afraid - don't do it, - if you're doing it - don't be afraid! "</i>
+<i>"In order to be walked over, you have to be lying down."</i>
 <br>
-<b>- Genghis Khan</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
