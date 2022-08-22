@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only defense against the world is a thorough knowledge of it."</i>
+<i>"All that a man achieves and all that he fails to achieve is the direct result of his own thoughts."</i>
 <br>
-<b>- John Locke</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
