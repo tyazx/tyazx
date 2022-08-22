@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All that a man achieves and all that he fails to achieve is the direct result of his own thoughts."</i>
+<i>"People who avoid failure also avoid success."</i>
 <br>
-<b>- James Allen</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
