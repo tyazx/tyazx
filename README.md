@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Cultivate the merry heart, develop the happiness habit, and life will become a continual feast."</i>
+<i>"Given the choice between the experience of pain and nothing, I would choose pain."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
