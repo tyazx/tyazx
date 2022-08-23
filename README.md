@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never allow someone to be your priority while allowing yourself to be their option."</i>
+<i>"If we have no peace, it is because we have forgotten that we belong to each other."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
