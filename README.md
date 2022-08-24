@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Shoot for the moon. Even if you miss, you'll land among the stars."</i>
+<i>"Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
