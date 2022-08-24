@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Health is the greatest of all possessions."</i>
+<i>"Courage Is a Love Affair with the Unknown"</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
