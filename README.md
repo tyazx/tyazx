@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world would go on even without you. Don't take yourself so seriously."</i>
+<i>"You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
