@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The golden opportunity you are seeking is within yourself."</i>
+<i>"Sometimes adversity is what you need to face in order to become successful."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
