@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you cannot understand something, then you have understood it incorrectly."</i>
+<i>"Our greatest glory is not in never falling, but in rising every time we fall. "</i>
 <br>
-<b>- Kabir</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
