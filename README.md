@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present."</i>
+<i>"Wealth consists not in having great possessions, but in having few wants."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
