@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perhaps the most tragic thing about mankind is that we are all dreaming about some magical garden over the horizon, instead of enjoying the roses that are right outside today."</i>
+<i>"Wheels of justice grind slow but grind fine."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
