@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An investment in knowledge pays the best interest."</i>
+<i>"If you cannot understand something, then you have understood it incorrectly."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
