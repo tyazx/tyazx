@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man becomes rich unless he enriches others."</i>
+<i>"The harder the conflict, the greater the triumph. "</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
