@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be as fluid as water, do not give your enemies anything solid to attack."</i>
+<i>"Life is ten percent what you experience and ninety percent how you respond to it."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
