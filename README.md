@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only normal people are the ones you don't know very well."</i>
+<i>"Be as fluid as water, do not give your enemies anything solid to attack."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
