@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way to get started is to quit talking and begin doing."</i>
+<i>"It still holds true that man is most uniquely human when he turns obstacles into opportunities."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
