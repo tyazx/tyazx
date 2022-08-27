@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Expect the best, plan for the worst, and prepare to be surprised. "</i>
+<i>"Persistence is very important. You should not give up unless you are forced to give up."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
