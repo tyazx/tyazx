@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People who bite the hand that feeds them usually lick the boot that kicks them."</i>
+<i>"Expect the best, plan for the worst, and prepare to be surprised. "</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
