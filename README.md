@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Normal is the average of deviance."</i>
+<i>"People who bite the hand that feeds them usually lick the boot that kicks them."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
