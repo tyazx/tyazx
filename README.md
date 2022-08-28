@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Longevity is a fleeting moment that lasts forever."</i>
+<i>"Some people want it to happen, some wish it would happen, others make it happen."</i>
 <br>
-<b>- Vidal Sassoon</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
