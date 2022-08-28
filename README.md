@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We never know the love of a parent till we become parents ourselves."</i>
+<i>"Troubles are often the tools by which God fashions us for better things."</i>
 <br>
 <b>- Henry Ward Beecher</b>
 </blockquote>
