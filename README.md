@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We shape clay into a pot, but it is the emptiness inside that holds whatever we want."</i>
+<i>"Talk sense to a fool and he calls you foolish."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
