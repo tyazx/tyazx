@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people want it to happen, some wish it would happen, others make it happen."</i>
+<i>"Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
