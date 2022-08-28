@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it."</i>
+<i>"We shape clay into a pot, but it is the emptiness inside that holds whatever we want."</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
