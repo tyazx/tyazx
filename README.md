@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is our experiences that mold us into who we are...during times of adversity our true character will show."</i>
+<i>"Many of life's failures are people who did not realize how close they were to success when they gave up."</i>
 <br>
-<b>- Unknown</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
