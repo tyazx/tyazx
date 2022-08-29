@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything that is made beautiful and fair and lovely is made for the eye of one who sees."</i>
+<i>"Whatever happens always happens on time."</i>
 <br>
-<b>- Rumi</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
