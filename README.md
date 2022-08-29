@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your greatest asset is your earning ability. Your greatest resource is your time."</i>
+<i>"Some people find fault like there is a reward for it.  "</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
