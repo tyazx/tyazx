@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you think you can do a thing or think you can't do a thing, you're right."</i>
+<i>"Life can be the scariest and most beautiful thing simultaneously."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
