@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's wise to tell the truth. It's even wiser to tell it kindly."</i>
+<i>"The moment you stop to think about whether you love someone, you've already stopped loving that person forever."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
