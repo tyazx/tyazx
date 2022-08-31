@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your gift is something that you can do innately better than anything else."</i>
+<i>"The wise warrior avoids the battle."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
