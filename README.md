@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you need inspiration, don't do it."</i>
+<i>"Wherever there is danger, there lurks opportunity; wherever there is opportunity, there lurks danger. The two are inseparable."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
