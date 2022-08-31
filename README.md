@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wherever there is danger, there lurks opportunity; wherever there is opportunity, there lurks danger. The two are inseparable."</i>
+<i>"Do every act of your life as if it were your last."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
