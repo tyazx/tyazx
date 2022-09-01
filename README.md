@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best revenge is to be unlike him who performed the injury."</i>
+<i>"You must find the place inside yourself where nothing is impossible."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
