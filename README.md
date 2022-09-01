@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not take life too seriously. You will never get out of it alive."</i>
+<i>"A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
