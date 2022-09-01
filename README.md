@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone sees what you appear to be, few experience what you really are."</i>
+<i>"The best revenge is to be unlike him who performed the injury."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
