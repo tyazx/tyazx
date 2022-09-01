@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live and act within the limit of your knowledge and keep expanding it to the limit of your life."</i>
+<i>"Don't be afraid to go slowly. Be afraid of stopping."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
