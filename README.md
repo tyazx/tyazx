@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do every act of your life as if it were your last."</i>
+<i>"Live and act within the limit of your knowledge and keep expanding it to the limit of your life."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
