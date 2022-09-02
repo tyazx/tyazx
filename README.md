@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unless a man is master of his soul, all other kinds of mastery amount to little."</i>
+<i>"The greatest gift that you can give to others is the gift of unconditional love and acceptance. "</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
