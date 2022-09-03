@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Relax. Nothing is under control."</i>
+<i>"Where focus goes, energy flows."</i>
 <br>
-<b>- Adi Da Samraj</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
