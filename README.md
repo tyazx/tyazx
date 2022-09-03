@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is not about possession. Love is about appreciation."</i>
+<i>"Definiteness of purpose is the starting point of all achievement. "</i>
 <br>
-<b>- Osho</b>
+<b>- W. Clement Stone</b>
 </blockquote>
 </p>
 
