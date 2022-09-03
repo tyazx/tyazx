@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where focus goes, energy flows."</i>
+<i>"As you think, so shall you become. "</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
