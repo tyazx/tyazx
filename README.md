@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't make things happen then things will happen to you."</i>
+<i>"The best way out is always through."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
