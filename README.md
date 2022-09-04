@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"May you find grace as you surrender to life. May you find happiness, as you stop seeking it."</i>
+<i>"Throw your heart over the fence and the rest will follow"</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
