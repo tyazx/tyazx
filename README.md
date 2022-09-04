@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where you are right now doesn't have to determine where you'll end up."</i>
+<i>"May you find grace as you surrender to life. May you find happiness, as you stop seeking it."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
