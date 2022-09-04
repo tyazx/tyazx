@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like riding a bicycle. To keep your balance you must keep moving."</i>
+<i>"Confidence is consistency of thinking about what is possible and how to make it possible."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
