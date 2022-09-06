@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Disobedience is the true foundation of liberty. The obedient must be slaves."</i>
+<i>"There exists only the present instant; a Now which always and without end is itself new."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
