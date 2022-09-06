@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your next step is simple. You are the first domino."</i>
+<i>"No one returns from a long journey the same person they were before."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
