@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There exists only the present instant; a Now which always and without end is itself new."</i>
+<i>"Love and compassion are necessities, not luxuries. Without them, humanity cannot survive."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
