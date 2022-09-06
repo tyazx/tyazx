@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one returns from a long journey the same person they were before."</i>
+<i>"All cruelty springs from weakness.  "</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
