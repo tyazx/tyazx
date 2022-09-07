@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't gain the world and lose your soul. Wisdom is better than silver and gold."</i>
+<i>"Throw your heart over the fence and the rest will follow"</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
