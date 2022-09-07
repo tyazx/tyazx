@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a gift. Never forget to enjoy and bask in every moment you are in."</i>
+<i>"Why live an ordinary life, when you can live an extraordinary one."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
