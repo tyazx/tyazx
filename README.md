@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without struggle, no progress and no result. Every breaking of habit produces a change in the machine."</i>
+<i>"If you want to be sad, no one in the world can make you happy. But if you make up your mind to be happy, no one and nothing on earth can take that happiness from you."</i>
 <br>
-<b>- G.I. Gurdjieff</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
