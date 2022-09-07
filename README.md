@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throw your heart over the fence and the rest will follow"</i>
+<i>"Time stays long enough for anyone who will use it."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
