@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why live an ordinary life, when you can live an extraordinary one."</i>
+<i>"A change is brought about because ordinary people do extraordinary things."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
