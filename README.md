@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man suffers only because he takes seriously what the gods made for fun."</i>
+<i>"Without struggle, no progress and no result. Every breaking of habit produces a change in the machine."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- G.I. Gurdjieff</b>
 </blockquote>
 </p>
 
