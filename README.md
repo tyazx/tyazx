@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Power is not what we do but what we do not - hasty and unwise actions that we repeat every day and which ultimately bring us into trouble."</i>
+<i>"Life is a gift. Never forget to enjoy and bask in every moment you are in."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
