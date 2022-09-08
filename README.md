@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time stays long enough for anyone who will use it."</i>
+<i>"It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
