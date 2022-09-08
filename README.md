@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Obstacles are those frightful things you see when you take your eyes off your goals."</i>
+<i>"We love the things we love for what they are."</i>
 <br>
-<b>- Sydney Smith</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
