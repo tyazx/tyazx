@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't concern yourself with the money. Be of service. Build. Work. Dream. Create."</i>
+<i>"Obstacles are those frightful things you see when you take your eyes off your goals."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Sydney Smith</b>
 </blockquote>
 </p>
 
