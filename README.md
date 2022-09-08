@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's better to dance than to march through life."</i>
+<i>"Don't concern yourself with the money. Be of service. Build. Work. Dream. Create."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
