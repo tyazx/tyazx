@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can have results or excuses, but not both."</i>
+<i>"Just get out and do it. You will be very, very glad that you did."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
