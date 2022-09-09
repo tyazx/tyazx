@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is more real than nothing."</i>
+<i>"To live outside the law, you must be honest. "</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
