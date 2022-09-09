@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The road to success is always under construction."</i>
+<i>"Don't shortchange yourself when it comes to investing in your own better future."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
