@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good entrepreneurs don't fail because they stay at it."</i>
+<i>"Life is from the inside out. When you shift on the inside, life shifts on the outside."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
