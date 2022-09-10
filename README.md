@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is from the inside out. When you shift on the inside, life shifts on the outside."</i>
+<i>"It is in your moments of decision that your destiny is shaped."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
