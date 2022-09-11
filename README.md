@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better late than never."</i>
+<i>"It is ignorance that causes most mistakes."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
