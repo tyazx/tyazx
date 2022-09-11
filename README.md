@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perpetual optimism is a force multiplier."</i>
+<i>"Better late than never."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
