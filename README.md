@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go as far as you can see and you will see further.  "</i>
+<i>"For every minute you are angry you lose sixty seconds of happiness."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
