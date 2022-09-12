@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is really work unless you would rather be doing something else. "</i>
+<i>"Everything is created twice, first in the mind and then in reality."</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
