@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A clever person turns great troubles into little ones, and little ones into none at all. "</i>
+<i>"Don't cry because it's over. Smile because it happened."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
