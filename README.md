@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future."</i>
+<i>"Go as far as you can see and you will see further.  "</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
