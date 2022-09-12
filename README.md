@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do what you've always done, you'll get what you've always gotten."</i>
+<i>"Nothing is really work unless you would rather be doing something else. "</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
