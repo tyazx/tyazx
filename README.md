@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before you can see the Light, you have to deal with the darkness."</i>
+<i>"We must create our own world or we will die from inaction."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
