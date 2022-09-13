@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winners don't Quit. That's why they Win."</i>
+<i>"One must be deeply aware of the impermanence of the world."</i>
 <br>
-<b>- Unknown</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
