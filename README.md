@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One must be deeply aware of the impermanence of the world."</i>
+<i>"There are no accidents... there is only some purpose that we haven't yet understood."</i>
 <br>
-<b>- Dogen</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
