@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided."</i>
+<i>"Respect was invented to cover the empty place where love should be."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
