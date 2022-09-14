@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can have it all. You just can't have it all at once. "</i>
+<i>"Your past does not equal your future."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
