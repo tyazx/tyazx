@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your past does not equal your future."</i>
+<i>"Every act of creation is first an act of destruction."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
