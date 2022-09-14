@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Growth is in a series of mistakes. That's the only way you learn."</i>
+<i>"You cannot swim for new horizons until you have courage to lose sight of the shore."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
