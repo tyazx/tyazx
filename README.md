@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Lost Time is never found again."</i>
+<i>"You can have it all. You just can't have it all at once. "</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
