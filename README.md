@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Respect was invented to cover the empty place where love should be."</i>
+<i>"You are the average of the five people you spend most time with."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
