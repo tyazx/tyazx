@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all in the gutter, but some of us are looking at the stars. "</i>
+<i>"It is difficult to free fools from the chains they revere. "</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
