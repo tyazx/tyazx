@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every act of creation is first an act of destruction."</i>
+<i>"Growth is in a series of mistakes. That's the only way you learn."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
