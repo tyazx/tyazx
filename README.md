@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Determine never to be idle. No person will have occasion to complain of the want of time who never loses any."</i>
+<i>"A man who dares to waste one hour of time has not discovered the value of life."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
