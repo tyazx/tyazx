@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner."</i>
+<i>"Change your thoughts and you change your world."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
