@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present."</i>
+<i>"The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
