@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is the highway to success."</i>
+<i>"Realize deeply that the present moment is all you ever have. "</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
