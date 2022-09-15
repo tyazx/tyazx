@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change your thoughts and you change your world."</i>
+<i>"The quieter you become, the more you are able to hear."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
