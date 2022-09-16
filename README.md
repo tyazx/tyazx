@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The educated differ from the uneducated as much as the living differ from the dead."</i>
+<i>"Happiness is the spiritual experience of living every minute with love, grace and gratitude."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
