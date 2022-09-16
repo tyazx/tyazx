@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Things turn out best for the people who make the best of the way things turn out."</i>
+<i>"Each time we don't say what we wanna say, we're dying."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
