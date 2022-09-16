@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each time we don't say what we wanna say, we're dying."</i>
+<i>"Let us rather run the risk of wearing out than rusting out."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
