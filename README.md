@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Teachers open the door. You enter by yourself. "</i>
+<i>"If you look for perfection, you'll never be content."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
