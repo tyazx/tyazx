@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you're the only sane person, you look like the only insane person."</i>
+<i>"Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. "</i>
 <br>
-<b>- Criss Jami</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
