@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn the rules like a pro, so you can break them like an artist."</i>
+<i>"Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
