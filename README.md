@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge."</i>
+<i>"Note that this journey is uniquely yours, no one elses. So the path has to be your own."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
