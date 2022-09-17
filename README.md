@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The educated differ from the uneducated as much as the living differ from the dead."</i>
+<i>"Teachers open the door. You enter by yourself. "</i>
 <br>
-<b>- Aristotle</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
