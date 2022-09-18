@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you."</i>
+<i>"If you do not change direction, you may end up where you are heading."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
