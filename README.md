@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way of success is the way of continuous pursuit of knowledge."</i>
+<i>"When angry count to ten before you speak. If very angry, count to one hundred."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
