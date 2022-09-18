@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed."</i>
+<i>"Nothing can dim the light which shines from within."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
