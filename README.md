@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He is richest who is content with the least, for content is the wealth of nature."</i>
+<i>"A flower falls, even though we love it; and a weed grows, even though we do not love it."</i>
 <br>
-<b>- Socrates</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
