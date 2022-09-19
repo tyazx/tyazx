@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's the unknown we fear when we look upon death and darkness, nothing more."</i>
+<i>"The act of taking the first step is what separates the winners from the losers."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
