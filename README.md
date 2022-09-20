@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life can be wonderful if you're not afraid of it."</i>
+<i>"It is better to light a single candle than to curse the darkness."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
