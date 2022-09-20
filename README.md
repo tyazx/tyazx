@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to light a single candle than to curse the darkness."</i>
+<i>"We are shaped and fashioned by what we love."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
