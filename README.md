@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't have anything worthwhile without difficulties."</i>
+<i>"Life can be wonderful if you're not afraid of it."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
