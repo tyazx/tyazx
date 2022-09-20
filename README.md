@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't have to control your thoughts; you just have to stop letting them control you."</i>
+<i>"Every man desires to live long, but no man wishes to be old."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
