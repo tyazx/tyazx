@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are your best thing."</i>
+<i>"You can't have anything worthwhile without difficulties."</i>
 <br>
-<b>- Toni Morrison</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
