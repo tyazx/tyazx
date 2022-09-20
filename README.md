@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are shaped and fashioned by what we love."</i>
+<i>"We take care of the future best by taking care of the present now."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
