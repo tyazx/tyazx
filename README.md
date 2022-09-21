@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I can laugh, I can live."</i>
+<i>"It is better to be looked over than overlooked."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
