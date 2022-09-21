@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who knows, does not speak. He who speaks, does not know."</i>
+<i>"If you want to see things just as they are, then you yourself must practice just as you are."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
