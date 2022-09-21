@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is never too late to be what you might have been."</i>
+<i>"Friendship is one of the most tangible things in a world which offers fewer and fewer supports."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Kenneth Branagh</b>
 </blockquote>
 </p>
 
