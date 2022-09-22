@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one is useless in this world who lightens the burdens of another."</i>
+<i>"Sometimes adversity is what you need to face in order to become successful."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
