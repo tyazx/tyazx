@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way."</i>
+<i>"Integrity is telling myself the truth. And honesty is telling the truth to other people."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
