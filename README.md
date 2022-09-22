@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True life is lived when tiny changes occur."</i>
+<i>"Many people will walk in and out of your life, but only true friends will leave footprints in your heart."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
