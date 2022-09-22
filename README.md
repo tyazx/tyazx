@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes adversity is what you need to face in order to become successful."</i>
+<i>"No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
