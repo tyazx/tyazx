@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing more truly artistic than to love people."</i>
+<i>"As you love yourself, life loves you back."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
