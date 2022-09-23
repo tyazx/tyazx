@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all."</i>
+<i>"The question is not what you look at, but what you see."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
