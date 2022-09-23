@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only defense against the world is a thorough knowledge of it."</i>
+<i>"There is nothing more truly artistic than to love people."</i>
 <br>
-<b>- John Locke</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
