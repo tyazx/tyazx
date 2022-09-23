@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Falling down is not failure. Failure comes when you stay where you have fallen."</i>
+<i>"Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes."</i>
 <br>
-<b>- Socrates</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
