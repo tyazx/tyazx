@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The question is not what you look at, but what you see."</i>
+<i>"Falling down is not failure. Failure comes when you stay where you have fallen."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
