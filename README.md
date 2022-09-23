@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Integrity is telling myself the truth. And honesty is telling the truth to other people."</i>
+<i>"People spend too much time doing and not enough time thinking about what they should be doing."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
