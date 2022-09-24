@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you."</i>
+<i>"Life is a process. We are a process. The universe is a process."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Anne Wilson Schaef</b>
 </blockquote>
 </p>
 
