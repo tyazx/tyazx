@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always turn a negative situation into a positive situation."</i>
+<i>"Stop wasting time defending your problems and work on addressing them instead."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
