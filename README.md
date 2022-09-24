@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only I can change my life. No one can do it for me."</i>
+<i>"He will win who knows when to fight and when not to fight."</i>
 <br>
-<b>- Carol Burnett</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
