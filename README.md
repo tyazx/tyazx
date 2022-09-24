@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only thing new in the world is the history you do not know."</i>
+<i>"Always turn a negative situation into a positive situation."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
