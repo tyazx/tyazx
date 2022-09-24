@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He will win who knows when to fight and when not to fight."</i>
+<i>"Small men think they are small; great men never know they are great. "</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
