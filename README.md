@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your world is a living expression of how you are using and have used your mind."</i>
+<i>"The busy man is never wise and the wise man is never busy."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
