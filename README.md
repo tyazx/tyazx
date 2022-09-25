@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be kind, for everyone you meet is fighting a harder battle."</i>
+<i>"Your world is a living expression of how you are using and have used your mind."</i>
 <br>
-<b>- Plato</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
