@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no such thing as a great talent without great willpower."</i>
+<i>"Be kind, for everyone you meet is fighting a harder battle."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
