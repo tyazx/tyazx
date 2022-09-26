@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Embody what you teach, and teach only what you have embodied."</i>
+<i>"Never let the things you can't do stop you from doing what you can."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
