@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are patient in one moment of anger, you will escape a hundred days of sorrow. "</i>
+<i>"Embody what you teach, and teach only what you have embodied."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
