@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Lack of emotion causes lack of progress and lack of motivation."</i>
+<i>"Conflict cannot survive without your participation. "</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
