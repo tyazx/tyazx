@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing makes a man broad-minded like adversity."</i>
+<i>"The friend is the man who knows all about you, and still likes you."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
