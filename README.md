@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best answer to anger is silence."</i>
+<i>"He who knows, does not speak. He who speaks, does not know."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
