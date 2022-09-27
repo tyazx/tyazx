@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only lost cause is one we give up on before we enter the struggle."</i>
+<i>"If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving."</i>
 <br>
-<b>- Vaclav Havel</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
