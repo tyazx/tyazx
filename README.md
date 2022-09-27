@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is more creative...nor destructive...than a brilliant mind with a purpose."</i>
+<i>"When reading, only read. When eating, only eat. When thinking, only think."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Seungsahn</b>
 </blockquote>
 </p>
 
