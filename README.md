@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We turn not older with years but newer every day."</i>
+<i>"Life has no limitations except the ones you make."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
