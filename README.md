@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who knows, does not speak. He who speaks, does not know."</i>
+<i>"Fool me once, shame on you; fool me twice, shame on me. "</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
