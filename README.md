@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The golden opportunity you are seeking is in yourself. It is not in your environment; it is not in luck or chance, or the help of others; it is in yourself alone. "</i>
+<i>"We turn not older with years but newer every day."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
