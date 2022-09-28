@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life has no limitations except the ones you make."</i>
+<i>"I have never in my life learned anything from any man who agreed with me."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Dudley Field Malone</b>
 </blockquote>
 </p>
 
