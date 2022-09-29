@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one can hurt you without your consent."</i>
+<i>"Success is achieved and maintained by those who try and keep trying. "</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- W. Clement Stone</b>
 </blockquote>
 </p>
 
