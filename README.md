@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In three words I can sum up everything I've learned about life: it goes on."</i>
+<i>"People who belittle people, will be LITTLE people, and will accomplish very Little"</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
