@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's the little things done consistently over time, straight from your heart, that have the greatest impact."</i>
+<i>"Engage in those actions and thoughts that nurture the good qualities you want to have."</i>
 <br>
-<b>- Unknown</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
