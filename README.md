@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words used to attract the dull of wit are not to be relied on."</i>
+<i>"Instead of worrying about what you cannot control, shift your energy to what you can create."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
