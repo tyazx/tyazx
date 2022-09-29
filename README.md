@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight."</i>
+<i>"In three words I can sum up everything I've learned about life: it goes on."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
