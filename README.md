@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Until we can manage time, we can manage nothing else."</i>
+<i>"To be fully alive is to feel that everything is possible."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
