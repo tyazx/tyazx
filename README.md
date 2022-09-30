@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not the love you make. It's the love you give. "</i>
+<i>"Talk sense to a fool and he calls you foolish."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
