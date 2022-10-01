@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Given the choice between the experience of pain and nothing, I would choose pain."</i>
+<i>"You become a worrier by practicing worry. You become free of worry by practicing the opposite."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
