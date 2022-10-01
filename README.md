@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not wait for leaders; do it alone, person to person."</i>
+<i>"Never was anything great achieved without danger."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Niccolo Machiavelli</b>
 </blockquote>
 </p>
 
