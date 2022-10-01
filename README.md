@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In spite of everything, I shall rise again."</i>
+<i>"Do not wait for leaders; do it alone, person to person."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
