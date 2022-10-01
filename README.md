@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future is not a gift. It is an achievement."</i>
+<i>"In spite of everything, I shall rise again."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
