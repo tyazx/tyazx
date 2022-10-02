@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What one does is what counts. Not what one had the intention of doing."</i>
+<i>"Not everything that weighs you down is yours to carry."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
