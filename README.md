@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Greatness lies not in being strong, but in the right use of strength."</i>
+<i>"The quality of your life is the quality of your relationships."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
