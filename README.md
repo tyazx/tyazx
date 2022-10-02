@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The giving of love is an education in itself."</i>
+<i>"Happiness is the meaning and the purpose of life, the whole aim and end of human existence."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
