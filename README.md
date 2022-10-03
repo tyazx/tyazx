@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My definition of success is control."</i>
+<i>"Let the beauty of what you love be what you do."</i>
 <br>
-<b>- Kenneth Branagh</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
