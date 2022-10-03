@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know your gifts and share them."</i>
+<i>"To do two things at once is to do neither."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
