@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To do two things at once is to do neither."</i>
+<i>"Obstacles are those frightful things you see when you take your eyes off your goals."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Sydney Smith</b>
 </blockquote>
 </p>
 
