@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let the beauty of what you love be what you do."</i>
+<i>"It is better to be looked over than overlooked."</i>
 <br>
-<b>- Rumi</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
