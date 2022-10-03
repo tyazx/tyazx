@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible."</i>
+<i>"You are always your own best guru, your own best teacher, the answers are always inside you."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
