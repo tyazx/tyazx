@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be prepared is half the victory. "</i>
+<i>"Don't seek, don't avoid, don't expect. Take what comes and be happy."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
