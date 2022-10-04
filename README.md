@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work."</i>
+<i>"The first step is to establish that something is possible; then probability will occur."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
