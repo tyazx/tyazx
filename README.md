@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is a great teacher. If you're open to it every mistake has a lesson to offer."</i>
+<i>"To be prepared is half the victory. "</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
