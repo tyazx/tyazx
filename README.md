@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The consequences of today are determined by the actions of the past. To change your future, alter your decisions today."</i>
+<i>"The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work."</i>
 <br>
-<b>- Unknown</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
