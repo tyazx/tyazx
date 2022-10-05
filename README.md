@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just do what must be done. This may not be happiness but it is greatness."</i>
+<i>"Dance first. Think later. It's the natural order."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
