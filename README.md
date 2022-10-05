@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Embody what you teach, and teach only what you have embodied."</i>
+<i>"Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
