@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If the only prayer you ever say in your entire life is thank you, it will be enough."</i>
+<i>"Never whine, never complain, never try to justify yourself."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
