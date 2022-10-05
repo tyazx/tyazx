@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The saddest aspect of life is that there is no one on earth whose happiness is such that he won't sometimes wish he were dead rather than alive."</i>
+<i>"Embody what you teach, and teach only what you have embodied."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
