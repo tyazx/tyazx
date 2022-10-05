@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dance first. Think later. It's the natural order."</i>
+<i>"If the only prayer you ever say in your entire life is thank you, it will be enough."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
