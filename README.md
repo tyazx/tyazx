@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Listening well is as powerful as talking well, and is also as essential to true conversation."</i>
+<i>"Don't hate the player. Change the game."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
