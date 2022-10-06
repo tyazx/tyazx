@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just as true humor is laughter at oneself, true humanity is knowledge of oneself."</i>
+<i>"It's not how much money you make, it's how much money you keep."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
