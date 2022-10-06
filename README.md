@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make your stand today. On this spot. On this day."</i>
+<i>"Just as true humor is laughter at oneself, true humanity is knowledge of oneself."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
