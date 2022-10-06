@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the fish is caught we pay no more attention to the trap."</i>
+<i>"The older you get, the more you understand how your conscience works."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
