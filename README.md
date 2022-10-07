@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is either a daring adventure, or nothing."</i>
+<i>"Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
