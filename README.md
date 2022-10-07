@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe in your infinite potential. Your only limitations are those you set upon yourself."</i>
+<i>"Looking after my health today gives me a better hope for tomorrow. "</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Anne Wilson Schaef</b>
 </blockquote>
 </p>
 
