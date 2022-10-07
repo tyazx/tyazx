@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment."</i>
+<i>"Boldness makes even the smallest animal dangerous."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
