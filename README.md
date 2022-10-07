@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Resilience is not what happens to you. It's how you react to, respond to, and recover from what happens to you."</i>
+<i>"We must not sit down and wait for miracles. Up and be going!"</i>
 <br>
-<b>- Jeffrey Gitomer</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
