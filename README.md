@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The constant assertion of belief is an indication of fear."</i>
+<i>"Believe in your infinite potential. Your only limitations are those you set upon yourself."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
