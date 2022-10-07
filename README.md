@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Boldness makes even the smallest animal dangerous."</i>
+<i>"The constant assertion of belief is an indication of fear."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
