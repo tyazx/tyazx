@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pen is the tongue of the mind. "</i>
+<i>"Your very silence shows you agree."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
