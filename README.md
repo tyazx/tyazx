@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to make God laugh, tell him about your plans. "</i>
+<i>"Listen to the secret sound, the real sound, which is inside you."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
