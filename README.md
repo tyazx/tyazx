@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The trouble with most of us is that we'd rather be ruined by praise than saved by criticism."</i>
+<i>"Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
