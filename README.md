@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your very silence shows you agree."</i>
+<i>"Success on the outside means nothing unless you also have success within."</i>
 <br>
-<b>- Euripides</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
