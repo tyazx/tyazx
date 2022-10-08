@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to be looked over than overlooked."</i>
+<i>"The pen is the tongue of the mind. "</i>
 <br>
-<b>- Mae West</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
