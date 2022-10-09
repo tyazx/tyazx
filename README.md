@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sadness is but a wall between two gardens."</i>
+<i>"You don't get in life what you want; you get in life what you are."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
