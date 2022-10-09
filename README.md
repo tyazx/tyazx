@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't get in life what you want; you get in life what you are."</i>
+<i>"Actions are the seeds of fate. Deeds grow into destiny."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
