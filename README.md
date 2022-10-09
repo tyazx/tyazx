@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Respect other people's feelings. It might mean nothing to you, but it could mean everything to them."</i>
+<i>"Life is the art of drawing sufficient conclusions from insufficient premises."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
