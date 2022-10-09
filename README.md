@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy."</i>
+<i>"Respect other people's feelings. It might mean nothing to you, but it could mean everything to them."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
