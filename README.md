@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To live outside the law, you must be honest. "</i>
+<i>"Obstacles don't block the path, they are the path."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
