@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Obstacles don't block the path, they are the path."</i>
+<i>"He who permits himself to tell a lie once, finds it much easier to do it the second time."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
