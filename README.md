@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winners don't Quit. That's why they Win."</i>
+<i>"Today will never happen again. Don't waste it with a false start or no start at all."</i>
 <br>
-<b>- Unknown</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
