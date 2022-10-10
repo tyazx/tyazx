@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who permits himself to tell a lie once, finds it much easier to do it the second time."</i>
+<i>"Winners don't Quit. That's why they Win."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
