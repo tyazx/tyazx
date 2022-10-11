@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only the one reality, neither to be realized nor attained."</i>
+<i>"It's very strange that the people you love are often the people you're most cruel to."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Kenneth Branagh</b>
 </blockquote>
 </p>
 
