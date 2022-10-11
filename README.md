@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You just can't beat the person who never gives up. "</i>
+<i>"When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it."</i>
 <br>
-<b>- Babe Ruth</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
