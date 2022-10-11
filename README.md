@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is not a goal...it's a by-product of a life well lived."</i>
+<i>"There is only the one reality, neither to be realized nor attained."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
