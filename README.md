@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many a man has failed because he had his wishbone where his backbone should have been."</i>
+<i>"The only reason to be alive is to enjoy it."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
