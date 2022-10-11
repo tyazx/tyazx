@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it."</i>
+<i>"Change yourself and you have done your part in changing the world."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
