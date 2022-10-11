@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's very strange that the people you love are often the people you're most cruel to."</i>
+<i>"Luck is a matter of preparation meeting opportunity."</i>
 <br>
-<b>- Kenneth Branagh</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
