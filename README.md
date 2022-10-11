@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only reason to be alive is to enjoy it."</i>
+<i>"You just can't beat the person who never gives up. "</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Babe Ruth</b>
 </blockquote>
 </p>
 
