@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you know what you want, and want it bad enough, you will find a way to get it."</i>
+<i>"The truth is simple. If it was complicated, everyone would understand it."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
