@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tension is who you think you should be. Relaxation is who you are."</i>
+<i>"Definitions belong to the definers, not the defined."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Toni Morrison</b>
 </blockquote>
 </p>
 
