@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence comes not from always being right but not fearing to be wrong."</i>
+<i>"Attitude is a little thing that makes a big difference."</i>
 <br>
-<b>- Unknown</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
