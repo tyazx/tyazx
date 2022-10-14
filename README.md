@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a quality of the soul...not a function of one's material circumstances."</i>
+<i>"One's best success comes after their greatest disappointments."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
