@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One's best success comes after their greatest disappointments."</i>
+<i>"Confidence comes not from always being right but not fearing to be wrong."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
