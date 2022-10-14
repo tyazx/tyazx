@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Attitude is a little thing that makes a big difference."</i>
+<i>"There is no absolute success in the world, only constant progress."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
