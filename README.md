@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no absolute success in the world, only constant progress."</i>
+<i>"If you don't make things happen then things will happen to you."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
