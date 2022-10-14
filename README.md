@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is always room in your life for thinking bigger, pushing limits and imagining the impossible."</i>
+<i>"Be confident, not certain."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
