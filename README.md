@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fallacies do not cease to be fallacies because they become fashions."</i>
+<i>"No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
