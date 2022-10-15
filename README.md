@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. "</i>
+<i>"The few who do are the envy of the many who only watch."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
