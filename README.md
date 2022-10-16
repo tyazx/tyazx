@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great minds are always feared by lesser minds."</i>
+<i>"Life can be the scariest and most beautiful thing simultaneously."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
