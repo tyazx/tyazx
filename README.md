@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life can be the scariest and most beautiful thing simultaneously."</i>
+<i>"Creativity is the greatest rebellion in existence."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
