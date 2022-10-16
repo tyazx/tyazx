@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more knowledge you have, the more you're free to rely on your instincts."</i>
+<i>"In order for you to be the BEST you can be for others, first you must be BEST for yourself."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Jeffrey Gitomer</b>
 </blockquote>
 </p>
 
