@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some."</i>
+<i>"To be happy we need something to solve. Happiness is therefore a form of action."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
