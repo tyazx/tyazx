@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Develop success from failures. Discouragement and failure are two of the surest stepping stones to success."</i>
+<i>"Where there's life, there's hope."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
