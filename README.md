@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be the silent watcher of your thoughts and behavior. You are beneath the thinker."</i>
+<i>"The heart wants what it wants. There's no logic. "</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
