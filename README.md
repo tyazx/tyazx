@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to make God laugh, tell him about your plans. "</i>
+<i>"You can avoid reality, but you cannot avoid the consequences of avoiding reality."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
