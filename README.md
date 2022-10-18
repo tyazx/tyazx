@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good."</i>
+<i>"If you want to make God laugh, tell him about your plans. "</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
