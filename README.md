@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We're kept from our goal not by obstacles, but by a clear path to a lesser goal."</i>
+<i>"In youth we run into difficulties. In old age difficulties run into us. "</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
