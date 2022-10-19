@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you get up one more time than you fall, you will make it through."</i>
+<i>"The golden opportunity you are seeking is within yourself."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
