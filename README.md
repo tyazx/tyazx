@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always do what is right. It will gratify half of mankind and astound the other."</i>
+<i>"The roots of education are bitter, but the fruit is sweet."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
