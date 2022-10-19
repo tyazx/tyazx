@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The roots of education are bitter, but the fruit is sweet."</i>
+<i>"We're kept from our goal not by obstacles, but by a clear path to a lesser goal."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
