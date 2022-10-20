@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're only given a little spark of madness. You mustn't lose it."</i>
+<i>"Because of your smile, you make life more beautiful."</i>
 <br>
-<b>- Robin Williams</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
