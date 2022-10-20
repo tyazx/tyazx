@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Setting goals is the first step in turning the invisible into the visible."</i>
+<i>"Saying nothing sometimes says the most."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
