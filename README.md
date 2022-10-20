@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Listening well is as powerful as talking well, and is also as essential to true conversation."</i>
+<i>"Do not fight with pigs - you will be smeared in mud but the pig will like it."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
