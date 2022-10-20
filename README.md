@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not fight with pigs - you will be smeared in mud but the pig will like it."</i>
+<i>"If you don't like something, change it. If you can't change it, change your attitude."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
