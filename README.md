@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through."</i>
+<i>"When you move beyond your fear, you feel free."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
