@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong."</i>
+<i>"Freeing oneself from words is liberation. "</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
