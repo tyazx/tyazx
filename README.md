@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life may be full of pain but that's not an excuse to give up."</i>
+<i>"How many times do you have to get hit over the head until you figure out who's hitting you?"</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
