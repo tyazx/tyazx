@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A hut full of laughter is richer than a palace full of sadness."</i>
+<i>"Chase your passion, not your pension. "</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
