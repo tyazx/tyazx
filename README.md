@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enthusiasm makes up for a host of deficiencies."</i>
+<i>"To forget the whole world is easy; to make the whole world forget you is hard."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
