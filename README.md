@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What the caterpillar calls the end of the world, the master calls a butterfly."</i>
+<i>"If you're afraid - don't do it, - if you're doing it - don't be afraid! "</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Genghis Khan</b>
 </blockquote>
 </p>
 
