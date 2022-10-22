@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All you need is passion. If you have a passion for something, you'll create the talent."</i>
+<i>"Know yourself and you will win all battles."</i>
 <br>
-<b>- Yanni</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
