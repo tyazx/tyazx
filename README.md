@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not get the chills when you set your goal you're not setting big enough goals."</i>
+<i>"All you need is passion. If you have a passion for something, you'll create the talent."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
