@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know yourself and you will win all battles."</i>
+<i>"A hut full of laughter is richer than a palace full of sadness."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
