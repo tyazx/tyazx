@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People inspire you, or they drain you. Pick them wisely."</i>
+<i>"Stop acting so small. You are the universe in ecstatic motion."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
