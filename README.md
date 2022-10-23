@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain."</i>
+<i>"The friend is the man who knows all about you, and still likes you."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
