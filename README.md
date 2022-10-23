@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every limit is a beginning as well as an ending."</i>
+<i>"The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.  "</i>
 <br>
-<b>- George Eliot</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
