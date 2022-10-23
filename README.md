@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Old age is like everything else. To make a success of it, you've got to start young."</i>
+<i>"Every limit is a beginning as well as an ending."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
