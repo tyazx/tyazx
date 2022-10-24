@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found."</i>
+<i>"Being in a good frame of mind helps keep one in the picture of health."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
