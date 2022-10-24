@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less you open your heart to others, the more your heart suffers."</i>
+<i>"Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
