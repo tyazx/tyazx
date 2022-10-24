@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The power of man has grown in every sphere, except over himself."</i>
+<i>"Through discipline comes freedom."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
