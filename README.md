@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine."</i>
+<i>"Go and do the things you can't. That is how you get to do them."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
