@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Would you rather learn to deal with the truth now than be forced to do so later on?"</i>
+<i>"People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
