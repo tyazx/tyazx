@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to be looked over than overlooked."</i>
+<i>"Decide whether or not the goal is worth the risks involved. If it is, stop worrying."</i>
 <br>
-<b>- Mae West</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
