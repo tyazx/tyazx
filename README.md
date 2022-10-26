@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are as many opinions as there are experts."</i>
+<i>"It is better to be looked over than overlooked."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
