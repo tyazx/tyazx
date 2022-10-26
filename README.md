@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As soon as you truly commit to making something happen, the 'how' will reveal itself."</i>
+<i>"A bird does not sing because it has an answer. It sings because it has a song."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
