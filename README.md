@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Waste not fresh tears over old griefs."</i>
+<i>"As soon as you truly commit to making something happen, the 'how' will reveal itself."</i>
 <br>
-<b>- Euripides</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
