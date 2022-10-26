@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You need to be doing fewer things for more effect instead of doing more things with side effects."</i>
+<i>"He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
