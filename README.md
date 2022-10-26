@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Decide whether or not the goal is worth the risks involved. If it is, stop worrying."</i>
+<i>"Being entirely honest with oneself is a good exercise."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
