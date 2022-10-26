@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change is inevitable but personal growth is a choice."</i>
+<i>"It is truth that liberates, not your effort to be free."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
