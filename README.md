@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am not what happened to me, I am what I choose to become."</i>
+<i>"Invisible things are the only realities."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
