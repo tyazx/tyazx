@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all."</i>
+<i>"He who laughs at himself never runs out of things to laugh at."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
