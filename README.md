@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To lead the people, walk behind them."</i>
+<i>"I am not what happened to me, I am what I choose to become."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
