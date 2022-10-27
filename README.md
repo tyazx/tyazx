@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever."</i>
+<i>"No one returns from a long journey the same person they were before."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
