@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have never let my schooling interfere with my education."</i>
+<i>"It matters not what someone is born, but what they grow to be."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
