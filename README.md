@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The primary cause of unhappiness is never the situation but your thoughts about it."</i>
+<i>"Rich people have small TVs and big libraries, and poor people have small libraries and big TVs."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
