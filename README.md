@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't know where you're going, you will probably end up somewhere else."</i>
+<i>"Life itself is the most wonderful fairy tale."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
