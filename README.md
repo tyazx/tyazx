@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It matters not what someone is born, but what they grow to be."</i>
+<i>"It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
