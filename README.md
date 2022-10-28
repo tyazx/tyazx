@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every limit is a beginning as well as an ending."</i>
+<i>"If you don't know where you're going, you will probably end up somewhere else."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
