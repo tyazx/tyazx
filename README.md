@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Look to the beauty of this day, miracles are all around you."</i>
+<i>"Tension is who you think you should be. Relaxation is who you are."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
