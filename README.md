@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life itself is the most wonderful fairy tale."</i>
+<i>"Look to the beauty of this day, miracles are all around you."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
