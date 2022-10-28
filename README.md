@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Absorb what is useful, discard what is not, add what is uniquely your own."</i>
+<i>"Every limit is a beginning as well as an ending."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
