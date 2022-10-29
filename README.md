@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is literally what he thinks."</i>
+<i>"The energy of the mind is the essence of life."</i>
 <br>
-<b>- James Allen</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
