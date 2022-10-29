@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Others can stop you temporarily - you are the only one who can do it permanently."</i>
+<i>"We meet ourselves time and again in a thousand disguises on the path of life."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
