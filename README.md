@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for."</i>
+<i>"You are not what you think you are, You are not what others think you are, You are what you think others think you are."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
