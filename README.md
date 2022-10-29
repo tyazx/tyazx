@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time heals what reason cannot.  "</i>
+<i>"A man is literally what he thinks."</i>
 <br>
-<b>- Seneca</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
