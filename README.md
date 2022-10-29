@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The energy of the mind is the essence of life."</i>
+<i>"Genius is patience."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
