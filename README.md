@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. "</i>
+<i>"If you set your goals ridiculously high and its a failure, you will fail above everyone elses success."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- James Cameron</b>
 </blockquote>
 </p>
 
