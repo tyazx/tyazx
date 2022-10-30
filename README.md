@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn from the rejection and turn it into an opportunity!"</i>
+<i>"The more you are motivated by Love, The more Fearless & Free your action will be."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
