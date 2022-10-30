@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust is the foundation of great leadership."</i>
+<i>"You already have every characteristic necessary for success if you recognize, claim, develop and use them."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
