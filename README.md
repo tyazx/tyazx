@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not all those who wander are lost."</i>
+<i>"Trust is the foundation of great leadership."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
