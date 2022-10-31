@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Kindness is a language which the deaf can hear and the blind can see."</i>
+<i>"An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
