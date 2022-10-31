@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are free, and that is why you are lost. "</i>
+<i>"If you don't program yourself, life will program you."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
