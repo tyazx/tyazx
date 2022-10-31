@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The key to success is action."</i>
+<i>"Your purpose will be clear only when you listen to your heart."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
