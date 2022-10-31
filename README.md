@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some of your greatest lessons come from your darkest moments."</i>
+<i>"You are free, and that is why you are lost. "</i>
 <br>
-<b>- Roger Lee</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
