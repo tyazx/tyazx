@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many roads lead to the path, but basically there are only two: reason and practice. "</i>
+<i>"Make each day a new horizon."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
