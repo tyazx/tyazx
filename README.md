@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Begin at once to live, and count each separate day as a separate life.  "</i>
+<i>"Before preparing to improve the world, first look around your own home three times. "</i>
 <br>
-<b>- Seneca</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
