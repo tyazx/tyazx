@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success."</i>
+<i>"A lie can travel half way around the world while the truth is putting on its shoes."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
