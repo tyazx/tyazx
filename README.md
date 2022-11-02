@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach."</i>
+<i>"Keep away from people who try to belittle your ambitions."</i>
 <br>
-<b>- Benjamin Mays</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
