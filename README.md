@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more I want to get something done, the less I call it work."</i>
+<i>"The more you like yourself, the less you are like anyone else, which makes you unique."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
