@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're always free to change your mind and choose a different future, or a different past."</i>
+<i>"Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
