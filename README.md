@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Use your smile to change the world but don't let the world change your smile."</i>
+<i>"You're always free to change your mind and choose a different future, or a different past."</i>
 <br>
-<b>- Unknown</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
