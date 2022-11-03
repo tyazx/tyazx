@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Insanity is relative. It depends on who has who locked in what cage.  "</i>
+<i>"Use your smile to change the world but don't let the world change your smile."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
