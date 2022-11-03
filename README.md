@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must embrace pain and burn it as fuel for our journey."</i>
+<i>"Change is not a four letter word...but often your reaction to it is!"</i>
 <br>
-<b>- Kenji Miyazawa</b>
+<b>- Jeffrey Gitomer</b>
 </blockquote>
 </p>
 
