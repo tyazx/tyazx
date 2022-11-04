@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is best to begin at the beginning."</i>
+<i>"Winning isn't always championships."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
