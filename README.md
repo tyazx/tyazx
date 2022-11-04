@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winning isn't always championships."</i>
+<i>"Life is either a daring adventure, or nothing."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
