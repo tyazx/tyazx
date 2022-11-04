@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence."</i>
+<i>"We can have more than we've got because we can become more than we are."</i>
 <br>
-<b>- Sydney Smith</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
