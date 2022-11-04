@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases."</i>
+<i>"Those who look for the bad in people will surely find it."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
