@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can have more than we've got because we can become more than we are."</i>
+<i>"The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
