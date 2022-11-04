@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perfection is not attainable, but if we chase perfection we can catch excellence."</i>
+<i>"It is best to begin at the beginning."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
