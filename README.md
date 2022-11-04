@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become."</i>
+<i>"To become what you are not, behave as you do not."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
