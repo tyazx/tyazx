@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Obstacles don't block the path, they are the path."</i>
+<i>"Winning isn't everything, but wanting to win is."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
