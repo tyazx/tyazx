@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is either a daring adventure, or nothing."</i>
+<i>"Believe nothing you hear, and only one half that you see."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
