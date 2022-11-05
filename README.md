@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rest in reason; move in passion."</i>
+<i>"You can have the mind or you can have the moment."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
