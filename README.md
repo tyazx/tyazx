@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest of empires, is the empire over one's self."</i>
+<i>"Obstacles don't block the path, they are the path."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
