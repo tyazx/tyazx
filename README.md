@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I must also have a dark side if I am to be whole."</i>
+<i>"Charms strike the sight, but merit wins the soul."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
