@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe nothing you hear, and only one half that you see."</i>
+<i>"The greatest of empires, is the empire over one's self."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
