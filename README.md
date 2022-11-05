@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can have the mind or you can have the moment."</i>
+<i>"Nothing makes a man broad-minded like adversity."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
