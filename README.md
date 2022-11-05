@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Charms strike the sight, but merit wins the soul."</i>
+<i>"Rest in reason; move in passion."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
