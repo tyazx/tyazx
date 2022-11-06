@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is contagious. So is lack of confidence."</i>
+<i>"Your mind is infinite, it's your doubts that are limiting."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
