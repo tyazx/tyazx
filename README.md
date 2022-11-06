@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Short cuts make long delays."</i>
+<i>"Out of suffering have emerged the strongest souls; the most massive characters are seared with scars."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
