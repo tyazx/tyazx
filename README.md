@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A clear conscience is the sure sign of a bad memory."</i>
+<i>"Life is trying things to see if they work."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
