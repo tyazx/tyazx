@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just get out and do it. You will be very, very glad that you did."</i>
+<i>"If you want to know what God thinks about money just look at the people He gives it to."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
