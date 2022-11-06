@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to know what God thinks about money just look at the people He gives it to."</i>
+<i>"A clear conscience is the sure sign of a bad memory."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
