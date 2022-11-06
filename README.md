@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain."</i>
+<i>"The divine is not something high above us. It is in heaven, it is in earth, it is inside us."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
