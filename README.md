@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Out of suffering have emerged the strongest souls; the most massive characters are seared with scars."</i>
+<i>"Confidence is contagious. So is lack of confidence."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
