@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must be free not because we claim freedom, but because we practice it."</i>
+<i>"Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
