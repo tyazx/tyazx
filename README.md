@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes you have to lose all you have to find out who you truly are."</i>
+<i>"What you do today can improve all your tomorrows."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
