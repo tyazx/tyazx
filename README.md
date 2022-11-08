@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In youth we run into difficulties. In old age difficulties run into us. "</i>
+<i>"If you take responsibility for yourself you will develop a hunger to accomplish your dream."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
