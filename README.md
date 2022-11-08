@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love and compassion are necessities, not luxuries. Without them, humanity cannot survive."</i>
+<i>"If you're waiting until you feel talented enough to make it, you'll never make it."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
