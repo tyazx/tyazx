@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you are grateful for what you have the more you will have to be grateful for.  "</i>
+<i>"No amount of regretting can change the past, and no amount of worrying can change the future."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
