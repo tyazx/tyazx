@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are the average of the five people you spend most time with."</i>
+<i>"Live as if you were to die tomorrow. Learn as if you were to live forever."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
