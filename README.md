@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not fear failure but rather fear not trying."</i>
+<i>"We forge the chains we wear in life."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
