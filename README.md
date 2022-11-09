@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success."</i>
+<i>"A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
