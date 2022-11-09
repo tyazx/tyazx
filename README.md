@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live as if you were to die tomorrow. Learn as if you were to live forever."</i>
+<i>"Loyalty and friendship are the most precious possessions a man can have."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
