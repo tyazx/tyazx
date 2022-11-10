@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good character is the best tombstone. Carve your name on hearts, not on marble."</i>
+<i>"Don't waste your energy on being angry at something that somebody did six months ago or a year ago. It's over."</i>
 <br>
-<b>- Charles Spurgeon</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
