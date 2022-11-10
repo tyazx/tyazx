@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't know where you're going, you will probably end up somewhere else."</i>
+<i>"Don't be afraid to go slowly. Be afraid of stopping."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
