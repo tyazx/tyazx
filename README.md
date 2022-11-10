@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Loyalty and friendship are the most precious possessions a man can have."</i>
+<i>"Turn the pain into power."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
