@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Genius is one percent inspiration and ninety-nine percent perspiration."</i>
+<i>"Every second you have on this planet is very precious and it's your responsibility that you're happy."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
