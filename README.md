@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe nothing you hear, and only one half that you see."</i>
+<i>"Unless someone truly has the power to say no, they never truly have the power to say yes."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
