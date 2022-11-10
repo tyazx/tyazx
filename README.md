@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not be so open-minded that your brains fall out."</i>
+<i>"If you don't know where you're going, you will probably end up somewhere else."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
