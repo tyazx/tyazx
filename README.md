@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success."</i>
+<i>"Life and death are of supreme importance. Time swiftly passes by and opportunity is lost."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
