@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unless someone truly has the power to say no, they never truly have the power to say yes."</i>
+<i>"Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
