@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All wealth is the product of labor."</i>
+<i>"As mortals, we're ruled by conditions, not by ourselves."</i>
 <br>
-<b>- John Locke</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
