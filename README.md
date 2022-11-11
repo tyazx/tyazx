@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As mortals, we're ruled by conditions, not by ourselves."</i>
+<i>"The only limits in our life are those we impose on ourselves."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
