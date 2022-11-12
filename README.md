@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't gain the world and lose your soul. Wisdom is better than silver and gold."</i>
+<i>"Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
