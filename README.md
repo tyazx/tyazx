@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We will outstretch the hand if you unclench your fist."</i>
+<i>"Live your life and forget your age."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
