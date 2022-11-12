@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wise man reads both books and life itself."</i>
+<i>"Whatever you do in life, surround yourself with smart people who'll argue with you."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
