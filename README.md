@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you do in life, surround yourself with smart people who'll argue with you."</i>
+<i>"There are three classes of people: those who see. Those who see when they are shown. Those who do not see."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
