@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where focus goes, energy flows."</i>
+<i>"Don't gain the world and lose your soul. Wisdom is better than silver and gold."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
