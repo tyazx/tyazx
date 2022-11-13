@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never do to others what you would not like them to do to you. "</i>
+<i>"It is your attitude, not your aptitude, that determines your altitude."</i>
 <br>
-<b>- Confucius</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
