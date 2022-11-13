@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you want to be honored by others, you learn to honor them first."</i>
+<i>"If you do not tell the truth about yourself you cannot tell it about other people."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
