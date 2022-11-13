@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A single dream is more powerful than a thousand realities."</i>
+<i>"Wise men speak because they have something to say; Fools because they have to say something."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
