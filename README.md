@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only by acceptance of the past, can you alter it."</i>
+<i>"A single dream is more powerful than a thousand realities."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
