@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who reads a book with a sense of obligation does not understand the art of reading."</i>
+<i>"When everything seems to be going against you, remember that the airplane takes off against the wind, not with it."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
