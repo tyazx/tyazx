@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The art of being happy lies in the power of extracting happiness from common things."</i>
+<i>"Words have no power to impress the mind without the exquisite horror of their reality."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
