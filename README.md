@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be as fluid as water, do not give your enemies anything solid to attack."</i>
+<i>"Anyone who reads a book with a sense of obligation does not understand the art of reading."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
