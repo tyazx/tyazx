@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never to suffer would never to have been blessed."</i>
+<i>"Don't wish it were easier, wish you were better."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
