@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words have no power to impress the mind without the exquisite horror of their reality."</i>
+<i>"Act as if what you do makes a difference. It does."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
