@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more something threatens your identity, the more you will avoid it."</i>
+<i>"To raise your consciousness, surround yourself with people of higher consciousness."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
