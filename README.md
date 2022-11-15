@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid to stand for what you believe in, even if that means standing alone."</i>
+<i>"Keep your dreams, you never know when you might need them."</i>
 <br>
-<b>- Unknown</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
