@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It doesn't matter how slow you go, as long as you don't stop."</i>
+<i>"While we may not be able to control all that happens to us, we can control what happens inside us."</i>
 <br>
-<b>- Confucius</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
