@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To judge a man by his weakest link or deed is like judging the power of the ocean by one wave."</i>
+<i>"The secret of change is to focus all your energy not on fighting the old, but on building the new."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
