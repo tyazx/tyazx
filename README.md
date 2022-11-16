@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of change is to focus all your energy not on fighting the old, but on building the new."</i>
+<i>"If you always do what you've always done, you'll always get what you've always got. "</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
