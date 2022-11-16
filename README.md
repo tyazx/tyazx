@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change is hardest at the beginning, messiest in the middle and best at the end."</i>
+<i>"It doesn't matter how slow you go, as long as you don't stop."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
