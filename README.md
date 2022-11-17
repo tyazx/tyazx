@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."</i>
+<i>"Don't let your learning lead to knowledge. Let your learning lead to action."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
