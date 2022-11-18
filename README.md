@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself."</i>
+<i>"What people say, what people do, and what they say they do are entirely different things. "</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
