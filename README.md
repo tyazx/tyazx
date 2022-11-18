@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it."</i>
+<i>"There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will."</i>
 <br>
-<b>- Rumi</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
