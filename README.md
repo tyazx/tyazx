@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For all evils there are two remedies - time and silence."</i>
+<i>"The big thing is to make a winning effort. I'm not obsessed with wins."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Morgan Wootten</b>
 </blockquote>
 </p>
 
