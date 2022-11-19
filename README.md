@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"First say to yourself what you would be; and then do what you have to do."</i>
+<i>"Nourish the mind like you would your body. The mind cannot survive on junk food."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
