@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A friend to all is a friend to none."</i>
+<i>"Poetry is written with tears, fiction with blood, and history with invisible ink."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
