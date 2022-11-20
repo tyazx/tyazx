@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want peace, accept. If you want suffering, expect."</i>
+<i>"Work for something because it is good, not just because it stands a chance to succeed."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
