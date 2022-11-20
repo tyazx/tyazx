@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the absence of judgment."</i>
+<i>"Those who seek the easy way do not seek the true way."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
