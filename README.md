@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust is the foundation of great leadership."</i>
+<i>"If you want peace, accept. If you want suffering, expect."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
