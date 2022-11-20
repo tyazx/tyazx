@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Shoot for the moon. Even if you miss, you'll land among the stars."</i>
+<i>"Love is the absence of judgment."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
