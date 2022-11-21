@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life begins where fear ends."</i>
+<i>"Cleverness is not wisdom."</i>
 <br>
-<b>- Osho</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
