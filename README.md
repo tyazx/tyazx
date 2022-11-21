@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Cleverness is not wisdom."</i>
+<i>"One never does wrong by doing right."</i>
 <br>
-<b>- Euripides</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
