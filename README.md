@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We need a backbone, not a wishbone."</i>
+<i>"Each problem has a positive side."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
