@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The smallest of actions is always better than the noblest of intentions."</i>
+<i>"The highest form of ignorance is when you reject something you don't know anything about. "</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
