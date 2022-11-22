@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want work well done, select a busy man; the other kind has no time."</i>
+<i>"Productize your perspective."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
