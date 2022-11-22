@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One never does wrong by doing right."</i>
+<i>"True knowledge exists in knowing that you know nothing."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
