@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is trying things to see if they work."</i>
+<i>"If I can laugh, I can live."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
