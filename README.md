@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest test of courage on earth is to bear defeat without losing heart."</i>
+<i>"If you quit once it becomes a habit."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
