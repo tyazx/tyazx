@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The primary cause of unhappiness is never the situation but your thoughts about it."</i>
+<i>"There is no truth. There is only perception."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Gustave Flaubert</b>
 </blockquote>
 </p>
 
