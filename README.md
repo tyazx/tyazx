@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All religions, arts and sciences are branches of the same tree. "</i>
+<i>"Superstars think like superstars long before the fans or the press anoint them."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
