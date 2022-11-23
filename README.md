@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All that a man achieves and all that he fails to achieve is the direct result of his own thoughts."</i>
+<i>"Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time."</i>
 <br>
-<b>- James Allen</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
