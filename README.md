@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you quit once it becomes a habit."</i>
+<i>"The primary cause of unhappiness is never the situation but your thoughts about it."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
