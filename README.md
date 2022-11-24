@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest deception men suffer is from their own opinions."</i>
+<i>"The future is not a gift. It is an achievement."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
