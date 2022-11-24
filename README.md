@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Cease striving. Then there will be transformation."</i>
+<i>"The greatest deception men suffer is from their own opinions."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
