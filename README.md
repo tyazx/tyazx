@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like playing the violin in public and learning the instrument as one goes on."</i>
+<i>"Be strong. Be confident. Be the star of your own life."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
