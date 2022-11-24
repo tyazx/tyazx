@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart."</i>
+<i>"Life doesn't get easier or more forgiving, we get stronger and more resilient."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
