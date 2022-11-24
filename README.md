@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Superstars think like superstars long before the fans or the press anoint them."</i>
+<i>"Life is like playing the violin in public and learning the instrument as one goes on."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
