@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The whole world is a series of miracles, but we're so used to them we call them ordinary things."</i>
+<i>"Be brave. Take risks. Nothing can substitute experience."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
