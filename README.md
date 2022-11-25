@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be brave enough to suck at something new."</i>
+<i>"The heart wants what it wants. There's no logic. "</i>
 <br>
-<b>- Unknown</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
