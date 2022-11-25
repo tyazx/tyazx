@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The heart wants what it wants. There's no logic. "</i>
+<i>"Even if you're sure you can win, be careful that you can live with what you lose."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
