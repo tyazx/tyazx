@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are few reasons for telling the truth, but for lying the number is infinite."</i>
+<i>"Be brave enough to suck at something new."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
