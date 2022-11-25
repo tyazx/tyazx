@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Human beings can alter their lives by altering their attitudes of mind."</i>
+<i>"The foolish reject what they see, not what they think; the wise reject what they think, not what they see."</i>
 <br>
-<b>- William James</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
