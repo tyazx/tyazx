@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Vision is the art of seeing things invisible."</i>
+<i>"One of the advantages of being disorganized is that one is always having surprising discoveries."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- A.A. Milne</b>
 </blockquote>
 </p>
 
