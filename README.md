@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wealth consists not in having great possessions, but in having few wants."</i>
+<i>"Vision is the art of seeing things invisible."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
