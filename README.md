@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"From morning till night, we should never rely on a single thing."</i>
+<i>"The first principle of success is desire."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
