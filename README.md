@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live as if you were to die tomorrow. Learn as if you were to live forever."</i>
+<i>"From morning till night, we should never rely on a single thing."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
