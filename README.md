@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life reflects your own thoughts back to you."</i>
+<i>"Everything is possible. The impossible just takes longer."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
