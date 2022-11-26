@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything is possible. The impossible just takes longer."</i>
+<i>"Action is the foundational key to all success."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
