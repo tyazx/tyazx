@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you believe you can, you can. If you believe you can't, then, well you can't."</i>
+<i>"Live as if you were to die tomorrow. Learn as if you were to live forever."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
