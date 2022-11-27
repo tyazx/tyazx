@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be confident, not certain."</i>
+<i>"He will win who knows when to fight and when not to fight."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
