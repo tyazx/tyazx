@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confuse them with your silence and amaze them with your actions."</i>
+<i>"There is no one giant step that does it. It's a lot of little steps."</i>
 <br>
-<b>- Unknown</b>
+<b>- Peter A. Cohen</b>
 </blockquote>
 </p>
 
