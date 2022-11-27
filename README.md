@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He will win who knows when to fight and when not to fight."</i>
+<i>"Confuse them with your silence and amaze them with your actions."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
