@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stop acting so small. You are the universe in ecstatic motion."</i>
+<i>"Be confident, not certain."</i>
 <br>
-<b>- Rumi</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
