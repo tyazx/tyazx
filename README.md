@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If they wrote it to make money, don't read it."</i>
+<i>"Stop acting so small. You are the universe in ecstatic motion."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
