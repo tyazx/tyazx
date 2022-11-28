@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win."</i>
+<i>"Your greatest asset is your earning ability. Your greatest resource is your time."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
