@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must welcome change as the rule but not as your ruler. "</i>
+<i>"I would rather die on my feet than live on my knees."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
