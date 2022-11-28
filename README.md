@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions."</i>
+<i>"You must welcome change as the rule but not as your ruler. "</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
