@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wise warrior avoids the battle."</i>
+<i>"Doing the best at this moment puts you in the best place for the next moment."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
