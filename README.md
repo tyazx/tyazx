@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What kills the creative force is not age or lack of talent, but our own spirit, our own attitude."</i>
+<i>"If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
