@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present."</i>
+<i>"There is no right or wrong, only a series of possibilities that shift with each thought, feeling, and action that you experience."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
