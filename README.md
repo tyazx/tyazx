@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything great that has ever happened to humanity has begun as a single thought in someone's mind."</i>
+<i>"Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present."</i>
 <br>
-<b>- Yanni</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
