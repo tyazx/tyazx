@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of getting ahead is getting started."</i>
+<i>"We're responsible for everything that happens to us."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
