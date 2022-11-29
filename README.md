@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We're responsible for everything that happens to us."</i>
+<i>"The great use of life is to spend it for something that will outlast it."</i>
 <br>
-<b>- Yanni</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
