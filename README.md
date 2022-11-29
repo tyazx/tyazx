@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life can only be understood backwards; but it must be lived forwards."</i>
+<i>"The secret of getting ahead is getting started."</i>
 <br>
-<b>- Soren Kierkegaard</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
