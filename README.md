@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability."</i>
+<i>"An ounce of performance is worth pounds of promises."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
