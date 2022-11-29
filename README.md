@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The great use of life is to spend it for something that will outlast it."</i>
+<i>"Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability."</i>
 <br>
-<b>- William James</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
