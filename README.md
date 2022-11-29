@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are the sky. Everything else - it's just the weather."</i>
+<i>"Even if you persuade me, you won't persuade me."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
