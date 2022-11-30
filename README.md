@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fools read fast. Geniuses reread."</i>
+<i>"Life's too mysterious to take too serious."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
