@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important battle is one to conquer yourself."</i>
+<i>"Anyone who wants to achieve a dream must stay strong, focused and steady."</i>
 <br>
-<b>- Yanni</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
