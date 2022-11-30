@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am thankful to all who said no to me. It is because of them that I'm doing it myself."</i>
+<i>"Fools read fast. Geniuses reread."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
