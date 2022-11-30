@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're braver than you believe, and stronger than you seem, and smarter than you think."</i>
+<i>"I know not all that may be coming, but be it what it will, I'll go to it laughing."</i>
 <br>
-<b>- A.A. Milne</b>
+<b>- Herman Melville</b>
 </blockquote>
 </p>
 
