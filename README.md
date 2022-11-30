@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life's too mysterious to take too serious."</i>
+<i>"The most important battle is one to conquer yourself."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
