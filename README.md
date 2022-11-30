@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions."</i>
+<i>"You may think I'm small, but I have a universe inside my mind."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
