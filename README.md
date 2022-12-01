@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Open your eyes and look within. Are you satisfied with the life you're living?"</i>
+<i>"The significance of life is living."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
