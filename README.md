@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The whole is greater than the sum of its parts."</i>
+<i>"Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
