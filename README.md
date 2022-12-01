@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who leaves the game wins it."</i>
+<i>"Open your eyes and look within. Are you satisfied with the life you're living?"</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
