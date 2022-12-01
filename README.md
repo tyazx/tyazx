@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In matters of style, swim with the current; in matters of principle, stand like a rock."</i>
+<i>"The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
