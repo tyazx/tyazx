@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is filled with secrets. You can't learn them all at once."</i>
+<i>"Life goes by fast. Enjoy it. Calm down. It's all funny."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
