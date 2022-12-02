@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pursuit of mastery bears gifts. "</i>
+<i>"A person hears only what they understand."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
