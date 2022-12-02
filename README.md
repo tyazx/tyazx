@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A person hears only what they understand."</i>
+<i>"Truth will always be truth, regardless of lack of understanding, disbelief or ignorance. "</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- W. Clement Stone</b>
 </blockquote>
 </p>
 
