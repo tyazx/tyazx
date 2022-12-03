@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When things go wrong, don't go with them."</i>
+<i>"A tiger doesn't lose sleep over the opinion of sheep."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Shahir Zag</b>
 </blockquote>
 </p>
 
