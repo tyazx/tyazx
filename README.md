@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A tiger doesn't lose sleep over the opinion of sheep."</i>
+<i>"A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles."</i>
 <br>
-<b>- Shahir Zag</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
