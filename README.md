@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For changes to be of any true value, they've got to be lasting and consistent."</i>
+<i>"What's right is what's left if you do everything else wrong."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Robin Williams</b>
 </blockquote>
 </p>
 
