@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter how qualified or deserving we are, we will never reach a better life until we can imagine it for ourselves and allow ourselves to have it."</i>
+<i>"When things go wrong, don't go with them."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
