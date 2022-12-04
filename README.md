@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We love the things we love for what they are."</i>
+<i>"The purpose of life is the expansion of happiness."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
