@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The purpose of life is the expansion of happiness."</i>
+<i>"He will win who knows when to fight and when not to fight."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
