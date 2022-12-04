@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future is the worst thing about the present."</i>
+<i>"Success comes from knowing that you did your best to become the best that you are capable of becoming."</i>
 <br>
-<b>- Gustave Flaubert</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
