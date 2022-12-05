@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions."</i>
+<i>"Our life is what our thoughts make it. A man will find that as he alters his thoughts toward things and other people, things and other people will alter towards him."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
