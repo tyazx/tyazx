@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Would you rather live your life according to the approval of others or aligned with your truth and your dreams?"</i>
+<i>"A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
