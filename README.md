@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The few who do are the envy of the many who only watch."</i>
+<i>"Rest and be kind, you don't have to prove anything."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Jack Kerouac</b>
 </blockquote>
 </p>
 
