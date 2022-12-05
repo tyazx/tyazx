@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our truest life is when we are in dreams awake."</i>
+<i>"Distant water does not put out a nearby fire."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
