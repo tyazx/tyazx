@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has."</i>
+<i>"There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
