@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom."</i>
+<i>"You don't get in life what you want; you get in life what you are."</i>
 <br>
-<b>- Sonia Ricotti</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
