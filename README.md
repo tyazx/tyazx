@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The day is for honest men, the night for thieves."</i>
+<i>"Success is a consequence and must not be a goal."</i>
 <br>
-<b>- Euripides</b>
+<b>- Gustave Flaubert</b>
 </blockquote>
 </p>
 
