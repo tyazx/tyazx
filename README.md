@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are ever the smartest person in the room, you are in the wrong room."</i>
+<i>"Awaken. Take heed, do not squander your life."</i>
 <br>
-<b>- C. Sean McGee</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
