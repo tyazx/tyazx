@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it."</i>
+<i>"Realistic people do not accomplish extraordinary things."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
