@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to be sad, no one in the world can make you happy. But if you make up your mind to be happy, no one and nothing on earth can take that happiness from you."</i>
+<i>"If we will be quiet and ready enough, we shall find compensation in every disappointment."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
