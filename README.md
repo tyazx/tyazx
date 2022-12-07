@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most creative act you will ever undertake is the act of creating yourself."</i>
+<i>"If you always do what you've always done, you'll always get what you've always got. "</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
