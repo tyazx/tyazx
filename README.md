@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we will be quiet and ready enough, we shall find compensation in every disappointment."</i>
+<i>"Hope is a waking dream."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
