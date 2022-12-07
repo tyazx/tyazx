@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want work well done, select a busy man; the other kind has no time."</i>
+<i>"Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
