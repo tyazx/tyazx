@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is more real than nothing."</i>
+<i>"Most people fail in life because they major in minor things."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
