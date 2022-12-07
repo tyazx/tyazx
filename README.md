@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge."</i>
+<i>"The only real security that a man can have in this world is a reserve of knowledge, experience and ability. "</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
