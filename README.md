@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people fail in life because they major in minor things."</i>
+<i>"If you want work well done, select a busy man; the other kind has no time."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
