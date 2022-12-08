@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not titles that honour men, but men that honour titles."</i>
+<i>"Life is a succession of lessons, which must be lived to be understood."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
