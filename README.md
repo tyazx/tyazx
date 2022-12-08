@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is fear that has said its prayers and decided to go forward anyway."</i>
+<i>"Everything you look at can become a fairy tale and you can get a story from everything you touch."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
