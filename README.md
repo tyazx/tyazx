@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever."</i>
+<i>"Once you learn to quit, it becomes a habit."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
