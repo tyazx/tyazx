@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first man gets the oyster, the second man gets the shell."</i>
+<i>"It is not titles that honour men, but men that honour titles."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Niccolo Machiavelli</b>
 </blockquote>
 </p>
 
