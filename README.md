@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is but a product of his thoughts. What he thinks he becomes."</i>
+<i>"The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
