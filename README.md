@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important single ingredient in the formula of success is knowing how to get along with people."</i>
+<i>"Through selfless service, you will always be fruitful and find the fulfillment of your desires."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
