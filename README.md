@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not be so open-minded that your brains fall out."</i>
+<i>"People are doing the best that they can from their own level of consciousness."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
