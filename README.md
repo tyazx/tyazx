@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Meditate. It won't be fun but it will surface what you need to deal with."</i>
+<i>"Duty makes us do things well, but love makes us do them beautifully.  "</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
