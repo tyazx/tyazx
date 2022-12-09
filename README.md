@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All know the way; few actually walk it. "</i>
+<i>"We are born from a quiet sleep, and we die to a calm awakening"</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
