@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. "</i>
+<i>"Meditate. It won't be fun but it will surface what you need to deal with."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
