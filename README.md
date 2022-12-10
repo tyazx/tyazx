@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The difference between winning and losing is most often not quitting."</i>
+<i>"Success is about creating value."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Candice Carpenter</b>
 </blockquote>
 </p>
 
