@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stay away from people who makes you feel like you are wasting their time."</i>
+<i>"It does not do to dwell on dreams and forget to live, remember that."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
