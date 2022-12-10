@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who realize their folly are not true fools."</i>
+<i>"Wheels of justice grind slow but grind fine."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
