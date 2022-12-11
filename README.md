@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To live outside the law, you must be honest. "</i>
+<i>"It's your life-but only if you make it so."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
