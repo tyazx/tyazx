@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Listen to what you know instead of what you fear."</i>
+<i>"Where your talents and the needs of the world cross, there lies your vocation."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
