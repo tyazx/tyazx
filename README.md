@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never stand begging for that which you have the power to earn."</i>
+<i>"You are what you do, not what you say you'll do."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
