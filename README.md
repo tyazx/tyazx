@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The smallest of actions is always better than the noblest of intentions."</i>
+<i>"To live outside the law, you must be honest. "</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
