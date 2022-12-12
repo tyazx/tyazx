@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way of success is the way of continuous pursuit of knowledge."</i>
+<i>"Life itself is the most wonderful fairy tale."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
