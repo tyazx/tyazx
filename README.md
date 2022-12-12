@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you are focused on time - past and future - the more you miss the Now, the most precious thing there is."</i>
+<i>"Not all those who wander are lost."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
