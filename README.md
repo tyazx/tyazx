@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people spend more time and energy going around problems than in trying to solve them. "</i>
+<i>"Follow your heart, listen to your inner voice, stop caring about what others think."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
