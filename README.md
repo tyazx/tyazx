@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is too important to be taken seriously."</i>
+<i>"Most people spend more time and energy going around problems than in trying to solve them. "</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
