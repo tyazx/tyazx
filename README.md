@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Follow your heart, listen to your inner voice, stop caring about what others think."</i>
+<i>"The way of success is the way of continuous pursuit of knowledge."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
