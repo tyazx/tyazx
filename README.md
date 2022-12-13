@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only limits in our life are those we impose on ourselves."</i>
+<i>"If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
