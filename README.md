@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I know of only one duty, and that is to love."</i>
+<i>"To be calm is the highest achievement of the self."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
