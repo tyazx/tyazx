@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The source of a true smile is an awakened mind."</i>
+<i>"I can think of nothing less pleasurable than a life devoted to pleasure."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- John D. Rockefeller</b>
 </blockquote>
 </p>
 
