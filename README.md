@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Conscience is a dog that does not stop us from passing but that we cannot prevent from barking."</i>
+<i>"Only put off until tomorrow what you are willing to die having left undone."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
