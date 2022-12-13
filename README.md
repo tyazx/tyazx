@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your best life will not be found in comfort. It will be found in fighting for what you believe in."</i>
+<i>"None of us can change our yesterdays but all of us can change our tomorrows."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
