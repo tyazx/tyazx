@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no absolute success in the world, only constant progress."</i>
+<i>"Do what you can, with what you have, where you are."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
