@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always keep your eyes open. Keep watching. Because whatever you see can inspire you."</i>
+<i>"Find something you love and do it better than everyone else."</i>
 <br>
-<b>- Grace Coddington</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
