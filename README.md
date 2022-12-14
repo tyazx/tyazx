@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor."</i>
+<i>"Know your gifts and share them."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
