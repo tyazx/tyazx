@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Silence is the great teacher and to learn its lessons you must pay attention to it."</i>
+<i>"Judge your success by what you had to give up in order to get it."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
