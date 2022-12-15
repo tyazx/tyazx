@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Correct what you can. Learn from what you can't."</i>
+<i>"It doesn't matter how slow you go, as long as you don't stop."</i>
 <br>
-<b>- Toni Morrison</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
