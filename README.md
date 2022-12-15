@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It doesn't matter how slow you go, as long as you don't stop."</i>
+<i>"Silence is the great teacher and to learn its lessons you must pay attention to it."</i>
 <br>
-<b>- Confucius</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
