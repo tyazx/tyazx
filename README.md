@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is little success where there is little laughter."</i>
+<i>"Wishing to be friends is quick work, but friendship is a slow ripening fruit."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
