@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing can survive without food. Everything we consume acts either to heal us or to poison us."</i>
+<i>"Don't be afraid to stand for what you believe in, even if that means standing alone."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
