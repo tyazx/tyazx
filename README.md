@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"New beginnings are disguised as painful endings."</i>
+<i>"If you quit once it becomes a habit."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
