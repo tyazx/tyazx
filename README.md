@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It isn't that they can't see the solution. It is that they can't see the problem."</i>
+<i>"Where we fall are the stepping-stones for our journey."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
