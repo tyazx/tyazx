@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid to stand for what you believe in, even if that means standing alone."</i>
+<i>"Do the hard jobs first. The easy jobs will take care of themselves."</i>
 <br>
-<b>- Unknown</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
