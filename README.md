@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where we fall are the stepping-stones for our journey."</i>
+<i>"Your neighbor is the man who needs you."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
