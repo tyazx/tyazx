@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A hopeless man is a very desperate and dangerous man, almost a dead man."</i>
+<i>"Speak when you are angry - and you'll make the best speech you'll ever regret."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
