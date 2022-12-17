@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words can only have a positive effect on others if and when they are ready to listen."</i>
+<i>"A hopeless man is a very desperate and dangerous man, almost a dead man."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
