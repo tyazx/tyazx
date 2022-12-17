@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We cannot always do great things in life, but we can do small things with great love."</i>
+<i>"Sometimes you have to shut your eyes, so you can see the real beauty."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Kilian Jornet</b>
 </blockquote>
 </p>
 
