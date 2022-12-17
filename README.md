@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The eyes of others our prisons; their thoughts our cages."</i>
+<i>"Never close your lips to those whom you have already opened your heart."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
