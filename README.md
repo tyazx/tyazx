@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You will never do anything in this world without courage. It is the greatest quality of the mind next to honor."</i>
+<i>"Be the change that you want to see in the world."</i>
 <br>
-<b>- James Allen</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
