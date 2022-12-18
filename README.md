@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One always begins to forgive a place as soon as it's left behind."</i>
+<i>"Very little is needed to make a happy life; it is all within yourself, in your way of thinking."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
