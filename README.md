@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To do great work one must be very idle as well as very industrious."</i>
+<i>"The Only Thing That Is Constant Is Change"</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
