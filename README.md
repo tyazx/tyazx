@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't have anything worthwhile without difficulties."</i>
+<i>"You have within you right now, everything you need to deal with whatever the world can throw at you."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
