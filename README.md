@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Simple words, repeated daily, can change your life."</i>
+<i>"To do great work one must be very idle as well as very industrious."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
