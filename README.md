@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good character is the best tombstone. Carve your name on hearts, not on marble."</i>
+<i>"You can't have anything worthwhile without difficulties."</i>
 <br>
-<b>- Charles Spurgeon</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
