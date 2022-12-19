@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A thing must be loved before it is lovable."</i>
+<i>"The quicker you let go of old cheese, the sooner you find new cheese."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
