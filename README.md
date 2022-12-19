@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creativity is the greatest rebellion in existence."</i>
+<i>"Whatever you believe with feeling becomes your reality. "</i>
 <br>
-<b>- Osho</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
