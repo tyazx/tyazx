@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you believe with feeling becomes your reality. "</i>
+<i>"A thing must be loved before it is lovable."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
