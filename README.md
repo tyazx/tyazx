@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who wishes to be obeyed must know how to command."</i>
+<i>"Every man gotta right to decide his own destiny."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
