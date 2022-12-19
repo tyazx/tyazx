@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I can think of nothing less pleasurable than a life devoted to pleasure."</i>
+<i>"We suffer more often in imagination than in reality."</i>
 <br>
-<b>- John D. Rockefeller</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
