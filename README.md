@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Very little is needed to make a happy life; it is all within yourself, in your way of thinking."</i>
+<i>"I can think of nothing less pleasurable than a life devoted to pleasure."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- John D. Rockefeller</b>
 </blockquote>
 </p>
 
