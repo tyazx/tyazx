@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who wishes to be obeyed must know how to command."</i>
+<i>"Death smiles at us all. All we can do is smile back."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
