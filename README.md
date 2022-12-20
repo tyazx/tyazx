@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do what is right, not what is easy, nor what is popular."</i>
+<i>"Your neighbor is the man who needs you."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
