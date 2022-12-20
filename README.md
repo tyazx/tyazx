@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must not sit down and wait for miracles. Up and be going!"</i>
+<i>"In youth we run into difficulties. In old age difficulties run into us. "</i>
 <br>
-<b>- John Eliot</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
