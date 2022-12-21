@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A fear of weakness only strengthens weakness."</i>
+<i>"You must find the place inside yourself where nothing is impossible."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
