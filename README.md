@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Death smiles at us all. All we can do is smile back."</i>
+<i>"Winners are not people who never fail, but people who never quit."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
