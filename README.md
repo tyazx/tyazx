@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Observe things as they are and don't pay attention to other people."</i>
+<i>"Charms strike the sight, but merit wins the soul."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
