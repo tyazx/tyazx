@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The heart wants what it wants. There's no logic. "</i>
+<i>"When you stop questioning, you stop learning."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
