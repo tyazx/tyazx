@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winners are not people who never fail, but people who never quit."</i>
+<i>"If you do the work you get rewarded. There are no shortcuts in life."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
