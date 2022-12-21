@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has."</i>
+<i>"It doesn't matter if the glass is half empty or half full. Be grateful you have a glass - you're the only person that can decide what's in it."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
