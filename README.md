@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do the work you get rewarded. There are no shortcuts in life."</i>
+<i>"You can't get to a place that you don't believe exists."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
