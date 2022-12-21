@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must find the place inside yourself where nothing is impossible."</i>
+<i>"The heart wants what it wants. There's no logic. "</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
