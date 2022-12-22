@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't build a reputation on what you are going to do. "</i>
+<i>"Happiness is only real, when shared."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
