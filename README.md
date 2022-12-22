@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest step towards a life of simplicity is to learn to let go."</i>
+<i>"You're braver than you believe, and stronger than you seem, and smarter than you think."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- A.A. Milne</b>
 </blockquote>
 </p>
 
