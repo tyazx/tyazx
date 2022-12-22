@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing we see or hear is perfect. But right there in the imperfection is perfect reality."</i>
+<i>"Successful people do what unsuccessful people are not willing to do."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
