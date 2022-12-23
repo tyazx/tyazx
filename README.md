@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The one who boasts does so only out of a feeling of inferiority."</i>
+<i>"Ability is a poor man's wealth."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
