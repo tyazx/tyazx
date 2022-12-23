@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ability is a poor man's wealth."</i>
+<i>"We are all faced with a series of great opportunities brilliantly disguised as impossible situations. "</i>
 <br>
-<b>- John Wooden</b>
+<b>- Charles Swindoll</b>
 </blockquote>
 </p>
 
