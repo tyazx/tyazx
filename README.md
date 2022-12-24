@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way out is in."</i>
+<i>"He who fails to plan, plans to fail."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
