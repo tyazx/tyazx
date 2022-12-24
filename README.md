@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your problem isn't the problem. Your reaction is the problem."</i>
+<i>"The biggest room in the world is the room for improvement."</i>
 <br>
 <b>- Unknown</b>
 </blockquote>
