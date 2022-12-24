@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anything you may hold firmly in your imagination can be yours."</i>
+<i>"Better the cottage where one is merry than the palace where one weeps."</i>
 <br>
-<b>- William James</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
