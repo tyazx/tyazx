@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you're curious, you find lots of interesting things to do."</i>
+<i>"When you've got nothing, you've got nothing to lose."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
