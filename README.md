@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never do to others what you would not like them to do to you. "</i>
+<i>"I have never let my schooling interfere with my education."</i>
 <br>
-<b>- Confucius</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
