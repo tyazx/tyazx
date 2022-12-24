@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Memory is the scribe of the soul."</i>
+<i>"The way out is in."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
