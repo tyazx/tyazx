@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you've got nothing, you've got nothing to lose."</i>
+<i>"A needle is not sharp at both ends. "</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
