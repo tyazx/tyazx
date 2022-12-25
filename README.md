@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot."</i>
+<i>"Some people don't like change, but you need to embrace change if the alternative is disaster."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
