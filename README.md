@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A needle is not sharp at both ends. "</i>
+<i>"Go for it now. The future is promised to no one. "</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
