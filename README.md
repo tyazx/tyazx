@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go for it now. The future is promised to no one. "</i>
+<i>"Do good, live in the most positive and joyful way possible every day."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
