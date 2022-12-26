@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People who have goals succeed because they know where they're going. It's that simple."</i>
+<i>"Dream big. Start small. But most of all, start."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
