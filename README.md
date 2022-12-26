@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dream big. Start small. But most of all, start."</i>
+<i>"Choose to be optimistic, it feels better."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
