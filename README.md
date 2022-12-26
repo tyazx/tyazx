@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more often a stupidity is repeated, the more it gets the appearance of wisdom."</i>
+<i>"Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
