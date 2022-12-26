@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love."</i>
+<i>"The more often a stupidity is repeated, the more it gets the appearance of wisdom."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
