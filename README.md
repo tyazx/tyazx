@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Within every desire is the mechanics of its fulfillment."</i>
+<i>"The only person you should try to be better than is the person you were yesterday."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
