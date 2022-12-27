@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who is untrue to his own cause cannot command the respect of others."</i>
+<i>"Life is the dancer and you are the dance."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
