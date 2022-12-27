@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life and death are of supreme importance. Time swiftly passes by and opportunity is lost."</i>
+<i>"Goals are the fuel in the furnace of achievement."</i>
 <br>
-<b>- Dogen</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
