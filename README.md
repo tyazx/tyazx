@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only person you should try to be better than is the person you were yesterday."</i>
+<i>"To do great work one must be very idle as well as very industrious."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
