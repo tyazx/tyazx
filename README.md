@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is the dancer and you are the dance."</i>
+<i>"For all evils there are two remedies - time and silence."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
