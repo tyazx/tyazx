@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Excellence is not an exception, it is a prevailing attitude."</i>
+<i>"If you think adventure is dangerous, try routine; it is lethal."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
