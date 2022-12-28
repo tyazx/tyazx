@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Giving back involves a certain amount of giving up."</i>
+<i>"Excellence is not an exception, it is a prevailing attitude."</i>
 <br>
 <b>- Colin Powell</b>
 </blockquote>
