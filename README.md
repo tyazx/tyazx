@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For all evils there are two remedies - time and silence."</i>
+<i>"Walking with a friend in the dark is better than walking alone in the light."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
