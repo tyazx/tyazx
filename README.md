@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge."</i>
+<i>"Ability is a poor man's wealth."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
