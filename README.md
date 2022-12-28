@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't shortchange yourself when it comes to investing in your own better future."</i>
+<i>"Giving back involves a certain amount of giving up."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
