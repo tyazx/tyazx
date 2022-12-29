@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ability is a poor man's wealth."</i>
+<i>"Failure is feedback. Learn from it and move on."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
