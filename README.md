@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't criticize what you can't understand. "</i>
+<i>"When it comes to mastering a skill, time is the magic ingredient."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
