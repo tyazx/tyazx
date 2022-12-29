@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever."</i>
+<i>"Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Billie Jean King</b>
 </blockquote>
 </p>
 
