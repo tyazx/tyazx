@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not whether you get knocked down, its whether you get back up."</i>
+<i>"An investment in knowledge pays the best interest."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
