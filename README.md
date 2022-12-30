@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Deeds will not be less valiant because they are upraised."</i>
+<i>"Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
