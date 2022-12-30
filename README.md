@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The hard path is often the right one. The river teaches more than the shore."</i>
+<i>"If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
