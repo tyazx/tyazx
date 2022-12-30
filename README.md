@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is an option here. If things are not failing, you are not innovating enough."</i>
+<i>"Deeds will not be less valiant because they are upraised."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
