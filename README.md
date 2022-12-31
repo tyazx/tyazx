@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you try, you might get exactly what you want. If you don't, you don't."</i>
+<i>"There is nothing like looking if you want to find something."</i>
 <br>
-<b>- Unknown</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
