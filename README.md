@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better late than never."</i>
+<i>"You may be one person in this world, but to one person you may mean the world."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
