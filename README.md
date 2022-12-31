@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can see it in your mind, you can hold it in your mind."</i>
+<i>"We forge the chains we wear in life."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
