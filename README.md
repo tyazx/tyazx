@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do every act of your life as if it were your last."</i>
+<i>"Think and wonder, wonder and think."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
