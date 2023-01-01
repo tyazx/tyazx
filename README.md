@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Attitude is a little thing that makes a big difference."</i>
+<i>"Talent is luck. The important thing in life is courage."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
