@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perseverance and spirit have done wonders in all ages. "</i>
+<i>"Do every act of your life as if it were your last."</i>
 <br>
-<b>- George Washington</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
