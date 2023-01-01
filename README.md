@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Think and wonder, wonder and think."</i>
+<i>"To be calm is the highest achievement of the self."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
