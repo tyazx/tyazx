@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Resilience is not what happens to you. It's how you react to, respond to, and recover from what happens to you."</i>
+<i>"Don't hate the player. Change the game."</i>
 <br>
-<b>- Jeffrey Gitomer</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
