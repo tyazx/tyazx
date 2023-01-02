@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A scientific man ought to have no wishes, no affections, - a mere heart of stone."</i>
+<i>"Life is like stepping onto a boat which is about to sail out to sea and sink."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
