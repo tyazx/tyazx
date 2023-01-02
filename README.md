@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When at last you are come to the ocean of happiness, do not go back thirsty."</i>
+<i>"Excellence is not an exception, it is a prevailing attitude."</i>
 <br>
-<b>- Kabir</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
