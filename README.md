@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like stepping onto a boat which is about to sail out to sea and sink."</i>
+<i>"Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
