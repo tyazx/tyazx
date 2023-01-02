@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed."</i>
+<i>"It all depends on what you choose to believe."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
