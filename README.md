@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just because something isn't a lie does not mean that it isn't deceptive."</i>
+<i>"You become a worrier by practicing worry. You become free of worry by practicing the opposite."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
