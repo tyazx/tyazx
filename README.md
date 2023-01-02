@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You become a worrier by practicing worry. You become free of worry by practicing the opposite."</i>
+<i>"Resilience is not what happens to you. It's how you react to, respond to, and recover from what happens to you."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Jeffrey Gitomer</b>
 </blockquote>
 </p>
 
