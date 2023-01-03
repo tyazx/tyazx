@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is startling to realize how much unbelief is necessary to make belief possible."</i>
+<i>"Unhappiness enters through a door that has been left open."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
