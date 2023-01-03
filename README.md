@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything is in your own heart."</i>
+<i>"The right thing to do and the hard thing to do are usually the same."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
