@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The right thing to do and the hard thing to do are usually the same."</i>
+<i>"When you have to make a choice and don't make it, that is in itself a choice."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
