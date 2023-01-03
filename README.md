@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you have to make a choice and don't make it, that is in itself a choice."</i>
+<i>"Everybody by your side ain't on your side."</i>
 <br>
-<b>- William James</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
