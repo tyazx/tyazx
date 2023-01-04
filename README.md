@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes."</i>
+<i>"What kills the creative force is not age or lack of talent, but our own spirit, our own attitude."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
