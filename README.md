@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return."</i>
+<i>"As long as a human being worries about when he will die, and what he has that is his, all of his works are zero."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
