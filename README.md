@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is what you make it. Always has been, always will be."</i>
+<i>"Every saint has a past, and every sinner has a future."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
