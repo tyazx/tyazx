@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make peace with your inner turmoil."</i>
+<i>"All problems are illusions of the mind."</i>
 <br>
-<b>- Unknown</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
