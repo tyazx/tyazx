@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What would life be if we had no courage to attempt anything? "</i>
+<i>"Is it really possible to tell someone else what one feels?"</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
