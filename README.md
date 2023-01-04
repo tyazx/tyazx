@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In nature there is no alienation. Everything belongs."</i>
+<i>"What would life be if we had no courage to attempt anything? "</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
