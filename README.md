@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Is it really possible to tell someone else what one feels?"</i>
+<i>"Make peace with your inner turmoil."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
