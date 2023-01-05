@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let each man exercise the art he knows."</i>
+<i>"To get angry is like to revenge yourself for the guilt of others."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
