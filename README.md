@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on."</i>
+<i>"The world only exists in your eyes. You can make it as big or as small as you want."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
