@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The moment you stop to think about whether you love someone, you've already stopped loving that person forever."</i>
+<i>"As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
