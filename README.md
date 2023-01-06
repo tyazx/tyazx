@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Art is the signature of civilizations. "</i>
+<i>"There is no sadder sight than a young pessimist."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
