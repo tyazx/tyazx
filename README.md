@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month."</i>
+<i>"Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!"</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
