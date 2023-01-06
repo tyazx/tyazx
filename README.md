@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the beginner's mind there are many possibilities, but in the expert's mind there are few."</i>
+<i>"Formal education will make you a living, self-education will make you a fortune."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
