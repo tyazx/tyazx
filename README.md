@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Formal education will make you a living, self-education will make you a fortune."</i>
+<i>"The moment you stop to think about whether you love someone, you've already stopped loving that person forever."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
