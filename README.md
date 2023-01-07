@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great acts are made up of small deeds."</i>
+<i>"Care about what other people think and you will always be their prisoner."</i>
 <br>
 <b>- Lao Tzu</b>
 </blockquote>
