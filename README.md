@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you feed your mind with positive thoughts, the more you can attract great things into your life."</i>
+<i>"We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Gabor Mate</b>
 </blockquote>
 </p>
 
