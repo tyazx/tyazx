@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The meaning of life is just to be alive. It is so plain and so obvious and so simple."</i>
+<i>"To avoid criticism, do nothing, say nothing, and be nothing."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
