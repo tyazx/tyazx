@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Art is the signature of civilizations. "</i>
+<i>"Failing is another stepping stone to greatness."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
