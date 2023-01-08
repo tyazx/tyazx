@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people don't like change, but you need to embrace change if the alternative is disaster."</i>
+<i>"Man's character is his fate."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
