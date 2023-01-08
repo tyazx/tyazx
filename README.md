@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failing is another stepping stone to greatness."</i>
+<i>"I want the fishing rod, not the fish."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
