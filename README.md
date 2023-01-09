@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All life is a manifestation of the spirit, the manifestation of love."</i>
+<i>"Within every desire is the mechanics of its fulfillment."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
