@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The trouble with the rat race is that even if you win, you're still a rat."</i>
+<i>"All life is a manifestation of the spirit, the manifestation of love."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
