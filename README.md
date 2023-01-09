@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Within every desire is the mechanics of its fulfillment."</i>
+<i>"A random act of kindness, no matter how small, can make a tremendous impact on someone else's life."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
