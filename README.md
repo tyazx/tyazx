@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't get in life what you want; you get in life what you are."</i>
+<i>"Do not ignore the passion that burns in you. Spend time to discover your gift."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
