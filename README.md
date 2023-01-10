@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot teach a crab to walk straight."</i>
+<i>"To know even one life has breathed easier because you have lived. This is to have succeeded."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
