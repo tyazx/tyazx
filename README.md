@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even if you stumble and fall down, it doesn't mean you've chosen the wrong path."</i>
+<i>"Awakening is possible only for those who seek it and want it."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- G.I. Gurdjieff</b>
 </blockquote>
 </p>
 
