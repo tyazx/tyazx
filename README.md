@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be."</i>
+<i>"If there is a book that you want to read, but it hasn't been written yet, then you must write it."</i>
 <br>
-<b>- Yanni</b>
+<b>- Toni Morrison</b>
 </blockquote>
 </p>
 
