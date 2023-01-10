@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the time is gone, you can never get it back."</i>
+<i>"Argue for your limitations and sure enough, they're yours."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
