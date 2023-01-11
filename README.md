@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear can hold you prisoner. Hope can set you free."</i>
+<i>"Attitude is a little thing that makes a big difference."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
