@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Optimism is the one quality more associated with success and happiness than any other."</i>
+<i>"The educated differ from the uneducated as much as the living differ from the dead."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
