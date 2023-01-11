@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each of us is a unique strand in the intricate web of life and here to make a contribution."</i>
+<i>"To every action there is always opposed an equal reaction."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
