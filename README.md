@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not ignore the passion that burns in you. Spend time to discover your gift."</i>
+<i>"It is truth that liberates, not your effort to be free."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
