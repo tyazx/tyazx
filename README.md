@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tall oaks grow from little acorns."</i>
+<i>"Every one of us is the sum total of his own thoughts."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
