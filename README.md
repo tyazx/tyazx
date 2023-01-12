@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In youth we run into difficulties. In old age difficulties run into us. "</i>
+<i>"Definiteness of purpose is the starting point of all achievement. "</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- W. Clement Stone</b>
 </blockquote>
 </p>
 
