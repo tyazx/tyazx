@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To affect the quality of the day, that is the highest of arts."</i>
+<i>"It doesn't matter how slow you go, as long as you don't stop."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
