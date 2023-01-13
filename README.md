@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world is changed by your example, not by your opinion."</i>
+<i>"To affect the quality of the day, that is the highest of arts."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
