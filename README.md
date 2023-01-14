@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The day is for honest men, the night for thieves."</i>
+<i>"Walk slowly but never walk backward."</i>
 <br>
-<b>- Euripides</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
