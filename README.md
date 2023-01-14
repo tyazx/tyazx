@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even the smallest person can change the course of the future."</i>
+<i>"This is the real secret of life - to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
