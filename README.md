@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must find the place inside yourself where nothing is impossible."</i>
+<i>"Even the smallest person can change the course of the future."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
