@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fishing is much more than fish."</i>
+<i>"The day is for honest men, the night for thieves."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
