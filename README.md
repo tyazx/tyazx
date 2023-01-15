@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only put off until tomorrow what you are willing to die having left undone."</i>
+<i>"The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
