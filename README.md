@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Turn your face to the sun, as flowers know how to do."</i>
+<i>"A needle is not sharp at both ends. "</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
