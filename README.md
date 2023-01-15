@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot."</i>
+<i>"There is no significance in life without struggle."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
