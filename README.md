@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Doing what you love is the cornerstone of having abundance in your life. "</i>
+<i>"The secret of getting ahead is getting started."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
