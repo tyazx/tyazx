@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the midst of movement and chaos, keep stillness inside of you."</i>
+<i>"Only put off until tomorrow what you are willing to die having left undone."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
