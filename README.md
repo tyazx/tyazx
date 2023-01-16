@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only lost cause is one we give up on before we enter the struggle."</i>
+<i>"Write to help yourself, publish to help others."</i>
 <br>
-<b>- Vaclav Havel</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
