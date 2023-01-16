@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no significance in life without struggle."</i>
+<i>"Everyone sees what you appear to be, few experience what you really are."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Niccolo Machiavelli</b>
 </blockquote>
 </p>
 
