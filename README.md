@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tall oaks grow from little acorns."</i>
+<i>"Nothing ever goes away until it has taught us what we need to know."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
