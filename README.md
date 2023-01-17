@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence breeds beauty.  "</i>
+<i>"Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
