@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you believe you can, you can. If you believe you can't, then, well you can't."</i>
+<i>"It's not what you pay a man, but what he costs you that counts."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
