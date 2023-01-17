@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work for something because it is good, not just because it stands a chance to succeed."</i>
+<i>"If you believe you can, you can. If you believe you can't, then, well you can't."</i>
 <br>
-<b>- Vaclav Havel</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
