@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding."</i>
+<i>"Experience is a comb which nature gives us when we are bald. "</i>
 <br>
-<b>- John D. Rockefeller</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
