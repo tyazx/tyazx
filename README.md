@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you think adventure is dangerous, try routine; it is lethal."</i>
+<i>"Creative endeavors are by their nature uncertain."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
