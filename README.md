@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I admire those who do good and expect nothing in return."</i>
+<i>"What's right is what's left if you do everything else wrong."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Robin Williams</b>
 </blockquote>
 </p>
 
