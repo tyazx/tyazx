@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a quality of the soul...not a function of one's material circumstances."</i>
+<i>"Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
