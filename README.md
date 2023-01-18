@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never confuse a single defeat with a final defeat."</i>
+<i>"An ounce of performance is worth pounds of promises."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
