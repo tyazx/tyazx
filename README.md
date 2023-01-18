@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am not the outcome. I am never the result. I am only the effort."</i>
+<i>"I know of only one duty, and that is to love."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
