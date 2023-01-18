@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I know of only one duty, and that is to love."</i>
+<i>"I admire those who do good and expect nothing in return."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
