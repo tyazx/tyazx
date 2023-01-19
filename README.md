@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow. "</i>
+<i>"No kind action ever stops with itself. One kind action leads to another. Good example is followed."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
