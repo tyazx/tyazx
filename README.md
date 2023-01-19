@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Weeds are flowers too, once you get to know them."</i>
+<i>"The roots of education are bitter, but the fruit is sweet."</i>
 <br>
-<b>- A.A. Milne</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
