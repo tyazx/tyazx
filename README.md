@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust, but verify."</i>
+<i>"Weeds are flowers too, once you get to know them."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- A.A. Milne</b>
 </blockquote>
 </p>
 
