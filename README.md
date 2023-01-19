@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ones who are crazy enough to think they can change the world, are the ones that do."</i>
+<i>"Success is never final; failure is never fatal."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Conrad Hilton</b>
 </blockquote>
 </p>
 
