@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is about creating value."</i>
+<i>"Know the rules well, so you can break them effectively."</i>
 <br>
-<b>- Candice Carpenter</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
