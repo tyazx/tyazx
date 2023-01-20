@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Catch, then, O catch the transient hour; Improve each moment as it flies! "</i>
+<i>"You may forget with whom you laughed, but you will never forget with whom you wept.  "</i>
 <br>
-<b>- St. Jerome</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
