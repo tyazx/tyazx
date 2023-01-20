@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away."</i>
+<i>"A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
