@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable."</i>
+<i>"Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
