@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whenever you do a thing, act as if all the world were watching."</i>
+<i>"Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
