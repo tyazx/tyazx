@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The impossible can always be broken down into possibilities."</i>
+<i>"Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage."</i>
 <br>
-<b>- Unknown</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
