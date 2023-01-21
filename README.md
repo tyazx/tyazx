@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The man who moved the mountain was the one who began carrying away the smallest stones."</i>
+<i>"You make your own luck if you stay at it long enough."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
