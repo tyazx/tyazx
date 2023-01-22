@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I will not walk backward in life."</i>
+<i>"I no doubt deserved my enemies, but I don't believe I deserved my friends."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
