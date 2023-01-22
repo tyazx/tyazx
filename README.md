@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You make your own luck if you stay at it long enough."</i>
+<i>"Wherever you are, and whatever you do, be in love."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
