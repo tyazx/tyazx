@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I no doubt deserved my enemies, but I don't believe I deserved my friends."</i>
+<i>"Rudeness is the weak man's imitation of strength."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
