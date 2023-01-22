@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are your best thing."</i>
+<i>"Enthusiasm makes up for a host of deficiencies."</i>
 <br>
-<b>- Toni Morrison</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
