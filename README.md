@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enthusiasm makes up for a host of deficiencies."</i>
+<i>"Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours. "</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Orison Swett Marden</b>
 </blockquote>
 </p>
 
