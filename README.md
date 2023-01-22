@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"They who have conquered doubt and fear have conquered failure."</i>
+<i>"I will not walk backward in life."</i>
 <br>
-<b>- James Allen</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
