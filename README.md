@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wherever you are, and whatever you do, be in love."</i>
+<i>"They who have conquered doubt and fear have conquered failure."</i>
 <br>
-<b>- Rumi</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
