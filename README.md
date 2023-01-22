@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am not the outcome. I am never the result. I am only the effort."</i>
+<i>"You are your best thing."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Toni Morrison</b>
 </blockquote>
 </p>
 
