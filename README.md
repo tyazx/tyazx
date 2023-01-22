@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long."</i>
+<i>"I am not the outcome. I am never the result. I am only the effort."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
