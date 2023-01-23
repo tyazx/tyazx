@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim."</i>
+<i>"A wise man will be master of his mind, a fool will be its slave."</i>
 <br>
-<b>- John D. Rockefeller</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
