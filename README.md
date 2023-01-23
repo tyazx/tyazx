@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is ours to be spent, not to be saved. "</i>
+<i>"You must either modify your dreams or magnify your skills."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
