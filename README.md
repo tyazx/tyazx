@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If it's not broken, tinker with it till you find out how it works."</i>
+<i>"The wisdom of life consists in the elimination of the nonessentials."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
