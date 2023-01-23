@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wisdom of life consists in the elimination of the nonessentials."</i>
+<i>"A self that goes on changing is a self that goes on living."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
