@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most creative act you will ever undertake is the act of creating yourself."</i>
+<i>"The greatest test of courage on earth is to bear defeat without losing heart."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
