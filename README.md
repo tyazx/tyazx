@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A wise man will be master of his mind, a fool will be its slave."</i>
+<i>"Never close your lips to those whom you have already opened your heart."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
