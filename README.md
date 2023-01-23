@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't."</i>
+<i>"The most creative act you will ever undertake is the act of creating yourself."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
