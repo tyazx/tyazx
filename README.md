@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A lot of people have gone further than they thought they could because someone else thought they could."</i>
+<i>"Fear does not have any special power unless you empower it by submitting to it."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
