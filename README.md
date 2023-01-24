@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The whole is greater than the sum of its parts."</i>
+<i>"In the midst of chaos, there is also opportunity."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
