@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear does not have any special power unless you empower it by submitting to it."</i>
+<i>"It is not enough to win a war; it is more important to organize the peace."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
