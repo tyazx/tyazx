@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends."</i>
+<i>"Happiness is when what you think, what you say, and what you do are in harmony."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
