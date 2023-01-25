@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Argue for your limitations and sure enough, they're yours."</i>
+<i>"No man ever steps in the same river twice, for it's not the same river and he's not the same man."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
