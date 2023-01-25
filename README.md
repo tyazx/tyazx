@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just trust that everything is unfolding the way it is supposed to. Don't resist... Great things are waiting for you around the corner."</i>
+<i>"The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends."</i>
 <br>
-<b>- Sonia Ricotti</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
