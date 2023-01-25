@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better."</i>
+<i>"All power is from within and therefore under our control."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
