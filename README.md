@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't like something, change it. If you can't change it, change your attitude."</i>
+<i>"Argue for your limitations and sure enough, they're yours."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
