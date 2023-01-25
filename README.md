@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No valid plans for the future can be made by those who have no capacity for living now."</i>
+<i>"In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
