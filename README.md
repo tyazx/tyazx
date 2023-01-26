@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hope is a waking dream."</i>
+<i>"Where words fail, music speaks."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
