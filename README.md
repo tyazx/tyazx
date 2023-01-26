@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All human beings can alter their lives by altering their attitudes."</i>
+<i>"You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
