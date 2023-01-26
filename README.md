@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being wrong opens us up to the possibility of change."</i>
+<i>"It is only depth of character that determines the profundity with which we face life."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
