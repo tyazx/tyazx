@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Genius, in truth, means little more than the faculty of perceiving in an unhabitual way."</i>
+<i>"Hope is a waking dream."</i>
 <br>
-<b>- William James</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
