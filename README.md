@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Amateurs sit and wait for inspiration, the rest of us just get up and got to work."</i>
+<i>"Being wrong opens us up to the possibility of change."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
