@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you."</i>
+<i>"Man is made by his belief. As he believes, so he is."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
