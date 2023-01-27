@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Greatness lies not in being strong, but in the right use of strength."</i>
+<i>"To bear trials with a calm mind robs misfortune of its strength and burden."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
