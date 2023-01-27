@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To bear trials with a calm mind robs misfortune of its strength and burden."</i>
+<i>"Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!"</i>
 <br>
-<b>- Seneca</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
