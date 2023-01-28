@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one."</i>
+<i>"Your neighbor is the man who needs you."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
