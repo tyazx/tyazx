@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How you think when you lose determines how long it will be until you win."</i>
+<i>"What people say, what people do, and what they say they do are entirely different things. "</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
