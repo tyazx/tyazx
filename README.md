@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I will not walk backward in life."</i>
+<i>"Those who cannot change their minds cannot change anything."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
