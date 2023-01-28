@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All we have to decide is what to do with the time that is given to us."</i>
+<i>"The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
