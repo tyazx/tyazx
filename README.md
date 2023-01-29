@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whoever is happy will make others happy too."</i>
+<i>"The purpose of life is the life of purpose."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
