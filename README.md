@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"But better die than live mechanically a life that is a repetition of repetitions."</i>
+<i>"Great minds are always feared by lesser minds."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
