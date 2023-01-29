@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When we think about our strengths, we are strong. When we think about our weaknesses, we are weak."</i>
+<i>"Nothing has any power over me other than that which I give it through my conscious thoughts."</i>
 <br>
-<b>- Peter A. Cohen</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
