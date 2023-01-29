@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one can hurt you without your consent."</i>
+<i>"Life is like stepping onto a boat which is about to sail out to sea and sink."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
