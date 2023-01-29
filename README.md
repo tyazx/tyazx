@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All our dreams can come true, if we have the courage to pursue them."</i>
+<i>"Whoever is happy will make others happy too."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
