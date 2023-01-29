@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing has any power over me other than that which I give it through my conscious thoughts."</i>
+<i>"Today you are you, that is truer than true. There is no one alive who is you-er than you."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
