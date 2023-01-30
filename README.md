@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean."</i>
+<i>"The eyes of others our prisons; their thoughts our cages."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
