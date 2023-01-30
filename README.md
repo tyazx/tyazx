@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The man who moved the mountain was the one who began carrying away the smallest stones."</i>
+<i>"You're only given a little spark of madness. You mustn't lose it."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Robin Williams</b>
 </blockquote>
 </p>
 
