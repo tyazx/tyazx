@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone telling you it's pointless to share your perspective is sharing their perspective."</i>
+<i>"It's the job that's never started that takes the longest to finish."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
