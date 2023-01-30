@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When we think about our strengths, we are strong. When we think about our weaknesses, we are weak."</i>
+<i>"Numbing the pain for a while will make it worse when you finally feel it."</i>
 <br>
-<b>- Peter A. Cohen</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
