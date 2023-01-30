@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Numbing the pain for a while will make it worse when you finally feel it."</i>
+<i>"The man who moved the mountain was the one who began carrying away the smallest stones."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
