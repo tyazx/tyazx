@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Optimism is the one quality more associated with success and happiness than any other."</i>
+<i>"When we think about our strengths, we are strong. When we think about our weaknesses, we are weak."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Peter A. Cohen</b>
 </blockquote>
 </p>
 
