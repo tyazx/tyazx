@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunity is missed by most people because it is dressed in overalls and looks like work."</i>
+<i>"It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
