@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"High thoughts must have high language."</i>
+<i>"If you put water into a cup, it becomes the cup."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
