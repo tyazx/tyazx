@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Today is the oldest you've ever been, and the youngest you'll ever be again."</i>
+<i>"Every moment is a fresh beginning."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
