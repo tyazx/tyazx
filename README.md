@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present."</i>
+<i>"The only thing new in the world is the history you do not know."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
