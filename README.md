@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let your mind stop you."</i>
+<i>"The first step is to establish that something is possible; then probability will occur."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
