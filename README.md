@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Death walks faster than the wind and never returns what he has taken."</i>
+<i>"Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
