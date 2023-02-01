@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do you have the patience to wait until your mud settles and the water is clear?"</i>
+<i>"Success is getting what you want, happiness is wanting what you get."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- W.P. Kinsella</b>
 </blockquote>
 </p>
 
