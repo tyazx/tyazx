@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Action may not always bring happiness, but there is no happiness without action."</i>
+<i>"Far and away the best prize that life has to offer is the chance to work hard at work worth doing."</i>
 <br>
-<b>- William James</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
