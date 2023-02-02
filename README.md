@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The whole is greater than the sum of its parts."</i>
+<i>"A gentleman is one who puts more into the world than he takes out."</i>
 <br>
-<b>- Aristotle</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
