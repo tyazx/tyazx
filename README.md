@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't ever save anything for a special occasion. Being alive is the special occasion."</i>
+<i>"Everything you've ever wanted is on the other side of fear."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- George Addair</b>
 </blockquote>
 </p>
 
