@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you."</i>
+<i>"Most people fail in life because they major in minor things."</i>
 <br>
-<b>- Jeffrey Gitomer</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
