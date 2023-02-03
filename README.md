@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'd rather welcome change than cling to the past."</i>
+<i>"Fear, uncertainty, and discomfort are your compasses toward growth."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
