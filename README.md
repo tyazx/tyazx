@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life must be a constant education; one must learn everything, from speaking to dying."</i>
+<i>"We create the world and ourselves;"</i>
 <br>
-<b>- Gustave Flaubert</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
