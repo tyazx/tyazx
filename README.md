@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An un-examined life is not worth living."</i>
+<i>"Life is ours to be spent, not to be saved. "</i>
 <br>
-<b>- Socrates</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
