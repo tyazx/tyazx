@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The soul without imagination is what an observatory would be without a telescope."</i>
+<i>"Life must be a constant education; one must learn everything, from speaking to dying."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Gustave Flaubert</b>
 </blockquote>
 </p>
 
