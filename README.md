@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you make a choice, you change the future."</i>
+<i>"Never waste a minute of your precious life thinking about people you don't like."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
