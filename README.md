@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never waste a minute of your precious life thinking about people you don't like."</i>
+<i>"The soul without imagination is what an observatory would be without a telescope."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
