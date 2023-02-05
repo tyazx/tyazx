@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A thing must be loved before it is lovable."</i>
+<i>"The successful warrior is the average man, with laser-like focus."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
