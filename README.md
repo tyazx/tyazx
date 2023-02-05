@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember that the best relationship is one in which your love for each other exceeds your need for each other."</i>
+<i>"The harder you work, the harder it is to surrender."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
