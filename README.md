@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is resistance to fear, mastery of fear - not absence of fear."</i>
+<i>"A thing must be loved before it is lovable."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
