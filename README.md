@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is impossible for a man to learn what he thinks he already knows."</i>
+<i>"The best of us sometimes eat our words.  "</i>
 <br>
-<b>- Epictetus</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
