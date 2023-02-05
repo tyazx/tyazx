@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only those who dare to fail greatly can ever achieve greatly."</i>
+<i>"Become the kind of leader that people would follow voluntarily, even if you had no title or position."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
