@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A gentleman is one who puts more into the world than he takes out."</i>
+<i>"Man invented language to satisfy his deep need to complain."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
