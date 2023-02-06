@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is the absence of the striving for happiness."</i>
+<i>"Fear not the path of Truth for the lack of People walking on it."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
