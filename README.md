@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust your instincts: my first reaction is almost invariably the right one.  "</i>
+<i>"Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Carl Bard</b>
 </blockquote>
 </p>
 
