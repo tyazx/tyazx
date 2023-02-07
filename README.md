@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many of life's failures are people who did not realize how close they were to success when they gave up."</i>
+<i>"Your chances of success in any undertaking can always be measured by your belief in yourself."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
