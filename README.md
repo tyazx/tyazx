@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The least deviation from truth will be multiplied later."</i>
+<i>"It all depends on what you choose to believe."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
