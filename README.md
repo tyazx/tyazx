@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For every minute you are angry you lose sixty seconds of happiness."</i>
+<i>"Talk sense to a fool and he calls you foolish."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
