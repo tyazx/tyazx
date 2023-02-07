@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who has ever made anything of importance was disciplined."</i>
+<i>"Many of life's failures are people who did not realize how close they were to success when they gave up."</i>
 <br>
-<b>- Andrew Hendrixson</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
