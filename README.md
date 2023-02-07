@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Talk sense to a fool and he calls you foolish."</i>
+<i>"Human happiness and moral duty are inseparably connected. "</i>
 <br>
-<b>- Euripides</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
