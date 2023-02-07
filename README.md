@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The purpose of life is to contribute in some way to making things better."</i>
+<i>"Anyone who has ever made anything of importance was disciplined."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Andrew Hendrixson</b>
 </blockquote>
 </p>
 
