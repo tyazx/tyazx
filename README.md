@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't wait for extraordinary opportunities. Seize common occasions and make them great."</i>
+<i>"Every poem should remind the reader that they are going to die."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
