@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every failure brings with it the seed of an equivalent success."</i>
+<i>"Don't wait for extraordinary opportunities. Seize common occasions and make them great."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Orison Swett Marden</b>
 </blockquote>
 </p>
 
