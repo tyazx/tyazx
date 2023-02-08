@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose."</i>
+<i>"Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
