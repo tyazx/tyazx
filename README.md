@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your chances of success in any undertaking can always be measured by your belief in yourself."</i>
+<i>"You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
