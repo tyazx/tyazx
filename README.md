@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man is affected not by events but by the view he takes of them.  "</i>
+<i>"Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more."</i>
 <br>
-<b>- Seneca</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
