@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through."</i>
+<i>"No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
