@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every poem should remind the reader that they are going to die."</i>
+<i>"Man is affected not by events but by the view he takes of them.  "</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
