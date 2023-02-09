@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For every effect there is a root cause. Find and address the root cause rather than try to fix the effect, as there is no end to the latter."</i>
+<i>"The older you get the stronger the wind gets - and it's always in your face."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
