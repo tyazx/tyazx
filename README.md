@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All I can do is be me, whoever that is."</i>
+<i>"The essence of the Way is detachment."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
