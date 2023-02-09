@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The older you get the stronger the wind gets - and it's always in your face."</i>
+<i>"Turn off your mind, relax, and float downstream."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
