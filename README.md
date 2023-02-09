@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The merit of all things lies in their difficulty."</i>
+<i>"Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Charles Spurgeon</b>
 </blockquote>
 </p>
 
