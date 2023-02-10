@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not change direction, you may end up where you are heading."</i>
+<i>"No man is more cheated than the selfish man."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
