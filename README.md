@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Generosity is giving more than you can, and pride is taking less than you need."</i>
+<i>"Optimism is the one quality more associated with success and happiness than any other."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
