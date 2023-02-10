@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perfection is not attainable, but if we chase perfection we can catch excellence."</i>
+<i>"It is the mark of an educated mind to be able to entertain a thought without accepting it."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
