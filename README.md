@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment."</i>
+<i>"Speak when you are angry - and you'll make the best speech you'll ever regret."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
