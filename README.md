@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you judge others, you do not define them, you define yourself."</i>
+<i>"The whole of life, from the moment you are born to the moment you die, is a process of learning."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
