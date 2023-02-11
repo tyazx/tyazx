@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We become brave by doing brave acts."</i>
+<i>"Paths are made by walking."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
