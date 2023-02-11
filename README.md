@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Riches don't make a man rich, they only make him busier."</i>
+<i>"Confidence is contagious. So is lack of confidence."</i>
 <br>
-<b>- Christopher Columbus</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
