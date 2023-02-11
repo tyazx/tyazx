@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.  "</i>
+<i>"The moment you doubt whether you can fly, you cease for ever to be able to do it."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
