@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given."</i>
+<i>"Always keep your eyes open. Keep watching. Because whatever you see can inspire you."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Grace Coddington</b>
 </blockquote>
 </p>
 
