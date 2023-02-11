@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no truth. There is only perception."</i>
+<i>"Don't be afraid to see what you see."</i>
 <br>
-<b>- Gustave Flaubert</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
