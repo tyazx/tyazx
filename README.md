@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is such a rare thing, it is delighted to tell it."</i>
+<i>"Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
