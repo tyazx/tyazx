@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a quality of the soul...not a function of one's material circumstances."</i>
+<i>"One mistake does not have to rule a person's entire life."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
