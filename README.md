@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A strong man overcomes an obstacle, a wise man goes the whole way."</i>
+<i>"The biggest challenge after success is shutting up about it."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
