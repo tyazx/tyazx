@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't change your mind just because people are offended; change your mind if you're wrong."</i>
+<i>"Keep your eyes on the stars, but remember to keep your feet on the ground."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
