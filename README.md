@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your eyes on the stars, but remember to keep your feet on the ground."</i>
+<i>"Hold yourself responsible for a higher standard than anybody else expects of you."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
