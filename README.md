@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is not a goal...it's a by-product of a life well lived."</i>
+<i>"My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
