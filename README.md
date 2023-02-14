@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You may forget with whom you laughed, but you will never forget with whom you wept.  "</i>
+<i>"Distant water does not put out a nearby fire."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
