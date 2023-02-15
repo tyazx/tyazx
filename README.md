@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The power of human thought grows exponentially with the number of minds that share that thought."</i>
+<i>"Some people feel the rain. Others just get wet. "</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
