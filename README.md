@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We take care of the future best by taking care of the present now."</i>
+<i>"The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
