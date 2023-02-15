@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is your attitude, not your aptitude, that determines your altitude."</i>
+<i>"Every man gotta right to decide his own destiny."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
