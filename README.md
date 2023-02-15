@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people feel the rain. Others just get wet. "</i>
+<i>"Luck is a matter of preparation meeting opportunity."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
