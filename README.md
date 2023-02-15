@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence."</i>
+<i>"It is your attitude, not your aptitude, that determines your altitude."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
