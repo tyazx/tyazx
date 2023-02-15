@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anger begins with folly, and ends with repentance. "</i>
+<i>"True it is, we only hate those whom we do not know."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
