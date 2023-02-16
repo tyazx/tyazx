@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be kind whenever possible. It is always possible."</i>
+<i>"There is little success where there is little laughter."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
