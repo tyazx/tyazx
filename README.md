@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man gotta right to decide his own destiny."</i>
+<i>"Strive for excellence, not perfection, because we don't live in a perfect world."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
