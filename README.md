@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For your life to be great, your faith must be bigger than your fear."</i>
+<i>"Those who know, do. Those that understand, teach."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
