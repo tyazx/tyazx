@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Numbing the pain for a while will only make it worse when you finally feel it."</i>
+<i>"Be kind whenever possible. It is always possible."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
