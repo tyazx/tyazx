@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What gets measured gets improved."</i>
+<i>"All things come into being by conflict of opposites."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
