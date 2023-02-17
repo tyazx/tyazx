@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first step toward getting somewhere is to decide that you are not going to stay where you are."</i>
+<i>"Superstars think like superstars long before the fans or the press anoint them."</i>
 <br>
-<b>- Unknown</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
