@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not how much we have, but how much we enjoy, that makes happiness."</i>
+<i>"Enjoy every minute of life. Never second-guess life."</i>
 <br>
-<b>- Charles Spurgeon</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
