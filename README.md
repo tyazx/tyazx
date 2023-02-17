@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing makes a man broad-minded like adversity."</i>
+<i>"The first step toward getting somewhere is to decide that you are not going to stay where you are."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
