@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words are the clothes thoughts wear."</i>
+<i>"If you spend too much time thinking about a thing, you'll never get it done. "</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
