@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on."</i>
+<i>"Preoccupied with a single leaf you won't see the tree."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
