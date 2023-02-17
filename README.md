@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You do not read a book for the book's sake, but for your own."</i>
+<i>"Nothing makes a man broad-minded like adversity."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
