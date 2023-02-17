@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who know, do. Those that understand, teach."</i>
+<i>"You do not read a book for the book's sake, but for your own."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
