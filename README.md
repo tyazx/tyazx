@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Superstars think like superstars long before the fans or the press anoint them."</i>
+<i>"Words are the clothes thoughts wear."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
