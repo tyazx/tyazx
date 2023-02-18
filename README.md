@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you judge another, you do not define them, you define yourself"</i>
+<i>"I am not the outcome. I am never the result. I am only the effort."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
