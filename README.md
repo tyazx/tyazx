@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. "</i>
+<i>"Circumstances do not make the man, they reveal him."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
