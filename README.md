@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friends ask you questions; enemies question you."</i>
+<i>"Don't look back - you're not going that way."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
