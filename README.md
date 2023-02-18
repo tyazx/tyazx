@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Circumstances do not make the man, they reveal him."</i>
+<i>"When you judge another, you do not define them, you define yourself"</i>
 <br>
-<b>- James Allen</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
