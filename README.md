@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are what you believe yourself to be."</i>
+<i>"Much learning does not teach understanding."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
