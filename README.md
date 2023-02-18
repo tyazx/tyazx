@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is what you have before you understand the problem."</i>
+<i>"They say love is the best investment; the more you give, the more you get in return."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
