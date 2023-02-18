@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Much learning does not teach understanding."</i>
+<i>"Confidence is what you have before you understand the problem."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
