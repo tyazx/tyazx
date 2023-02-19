@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment."</i>
+<i>"In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
