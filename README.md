@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves."</i>
+<i>"There is no greatness where there is not simplicity, goodness, and truth."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
