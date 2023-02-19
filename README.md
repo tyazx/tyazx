@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life has more imagination than we carry in our dreams."</i>
+<i>"The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves."</i>
 <br>
-<b>- Christopher Columbus</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
