@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Embrace the life you have and stop wishing that you could be someone else."</i>
+<i>"Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
