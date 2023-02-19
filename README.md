@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result."</i>
+<i>"Life has more imagination than we carry in our dreams."</i>
 <br>
-<b>- James Allen</b>
+<b>- Christopher Columbus</b>
 </blockquote>
 </p>
 
