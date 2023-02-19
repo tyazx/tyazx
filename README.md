@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My definition of success is control."</i>
+<i>"You gain strength, courage and confidence by every experience in which you really stop to look fear in the face."</i>
 <br>
-<b>- Kenneth Branagh</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
