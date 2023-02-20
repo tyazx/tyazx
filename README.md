@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy."</i>
+<i>"Live life as though nobody is watching, and express yourself as though everyone is listening."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
