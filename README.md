@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no greatness where there is not simplicity, goodness, and truth."</i>
+<i>"What you do today can improve all your tomorrows."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
