@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wisest men follow their own direction."</i>
+<i>"Think and wonder, wonder and think."</i>
 <br>
-<b>- Euripides</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
