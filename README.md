@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you do today can improve all your tomorrows."</i>
+<i>"If you always do what you've always done, you'll always get what you've always got. "</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
