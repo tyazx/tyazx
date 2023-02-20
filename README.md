@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you tell the truth, you don't have to remember anything."</i>
+<i>"Go for it now. The future is promised to no one. "</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
