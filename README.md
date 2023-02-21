@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference."</i>
+<i>"Your time is limited, so don't waste it living someone elses. life."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
