@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your time is limited, so don't waste it living someone elses. life."</i>
+<i>"Faith is taking the first step even when you don't see the whole staircase."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
