@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't climb the ladder of success with your hands in your pockets."</i>
+<i>"Catch, then, O catch the transient hour; Improve each moment as it flies! "</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
