@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be strong. Be confident. Be the star of your own life."</i>
+<i>"Wise men speak because they have something to say; Fools because they have to say something."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
