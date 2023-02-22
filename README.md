@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pursuit of mastery bears gifts. "</i>
+<i>"By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
