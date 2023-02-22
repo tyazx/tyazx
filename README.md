@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is the sum of small efforts, repeated day in and day out."</i>
+<i>"How much pain they have cost us, the evils which have never happened."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
