@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who dream by day are cognizant of many things which escape those who dream only by night."</i>
+<i>"Be strong. Be confident. Be the star of your own life."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
