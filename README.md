@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life can be wonderful if you're not afraid of it."</i>
+<i>"It is the power of the mind to be unconquerable."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
