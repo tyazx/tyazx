@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wise men speak because they have something to say; Fools because they have to say something."</i>
+<i>"But better die than live mechanically a life that is a repetition of repetitions."</i>
 <br>
-<b>- Plato</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
