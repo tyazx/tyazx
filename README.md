@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The enemy is a very good teacher."</i>
+<i>"Silence is sometimes the best answer."</i>
 <br>
 <b>- Dalai Lama</b>
 </blockquote>
