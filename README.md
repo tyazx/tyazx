@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"But better die than live mechanically a life that is a repetition of repetitions."</i>
+<i>"If you see someone without a smile give them one of yours."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
