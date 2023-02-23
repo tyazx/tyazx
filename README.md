@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The temptation to give up is strongest just before victory."</i>
+<i>"Like it or not, this moment is all we really have to work with."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
