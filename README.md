@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can never cross the ocean unless you have the courage to lose sight of the shore."</i>
+<i>"The enemy is a very good teacher."</i>
 <br>
-<b>- Christopher Columbus</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
