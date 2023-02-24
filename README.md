@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Poetry is written with tears, fiction with blood, and history with invisible ink."</i>
+<i>"An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
