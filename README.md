@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The score never interested me, only the game."</i>
+<i>"Art is the signature of civilizations. "</i>
 <br>
-<b>- Mae West</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
