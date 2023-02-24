@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I love myself I love you. If I love you I love myself."</i>
+<i>"Life is ours to be spent, not to be saved. "</i>
 <br>
-<b>- Rumi</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
