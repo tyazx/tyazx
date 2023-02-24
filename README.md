@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a gift. Never forget to enjoy and bask in every moment you are in."</i>
+<i>"It doesn't matter how much you want. What really matters is how much you want it."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
