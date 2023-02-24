@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never say never, because limits, like fears, are often just an illusion."</i>
+<i>"Nothing is hopeless; we must hope for everything."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
