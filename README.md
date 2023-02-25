@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What gets measured gets improved."</i>
+<i>"If there is a book that you want to read, but it hasn't been written yet, then you must write it."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Toni Morrison</b>
 </blockquote>
 </p>
 
