@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Conscience is a dog that does not stop us from passing but that we cannot prevent from barking."</i>
+<i>"It doesn't matter how much you want. What really matters is how much you want it."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
