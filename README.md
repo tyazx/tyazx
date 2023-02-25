@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Would you rather live your life according to the approval of others or aligned with your truth and your dreams?"</i>
+<i>"One of the most difficult things is not to change society - but to change yourself."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
