@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people dream of success, while others wake up and work hard at it."</i>
+<i>"You win more from losing than winning."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Morgan Wootten</b>
 </blockquote>
 </p>
 
