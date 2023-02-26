@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You give but little when you give of your possessions. It is when you give of yourself that you truly give."</i>
+<i>"It doesn't matter how slow you go, as long as you don't stop."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
