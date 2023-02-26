@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be brave. Take risks. Nothing can substitute experience."</i>
+<i>"Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
