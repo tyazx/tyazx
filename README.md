@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freedom lies in being bold."</i>
+<i>"Time doesn't heal emotional pain, you need to learn how to let go."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
