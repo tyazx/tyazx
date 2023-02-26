@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It still holds true that man is most uniquely human when he turns obstacles into opportunities."</i>
+<i>"Freedom lies in being bold."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
