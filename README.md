@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wise people, even though all laws were abolished, would still lead the same life."</i>
+<i>"Surround yourself with only people who are going to lift you higher. "</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
