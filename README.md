@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The purpose of life is the life of purpose."</i>
+<i>"Remain calm. Be kind."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
