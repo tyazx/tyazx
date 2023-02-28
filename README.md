@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do one thing every day that scares you."</i>
+<i>"Your only obligation in any lifetime is to be true to yourself."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
