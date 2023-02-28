@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Emancipate yourself from mental slavery, none but ourselves can free our mind."</i>
+<i>"Do one thing every day that scares you."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
