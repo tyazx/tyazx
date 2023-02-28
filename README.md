@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your only obligation in any lifetime is to be true to yourself."</i>
+<i>"People don't care how much you know until they know how much you care."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
