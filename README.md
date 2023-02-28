@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Disobedience is the true foundation of liberty. The obedient must be slaves."</i>
+<i>"The Only Thing That Is Constant Is Change"</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
