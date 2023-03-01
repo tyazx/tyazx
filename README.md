@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make peace with your inner turmoil."</i>
+<i>"The sun is new each day."</i>
 <br>
-<b>- Unknown</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
