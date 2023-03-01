@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is more creative...nor destructive...than a brilliant mind with a purpose."</i>
+<i>"Before preparing to improve the world, first look around your own home three times. "</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
