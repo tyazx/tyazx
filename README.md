@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before preparing to improve the world, first look around your own home three times. "</i>
+<i>"We can either add to our character each day, or we can fritter away our energies in distractions."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
