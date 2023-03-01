@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can either add to our character each day, or we can fritter away our energies in distractions."</i>
+<i>"Make peace with your inner turmoil."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
