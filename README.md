@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best revenge is to be unlike him who performed the injury."</i>
+<i>"If you practiced for the day, then you have won. If you were lazy for the day, then you have lost."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
