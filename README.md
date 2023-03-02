@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you practiced for the day, then you have won. If you were lazy for the day, then you have lost."</i>
+<i>"I am not what happened to me, I am what I choose to become."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
