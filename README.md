@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fashion fades, only style remains the same."</i>
+<i>"Opportunity comes when you continually push forward."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Sonia Ricotti</b>
 </blockquote>
 </p>
 
