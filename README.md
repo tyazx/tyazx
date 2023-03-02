@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The moment you stop to think about whether you love someone, you've already stopped loving that person forever."</i>
+<i>"Heart is what separates the good from the great."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
