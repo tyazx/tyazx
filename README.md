@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am not what happened to me, I am what I choose to become."</i>
+<i>"The greater the impact you want to make, the greater your influence needs to be."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
