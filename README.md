@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunity comes when you continually push forward."</i>
+<i>"The moment you stop to think about whether you love someone, you've already stopped loving that person forever."</i>
 <br>
-<b>- Sonia Ricotti</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
