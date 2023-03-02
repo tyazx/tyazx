@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let not your mind run on what you lack as much as on what you have already."</i>
+<i>"He who fails to plan, plans to fail."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
