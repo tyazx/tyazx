@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For your life to be great, your faith must be bigger than your fear."</i>
+<i>"Peace is not absence of conflict, it is the ability to handle conflict by peaceful means."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
