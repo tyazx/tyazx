@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A thing must be loved before it is lovable."</i>
+<i>"I have lived with several Zen masters -- all of them cats."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
