@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars."</i>
+<i>"If you do not change direction, you may end up where you are heading."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
