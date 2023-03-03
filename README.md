@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform."</i>
+<i>"If you let your head get too big, it'll break your neck."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
