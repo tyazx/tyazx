@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Teachers open the door. You enter by yourself. "</i>
+<i>"The quality of your life is the quality of your relationships."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
