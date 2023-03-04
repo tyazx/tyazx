@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher."</i>
+<i>"The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
