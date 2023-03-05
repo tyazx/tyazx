@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words can only have a positive effect on others if and when they are ready to listen."</i>
+<i>"I would rather die on my feet than live on my knees."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
