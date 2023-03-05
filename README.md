@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One must be deeply aware of the impermanence of the world."</i>
+<i>"The wise learn many things from their enemies."</i>
 <br>
-<b>- Dogen</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
