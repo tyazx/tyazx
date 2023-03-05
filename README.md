@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose."</i>
+<i>"Words can only have a positive effect on others if and when they are ready to listen."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
