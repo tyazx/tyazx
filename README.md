@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest room in the world is the room for improvement."</i>
+<i>"Don't just sit there. Do something. The answers will follow."</i>
 <br>
-<b>- Unknown</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
