@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest."</i>
+<i>"Even when a friend does something you do not like, he continues to be your friend. "</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Genghis Khan</b>
 </blockquote>
 </p>
 
