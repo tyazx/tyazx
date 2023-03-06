@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest challenge after success is shutting up about it."</i>
+<i>"All happiness depends on courage and work."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
