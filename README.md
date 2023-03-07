@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even when a friend does something you do not like, he continues to be your friend. "</i>
+<i>"If you don't make things happen then things will happen to you."</i>
 <br>
-<b>- Genghis Khan</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
