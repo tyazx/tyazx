@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win."</i>
+<i>"Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
