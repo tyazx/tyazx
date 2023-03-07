@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If light is in your heart, you will find your way home.  "</i>
+<i>"Your success and happiness lie in you."</i>
 <br>
-<b>- Rumi</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
