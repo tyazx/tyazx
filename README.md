@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Amateurs sit and wait for inspiration, the rest of us just get up and got to work."</i>
+<i>"Show me a hero, and I'll write you a tragedy."</i>
 <br>
-<b>- Stephen King</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
