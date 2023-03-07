@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your success and happiness lie in you."</i>
+<i>"Real learning comes about when the competitive spirit has ceased."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
