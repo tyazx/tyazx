@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes out of your biggest misery, comes your greatest gain."</i>
+<i>"Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
