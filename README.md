@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never put off to tomorrow what you can do to-day."</i>
+<i>"It is the mark of an educated mind to be able to entertain a thought without accepting it."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
