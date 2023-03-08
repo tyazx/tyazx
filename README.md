@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness cannot be traveled to, owned, earned, worn or consumed."</i>
+<i>"The glow of one warm thought is to me worth more than money."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
