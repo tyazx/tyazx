@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Goals are the fuel in the furnace of achievement."</i>
+<i>"It's not what happens to you, but how you react to it that matters."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
