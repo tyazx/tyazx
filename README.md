@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My guiding principle is this: Guilt is never to be doubted. "</i>
+<i>"Happiness cannot be traveled to, owned, earned, worn or consumed."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
