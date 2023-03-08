@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is simply the opportunity to begin again, this time more intelligently."</i>
+<i>"Creative people are often found either disagreeable or intimidating by mediocrities."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
