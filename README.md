@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not what happens to you, but how you react to it that matters."</i>
+<i>"My guiding principle is this: Guilt is never to be doubted. "</i>
 <br>
-<b>- Epictetus</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
