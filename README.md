@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you change the way you look at things, the things you look at change. "</i>
+<i>"Investing in yourself is the best investment you will ever make."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
