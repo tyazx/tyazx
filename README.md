@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is not fatal, but failure to change might be."</i>
+<i>"Worry is a waste of emotional reserve."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
