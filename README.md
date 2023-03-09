@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Worry is a waste of emotional reserve."</i>
+<i>"Dreams have only one owner at a time. That's why dreamers are lonely."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
