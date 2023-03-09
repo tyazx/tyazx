@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give out what you most want to come back."</i>
+<i>"However difficult life may seem, there is always something you can do and succeed at."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
