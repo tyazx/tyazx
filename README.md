@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The glow of one warm thought is to me worth more than money."</i>
+<i>"Give out what you most want to come back."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
