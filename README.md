@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must not sit down and wait for miracles. Up and be going!"</i>
+<i>"If you don't break your ropes while you're alive, do you think ghosts will do it after?"</i>
 <br>
-<b>- John Eliot</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
