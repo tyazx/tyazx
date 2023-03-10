@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's the possibility of having a dream come true that makes life interesting."</i>
+<i>"Progress comes to those who train and train; reliance on secret techniques will get you nowhere."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
