@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To forget the whole world is easy; to make the whole world forget you is hard."</i>
+<i>"The only reason to be alive is to enjoy it."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
