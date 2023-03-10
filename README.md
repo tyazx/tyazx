@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We never know the love of a parent till we become parents ourselves."</i>
+<i>"You're braver than you believe, and stronger than you seem, and smarter than you think."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- A.A. Milne</b>
 </blockquote>
 </p>
 
