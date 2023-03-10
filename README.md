@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness can be found, even in the darkest of times, if one only remembers to turn on the light."</i>
+<i>"To forget the whole world is easy; to make the whole world forget you is hard."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
