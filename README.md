@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stop acting so small. You are the universe in ecstatic motion."</i>
+<i>"The decisions of our past are the architects of our present."</i>
 <br>
-<b>- Rumi</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
