@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You may think I'm small, but I have a universe inside my mind."</i>
+<i>"We don't stop playing because we grow old; we grow old because we stop playing."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
