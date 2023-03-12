@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to learn late than never."</i>
+<i>"Hope and fear come from feeling that we lack something; they come from a sense of poverty."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
