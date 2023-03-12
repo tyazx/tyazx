@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hope and fear come from feeling that we lack something; they come from a sense of poverty."</i>
+<i>"Happiness is not a goal...it's a by-product of a life well lived."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
