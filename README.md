@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A little impatience will spoil great plans."</i>
+<i>"See what you're doing wrong, laugh at it, change and do better."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
