@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We make a living by what we get, but we make a life by what we give."</i>
+<i>"The most wasted day of all is that on which we have not laughed."</i>
 <br>
-<b>- Unknown</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
