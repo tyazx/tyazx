@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man is happy who does not think himself so."</i>
+<i>"Live life as though nobody is watching, and express yourself as though everyone is listening."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
