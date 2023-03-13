@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you become is far more important than what you get."</i>
+<i>"Anyone who wants to achieve a dream must stay strong, focused and steady."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
