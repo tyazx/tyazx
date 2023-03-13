@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who wants to achieve a dream must stay strong, focused and steady."</i>
+<i>"The roots of education are bitter, but the fruit is sweet."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
