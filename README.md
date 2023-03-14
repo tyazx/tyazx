@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We're kept from our goal not by obstacles, but by a clear path to a lesser goal."</i>
+<i>"The significance of life is living."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
