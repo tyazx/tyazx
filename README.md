@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When your intuition is strong, follow it."</i>
+<i>"Luck is a matter of preparation meeting opportunity."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
