@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you repeat a mistake, it is not a mistake anymore: it is a decision."</i>
+<i>"When your intuition is strong, follow it."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
