@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is a great teacher. If you're open to it every mistake has a lesson to offer."</i>
+<i>"Show me a hero, and I'll write you a tragedy."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
