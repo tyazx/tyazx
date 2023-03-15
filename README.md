@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Show me a hero, and I'll write you a tragedy."</i>
+<i>"Life has the name of life, but in reality it is death."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
