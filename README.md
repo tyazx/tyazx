@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can never get enough of what you don't need to make you happy."</i>
+<i>"Everybody has talent, but ability takes hard work."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
