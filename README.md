@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice."</i>
+<i>"Death walks faster than the wind and never returns what he has taken."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
