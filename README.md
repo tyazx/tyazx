@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everybody has talent, but ability takes hard work."</i>
+<i>"Success is a consequence and must not be a goal."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Gustave Flaubert</b>
 </blockquote>
 </p>
 
