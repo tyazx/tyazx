@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The person who cannot control his words shows that he cannot control himself."</i>
+<i>"I would rather be hated for who I am than loved for who I'm not.  "</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
