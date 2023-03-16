@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We become brave by doing brave acts."</i>
+<i>"Confidence is contagious. So is lack of confidence."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
