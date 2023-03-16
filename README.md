@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is peace even in the storm."</i>
+<i>"People rarely succeed unless they have fun in what they are doing."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
