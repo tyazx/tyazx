@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People rarely succeed unless they have fun in what they are doing."</i>
+<i>"Genius is the ability to act rightly without precedent - the power to do the right thing the first time."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
