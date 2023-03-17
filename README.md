@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People spend too much time doing and not enough time thinking about what they should be doing."</i>
+<i>"Nothing is too high for a man to reach, but he must climb with care and confidence"</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
