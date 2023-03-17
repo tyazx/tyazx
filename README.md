@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only time you run out of chances is when you stop taking them."</i>
+<i>"There is no greater agony than bearing an untold story inside you."</i>
 <br>
-<b>- Unknown</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
