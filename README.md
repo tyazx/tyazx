@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is too high for a man to reach, but he must climb with care and confidence"</i>
+<i>"I can think of nothing less pleasurable than a life devoted to pleasure."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- John D. Rockefeller</b>
 </blockquote>
 </p>
 
