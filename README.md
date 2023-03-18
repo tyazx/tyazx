@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you want to be honored by others, you learn to honor them first."</i>
+<i>"The art of being wise is knowing what to overlook."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
