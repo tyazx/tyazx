@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The real measure of your wealth is how much you'd be worth if you lost all your money."</i>
+<i>"Sometimes it is more important to discover what one cannot do, than what one can do."</i>
 <br>
-<b>- Unknown</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
