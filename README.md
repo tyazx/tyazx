@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each path to knowledge involves different rules and these rules are not interchangeable."</i>
+<i>"The real measure of your wealth is how much you'd be worth if you lost all your money."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
