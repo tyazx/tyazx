@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can see it in your mind, you can hold it in your mind."</i>
+<i>"When you want to be honored by others, you learn to honor them first."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
