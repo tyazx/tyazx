@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Show up even when you don't want to show up."</i>
+<i>"Don't let your mind stop you."</i>
 <br>
 <b>- Steve Harvey</b>
 </blockquote>
