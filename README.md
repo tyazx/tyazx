@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let your mind stop you."</i>
+<i>"A man is literally what he thinks."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
