@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be calm is the highest achievement of the self."</i>
+<i>"Awakening is possible only for those who seek it and want it."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- G.I. Gurdjieff</b>
 </blockquote>
 </p>
 
