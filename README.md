@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you quit once it becomes a habit."</i>
+<i>"Nothing will work unless you do."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
