@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A thing must be loved before it is lovable."</i>
+<i>"Everything great that has ever happened to humanity has begun as a single thought in someone's mind."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
