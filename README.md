@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is literally what he thinks."</i>
+<i>"To be calm is the highest achievement of the self."</i>
 <br>
-<b>- James Allen</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
