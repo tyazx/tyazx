@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing yourself is the beginning of all wisdom."</i>
+<i>"Just do the best you can. No one can do more than that."</i>
 <br>
-<b>- Aristotle</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
