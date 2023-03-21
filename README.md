@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The fear of death is more to be feared, than death itself."</i>
+<i>"Concentrated power has always been the enemy of liberty."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
