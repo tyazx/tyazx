@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tomorrow is only found in the calendar of fools."</i>
+<i>"It's not how much money you make, it's how much money you keep."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
