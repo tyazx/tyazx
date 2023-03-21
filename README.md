@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world."</i>
+<i>"It's the possibility of having a dream come true that makes life interesting."</i>
 <br>
-<b>- Gabor Mate</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
