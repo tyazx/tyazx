@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One small positive thought can change your whole day."</i>
+<i>"If it entertains you now but will bore you someday, it's a distraction. Keep looking."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
