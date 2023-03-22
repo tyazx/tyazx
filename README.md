@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The idea of ourselves is our escape from the fact of what we really are."</i>
+<i>"Don't look for meaning in the words. Listen to the silences."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
