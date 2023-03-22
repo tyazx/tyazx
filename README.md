@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace."</i>
+<i>"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
