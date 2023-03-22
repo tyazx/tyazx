@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True life is lived when tiny changes occur."</i>
+<i>"Only when you can be extremely pliable and soft can you be extremely hard and strong."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
