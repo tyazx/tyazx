@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty."</i>
+<i>"The idea of ourselves is our escape from the fact of what we really are."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
