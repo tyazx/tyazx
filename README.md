@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only when you can be extremely pliable and soft can you be extremely hard and strong."</i>
+<i>"People have the illusion that all over the world, all the time, all kinds of fantastic things are happening."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- David Brinkley</b>
 </blockquote>
 </p>
 
