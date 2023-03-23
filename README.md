@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Allow motion to equal emotion."</i>
+<i>"Play your part in life, but never forget that it is only a role."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
