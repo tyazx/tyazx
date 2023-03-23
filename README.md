@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more."</i>
+<i>"By words the mind is winged."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
