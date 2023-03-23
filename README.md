@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Play your part in life, but never forget that it is only a role."</i>
+<i>"To the world you may be one person; but to one person you may be the world."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
