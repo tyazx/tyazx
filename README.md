@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dream big. Start small. But most of all, start."</i>
+<i>"Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
