@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ego wants to go fast. The soul needs to go slow."</i>
+<i>"The heart wants what it wants - or else it does not care."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
