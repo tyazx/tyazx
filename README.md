@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men are equal; it is not birth but virtue that makes the difference."</i>
+<i>"Everyone has oceans to fly, if they have the heart to do it. Is it reckless? Maybe. But what do dreams know of boundaries."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
