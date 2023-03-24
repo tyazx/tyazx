@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"At the end of the day, let there be no excuses, no explanations, no regrets."</i>
+<i>"The spirit is beyond destruction. No one can bring an end to spirit which is everlasting."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
