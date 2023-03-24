@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone has oceans to fly, if they have the heart to do it. Is it reckless? Maybe. But what do dreams know of boundaries."</i>
+<i>"Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
