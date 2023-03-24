@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything you've ever wanted is on the other side of fear."</i>
+<i>"Confuse them with your silence and amaze them with your actions."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
