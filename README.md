@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't feed a hundred people, then feed just one."</i>
+<i>"The difference between impossible and possible is a willing heart."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
