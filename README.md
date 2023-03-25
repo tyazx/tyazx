@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff."</i>
+<i>"Why change? Everyone has his own style. When you have found it, you should stick to it."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
