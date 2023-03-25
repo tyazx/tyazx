@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take responsibility of your own happiness, never put it in other people's hands."</i>
+<i>"Evil is whatever distracts. "</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
