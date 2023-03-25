@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Evil is whatever distracts. "</i>
+<i>"The wise man reads both books and life itself."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
