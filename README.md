@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wise man reads both books and life itself."</i>
+<i>"Change yourself - you are in control."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
