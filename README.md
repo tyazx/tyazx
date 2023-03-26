@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness cannot be traveled to, owned, earned, worn or consumed."</i>
+<i>"You don't need a weatherman to know which way the wind blows."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
