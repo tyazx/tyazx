@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot always control what goes on outside. But you can always control what goes on inside. "</i>
+<i>"Show me a hero, and I'll write you a tragedy."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
