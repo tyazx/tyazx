@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better to die fighting for freedom than be a prisoner all the days of your life."</i>
+<i>"I believe that one of life's greatest risks is never daring to risk."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
