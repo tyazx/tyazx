@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to change an opinion than to persist in a wrong one."</i>
+<i>"You cannot always control what goes on outside. But you can always control what goes on inside. "</i>
 <br>
-<b>- Socrates</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
