@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A lot of people have gone further than they thought they could because someone else thought they could."</i>
+<i>"A lie can travel half way around the world while the truth is putting on its shoes."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
