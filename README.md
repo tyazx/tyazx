@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind."</i>
+<i>"It is better to change an opinion than to persist in a wrong one."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
