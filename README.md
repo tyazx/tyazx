@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't need a weatherman to know which way the wind blows."</i>
+<i>"An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
