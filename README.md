@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rest and be kind, you don't have to prove anything."</i>
+<i>"It is not that we have too little time to do all the things we need to do , it is that we feel the need to do too many things in the time we have."</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
