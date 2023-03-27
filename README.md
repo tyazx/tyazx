@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.  "</i>
+<i>"Wherever you are is the entry point."</i>
 <br>
-<b>- Seneca</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
