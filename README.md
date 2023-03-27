@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wherever you are is the entry point."</i>
+<i>"Too many of us are not living our dreams because we are living our fears."</i>
 <br>
-<b>- Kabir</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
