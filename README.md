@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not that we have too little time to do all the things we need to do , it is that we feel the need to do too many things in the time we have."</i>
+<i>"It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.  "</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
