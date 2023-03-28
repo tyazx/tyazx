@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unless someone truly has the power to say no, they never truly have the power to say yes."</i>
+<i>"Hope and fear come from feeling that we lack something; they come from a sense of poverty."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
