@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A bird does not sing because it has an answer. It sings because it has a song."</i>
+<i>"Courage is not having the strength to go on; it is going on when you don't have the strength."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
