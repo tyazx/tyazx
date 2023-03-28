@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hope and fear come from feeling that we lack something; they come from a sense of poverty."</i>
+<i>"The desire for more positive experience is itself a negative experience."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
