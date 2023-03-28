@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your only obligation in any lifetime is to be true to yourself."</i>
+<i>"Be kind whenever possible. It is always possible."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
