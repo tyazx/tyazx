@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life becomes easier and more beautiful when we can see the good in other people."</i>
+<i>"An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- John Tukey</b>
 </blockquote>
 </p>
 
