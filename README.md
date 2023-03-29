@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is not fatal, but failure to change might be."</i>
+<i>"We are all like the bright moon, we still have our darker side.  "</i>
 <br>
-<b>- John Wooden</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
