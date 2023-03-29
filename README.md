@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything."</i>
+<i>"The big thing is to make a winning effort. I'm not obsessed with wins."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Morgan Wootten</b>
 </blockquote>
 </p>
 
