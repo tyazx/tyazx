@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all like the bright moon, we still have our darker side.  "</i>
+<i>"When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
