@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is the spiritual experience of living every minute with love, grace and gratitude."</i>
+<i>"If you do what you've always done, you'll get what you've always gotten."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
