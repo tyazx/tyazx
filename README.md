@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is an option here. If things are not failing, you are not innovating enough."</i>
+<i>"In the practice of tolerance, one's enemy is the best teacher."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
