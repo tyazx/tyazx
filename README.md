@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why live an ordinary life, when you can live an extraordinary one."</i>
+<i>"The great use of life is to spend it for something that will outlast it."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
