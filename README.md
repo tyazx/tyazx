@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the practice of tolerance, one's enemy is the best teacher."</i>
+<i>"The only reason to be alive is to enjoy it."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
