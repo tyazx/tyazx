@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Far and away the best prize that life has to offer is the chance to work hard at work worth doing."</i>
+<i>"Life is about choice. You can choose to be a victim or anything else you like to be."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
