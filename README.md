@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man must use what he has, not hope for what is not."</i>
+<i>"It is the nature of the wise to resist pleasures, but the foolish to be a slave to them."</i>
 <br>
-<b>- G.I. Gurdjieff</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
