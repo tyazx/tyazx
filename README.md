@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you tell the truth, you don't have to remember anything."</i>
+<i>"Gratitude is the fairest blossom which springs from the soul."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
