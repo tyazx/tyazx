@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The cost of leadership is self-interest."</i>
+<i>"Here and now...breathe and relax...in battle and in life."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
