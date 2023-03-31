@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is great not because he hasn't failed; a man is great because failure hasn't stopped him."</i>
+<i>"If you tell the truth, you don't have to remember anything."</i>
 <br>
-<b>- Confucius</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
