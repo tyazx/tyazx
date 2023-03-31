@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Gratitude is the fairest blossom which springs from the soul."</i>
+<i>"I am not absentminded. It is the presence of mind that makes me unaware of everything else."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
