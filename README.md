@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth will always be truth, regardless of lack of understanding, disbelief or ignorance. "</i>
+<i>"Be the change that you want to see in the world."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
