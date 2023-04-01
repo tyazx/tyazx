@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know the rules well, so you can break them effectively."</i>
+<i>"It is passion that makes man live; wisdom makes one only last."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
