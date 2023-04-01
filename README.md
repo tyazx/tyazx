@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The birth of the mind is the death of the senses."</i>
+<i>"If you don't like something change it. If you can't change it, change your attitude about it. Don't complain."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
