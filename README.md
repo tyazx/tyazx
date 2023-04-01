@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is passion that makes man live; wisdom makes one only last."</i>
+<i>"The primary point of this existence is to live, and all living things move and grow."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
