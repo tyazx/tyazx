@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The primary point of this existence is to live, and all living things move and grow."</i>
+<i>"The birth of the mind is the death of the senses."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
