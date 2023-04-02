@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is not final, failure is not fatal: it is the courage to continue that counts."</i>
+<i>"Simple words, repeated daily, can change your life."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
