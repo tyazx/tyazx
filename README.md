@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One must be poor to know the luxury of giving."</i>
+<i>"Success is not final, failure is not fatal: it is the courage to continue that counts."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
