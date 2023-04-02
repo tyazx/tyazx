@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a long lesson in humility. "</i>
+<i>"He is not a lover who does not love forever."</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
