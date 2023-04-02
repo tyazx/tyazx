@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never be bored, and you will never be boring."</i>
+<i>"Growth comes at the point of resistance."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
