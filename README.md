@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is merely the name for the desire and pursuit of the whole."</i>
+<i>"If you do not conquer self, you will be conquered by self."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
