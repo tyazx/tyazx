@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If it is not right, do not do it, if it is not true, do not say it."</i>
+<i>"Know your gifts and share them."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
