@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no greatness where there is not simplicity, goodness, and truth."</i>
+<i>"Learning is a weightless treasure you can always carry easily."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
