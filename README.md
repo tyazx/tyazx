@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not conquer self, you will be conquered by self."</i>
+<i>"Whatever you decide to do, make sure it makes you happy."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
