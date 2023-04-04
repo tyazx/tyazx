@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only by acceptance of the past, can you alter it."</i>
+<i>"The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
