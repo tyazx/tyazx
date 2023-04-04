@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness cannot be traveled to, owned, earned, worn or consumed."</i>
+<i>"You change the world by being yourself."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
