@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confuse them with your silence and amaze them with your actions."</i>
+<i>"Things do not have meaning. We assign meaning to everything."</i>
 <br>
-<b>- Unknown</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
