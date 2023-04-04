@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Children are our greatest natural resource."</i>
+<i>"Your next step is simple. You are the first domino."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
