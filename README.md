@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Things do not have meaning. We assign meaning to everything."</i>
+<i>"Believe that life is worth living and your belief will help create the fact."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
