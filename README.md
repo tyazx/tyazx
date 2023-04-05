@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a balance of holding on and letting go."</i>
+<i>"Wherever you are is the entry point."</i>
 <br>
-<b>- Rumi</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
