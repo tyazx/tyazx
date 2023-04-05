@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Get busy living, or get busy dying."</i>
+<i>"Let us always meet each other with smile, for the smile is the beginning of love."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
