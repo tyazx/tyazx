@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't make someone feel good about themselves until you feel good about yourself."</i>
+<i>"An un-examined life is not worth living."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
