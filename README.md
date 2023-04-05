@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe that life is worth living and your belief will help create the fact."</i>
+<i>"Anyone telling you it's pointless to share your perspective is sharing their perspective."</i>
 <br>
-<b>- William James</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
