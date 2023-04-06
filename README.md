@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are what you do, not what you say you'll do."</i>
+<i>"Let each man exercise the art he knows."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
