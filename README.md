@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You may think I'm small, but I have a universe inside my mind."</i>
+<i>"In order to carry a positive action, we must develop here a positive vision."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
