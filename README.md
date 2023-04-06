@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The goal of an artist is to create the definitive work that cannot be surpassed."</i>
+<i>"Trust is built and maintained by many small actions over time."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
