@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I've always lived in the moment."</i>
+<i>"The soul without imagination is what an observatory would be without a telescope."</i>
 <br>
-<b>- Yanni</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
