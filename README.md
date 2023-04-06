@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let each man exercise the art he knows."</i>
+<i>"Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
