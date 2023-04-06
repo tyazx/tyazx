@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just trust that everything is unfolding the way it is supposed to. Don't resist... Great things are waiting for you around the corner."</i>
+<i>"I've always lived in the moment."</i>
 <br>
-<b>- Sonia Ricotti</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
