@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be in harmony with the wholeness of things is not to have anxiety over imperfections."</i>
+<i>"Don't be pushed by your problems; be led by your dreams."</i>
 <br>
-<b>- Dogen</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
