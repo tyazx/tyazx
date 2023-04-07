@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Empty your mind, be formless, shapeless, like water."</i>
+<i>"Don't stumble over something that's behind you."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
