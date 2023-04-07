@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everybody has talent, but ability takes hard work."</i>
+<i>"A fool sees himself as another, but a wise man sees others as himself."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
