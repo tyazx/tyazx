@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are content to be simply yourself and don't compare or compete, everybody will respect you. "</i>
+<i>"Empty your mind, be formless, shapeless, like water."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
