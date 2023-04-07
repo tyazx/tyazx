@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each path to knowledge involves different rules and these rules are not interchangeable."</i>
+<i>"Until we can manage time, we can manage nothing else."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
