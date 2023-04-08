@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never argue with ignorance. It only leads to frustration."</i>
+<i>"Nothing can dim the light which shines from within."</i>
 <br>
-<b>- Unknown</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
