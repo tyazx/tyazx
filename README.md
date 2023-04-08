@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. "</i>
+<i>"People will forget what you said, people will forget what you did, but people will never forget how you made them feel."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
