@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Vision is the art of seeing things invisible."</i>
+<i>"When you want to be honored by others, you learn to honor them first."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
