@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you want to be honored by others, you learn to honor them first."</i>
+<i>"To lose your temper is only useful once a year."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Colin R. Davis</b>
 </blockquote>
 </p>
 
