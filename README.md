@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Find your Light; They can't love you if they can't see you."</i>
+<i>"Vision is the art of seeing things invisible."</i>
 <br>
-<b>- Bette Midler</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
