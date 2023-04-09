@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tradition is the illusion of permanence. "</i>
+<i>"A wise man will be master of his mind, a fool will be its slave."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
