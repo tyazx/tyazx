@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Like it or not, this moment is all we really have to work with."</i>
+<i>"If you want something you've never had you must be willing to do something you've never done."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
