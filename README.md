@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not fear failure but rather fear not trying."</i>
+<i>"A man sooner or later discovers that he is the master-gardener of his soul, the director of his life."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
