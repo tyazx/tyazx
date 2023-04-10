@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you."</i>
+<i>"The salvation of the world lies in the human heart."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
