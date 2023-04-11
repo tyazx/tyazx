@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Behind every cloud is another cloud."</i>
+<i>"Every failure brings with it the seed of an equivalent success."</i>
 <br>
-<b>- Judy Garland</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
