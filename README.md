@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Emancipate yourself from mental slavery, none but ourselves can free our mind."</i>
+<i>"Life is like a beautiful melody, only the lyrics are messed up."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
