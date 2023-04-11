@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't feed a hundred people, then feed just one."</i>
+<i>"It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
