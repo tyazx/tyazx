@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We need a backbone, not a wishbone."</i>
+<i>"Behind every cloud is another cloud."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
