@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who possesses most must be most afraid of loss."</i>
+<i>"Poetry is written with tears, fiction with blood, and history with invisible ink."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
