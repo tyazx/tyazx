@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot control the behavior of others, but you can always choose how you respond to it."</i>
+<i>"Never buy a thing you do not want, because it is cheap, it will be dear to you."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
