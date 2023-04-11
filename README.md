@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like a beautiful melody, only the lyrics are messed up."</i>
+<i>"We need a backbone, not a wishbone."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
