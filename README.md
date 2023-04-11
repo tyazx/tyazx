@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every failure brings with it the seed of an equivalent success."</i>
+<i>"We have more possibilities available in each moment than we realize."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
