@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take interest and even delight in doing the small things well."</i>
+<i>"Wishing to be friends is quick work, but friendship is a slow ripening fruit."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
