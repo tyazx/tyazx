@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'm an optimist by choice not by stupidity."</i>
+<i>"Surround yourself only with people who are going to take you higher."</i>
 <br>
-<b>- Yanni</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
