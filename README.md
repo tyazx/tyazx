@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All you need is the plan, the road map, and the courage to press on to your destination."</i>
+<i>"Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
