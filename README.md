@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can have more than we've got because we can become more than we are."</i>
+<i>"All you need is the plan, the road map, and the courage to press on to your destination."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
