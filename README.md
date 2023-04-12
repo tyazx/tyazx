@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Surround yourself only with people who are going to take you higher."</i>
+<i>"We can have more than we've got because we can become more than we are."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
