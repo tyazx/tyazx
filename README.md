@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is."</i>
+<i>"Nothing is more real than nothing."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
