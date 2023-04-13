@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't know who is important to you until you actually lose them."</i>
+<i>"Opportunity often comes disguised in the form of misfortune or temporary defeat."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
