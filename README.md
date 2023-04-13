@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Age is a very high price to pay for maturity."</i>
+<i>"Management is doing things right; leadership is doing the right things."</i>
 <br>
-<b>- William James</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
