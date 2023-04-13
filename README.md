@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Management is doing things right; leadership is doing the right things."</i>
+<i>"Throughout this life, you can never be certain of living long enough to take another breath."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
