@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy."</i>
+<i>"Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
