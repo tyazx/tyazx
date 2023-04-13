@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Leadership starts at the top."</i>
+<i>"Whenever you do a thing, act as if all the world were watching."</i>
 <br>
-<b>- Morgan Wootten</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
