@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whenever you do a thing, act as if all the world were watching."</i>
+<i>"Age is a very high price to pay for maturity."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
