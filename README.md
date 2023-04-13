@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The essence of the Way is detachment."</i>
+<i>"Success is stumbling from failure to failure with no loss of enthusiasm."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
