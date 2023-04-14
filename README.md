@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a question and how we live it is our answer."</i>
+<i>"The wise warrior avoids the battle."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
