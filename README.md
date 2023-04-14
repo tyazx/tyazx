@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing external to you has any power over you."</i>
+<i>"To be in harmony with the wholeness of things is not to have anxiety over imperfections."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
