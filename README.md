@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wise warrior avoids the battle."</i>
+<i>"Nothing external to you has any power over you."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
