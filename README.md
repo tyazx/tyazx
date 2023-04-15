@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life itself is the most wonderful fairy tale."</i>
+<i>"Gratitude is the fairest blossom which springs from the soul."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
