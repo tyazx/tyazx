@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be. "</i>
+<i>"Trying to define yourself is like trying to bite your own teeth."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
