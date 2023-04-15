@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Forgive those who have hurt you."</i>
+<i>"To seek is to suffer. To seek nothing is bliss."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
