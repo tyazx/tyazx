@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Gratitude is the fairest blossom which springs from the soul."</i>
+<i>"Luck is a matter of preparation meeting opportunity."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
