@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be - don't try to become "</i>
+<i>"Opportunities multiply as they are seized."</i>
 <br>
-<b>- Osho</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
