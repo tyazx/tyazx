@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To seek is to suffer. To seek nothing is bliss."</i>
+<i>"Life itself is the most wonderful fairy tale."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
