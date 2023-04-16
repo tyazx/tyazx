@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work."</i>
+<i>"Be where your enemy is not."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
