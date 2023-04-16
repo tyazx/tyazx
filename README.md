@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I admire those who do good and expect nothing in return."</i>
+<i>"Insanity is relative. It depends on who has who locked in what cage.  "</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
