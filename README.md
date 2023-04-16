@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before anything else, preparation is the key to success."</i>
+<i>"Fears are nothing more than a state of mind."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
