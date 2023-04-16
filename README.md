@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Insanity is relative. It depends on who has who locked in what cage.  "</i>
+<i>"Every great change is preceded by chaos."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
