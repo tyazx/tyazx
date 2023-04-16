@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't need to be better than anyone else, you just need to be better than you used to be."</i>
+<i>"Before anything else, preparation is the key to success."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
