@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly."</i>
+<i>"Age is a very high price to pay for maturity."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
