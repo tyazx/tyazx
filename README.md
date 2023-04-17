@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will."</i>
+<i>"Failure is a prerequisite for great success. If you want success faster, double your rate of failure."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
