@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can't help everyone, but everyone can help someone."</i>
+<i>"Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
