@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wise men speak because they have something to say; Fools because they have to say something."</i>
+<i>"Be where your enemy is not."</i>
 <br>
-<b>- Plato</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
