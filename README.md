@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be where your enemy is not."</i>
+<i>"Work harder on yourself than you do on your job."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
