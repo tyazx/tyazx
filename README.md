@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found."</i>
+<i>"The first rule of handling conflict is don't hang around people who are constantly engaging in conflict."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
