@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great deeds are usually wrought at great risks."</i>
+<i>"Conscience is a man's compass. "</i>
 <br>
-<b>- Herodotus</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
