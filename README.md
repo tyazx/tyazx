@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you get up one more time than you fall, you will make it through."</i>
+<i>"The ability to hold two competing thoughts in one's mind and still be able to function is the mark of a superior mind."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
