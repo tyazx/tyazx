@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is the willingness to engage in a risk-taking behavior regardless of whether the consequences are unknown or possibly adverse."</i>
+<i>"Do not be so open-minded that your brains fall out."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
