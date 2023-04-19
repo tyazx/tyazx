@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't find the time, if you don't do the work, you don't get the results."</i>
+<i>"To be truly ignorant, be content with your own knowledge."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
