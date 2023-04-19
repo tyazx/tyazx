@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not be so open-minded that your brains fall out."</i>
+<i>"Great deeds are usually wrought at great risks."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
