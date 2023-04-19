@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You will face many defeats in life, but never let yourself be defeated."</i>
+<i>"If you get up one more time than you fall, you will make it through."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
