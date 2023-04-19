@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is in the darkness that one finds the light."</i>
+<i>"Falling down is not failure. Failure comes when you stay where you have fallen."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
