@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Determine never to be idle. No person will have occasion to complain of the want of time who never loses any."</i>
+<i>"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
