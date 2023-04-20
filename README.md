@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creativity is intelligence having fun."</i>
+<i>"Why change? Everyone has his own style. When you have found it, you should stick to it."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
