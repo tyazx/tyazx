@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work."</i>
+<i>"Determine never to be idle. No person will have occasion to complain of the want of time who never loses any."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
