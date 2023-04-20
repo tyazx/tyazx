@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A clever person turns great troubles into little ones, and little ones into none at all. "</i>
+<i>"Creativity is intelligence having fun."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
