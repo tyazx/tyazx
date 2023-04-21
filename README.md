@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Doing what you love is the cornerstone of having abundance in your life. "</i>
+<i>"Without the rain there would be no rainbow."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
