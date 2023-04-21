@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tall oaks grow from little acorns."</i>
+<i>"He suffers more than necessary, who suffers before it is necessary.  "</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
