@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He that can have patience can have what he will."</i>
+<i>"Stop wasting time looking at someone else's reality while doing nothing about yours."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
