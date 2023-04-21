@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To bear trials with a calm mind robs misfortune of its strength and burden."</i>
+<i>"Tall oaks grow from little acorns."</i>
 <br>
-<b>- Seneca</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
