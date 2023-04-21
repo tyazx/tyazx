@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!"</i>
+<i>"He that can have patience can have what he will."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
