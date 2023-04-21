@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly."</i>
+<i>"Ponder and deliberate before you make a move."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
