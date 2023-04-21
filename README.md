@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He suffers more than necessary, who suffers before it is necessary.  "</i>
+<i>"When asked, how do you write? I invariably answer, one word at a time."</i>
 <br>
-<b>- Seneca</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
