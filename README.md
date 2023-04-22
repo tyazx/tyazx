@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you're the only sane person, you look like the only insane person."</i>
+<i>"Every man gotta right to decide his own destiny."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
