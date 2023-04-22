@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No idea, no matter how good, will work if it doesn't get used."</i>
+<i>"The wise accomplish all that they want without arousing the envy or scorn of others."</i>
 <br>
-<b>- Peter A. Cohen</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
