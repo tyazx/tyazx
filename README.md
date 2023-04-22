@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is about choice. You can choose to be a victim or anything else you like to be."</i>
+<i>"At every moment where language can't go, that's your mind."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
