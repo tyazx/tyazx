@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What the eye doesn't see and the mind doesn't know, doesn't exist."</i>
+<i>"Life is about choice. You can choose to be a victim or anything else you like to be."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
