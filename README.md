@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A zen master's life is one continuous mistake."</i>
+<i>"The friendship that can cease has never been real. "</i>
 <br>
-<b>- Dogen</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
