@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wise accomplish all that they want without arousing the envy or scorn of others."</i>
+<i>"Someday death will take us to another star."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
