@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Someday death will take us to another star."</i>
+<i>"A zen master's life is one continuous mistake."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
