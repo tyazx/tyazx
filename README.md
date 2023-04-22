@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The friendship that can cease has never been real. "</i>
+<i>"Far and away the best prize that life has to offer is the chance to work hard at work worth doing."</i>
 <br>
-<b>- St. Jerome</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
