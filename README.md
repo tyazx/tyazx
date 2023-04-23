@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Speak when you are angry - and you'll make the best speech you'll ever regret."</i>
+<i>"Waste no more time arguing about what a good man should be. Be one."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
