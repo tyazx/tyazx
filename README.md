@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"At every moment where language can't go, that's your mind."</i>
+<i>"The only reason to be alive is to enjoy it."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
