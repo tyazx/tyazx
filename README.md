@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only reason to be alive is to enjoy it."</i>
+<i>"Speak when you are angry - and you'll make the best speech you'll ever regret."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
