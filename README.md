@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness."</i>
+<i>"Winning isn't everything, but wanting to win is."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
