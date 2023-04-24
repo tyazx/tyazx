@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you love someone, you love the person as they are, and not as you'd like them to be."</i>
+<i>"The true soldier fights not because he hates what is in front of him, but because he loves what is behind him."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
