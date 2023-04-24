@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The true soldier fights not because he hates what is in front of him, but because he loves what is behind him."</i>
+<i>"I have lived with several Zen masters -- all of them cats."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
