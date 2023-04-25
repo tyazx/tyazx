@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go for it now. The future is promised to no one. "</i>
+<i>"We cannot expect to be happy always... by experiencing evil as well as good we become wise."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
