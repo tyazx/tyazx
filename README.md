@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life should be touched, not strangled.  "</i>
+<i>"It is during our darkest moments that we must focus to see the light."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
