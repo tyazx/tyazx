@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The purpose of life is to contribute in some way to making things better."</i>
+<i>"Go for it now. The future is promised to no one. "</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
