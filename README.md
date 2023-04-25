@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is more creative...nor destructive...than a brilliant mind with a purpose."</i>
+<i>"Nothing good ever comes of violence."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
