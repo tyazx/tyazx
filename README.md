@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life happens in the river, not the shore."</i>
+<i>"Belief creates the actual fact."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
