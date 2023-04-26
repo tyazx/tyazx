@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Because a thing seems difficult for you, do not think it impossible."</i>
+<i>"Not until we are lost do we begin to understand ourselves."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
