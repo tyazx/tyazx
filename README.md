@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your work is to discover your work and then, with all your heart, to give yourself to it."</i>
+<i>"A memory is a beautiful thing, it's almost a desire that you miss."</i>
 <br>
-<b>- Buddha</b>
+<b>- Gustave Flaubert</b>
 </blockquote>
 </p>
 
