@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to keep your memories, you first have to live them."</i>
+<i>"There is nothing in the world so irresistibly contagious as laughter and good humor."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
