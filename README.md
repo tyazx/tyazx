@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A memory is a beautiful thing, it's almost a desire that you miss."</i>
+<i>"Because a thing seems difficult for you, do not think it impossible."</i>
 <br>
-<b>- Gustave Flaubert</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
