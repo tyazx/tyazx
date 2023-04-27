@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives."</i>
+<i>"If there's a definition of freedom, I think it's this: living life on your terms."</i>
 <br>
-<b>- Betty White</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
