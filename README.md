@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep away from people who try to belittle your ambitions."</i>
+<i>"We have more possibilities available in each moment than we realize."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
