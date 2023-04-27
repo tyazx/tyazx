@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If there's a definition of freedom, I think it's this: living life on your terms."</i>
+<i>"Keep away from people who try to belittle your ambitions."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
