@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the beginner's mind there are many possibilities, but in the expert's mind there are few."</i>
+<i>"The thing about smart people is that they seem like crazy people to dumb people."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
