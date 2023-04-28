@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My instinct is always to seek out challenges as opposed to avoiding them."</i>
+<i>"What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
