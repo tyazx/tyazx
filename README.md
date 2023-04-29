@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change is inevitable but personal growth is a choice."</i>
+<i>"Understanding that rests in what it does not understand is the finest."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
