@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Would you rather live your life according to the approval of others or aligned with your truth and your dreams?"</i>
+<i>"If you try, you might get exactly what you want. If you don't, you don't."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
