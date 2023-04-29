@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The spirit is beyond destruction. No one can bring an end to spirit which is everlasting."</i>
+<i>"The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
