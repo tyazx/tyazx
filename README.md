@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness cannot be traveled to, owned, earned, worn or consumed."</i>
+<i>"The spirit is beyond destruction. No one can bring an end to spirit which is everlasting."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
