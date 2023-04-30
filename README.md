@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your problem isn't the problem. Your reaction is the problem."</i>
+<i>"The power to make and break habits and learning how to do that is really important."</i>
 <br>
-<b>- Unknown</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
