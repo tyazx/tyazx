@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The power to make and break habits and learning how to do that is really important."</i>
+<i>"It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
