@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mind is the creator of everything. You should therefore guide it to create only good."</i>
+<i>"A man sees in the world what he carries in his heart."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
