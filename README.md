@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The beautiful journey of today can only begin when we learn to let go of yesterday."</i>
+<i>"Mind is the creator of everything. You should therefore guide it to create only good."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
