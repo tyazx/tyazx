@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't concern yourself with the money. Be of service. Build. Work. Dream. Create."</i>
+<i>"Love is merely the name for the desire and pursuit of the whole."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
