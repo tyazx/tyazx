@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rest in reason; move in passion."</i>
+<i>"Ideas do not reach perfection in a day, no matter how much study is put upon them."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
