@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world doesn't always give you want, but it often gives you what you need."</i>
+<i>"Confidence breeds beauty.  "</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
