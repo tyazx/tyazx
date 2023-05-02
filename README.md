@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not look upon this world with fear and loathing. Bravely face whatever the gods offer."</i>
+<i>"Don't let the past steal your present."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Cherralea Morgen</b>
 </blockquote>
 </p>
 
