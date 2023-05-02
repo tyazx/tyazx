@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The majority of what you want will come from the minority of what you do."</i>
+<i>"Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
