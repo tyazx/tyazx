@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one ever said life was fair. Just Eventful."</i>
+<i>"The majority of what you want will come from the minority of what you do."</i>
 <br>
-<b>- Carol Burnett</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
