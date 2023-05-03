@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be prepared is half the victory. "</i>
+<i>"You can start changing our world for the better daily, no matter how small the action."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
