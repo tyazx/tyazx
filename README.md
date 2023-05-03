@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Definitions belong to the definers, not the defined."</i>
+<i>"To be prepared is half the victory. "</i>
 <br>
-<b>- Toni Morrison</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
