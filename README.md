@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being ignorant is not so much a shame, as being unwilling to learn."</i>
+<i>"Be patient and calm; no one can catch fish in anger."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
