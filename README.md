@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can start changing our world for the better daily, no matter how small the action."</i>
+<i>"Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
