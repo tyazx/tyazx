@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most creative act you will ever undertake is the act of creating yourself."</i>
+<i>"Definitions belong to the definers, not the defined."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Toni Morrison</b>
 </blockquote>
 </p>
 
