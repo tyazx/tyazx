@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The people who are crazy enough to think they can change the world are the ones who do."</i>
+<i>"Being ignorant is not so much a shame, as being unwilling to learn."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
