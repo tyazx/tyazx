@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you give, the more comes back to you."</i>
+<i>"Everything has beauty but not everyone sees it."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
