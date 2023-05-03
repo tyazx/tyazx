@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Either get busy living or get busy dying."</i>
+<i>"Definitions belong to the definers, not the defined."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Toni Morrison</b>
 </blockquote>
 </p>
 
