@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be patient and calm; no one can catch fish in anger."</i>
+<i>"The more you give, the more comes back to you."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
