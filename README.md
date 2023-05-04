@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Concentrated power has always been the enemy of liberty."</i>
+<i>"There are no shortcuts to any place worth going. "</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
