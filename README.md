@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you consider things like the stars, our affairs don't seem to matter very much, do they?"</i>
+<i>"Life is the art of drawing sufficient conclusions from insufficient premises."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
