@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your home is where your thoughts find peace."</i>
+<i>"Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
