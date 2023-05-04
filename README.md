@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People who bite the hand that feeds them usually lick the boot that kicks them."</i>
+<i>"Reversing your treatment of the man you have wronged is better than asking his forgiveness."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
