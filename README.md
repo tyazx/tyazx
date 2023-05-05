@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I don't walk away from things that I think are unfinished."</i>
+<i>"Patience is not the ability to wait but the ability to keep a good attitude while waiting."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
