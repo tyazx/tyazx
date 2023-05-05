@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have a brain and mind of your own. Use it, and reach your own decisions."</i>
+<i>"I don't walk away from things that I think are unfinished."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
