@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver."</i>
+<i>"You have a brain and mind of your own. Use it, and reach your own decisions."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
