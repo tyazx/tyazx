@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't try to steer the river."</i>
+<i>"Your home is where your thoughts find peace."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
