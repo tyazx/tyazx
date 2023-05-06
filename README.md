@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always do what is right. It will gratify half of mankind and astound the other."</i>
+<i>"Great loves too must be endured."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
