@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We make a living by what we get, but we make a life by what we give."</i>
+<i>"The two most powerful warriors are patience and time."</i>
 <br>
-<b>- Unknown</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
