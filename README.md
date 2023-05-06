@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I would rather die on my feet than live on my knees."</i>
+<i>"Always do what is right. It will gratify half of mankind and astound the other."</i>
 <br>
-<b>- Euripides</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
