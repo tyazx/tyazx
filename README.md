@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want something you've never had you must be willing to do something you've never done."</i>
+<i>"The man who moved the mountain was the one who began carrying away the smallest stones."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
