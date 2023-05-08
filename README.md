@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first step is to establish that something is possible; then probability will occur."</i>
+<i>"You don't need to be better than anyone else, you just need to be better than you used to be."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
