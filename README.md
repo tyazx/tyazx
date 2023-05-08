@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not be so open-minded that your brains fall out."</i>
+<i>"Chase your passion, not your pension. "</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
