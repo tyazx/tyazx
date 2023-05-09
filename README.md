@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A Quitter never wins - and - a Winner never quits."</i>
+<i>"Live and act within the limit of your knowledge and keep expanding it to the limit of your life."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
