@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peaceful is the one who expects nothing."</i>
+<i>"Debt is the slavery of the free."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
