@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't know, the thing to do is not to get scared, but to learn."</i>
+<i>"Nothing is particularly hard if you divide it into small jobs. "</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
