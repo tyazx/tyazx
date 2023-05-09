@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's necessary to get the losers out of your life if you want to live your dream."</i>
+<i>"Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
