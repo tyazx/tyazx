@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is particularly hard if you divide it into small jobs. "</i>
+<i>"You'll get more from being a peacemaker than a warrior."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
