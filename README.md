@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Others have seen what is and asked why. I have seen what could be and asked why not"</i>
+<i>"Do not allow your inner doubts to keep you from achieving what you can do."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
