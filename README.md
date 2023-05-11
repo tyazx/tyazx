@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Either you run the day or the day runs you."</i>
+<i>"Only the educated are free."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
