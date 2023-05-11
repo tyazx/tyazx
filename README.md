@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you are, be a good one."</i>
+<i>"The temptation to give up is strongest just before victory."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
