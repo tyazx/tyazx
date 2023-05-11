@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A bird does not sing because it has an answer. It sings because it has a song."</i>
+<i>"For all evils there are two remedies - time and silence."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
