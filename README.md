@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality."</i>
+<i>"Never lose hope. Storms make people stronger and never last forever."</i>
 <br>
-<b>- James Cameron</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
