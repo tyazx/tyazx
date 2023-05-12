@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. "</i>
+<i>"Follow the man who seeks the truth; run from the man who has found it."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
