@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People are doing the best that they can from their own level of consciousness."</i>
+<i>"A creative man is motivated by the desire to achieve, not by the desire to beat others."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
