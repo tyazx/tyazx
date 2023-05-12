@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all self-made, but only the successful will admit it."</i>
+<i>"Either you run the day or the day runs you."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
