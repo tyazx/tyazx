@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When everything seems to be going against you, remember that the airplane takes off against the wind, not with it."</i>
+<i>"People are doing the best that they can from their own level of consciousness."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
