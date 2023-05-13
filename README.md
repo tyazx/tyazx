@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge."</i>
+<i>"Most of the evil in this world is done by people with good intentions."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
