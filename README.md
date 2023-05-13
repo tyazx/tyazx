@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never whine, never complain, never try to justify yourself."</i>
+<i>"A flower falls, even though we love it; and a weed grows, even though we do not love it."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
