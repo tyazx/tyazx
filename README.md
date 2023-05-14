@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The opportunity of defeating the enemy is provided by the enemy himself."</i>
+<i>"There is no self-discovery without pain and loss."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
