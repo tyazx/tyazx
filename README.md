@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man is more cheated than the selfish man."</i>
+<i>"The salvation of the world lies in the human heart."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
