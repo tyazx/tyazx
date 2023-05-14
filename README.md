@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Discontent is the first necessity of progress."</i>
+<i>"Truth will always be truth, regardless of lack of understanding, disbelief or ignorance. "</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- W. Clement Stone</b>
 </blockquote>
 </p>
 
