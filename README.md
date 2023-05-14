@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The destiny of man is in his own soul. "</i>
+<i>"In a world of change, the learners shall inherit the earth, while the learned shall find themselves perfectly suited for a world that no longer exists."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
