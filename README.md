@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth will always be truth, regardless of lack of understanding, disbelief or ignorance. "</i>
+<i>"Deliberately seek the company of people who influence you to think and act on building the life you desire."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
