@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more we value things, the less we value ourselves.  "</i>
+<i>"Help others achieve their dreams and you will achieve yours."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
