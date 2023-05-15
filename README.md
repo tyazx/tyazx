@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you become is far more important than what you get."</i>
+<i>"Life is growth. If we stop growing, technically and spiritually, we are as good as dead."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
