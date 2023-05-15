@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Help others achieve their dreams and you will achieve yours."</i>
+<i>"Believe nothing you hear, and only one half that you see."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
