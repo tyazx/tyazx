@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is growth. If we stop growing, technically and spiritually, we are as good as dead."</i>
+<i>"Life must be a constant education; one must learn everything, from speaking to dying."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Gustave Flaubert</b>
 </blockquote>
 </p>
 
