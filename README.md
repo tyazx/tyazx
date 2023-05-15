@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The people who succeed are irrationally passionate about something."</i>
+<i>"A fear of weakness only strengthens weakness."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
