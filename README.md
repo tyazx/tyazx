@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you look for perfection, you'll never be content."</i>
+<i>"The four P's to success are pressure, persistence, perseverance, and prayer."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
