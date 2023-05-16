@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mistake is a mistake only if you make it twice."</i>
+<i>"There is only the one reality, neither to be realized nor attained."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
