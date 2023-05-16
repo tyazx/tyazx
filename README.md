@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A random act of kindness, no matter how small, can make a tremendous impact on someone else's life."</i>
+<i>"I have lived with several Zen masters -- all of them cats."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
