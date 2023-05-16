@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is never final; failure is never fatal."</i>
+<i>"Mistake is a mistake only if you make it twice."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
