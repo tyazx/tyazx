@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you take responsibility for yourself you will develop a hunger to accomplish your dream."</i>
+<i>"If you look for perfection, you'll never be content."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
