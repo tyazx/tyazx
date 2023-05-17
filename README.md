@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When one does not have what one wants, one must want what one has."</i>
+<i>"Be regular and orderly in your life, so that you may be violent and original in your work."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Gustave Flaubert</b>
 </blockquote>
 </p>
 
