@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be regular and orderly in your life, so that you may be violent and original in your work."</i>
+<i>"Words used to attract the dull of wit are not to be relied on."</i>
 <br>
-<b>- Gustave Flaubert</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
