@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes success isn't about making the right decision, it's more about making some decision."</i>
+<i>"Once you learn to quit, it becomes a habit."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
