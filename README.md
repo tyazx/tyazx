@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Once you learn to quit, it becomes a habit."</i>
+<i>"Our joy does not have to be based on our circumstances."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
