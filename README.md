@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The danger of an adventure is worth a thousand days of ease and comfort."</i>
+<i>"There are only encounters in history. There are no accidents."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
