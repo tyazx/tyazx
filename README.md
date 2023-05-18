@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Difficulties strengthen the mind, as labor does the body.  "</i>
+<i>"Discontent is the first necessity of progress."</i>
 <br>
-<b>- Seneca</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
