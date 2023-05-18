@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good stance and posture reflect a proper state of mind."</i>
+<i>"People become attached to their burdens sometimes more than the burdens are attached to them."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
