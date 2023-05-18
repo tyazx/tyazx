@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything."</i>
+<i>"Dreams provide nourishment for the soul, just as a meal does for the body."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
