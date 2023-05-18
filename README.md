@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My mind seems to have become a kind of machine for grinding general laws out of large collections of facts."</i>
+<i>"A good stance and posture reflect a proper state of mind."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
