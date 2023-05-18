@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are only encounters in history. There are no accidents."</i>
+<i>"A rational person can find peace by cultivating indifference to things outside of their control."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
