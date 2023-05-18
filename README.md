@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A rational person can find peace by cultivating indifference to things outside of their control."</i>
+<i>"By the practice of meditation, you will find that you are carrying within your heart a portable paradise."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
