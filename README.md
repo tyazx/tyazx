@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences "</i>
+<i>"The biggest adventure you can ever take is to live the life of your dreams. "</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
