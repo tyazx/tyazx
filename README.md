@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest adventure you can ever take is to live the life of your dreams. "</i>
+<i>"Every experience is a lesson. Every loss is a gain."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
