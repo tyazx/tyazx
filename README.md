@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who leaves the game wins it."</i>
+<i>"An investment in knowledge pays the best interest."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
