@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ladder of success is best climbed by stepping on the rungs of opportunity."</i>
+<i>"If you are going to achieve excellence in big things, you develop the habit in little matters."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
