@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is truth that liberates, not your effort to be free."</i>
+<i>"Who you are is always right."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
