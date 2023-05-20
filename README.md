@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Gratitude is the fairest blossom which springs from the soul."</i>
+<i>"Until we can manage time, we can manage nothing else."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
