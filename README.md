@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Who you are is always right."</i>
+<i>"Without the rain there would be no rainbow."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
