@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If it's not broken, tinker with it till you find out how it works."</i>
+<i>"Let us always meet each other with smile, for the smile is the beginning of love."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
