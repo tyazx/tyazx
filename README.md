@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be."</i>
+<i>"Take interest and even delight in doing the small things well."</i>
 <br>
-<b>- Yanni</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
