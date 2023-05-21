@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People think about what they don't want and attract more of the same."</i>
+<i>"Awakening is possible only for those who seek it and want it."</i>
 <br>
-<b>- Unknown</b>
+<b>- G.I. Gurdjieff</b>
 </blockquote>
 </p>
 
