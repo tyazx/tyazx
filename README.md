@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People who belittle people, will be LITTLE people, and will accomplish very Little"</i>
+<i>"The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
