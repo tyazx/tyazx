@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truth is not for all men, but for those who seek it."</i>
+<i>"Be curious, not judgmental."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
