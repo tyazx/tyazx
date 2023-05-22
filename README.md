@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments."</i>
+<i>"Shoot for the moon, because even if you miss, you'll land among the stars."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
