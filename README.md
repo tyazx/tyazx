@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be curious, not judgmental."</i>
+<i>"We've got to live, no matter how many skies have fallen."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
