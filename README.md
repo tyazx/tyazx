@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road."</i>
+<i>"Live the moment for the moment."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
