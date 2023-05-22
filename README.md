@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Shoot for the moon, because even if you miss, you'll land among the stars."</i>
+<i>"Genius is one percent inspiration and ninety-nine percent perspiration."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
