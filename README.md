@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't seek, don't search, don't ask, don't knock, don't demand - relax."</i>
+<i>"Keep others in suspense, cultivate an air of unpredictability."</i>
 <br>
-<b>- Osho</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
