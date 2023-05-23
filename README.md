@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Today will never happen again. Don't waste it with a false start or no start at all."</i>
+<i>"Wherever you are, and whatever you do, be in love."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
