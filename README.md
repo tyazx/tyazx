@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A fall into a ditch makes you wiser."</i>
+<i>"We love the things we love for what they are."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
