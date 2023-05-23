@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only thing worse than being blind is having sight but no vision."</i>
+<i>"A fall into a ditch makes you wiser."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
