@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We love the things we love for what they are."</i>
+<i>"Loyalty and friendship are the most precious possessions a man can have."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
