@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you are motivated by Love, The more Fearless & Free your action will be."</i>
+<i>"Don't let the past steal your present."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Cherralea Morgen</b>
 </blockquote>
 </p>
 
