@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Find something you love and do it better than everyone else."</i>
+<i>"Think and wonder, wonder and think."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
