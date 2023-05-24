@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The person who is his own master cannot tolerate another boss. "</i>
+<i>"It isn't what you do, but how you do it."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
