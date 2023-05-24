@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are lucky enough to find love, remember it is there and don't throw it away."</i>
+<i>"Progress is limited by your ability to change your mind."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
