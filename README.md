@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Manifest plainness, embrace simplicity, reduce selfishness, have few desires."</i>
+<i>"If you are lucky enough to find love, remember it is there and don't throw it away."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
