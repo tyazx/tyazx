@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Think and wonder, wonder and think."</i>
+<i>"Great ones are willing to get burned time and again as they sharpen their swords in the fire."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
