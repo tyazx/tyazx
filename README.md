@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Circumstances do not make the man, they reveal him."</i>
+<i>"Give more than you think you can, trusting that you are richer than you think."</i>
 <br>
-<b>- James Allen</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
