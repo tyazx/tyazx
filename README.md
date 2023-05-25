@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams."</i>
+<i>"Tis not too late to seek a newer world."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
