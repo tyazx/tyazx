@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't feed a hundred people, then feed just one."</i>
+<i>"Today will never happen again. Don't waste it with a false start or no start at all."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
