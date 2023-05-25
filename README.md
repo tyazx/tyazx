@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who wants to achieve a dream must stay strong, focused and steady."</i>
+<i>"I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
