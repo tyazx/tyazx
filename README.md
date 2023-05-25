@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tis not too late to seek a newer world."</i>
+<i>"Circumstances do not make the man, they reveal him."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
