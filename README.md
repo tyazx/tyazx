@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In three words I can sum up everything I've learned about life: it goes on."</i>
+<i>"Throw me to the wolves and I will return leading the pack.  "</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
