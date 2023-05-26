@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"From error to error one discovers the entire truth."</i>
+<i>"If you change the way you look at things, the things you look at change. "</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
