@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The source of a true smile is an awakened mind."</i>
+<i>"If we have no peace, it is because we have forgotten that we belong to each other."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
