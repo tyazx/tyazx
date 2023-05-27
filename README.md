@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you put water into a cup, it becomes the cup."</i>
+<i>"Becoming a great leader doesn't mean being perfect. it means living with your imperfections."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
