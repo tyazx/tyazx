@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No grand idea was ever born in a conference, but a lot of foolish ideas have died there."</i>
+<i>"You cannot teach a crab to walk straight."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
