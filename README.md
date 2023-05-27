@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you change the way you look at things, the things you look at change. "</i>
+<i>"If you put water into a cup, it becomes the cup."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
