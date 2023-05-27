@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every limit is a beginning as well as an ending."</i>
+<i>"No grand idea was ever born in a conference, but a lot of foolish ideas have died there."</i>
 <br>
-<b>- George Eliot</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
