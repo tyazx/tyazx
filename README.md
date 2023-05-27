@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who attain the middle Dominate the whole."</i>
+<i>"Leadership starts at the top."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Morgan Wootten</b>
 </blockquote>
 </p>
 
