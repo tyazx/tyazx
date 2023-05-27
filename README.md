@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Leadership starts at the top."</i>
+<i>"Imagination means nothing without doing.  "</i>
 <br>
-<b>- Morgan Wootten</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
