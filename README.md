@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot teach a crab to walk straight."</i>
+<i>"The impossible can always be broken down into possibilities."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
