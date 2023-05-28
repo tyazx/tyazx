@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. "</i>
+<i>"Persistence is very important. You should not give up unless you are forced to give up."</i>
 <br>
-<b>- George Washington</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
