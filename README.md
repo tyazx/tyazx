@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Persistence is very important. You should not give up unless you are forced to give up."</i>
+<i>"I was angered, for I had no shoes. Then I met a man who had no feet. "</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
