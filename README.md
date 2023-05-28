@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Growth is in a series of mistakes. That's the only way you learn."</i>
+<i>"Success is an iceberg."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
