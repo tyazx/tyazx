@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is always room in your life for thinking bigger, pushing limits and imagining the impossible."</i>
+<i>"The pain of parting is nothing to the joy of meeting again."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
