@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wise learn many things from their enemies."</i>
+<i>"Never take your position for granted and never let any favors you receive go to your head."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
