@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never take your position for granted and never let any favors you receive go to your head."</i>
+<i>"We become brave by doing brave acts."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
