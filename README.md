@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing in the world so irresistibly contagious as laughter and good humor."</i>
+<i>"Be patient and calm; no one can catch fish in anger."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
