@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Faith means believing the unbelievable."</i>
+<i>"Honesty is the first chapter in the book of wisdom."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
