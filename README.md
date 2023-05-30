@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A wise person should have money in their head, but not in their heart."</i>
+<i>"Only by acceptance of the past, can you alter it."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
