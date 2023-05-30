@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Human happiness and moral duty are inseparably connected. "</i>
+<i>"A very little key will open a very heavy door."</i>
 <br>
-<b>- George Washington</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
