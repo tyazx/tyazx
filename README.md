@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Working hard for something we don't care about is called stress: Working hard for something we love is called passion."</i>
+<i>"Maybe you are searching among the branches, for what only appears in the roots."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
