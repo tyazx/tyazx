@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding."</i>
+<i>"It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts."</i>
 <br>
-<b>- John D. Rockefeller</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
