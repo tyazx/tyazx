@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Maybe you are searching among the branches, for what only appears in the roots."</i>
+<i>"Your happiness is what truly matters most. Do what you have to do in order to be happy."</i>
 <br>
-<b>- Rumi</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
