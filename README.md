@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hold yourself responsible for a higher standard than anybody else expects of you."</i>
+<i>"Better to have, and not need, than to need, and not have."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
