@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better to have, and not need, than to need, and not have."</i>
+<i>"Why do you stay in prison when the door is so wide open?"</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
