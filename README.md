@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things."</i>
+<i>"Life may be full of pain but that's not an excuse to give up."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
