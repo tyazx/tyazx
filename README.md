@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have within you right now, everything you need to deal with whatever the world can throw at you."</i>
+<i>"Life is like underwear, should be changed twice a day.  "</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
