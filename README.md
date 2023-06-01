@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever happens always happens on time."</i>
+<i>"By changing nothing, nothing changes."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
