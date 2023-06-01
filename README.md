@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like underwear, should be changed twice a day.  "</i>
+<i>"Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
