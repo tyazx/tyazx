@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is either a daring adventure, or it is nothing."</i>
+<i>"Don't seek, don't search, don't ask, don't knock, don't demand - relax."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
