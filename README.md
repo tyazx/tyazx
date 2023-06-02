@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't seek, don't search, don't ask, don't knock, don't demand - relax."</i>
+<i>"Why live an ordinary life, when you can live an extraordinary one."</i>
 <br>
-<b>- Osho</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
