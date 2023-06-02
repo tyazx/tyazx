@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man's character is his fate."</i>
+<i>"If the plan doesn't work, change the plan, but never the goal."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
