@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each path to knowledge involves different rules and these rules are not interchangeable."</i>
+<i>"Life is either a daring adventure, or it is nothing."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
