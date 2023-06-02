@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To love means loving the unlovable."</i>
+<i>"Appear weak when you are strong, and strong when you are weak."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
