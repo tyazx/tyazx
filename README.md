@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Through selfless service, you will always be fruitful and find the fulfillment of your desires."</i>
+<i>"If you are going to achieve excellence in big things, you develop the habit in little matters."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
