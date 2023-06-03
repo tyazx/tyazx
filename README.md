@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Awakening is possible only for those who seek it and want it."</i>
+<i>"Always be a first rate version of yourself and not a second rate version of someone else."</i>
 <br>
-<b>- G.I. Gurdjieff</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
