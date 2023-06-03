@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more often a stupidity is repeated, the more it gets the appearance of wisdom."</i>
+<i>"Trust in dreams, for in them is the hidden gate to eternity.  "</i>
 <br>
-<b>- Voltaire</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
