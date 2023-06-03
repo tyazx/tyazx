@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In youth we run into difficulties. In old age difficulties run into us. "</i>
+<i>"The more often a stupidity is repeated, the more it gets the appearance of wisdom."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
