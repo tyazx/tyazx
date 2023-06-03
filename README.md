@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is resistance to fear, mastery of fear - not absence of fear."</i>
+<i>"Awakening is possible only for those who seek it and want it."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- G.I. Gurdjieff</b>
 </blockquote>
 </p>
 
