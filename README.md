@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Supreme excellence consists of breaking the enemy's resistance without fighting."</i>
+<i>"If you don't have time to do it right, when will you have time to do it over?"</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
