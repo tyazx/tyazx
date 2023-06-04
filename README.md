@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest."</i>
+<i>"Not all readers are leaders, but all leaders are readers."</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
