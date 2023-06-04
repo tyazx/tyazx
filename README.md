@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Who wishes to fight must first count the cost."</i>
+<i>"Fear is a natural reaction to moving closer to the truth."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
