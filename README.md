@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear is a natural reaction to moving closer to the truth."</i>
+<i>"He who permits himself to tell a lie once, finds it much easier to do it the second time."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
