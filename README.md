@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The question is not what you look at, but what you see."</i>
+<i>"There will always be suffering. But we must not suffer over the suffering."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
