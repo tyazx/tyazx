@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The heart wants what it wants. There's no logic. "</i>
+<i>"The question is not what you look at, but what you see."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
