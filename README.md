@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"New opinions are always suspected, and usually opposed, without any other reason but because they are not common."</i>
+<i>"You have to give up some of the old so that you can make room for the new."</i>
 <br>
-<b>- John Locke</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
