@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything you look at can become a fairy tale and you can get a story from everything you touch."</i>
+<i>"Time stays long enough for anyone who will use it."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
