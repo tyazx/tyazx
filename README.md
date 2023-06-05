@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To arrive at the simplest truth requires years of contemplation."</i>
+<i>"The heart wants what it wants. There's no logic. "</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
