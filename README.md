@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them."</i>
+<i>"Never give up work. Work gives you meaning and purpose and life is empty without it."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
