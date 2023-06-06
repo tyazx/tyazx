@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never give up work. Work gives you meaning and purpose and life is empty without it."</i>
+<i>"Take time like the river that never grows stale. Keep going and steady. No hurry, no rush."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
