@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The search for happiness is one of the chief sources of unhappiness."</i>
+<i>"You can only be afraid of what you think you know."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
