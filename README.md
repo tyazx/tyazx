@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throw me to the wolves and I will return leading the pack.  "</i>
+<i>"Without the rain there would be no rainbow."</i>
 <br>
-<b>- Seneca</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
