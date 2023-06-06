@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can only be afraid of what you think you know."</i>
+<i>"Don't let the silly little dramas of each day get you down. For you are here to do great things."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
