@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you judge another, you do not define them, you define yourself"</i>
+<i>"With self-discipline, almost anything is possible."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
