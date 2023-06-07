@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is great not because he hasn't failed; a man is great because failure hasn't stopped him."</i>
+<i>"Sometimes a change of perspective is all it takes to see the light."</i>
 <br>
-<b>- Confucius</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
