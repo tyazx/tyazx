@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we know how to adapt, we end up being superior."</i>
+<i>"Cultivate the merry heart, develop the happiness habit, and life will become a continual feast."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
