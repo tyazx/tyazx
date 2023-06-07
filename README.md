@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Cultivate the merry heart, develop the happiness habit, and life will become a continual feast."</i>
+<i>"Silence is a source of great strength."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
