@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are lucky enough to find love, remember it is there and don't throw it away."</i>
+<i>"Great acts are made up of small deeds."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
