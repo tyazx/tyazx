@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To lose your temper is only useful once a year."</i>
+<i>"Learn to sit back and observe, not everything needs a reaction."</i>
 <br>
-<b>- Colin R. Davis</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
