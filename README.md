@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Silence is a source of great strength."</i>
+<i>"Logic is like the sword - those who appeal to it shall perish by it."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
