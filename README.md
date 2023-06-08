@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Logic is like the sword - those who appeal to it shall perish by it."</i>
+<i>"To lose your temper is only useful once a year."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Colin R. Davis</b>
 </blockquote>
 </p>
 
