@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only those who do nothing at all make no mistakes."</i>
+<i>"You talk when you cease to be at peace with your thoughts."</i>
 <br>
-<b>- Unknown</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
