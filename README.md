@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must be willing to do what others won't do, to have what others won't have."</i>
+<i>"You drown not by falling into a river, but by staying submerged in it."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
