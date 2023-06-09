@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Passion creates, addiction consumes."</i>
+<i>"You must be willing to do what others won't do, to have what others won't have."</i>
 <br>
-<b>- Gabor Mate</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
