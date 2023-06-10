@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who know, do. Those that understand, teach."</i>
+<i>"Big people don't make people feel small."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
