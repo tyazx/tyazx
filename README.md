@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future is not a gift. It is an achievement."</i>
+<i>"Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
