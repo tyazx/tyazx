@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Would you rather learn to deal with the truth now than be forced to do so later on?"</i>
+<i>"Those who know, do. Those that understand, teach."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
