@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ability to observe without evaluating is the highest form of intelligence."</i>
+<i>"Longevity is a fleeting moment that lasts forever."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Vidal Sassoon</b>
 </blockquote>
 </p>
 
