@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time."</i>
+<i>"Successful people tend to become more successful because they are always thinking about their successes."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
