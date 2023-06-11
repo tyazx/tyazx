@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You get paid in direct proportion to the difficulty of problems you solve."</i>
+<i>"Mastering others is strength, mastering yourself is true power."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
