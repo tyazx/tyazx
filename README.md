@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mastering others is strength, mastering yourself is true power."</i>
+<i>"The attempt to escape from pain, is what creates more pain."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Gabor Mate</b>
 </blockquote>
 </p>
 
