@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be brave. Take risks. Nothing can substitute experience."</i>
+<i>"If you don't program yourself, life will program you."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
