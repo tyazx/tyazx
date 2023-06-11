@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one ever said life was fair. Just Eventful."</i>
+<i>"You get paid in direct proportion to the difficulty of problems you solve."</i>
 <br>
-<b>- Carol Burnett</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
