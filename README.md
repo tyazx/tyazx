@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing will work unless you do."</i>
+<i>"Make failure your teacher, not your undertaker.  "</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
