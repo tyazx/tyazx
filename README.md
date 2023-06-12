@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If someone betrays you once, it's their fault; if they betray you twice, it's your fault."</i>
+<i>"The single biggest problem in communication is the illusion that it has taken place."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
