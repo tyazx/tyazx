@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time you enjoy wasting, was not wasted."</i>
+<i>"Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
