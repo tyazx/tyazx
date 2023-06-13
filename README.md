@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I never dwell on what happened. You can't change it. Move forward."</i>
+<i>"So long as we are being remembered, we remain alive."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
