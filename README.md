@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Watch what you say, and whatever you say, practice it."</i>
+<i>"I never dwell on what happened. You can't change it. Move forward."</i>
 <br>
-<b>- Soyen Shaku</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
