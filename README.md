@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There will always be suffering. But we must not suffer over the suffering."</i>
+<i>"We run to win, not just to be in the race.  "</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
