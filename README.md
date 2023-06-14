@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The cost of leadership is self-interest."</i>
+<i>"The majority of what you want will come from the minority of what you do."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
