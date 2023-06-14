@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who bring sunshine into the lives of others cannot keep it from themselves."</i>
+<i>"My powers are ordinary. Only my application brings me success."</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
