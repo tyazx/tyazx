@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"They who have conquered doubt and fear have conquered failure."</i>
+<i>"We never know the love of a parent till we become parents ourselves."</i>
 <br>
-<b>- James Allen</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
