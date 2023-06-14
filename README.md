@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The majority of what you want will come from the minority of what you do."</i>
+<i>"Formal education will make you a living, self-education will make you a fortune."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
