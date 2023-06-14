@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have more possibilities available in each moment than we realize."</i>
+<i>"When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
