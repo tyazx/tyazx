@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life can be wonderful if you're not afraid of it."</i>
+<i>"We have more possibilities available in each moment than we realize."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
