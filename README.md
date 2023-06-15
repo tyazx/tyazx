@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words have no power to impress the mind without the exquisite horror of their reality."</i>
+<i>"People do not decide their futures, they decide their habits and their habits decide their futures."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
