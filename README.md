@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who bring sunshine into the lives of others cannot keep it from themselves."</i>
+<i>"You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible."</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
