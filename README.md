@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it."</i>
+<i>"In a world of change, the learners shall inherit the earth, while the learned shall find themselves perfectly suited for a world that no longer exists."</i>
 <br>
-<b>- Rumi</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
