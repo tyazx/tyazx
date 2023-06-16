@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A leader leads by example, not by force."</i>
+<i>"Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
