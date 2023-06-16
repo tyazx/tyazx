@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice."</i>
+<i>"You can never get enough of what you don't need to make you happy."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
