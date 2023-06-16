@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Goodness is the only investment that never fails."</i>
+<i>"Do what is right, not what is easy, nor what is popular."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
