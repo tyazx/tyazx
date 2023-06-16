@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's the little things done consistently over time, straight from your heart, that have the greatest impact."</i>
+<i>"The Truth is realized in an instant; the Act is practiced step by step."</i>
 <br>
-<b>- Unknown</b>
+<b>- Seungsahn</b>
 </blockquote>
 </p>
 
