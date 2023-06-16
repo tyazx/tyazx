@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't wait for extraordinary opportunities. Seize common occasions and make them great."</i>
+<i>"When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. "</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Charles Swindoll</b>
 </blockquote>
 </p>
 
