@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't spend time beating on a wall, hoping to transform it into a door."</i>
+<i>"The more we value things, the less we value ourselves.  "</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
