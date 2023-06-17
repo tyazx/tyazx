@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No problem can be solved from the same level of consciousness that created it."</i>
+<i>"The more you trust yourself, the less you compare yourself to others."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
