@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quality, not the longevity, of one's life is what is important."</i>
+<i>"Every blessing ignored becomes a curse."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
