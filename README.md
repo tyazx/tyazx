@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. "</i>
+<i>"Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be. "</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
