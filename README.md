@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to be looked over than overlooked."</i>
+<i>"Many of life's failures are people who did not realize how close they were to success when they gave up."</i>
 <br>
-<b>- Mae West</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
