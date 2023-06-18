@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perfectionism is simply putting a limit on your future."</i>
+<i>"When you rise in the morning, form a resolution to make the day a happy one for a fellow creature."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Sydney Smith</b>
 </blockquote>
 </p>
 
