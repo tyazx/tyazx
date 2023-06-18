@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not how long, but how well you have lived is the main thing."</i>
+<i>"Perfectionism is simply putting a limit on your future."</i>
 <br>
-<b>- Seneca</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
