@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A scientific man ought to have no wishes, no affections, - a mere heart of stone."</i>
+<i>"We create the world and ourselves;"</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
