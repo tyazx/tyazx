@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing that results in human progress is achieved with unanimous consent."</i>
+<i>"If you try, you might get exactly what you want. If you don't, you don't."</i>
 <br>
-<b>- Christopher Columbus</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
