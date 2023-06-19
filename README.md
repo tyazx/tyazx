@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greater the impact you want to make, the greater your influence needs to be."</i>
+<i>"You change the world by being yourself."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
