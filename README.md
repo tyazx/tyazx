@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunities don't often come along. So, when they do, you have to grab them."</i>
+<i>"The greater the impact you want to make, the greater your influence needs to be."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
