@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let what you cannot do interfere with what you can do."</i>
+<i>"You become stronger with every problem you face and every obstacle you overcome."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
