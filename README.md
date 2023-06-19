@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Educating the mind without educating the heart is no education at all."</i>
+<i>"Silence is a source of great strength."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
