@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You become stronger with every problem you face and every obstacle you overcome."</i>
+<i>"Opportunities don't often come along. So, when they do, you have to grab them."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
