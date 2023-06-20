@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let the noise of others opinions drown out your inner voice."</i>
+<i>"Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
