@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You purchase pain with all that joy can give and die of nothing but a rage to live."</i>
+<i>"The more I want to get something done, the less I call it work."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
