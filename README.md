@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you."</i>
+<i>"You purchase pain with all that joy can give and die of nothing but a rage to live."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
