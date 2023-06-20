@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your dream has to be bigger than your fear."</i>
+<i>"Where there is anger, there is always pain underneath."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
