@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are patient in one moment of anger, you will escape a hundred days of sorrow. "</i>
+<i>"Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
