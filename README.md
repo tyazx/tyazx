@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear of death is fear of the Unknown."</i>
+<i>"Your dream has to be bigger than your fear."</i>
 <br>
-<b>- Adi Da Samraj</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
