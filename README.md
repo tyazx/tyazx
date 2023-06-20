@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new."</i>
+<i>"The way we feel is the direct result of what we think."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Peter A. Cohen</b>
 </blockquote>
 </p>
 
