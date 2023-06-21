@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As long as a human being worries about when he will die, and what he has that is his, all of his works are zero."</i>
+<i>"Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy."</i>
 <br>
-<b>- Kabir</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
