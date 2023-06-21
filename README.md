@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take into account that great love and great achievements involve great risk."</i>
+<i>"Life may be full of pain but that's not an excuse to give up."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
