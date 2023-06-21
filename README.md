@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is achieved and maintained by those who try and keep trying. "</i>
+<i>"The Only Thing That Is Constant Is Change"</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
