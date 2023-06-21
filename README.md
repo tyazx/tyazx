@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your heart is full of fertile seeds, waiting to sprout."</i>
+<i>"Take into account that great love and great achievements involve great risk."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
