@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more I want to get something done, the less I call it work."</i>
+<i>"Knowledge isn't power until it is applied."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
