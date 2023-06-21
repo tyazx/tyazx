@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can change your mind, you can change your life."</i>
+<i>"Success is achieved and maintained by those who try and keep trying. "</i>
 <br>
-<b>- William James</b>
+<b>- W. Clement Stone</b>
 </blockquote>
 </p>
 
