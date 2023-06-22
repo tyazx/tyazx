@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Excellence is not a skill. It is an attitude. "</i>
+<i>"Stress happens when the mind resists what is."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
