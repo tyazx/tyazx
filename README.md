@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want something then you lose everything. If you don't want anything then you already have everything."</i>
+<i>"True life is lived when tiny changes occur."</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
