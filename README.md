@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You get in life what you have the courage to ask for."</i>
+<i>"Better a diamond with a flaw than a pebble without one."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
