@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fortunate are those who take the first steps."</i>
+<i>"Inner peace is when you realize that, in the end, nothing matters."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
