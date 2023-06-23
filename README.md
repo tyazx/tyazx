@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes good things fall apart so better things can fall together."</i>
+<i>"Your heart is full of fertile seeds, waiting to sprout."</i>
 <br>
-<b>- Marilyn Monroe</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
