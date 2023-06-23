@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A rational person can find peace by cultivating indifference to things outside of their control."</i>
+<i>"Fortunate are those who take the first steps."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
