@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Inner peace is when you realize that, in the end, nothing matters."</i>
+<i>"Lack of direction, not lack of time, is the problem. We all have twenty-four hour days."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
