@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else."</i>
+<i>"Life would be tragic if it weren't funny."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
