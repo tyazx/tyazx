@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life itself is the most wonderful fairy tale."</i>
+<i>"When asked, how do you write? I invariably answer, one word at a time."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
