@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life happens in the river, not the shore."</i>
+<i>"Life itself is the most wonderful fairy tale."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
