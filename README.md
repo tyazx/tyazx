@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated."</i>
+<i>"Where the willingness is great, the difficulties cannot be great."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Niccolo Machiavelli</b>
 </blockquote>
 </p>
 
