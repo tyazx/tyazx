@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time flies whether you are having fun or not."</i>
+<i>"If you cannot understand something, then you have understood it incorrectly."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
