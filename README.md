@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results."</i>
+<i>"If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
