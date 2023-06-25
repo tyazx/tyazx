@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind."</i>
+<i>"It is not as important how we start, but how we finish."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
