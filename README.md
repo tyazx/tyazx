@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself."</i>
+<i>"It is not what we get. But who we become, what we contribute... that gives meaning to our lives."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
