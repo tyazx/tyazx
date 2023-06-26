@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less you open your heart to others, the more your heart suffers."</i>
+<i>"Do Something. If it works, do more of it. If it doesn't, do something else."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
