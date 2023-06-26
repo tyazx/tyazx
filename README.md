@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life."</i>
+<i>"It does not do to dwell on dreams and forget to live, remember that."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
