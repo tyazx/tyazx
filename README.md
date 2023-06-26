@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has."</i>
+<i>"Just trust that everything is unfolding the way it is supposed to. Don't resist... Great things are waiting for you around the corner."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Sonia Ricotti</b>
 </blockquote>
 </p>
 
