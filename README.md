@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To get angry is like to revenge yourself for the guilt of others."</i>
+<i>"All life is a manifestation of the spirit, the manifestation of love."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
