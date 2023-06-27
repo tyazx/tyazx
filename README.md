@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is resistance to fear, mastery of fear - not absence of fear."</i>
+<i>"If you genuinely want something, don't wait for it - teach yourself."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
