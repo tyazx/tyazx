@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people ask better questions, and as a result, they get better answers."</i>
+<i>"Whenever you do a thing, act as if all the world were watching."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
