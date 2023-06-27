@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you genuinely want something, don't wait for it - teach yourself."</i>
+<i>"To get angry is like to revenge yourself for the guilt of others."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
