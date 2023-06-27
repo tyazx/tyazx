@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creativity is intelligence having fun."</i>
+<i>"It will never rain roses: when we want to have more roses, we must plant more roses."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
