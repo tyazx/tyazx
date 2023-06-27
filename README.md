@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All animals except man know that the principal business of life is to enjoy it."</i>
+<i>"Your life does not get better by chance, it gets better by change."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
