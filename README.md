@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All life is a manifestation of the spirit, the manifestation of love."</i>
+<i>"Blessed is he who expects nothing, for he shall never be disappointed."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
