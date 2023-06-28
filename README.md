@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing quite so tragic as a young cynic."</i>
+<i>"Take interest and even delight in doing the small things well."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
