@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only those who dare to fail greatly can ever achieve greatly."</i>
+<i>"The man who moved the mountain was the one who began carrying away the smallest stones."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
