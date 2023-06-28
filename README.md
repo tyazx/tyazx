@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"From the errors of others, a wise man corrects his own."</i>
+<i>"It's not how much money you make, it's how much money you keep."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
