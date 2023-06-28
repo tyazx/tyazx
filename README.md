@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing important is learned; it is simply remembered."</i>
+<i>"You cannot push anyone up a ladder unless he is willing to climb a little himself."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
