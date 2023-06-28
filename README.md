@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be happy in the moment, that's enough. Each moment is all we need, not more."</i>
+<i>"Manifest plainness, embrace simplicity, reduce selfishness, have few desires."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
