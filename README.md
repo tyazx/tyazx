@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be not glad at the misfortune of another, though he may be your enemy. "</i>
+<i>"Rivers know this: there is no hurry. We shall get there some day."</i>
 <br>
-<b>- George Washington</b>
+<b>- A.A. Milne</b>
 </blockquote>
 </p>
 
