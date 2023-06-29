@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't gain the world and lose your soul. Wisdom is better than silver and gold."</i>
+<i>"If you practiced for the day, then you have won. If you were lazy for the day, then you have lost."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
