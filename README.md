@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take interest and even delight in doing the small things well."</i>
+<i>"You are what you believe yourself to be."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
