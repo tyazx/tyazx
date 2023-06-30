@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The healthiest response to life is joy."</i>
+<i>"What the mind can conceive and believe, and the heart desire, you can achieve."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
