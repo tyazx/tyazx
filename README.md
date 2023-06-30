@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man is happy unless he believes he is."</i>
+<i>"The quieter you become, the more you are able to hear."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
