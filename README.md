@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quieter you become, the more you are able to hear."</i>
+<i>"The healthiest response to life is joy."</i>
 <br>
-<b>- Rumi</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
