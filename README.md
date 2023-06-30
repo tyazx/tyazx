@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Art is the signature of civilizations. "</i>
+<i>"No man is happy unless he believes he is."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
