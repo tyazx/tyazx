@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge."</i>
+<i>"Sometimes letting things go is an act of far greater power than defending or hanging on."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
