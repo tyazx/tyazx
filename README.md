@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes letting things go is an act of far greater power than defending or hanging on."</i>
+<i>"Don't ever save anything for a special occasion. Being alive is the special occasion."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
