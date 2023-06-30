@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stop acting so small. You are the universe in ecstatic motion."</i>
+<i>"Art is the signature of civilizations. "</i>
 <br>
-<b>- Rumi</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
