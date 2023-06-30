@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rivers know this: there is no hurry. We shall get there some day."</i>
+<i>"Stop acting so small. You are the universe in ecstatic motion."</i>
 <br>
-<b>- A.A. Milne</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
