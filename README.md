@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Logic is like the sword - those who appeal to it shall perish by it."</i>
+<i>"Only those who will risk going too far can possibly find out how far one can go."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
