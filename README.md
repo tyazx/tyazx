@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every day do something that will inch you closer to a better tomorrow."</i>
+<i>"Don't let your learning lead to knowledge. Let your learning lead to action."</i>
 <br>
-<b>- Unknown</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
