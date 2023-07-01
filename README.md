@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be calm is the highest achievement of the self."</i>
+<i>"Death is not sad; the sad thing is that most people don't really live at all."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
