@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where there is no struggle, there is no strength. "</i>
+<i>"Friendship is like money, easier made than kept."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
