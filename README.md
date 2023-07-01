@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We build too many walls and not enough bridges."</i>
+<i>"It's just a bad day, not a bad life."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
