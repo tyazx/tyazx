@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge has to be improved, challenged, and increased constantly, or it vanishes."</i>
+<i>"Where there is no struggle, there is no strength. "</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
