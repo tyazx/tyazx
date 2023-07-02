@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand."</i>
+<i>"If you read a lot of books, you're considered well-read. But if you watch a lot of TV, you're not considered well-viewed."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
