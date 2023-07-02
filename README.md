@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never give up work. Work gives you meaning and purpose and life is empty without it."</i>
+<i>"Grudges are for those who insist that they are owed something; forgiveness, however, is for those who are substantial enough to move on."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
