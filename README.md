@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The older you get, the more you understand how your conscience works."</i>
+<i>"People don't care how much you know until they know how much you care."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
