@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Grudges are for those who insist that they are owed something; forgiveness, however, is for those who are substantial enough to move on."</i>
+<i>"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. "</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
