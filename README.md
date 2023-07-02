@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness depends on your mindset and attitude."</i>
+<i>"It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
