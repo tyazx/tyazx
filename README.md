@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you read a lot of books, you're considered well-read. But if you watch a lot of TV, you're not considered well-viewed."</i>
+<i>"Never give up work. Work gives you meaning and purpose and life is empty without it."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
