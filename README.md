@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to understanding is a few good examples."</i>
+<i>"Life is a series of choices and all we can do is make them."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
