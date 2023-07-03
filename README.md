@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People don't care how much you know until they know how much you care."</i>
+<i>"It is not enough to win a war; it is more important to organize the peace."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
