@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is dangerous to be right in matters on which the established authorities are wrong."</i>
+<i>"The degree of responsibility you take for your life determines how much change you can create in it."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
