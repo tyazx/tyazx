@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The trouble with the rat race is that even if you win, you're still a rat."</i>
+<i>"It is dangerous to be right in matters on which the established authorities are wrong."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
