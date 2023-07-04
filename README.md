@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers."</i>
+<i>"The best of us sometimes eat our words.  "</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
