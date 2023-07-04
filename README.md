@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunities multiply as they are seized."</i>
+<i>"There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
