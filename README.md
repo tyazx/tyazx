@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only way out is through."</i>
+<i>"You are free, and that is why you are lost. "</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
