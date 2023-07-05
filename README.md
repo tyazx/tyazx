@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When I let go of what I am, I become what I might be."</i>
+<i>"Love the life you live, live the life you love."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
