@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can do nothing to change the past, and the future will never come exactly as you plan or hope for."</i>
+<i>"Truth is like most opinions - best unexpressed."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Kenneth Branagh</b>
 </blockquote>
 </p>
 
