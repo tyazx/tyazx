@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The sun is new each day."</i>
+<i>"No kind action ever stops with itself. One kind action leads to another. Good example is followed."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
