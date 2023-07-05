@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be calm is the highest achievement of the self."</i>
+<i>"Integrity is telling myself the truth. And honesty is telling the truth to other people."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
