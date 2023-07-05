@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There will always be suffering. But we must not suffer over the suffering."</i>
+<i>"When I let go of what I am, I become what I might be."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
