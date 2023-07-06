@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ability is a poor man's wealth."</i>
+<i>"We have to live life with a sense of urgency so not a minute is wasted."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
