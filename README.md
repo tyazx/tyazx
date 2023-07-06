@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love the life you live, live the life you love."</i>
+<i>"The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
