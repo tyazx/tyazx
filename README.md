@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't worry about being successful, but work toward being significant and the success will naturally follow."</i>
+<i>"Ability is a poor man's wealth."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
