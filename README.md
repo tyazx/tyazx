@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives."</i>
+<i>"It's easier to go down a hill than up it but the view is much better at the top."</i>
 <br>
-<b>- Betty White</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
