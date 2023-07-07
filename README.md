@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not how much we give but how much love we put into giving."</i>
+<i>"If you want to make God laugh, tell him about your plans. "</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
