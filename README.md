@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"On the other side of the clouds is a bright blue sky."</i>
+<i>"You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win."</i>
 <br>
-<b>- Unknown</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
