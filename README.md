@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win."</i>
+<i>"To succeed takes more than the desire to win. It also takes the acceptance that we could fail."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
