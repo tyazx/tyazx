@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"See what you're doing wrong, laugh at it, change and do better."</i>
+<i>"Failure is an option, fear is not."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- James Cameron</b>
 </blockquote>
 </p>
 
