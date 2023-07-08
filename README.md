@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To succeed takes more than the desire to win. It also takes the acceptance that we could fail."</i>
+<i>"Everything you've ever wanted is on the other side of fear."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
