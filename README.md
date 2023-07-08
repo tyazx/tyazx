@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything you've ever wanted is on the other side of fear."</i>
+<i>"People are doing the best that they can from their own level of consciousness."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
