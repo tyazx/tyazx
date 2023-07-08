@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Look to the beauty of this day, miracles are all around you."</i>
+<i>"We become what we believe."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
