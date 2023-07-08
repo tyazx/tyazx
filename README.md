@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is an essence of when you are fearless, you become more creative."</i>
+<i>"To wish you were someone else is to waste the person you are."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
