@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Appear weak when you are strong, and strong when you are weak."</i>
+<i>"Thought is so cunning, so clever, that it distorts everything for its own convenience."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
