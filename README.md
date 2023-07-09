@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime."</i>
+<i>"Investing in yourself is the best investment you will ever make."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
