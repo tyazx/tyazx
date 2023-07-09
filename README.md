@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments."</i>
+<i>"We will act consistently with our view of who we truly are, whether that view is accurate or not."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
