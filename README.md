@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Investing in yourself is the best investment you will ever make."</i>
+<i>"Many people spend more time looking at their failures than focusing on their successes."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
