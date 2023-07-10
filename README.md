@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everybody by your side ain't on your side."</i>
+<i>"The number one cause of failure is the fear of failure."</i>
 <br>
 <b>- Steve Harvey</b>
 </blockquote>
