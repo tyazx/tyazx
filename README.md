@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Choose a job you love, and you will never have to work a day in your life. "</i>
+<i>"Everybody by your side ain't on your side."</i>
 <br>
-<b>- Confucius</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
