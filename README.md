@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The number one cause of failure is the fear of failure."</i>
+<i>"There is no significance in life without struggle."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
