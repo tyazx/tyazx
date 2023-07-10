@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By seeking and blundering we learn."</i>
+<i>"Do good, live in the most positive and joyful way possible every day."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
