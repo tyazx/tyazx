@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a traveling to the edge of knowledge, then a leap taken."</i>
+<i>"You have to give up some of the old so that you can make room for the new."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
