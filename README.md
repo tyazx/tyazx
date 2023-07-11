@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have to give up some of the old so that you can make room for the new."</i>
+<i>"Adults are just children who earn money."</i>
 <br>
-<b>- Yanni</b>
+<b>- Kenneth Branagh</b>
 </blockquote>
 </p>
 
