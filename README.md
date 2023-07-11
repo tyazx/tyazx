@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy."</i>
+<i>"If you spend too much time thinking about a thing, you'll never get it done. "</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
