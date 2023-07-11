@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The decisions of our past are the architects of our present."</i>
+<i>"Never let the things you can't do stop you from doing what you can."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
