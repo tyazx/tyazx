@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Either write something worth reading or do something worth writing."</i>
+<i>"Even if you're sure you can win, be careful that you can live with what you lose."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
