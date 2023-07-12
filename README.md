@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not push the boundaries, you will never know where they are."</i>
+<i>"Like it or not, this moment is all we really have to work with."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
