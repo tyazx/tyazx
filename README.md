@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fiction is the truth inside the lie."</i>
+<i>"Don't spend time beating on a wall, hoping to transform it into a door."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
