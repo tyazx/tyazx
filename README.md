@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even if you're sure you can win, be careful that you can live with what you lose."</i>
+<i>"Most people fail in life because they major in minor things."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
