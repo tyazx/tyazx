@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing good ever comes of violence."</i>
+<i>"Fiction is the truth inside the lie."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
