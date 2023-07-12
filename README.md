@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't spend time beating on a wall, hoping to transform it into a door."</i>
+<i>"If you do not push the boundaries, you will never know where they are."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
