@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have?"</i>
+<i>"Never to suffer would never to have been blessed."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
