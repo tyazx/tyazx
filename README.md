@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To the mind that is still, the whole universe surrenders."</i>
+<i>"The sun shines upon good and bad alike."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
