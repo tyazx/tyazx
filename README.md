@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We win by helping each other win."</i>
+<i>"Change yourself - you are in control."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
