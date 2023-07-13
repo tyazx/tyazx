@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change yourself - you are in control."</i>
+<i>"To the mind that is still, the whole universe surrenders."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
