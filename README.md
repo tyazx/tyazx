@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The sun shines upon good and bad alike."</i>
+<i>"If you done it, it ain't bragging."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
