@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must learn to live together as brothers or perish together as fools."</i>
+<i>"We win by helping each other win."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
