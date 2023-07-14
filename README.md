@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why compare yourself with others? No one in the entire world can do a better job of being you than you."</i>
+<i>"Don't just sit there. Do something. The answers will follow."</i>
 <br>
-<b>- Unknown</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
