@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A thing must be loved before it is lovable."</i>
+<i>"Why compare yourself with others? No one in the entire world can do a better job of being you than you."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
