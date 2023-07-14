@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can only be afraid of what you think you know."</i>
+<i>"It's not about what it is, it's about what it can become."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
