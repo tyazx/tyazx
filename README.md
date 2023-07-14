@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't just sit there. Do something. The answers will follow."</i>
+<i>"The pen is the tongue of the mind. "</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
