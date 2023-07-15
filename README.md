@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is like most opinions - best unexpressed."</i>
+<i>"Life is too short to waste your time on people who don't respect, appreciate, and value you."</i>
 <br>
-<b>- Kenneth Branagh</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
