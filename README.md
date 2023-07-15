@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Shoot for the moon. Even if you miss, you'll land among the stars."</i>
+<i>"The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
