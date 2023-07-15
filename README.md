@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience."</i>
+<i>"Shoot for the moon. Even if you miss, you'll land among the stars."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
