@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not all of us can do great things. But we can do small things with great love."</i>
+<i>"You can start changing our world for the better daily, no matter how small the action."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
