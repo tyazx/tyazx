@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quality means doing it right when no one is looking."</i>
+<i>"Friendship is one of the most tangible things in a world which offers fewer and fewer supports."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Kenneth Branagh</b>
 </blockquote>
 </p>
 
