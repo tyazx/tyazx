@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is one of the most tangible things in a world which offers fewer and fewer supports."</i>
+<i>"No one has ever become poor by giving."</i>
 <br>
-<b>- Kenneth Branagh</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
