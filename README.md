@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can start changing our world for the better daily, no matter how small the action."</i>
+<i>"I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
