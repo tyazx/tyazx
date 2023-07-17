@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life may be full of pain but that's not an excuse to give up."</i>
+<i>"Trust is built and maintained by many small actions over time."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
