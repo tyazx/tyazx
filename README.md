@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can put lipstick on a pig. It's still a pig."</i>
+<i>"Don't look for meaning in the words. Listen to the silences."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
