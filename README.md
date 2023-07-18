@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want something you've never had you must be willing to do something you've never done."</i>
+<i>"Life does not get better by chance, it gets better by change."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
