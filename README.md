@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The health of nations is more important than the wealth of nations."</i>
+<i>"You'll see it when you believe it. "</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
