@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends."</i>
+<i>"If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
