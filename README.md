@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"That some achieve great success is proof to all that others can achieve it as well."</i>
+<i>"Throw your heart over the fence and the rest will follow"</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
