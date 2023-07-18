@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pleasure in the job puts perfection in the work."</i>
+<i>"The health of nations is more important than the wealth of nations."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
