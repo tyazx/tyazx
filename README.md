@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future belongs to those who learn more skills and combine them in creative ways."</i>
+<i>"Definitions belong to the definers, not the defined."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Toni Morrison</b>
 </blockquote>
 </p>
 
