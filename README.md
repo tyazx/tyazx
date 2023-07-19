@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Absorb what is useful, discard what is useless and add what is specifically your own.  "</i>
+<i>"The harder you work, the harder it is to surrender."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
