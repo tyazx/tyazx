@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The foolish reject what they see, not what they think; the wise reject what they think, not what they see."</i>
+<i>"Decide upon your major definite purpose in life and then organize all your activities around it."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
