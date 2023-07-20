@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people feel the rain. Others just get wet. "</i>
+<i>"No matter what happens, always be yourself."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
