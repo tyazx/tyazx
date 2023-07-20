@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An un-examined life is not worth living."</i>
+<i>"Some people feel the rain. Others just get wet. "</i>
 <br>
-<b>- Socrates</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
