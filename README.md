@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change begets change. Nothing propagates so fast."</i>
+<i>"The measure of wisdom is how calm you are when facing any given situation."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
