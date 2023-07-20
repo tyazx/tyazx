@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Constantly think about how you could be doing things better."</i>
+<i>"It's the job that's never started that takes the longest to finish."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
