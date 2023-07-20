@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Humans and prosperity never endure side by side for long."</i>
+<i>"Constantly think about how you could be doing things better."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
