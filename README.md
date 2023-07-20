@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter what happens, always be yourself."</i>
+<i>"Change begets change. Nothing propagates so fast."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
