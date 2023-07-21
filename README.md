@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're only given a little spark of madness. You mustn't lose it."</i>
+<i>"Not all readers are leaders, but all leaders are readers."</i>
 <br>
-<b>- Robin Williams</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
