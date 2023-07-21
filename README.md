@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Emancipate yourself from mental slavery, none but ourselves can free our mind."</i>
+<i>"Success is a poor teacher."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
