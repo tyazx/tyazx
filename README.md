@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep others in suspense, cultivate an air of unpredictability."</i>
+<i>"Great ones are willing to get burned time and again as they sharpen their swords in the fire."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
