@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive."</i>
+<i>"Loss is nothing else but change and change is nature's delight."</i>
 <br>
-<b>- Anne Wilson Schaef</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
