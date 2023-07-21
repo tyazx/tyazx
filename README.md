@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Loss is nothing else but change and change is nature's delight."</i>
+<i>"We learn to walk by falling down. If we never fell down, we would never walk."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
