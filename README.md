@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life's too mysterious to take too serious."</i>
+<i>"Emancipate yourself from mental slavery, none but ourselves can free our mind."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
