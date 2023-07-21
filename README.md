@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We learn to walk by falling down. If we never fell down, we would never walk."</i>
+<i>"You're only given a little spark of madness. You mustn't lose it."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Robin Williams</b>
 </blockquote>
 </p>
 
