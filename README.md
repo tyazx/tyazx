@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Because of your smile, you make life more beautiful."</i>
+<i>"The meaning of life is that it stops."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
