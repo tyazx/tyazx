@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We lie the loudest when we lie to ourselves."</i>
+<i>"Perplexity is the beginning of knowledge."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
