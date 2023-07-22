@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you seek is seeking you."</i>
+<i>"You can suffer the pain of change or suffer remaining the way you are."</i>
 <br>
-<b>- Rumi</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
