@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can suffer the pain of change or suffer remaining the way you are."</i>
+<i>"No tree, it is said, can grow to heaven unless its roots reach down to hell."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
