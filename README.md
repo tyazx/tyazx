@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The meaning of life is that it stops."</i>
+<i>"The harder the conflict, the greater the triumph. "</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
