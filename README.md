@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How you think is as important as as what you think."</i>
+<i>"The quality, not the longevity, of one's life is what is important."</i>
 <br>
-<b>- Unknown</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
