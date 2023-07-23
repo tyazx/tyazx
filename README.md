@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pursue what catches your heart, not what catches your eyes."</i>
+<i>"The best way out is always through."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
