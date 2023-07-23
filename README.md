@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is but a product of his thoughts. What he thinks he becomes."</i>
+<i>"Good judgment comes from experience, and experience comes from bad judgment."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
