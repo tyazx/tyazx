@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quality, not the longevity, of one's life is what is important."</i>
+<i>"I dream my painting and I paint my dream."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
