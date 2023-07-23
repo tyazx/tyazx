@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is passion that makes man live; wisdom makes one only last."</i>
+<i>"A man is but a product of his thoughts. What he thinks he becomes."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
