@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Education breeds confidence. Confidence breeds hope. Hope breeds peace."</i>
+<i>"You are what you believe yourself to be."</i>
 <br>
-<b>- Confucius</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
