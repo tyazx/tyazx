@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Find something you love and do it better than everyone else."</i>
+<i>"If you want peace, accept. If you want suffering, expect."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
