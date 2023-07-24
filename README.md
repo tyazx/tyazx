@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Show me a hero, and I'll write you a tragedy."</i>
+<i>"20 percent of your activities will account for 80 percent of your results."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
