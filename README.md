@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"20 percent of your activities will account for 80 percent of your results."</i>
+<i>"The time is now, the place is here. Stay in the present."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
