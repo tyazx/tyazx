@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your mind will make you rich or poor, depending on the use you put to it."</i>
+<i>"No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
