@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There's no coming to consciousness without pain"</i>
+<i>"Your goals are the road maps that guide you and show you what is possible for your life."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
