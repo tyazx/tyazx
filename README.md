@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The guest will judge better of a feast than the cook."</i>
+<i>"You become a worrier by practicing worry. You become free of worry by practicing the opposite."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
