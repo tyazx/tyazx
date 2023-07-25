@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!"</i>
+<i>"It is never too late to be what you might have been."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
