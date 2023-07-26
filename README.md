@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wise learn many things from their enemies."</i>
+<i>"No matter how tall the mountain is, it cannot block the sun."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
