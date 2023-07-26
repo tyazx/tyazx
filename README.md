@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important battle is one to conquer yourself."</i>
+<i>"It's wise to tell the truth. It's even wiser to tell it kindly."</i>
 <br>
-<b>- Yanni</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
