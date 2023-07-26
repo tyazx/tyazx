@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are like islands in the sea, separate on the surface but connected in the deep."</i>
+<i>"We must embrace pain and burn it as fuel for our journey."</i>
 <br>
-<b>- William James</b>
+<b>- Kenji Miyazawa</b>
 </blockquote>
 </p>
 
