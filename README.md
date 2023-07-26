@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perfection is not attainable, but if we chase perfection we can catch excellence."</i>
+<i>"The most important battle is one to conquer yourself."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
