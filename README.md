@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Who you are is defined by what you're willing to struggle for."</i>
+<i>"Never spend your money before you have earned it."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
