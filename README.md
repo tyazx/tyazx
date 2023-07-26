@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's wise to tell the truth. It's even wiser to tell it kindly."</i>
+<i>"Reality is nothing but a collective hunch."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
