@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whether you have a problem in your life or not depends upon your own attitude, your own understanding."</i>
+<i>"Focused, hard work is the real key to success."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- John Carmack</b>
 </blockquote>
 </p>
 
