@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all."</i>
+<i>"Stop wasting time looking at someone else's reality while doing nothing about yours."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
