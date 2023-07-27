@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest deception men suffer is from their own opinions."</i>
+<i>"Know your gifts and share them."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
