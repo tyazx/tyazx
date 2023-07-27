@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is the offspring of silence and meditation."</i>
+<i>"Every time we liberate a woman, we liberate a man. "</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
