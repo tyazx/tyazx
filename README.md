@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is the absence of the striving for happiness."</i>
+<i>"The desire for more positive experience is itself a negative experience."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
