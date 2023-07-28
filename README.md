@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reversing your treatment of the man you have wronged is better than asking his forgiveness."</i>
+<i>"When it is dark enough, you can see the stars."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
