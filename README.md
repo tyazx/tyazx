@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When it is dark enough, you can see the stars."</i>
+<i>"Be happy now, without reason - or you never will be at all."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
