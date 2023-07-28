@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every limit is a beginning as well as an ending."</i>
+<i>"Do not fear failure but rather fear not trying."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
