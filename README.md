@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be happy now, without reason - or you never will be at all."</i>
+<i>"No man is happy who does not think himself so."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
