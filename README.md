@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We cannot expect to be happy always... by experiencing evil as well as good we become wise."</i>
+<i>"Every limit is a beginning as well as an ending."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
