@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The number one cause of failure is the fear of failure."</i>
+<i>"Just throw away all thoughts of imaginary things, and stand firm in that which you are."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
