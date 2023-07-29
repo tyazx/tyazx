@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Play your part in life, but never forget that it is only a role."</i>
+<i>"Whether you think you can or think you can't – you are right."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
