@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am always doing that which I can not do, in order that I may learn how to do it."</i>
+<i>"Words used to attract the dull of wit are not to be relied on."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
