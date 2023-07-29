@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words used to attract the dull of wit are not to be relied on."</i>
+<i>"Cultivate the merry heart, develop the happiness habit, and life will become a continual feast."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
