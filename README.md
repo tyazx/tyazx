@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The goal is not to show how great you are to others, but how vulnerable you are to yourself."</i>
+<i>"FOCUS - Follow One Course Until Successful"</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
