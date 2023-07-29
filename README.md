@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Follow your heart, listen to your inner voice, stop caring about what others think."</i>
+<i>"The goal is not to show how great you are to others, but how vulnerable you are to yourself."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
