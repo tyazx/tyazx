@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I live by letting things happen."</i>
+<i>"Play your part in life, but never forget that it is only a role."</i>
 <br>
-<b>- Dogen</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
