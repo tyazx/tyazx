@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better to light a candle than to curse the darkness. "</i>
+<i>"Life is a question and how we live it is our answer."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
