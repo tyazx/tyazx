@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Catch, then, O catch the transient hour; Improve each moment as it flies! "</i>
+<i>"Better to light a candle than to curse the darkness. "</i>
 <br>
-<b>- St. Jerome</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
