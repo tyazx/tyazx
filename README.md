@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Arise, slay thy enemies, enjoy a prosperous kingdom."</i>
+<i>"Do not look for approval except for the consciousness of doing your best."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
