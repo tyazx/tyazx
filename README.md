@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no absolute success in the world, only constant progress."</i>
+<i>"The more we value things, the less we value ourselves.  "</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
