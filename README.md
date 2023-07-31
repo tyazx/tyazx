@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I believe that one of life's greatest risks is never daring to risk."</i>
+<i>"There is no absolute success in the world, only constant progress."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
