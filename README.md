@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Focus on how far you have come in life rather than looking at the accomplishments of others."</i>
+<i>"Man is affected not by events but by the view he takes of them.  "</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
