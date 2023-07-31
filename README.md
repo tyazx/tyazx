@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is like reaching an important birthday and finding you're exactly the same."</i>
+<i>"When you are tempted to give up, your breakthrough is probably just around the corner."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
