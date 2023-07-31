@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no secrets to success. It is the result of preparation, hard work, learning from failure."</i>
+<i>"Kind words can be short and easy to speak, but their echoes are truly endless."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
