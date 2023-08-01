@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is the meaning and the purpose of life, the whole aim and end of human existence."</i>
+<i>"He who is not contented with what he has, would not be contented with what he would like to have."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
