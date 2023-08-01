@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man is affected not by events but by the view he takes of them.  "</i>
+<i>"Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new."</i>
 <br>
-<b>- Seneca</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
