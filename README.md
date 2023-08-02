@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're never too old for anything."</i>
+<i>"Who you are is always right."</i>
 <br>
-<b>- Betty White</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
