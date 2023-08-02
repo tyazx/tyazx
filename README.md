@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Falling down is not failure. Failure comes when you stay where you have fallen."</i>
+<i>"Heroes don't need to talk about what they did."</i>
 <br>
-<b>- Socrates</b>
+<b>- W.P. Kinsella</b>
 </blockquote>
 </p>
 
