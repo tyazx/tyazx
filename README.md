@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do the hard jobs first. The easy jobs will take care of themselves."</i>
+<i>"A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
