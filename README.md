@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Heroes don't need to talk about what they did."</i>
+<i>"The road to success is always under construction."</i>
 <br>
-<b>- W.P. Kinsella</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
