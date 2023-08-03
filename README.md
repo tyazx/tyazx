@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Silence is a source of great strength."</i>
+<i>"Always seek out the seed of triumph in every adversity."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
