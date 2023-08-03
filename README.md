@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If fear is too strong, the genius is suppressed."</i>
+<i>"We are all self-made, but only the successful will admit it."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
