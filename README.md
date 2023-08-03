@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you."</i>
+<i>"It is easier to fight for one's principles than to live up to them. "</i>
 <br>
-<b>- Sonia Ricotti</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
