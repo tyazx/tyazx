@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is easier to fight for one's principles than to live up to them. "</i>
+<i>"Silence is a source of great strength."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
