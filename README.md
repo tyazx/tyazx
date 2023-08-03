@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all self-made, but only the successful will admit it."</i>
+<i>"A journey of a thousand miles begins with a single step."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
