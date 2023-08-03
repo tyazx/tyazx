@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success does not consist in never making mistakes but in never making the same one a second time."</i>
+<i>"Believe in one thing too much and you have no room for new ideas.  "</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
