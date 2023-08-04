@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great deeds are usually wrought at great risks."</i>
+<i>"Failure is an option here. If things are not failing, you are not innovating enough."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
