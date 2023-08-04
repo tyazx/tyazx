@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"May you find grace as you surrender to life. May you find happiness, as you stop seeking it."</i>
+<i>"When you're at the end of your rope, tie a knot and hold on."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
