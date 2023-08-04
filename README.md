@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled."</i>
+<i>"Change is inevitable but personal growth is a choice."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
