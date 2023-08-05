@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't get to a place that you don't believe exists."</i>
+<i>"Success is going from failure to failure without losing your enthusiasm"</i>
 <br>
-<b>- Unknown</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
