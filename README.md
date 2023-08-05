@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be the change that you want to see in the world."</i>
+<i>"Make your life a mission - not an intermission."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
