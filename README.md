@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One small positive thought can change your whole day."</i>
+<i>"It's just a bad day, not a bad life."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
