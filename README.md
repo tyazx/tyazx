@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great minds are always feared by lesser minds."</i>
+<i>"Reading should be a pleasure, not a chore."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
