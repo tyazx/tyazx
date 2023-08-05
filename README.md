@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Misfortune shows those who are not really friends."</i>
+<i>"Be the change that you want to see in the world."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
