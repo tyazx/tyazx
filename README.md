@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your problem isn't the problem. Your reaction is the problem."</i>
+<i>"Misfortune shows those who are not really friends."</i>
 <br>
-<b>- Unknown</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
