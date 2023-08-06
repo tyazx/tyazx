@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we will be quiet and ready enough, we shall find compensation in every disappointment."</i>
+<i>"Trust in dreams, for in them is the hidden gate to eternity.  "</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
