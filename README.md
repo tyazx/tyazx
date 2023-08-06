@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no way to happiness - happiness is the way."</i>
+<i>"The world is open for play, everything and everybody is mockable in a wonderful way."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Robin Williams</b>
 </blockquote>
 </p>
 
