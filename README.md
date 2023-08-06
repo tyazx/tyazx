@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Passion is energy. Feel the power that comes from focusing on what excites you. "</i>
+<i>"Don't be afraid that you do not know something. Be afraid of not learning about it."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
