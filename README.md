@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Genius is the ability to act rightly without precedent - the power to do the right thing the first time."</i>
+<i>"The future belongs to those who learn more skills and combine them in creative ways."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
