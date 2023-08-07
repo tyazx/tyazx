@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Motivation gets you going and habit gets you there.  "</i>
+<i>"You do not read a book for the book's sake, but for your own."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
