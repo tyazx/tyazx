@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Find something you love and do it better than everyone else."</i>
+<i>"Motivation gets you going and habit gets you there.  "</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
