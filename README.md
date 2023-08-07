@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What worries you, masters you."</i>
+<i>"Just try to be the best you can be; never cease trying to be the best you can be. That's in your power."</i>
 <br>
-<b>- John Locke</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
