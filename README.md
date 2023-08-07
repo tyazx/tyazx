@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have lived with several Zen masters -- all of them cats."</i>
+<i>"It's not about what it is, it's about what it can become."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
