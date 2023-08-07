@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just try to be the best you can be; never cease trying to be the best you can be. That's in your power."</i>
+<i>"Find something you love and do it better than everyone else."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
