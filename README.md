@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A person who does not read is no better than one cannot read."</i>
+<i>"One day, in retrospect, the years of struggle will strike you as the most beautiful."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
