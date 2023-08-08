@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you."</i>
+<i>"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
