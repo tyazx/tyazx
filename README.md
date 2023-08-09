@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results."</i>
+<i>"Keep your face always toward the sunshine -  shadows will fall behind you."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
