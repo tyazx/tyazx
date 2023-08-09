@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your mind is infinite, it's your doubts that are limiting."</i>
+<i>"Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
