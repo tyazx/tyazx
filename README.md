@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your face always toward the sunshine -  shadows will fall behind you."</i>
+<i>"The energy of the mind is the essence of life."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
