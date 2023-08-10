@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists."</i>
+<i>"He is richest who is content with the least, for content is the wealth of nature."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
