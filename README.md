@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The joy of life comes from our encounters with new experiences."</i>
+<i>"Believe nothing you hear, and only one half that you see."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
