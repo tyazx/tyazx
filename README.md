@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All happiness depends on courage and work."</i>
+<i>"Silence is a source of great strength."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
