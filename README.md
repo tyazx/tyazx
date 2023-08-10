@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some."</i>
+<i>"The important thing is not what one is born with but what use one makes of that equipment."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
