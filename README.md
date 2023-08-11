@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winning isn't everything, but wanting to win is."</i>
+<i>"Work harder on yourself than you do on your job."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
