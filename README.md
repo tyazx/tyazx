@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Optimism, when applied to your life, develops strength and peace within you."</i>
+<i>"I am always doing what I cannot do yet, in order to learn how to do it."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
