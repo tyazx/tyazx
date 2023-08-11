@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live and act within the limit of your knowledge and keep expanding it to the limit of your life."</i>
+<i>"One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
