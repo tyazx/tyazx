@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the nature of the wise to resist pleasures, but the foolish to be a slave to them."</i>
+<i>"Attitude is a little thing that makes a big difference."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
