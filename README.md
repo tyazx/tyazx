@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even if you're sure you can win, be careful that you can live with what you lose."</i>
+<i>"We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
