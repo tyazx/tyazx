@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities."</i>
+<i>"Exceptional thinkers ignore their critics and go about their business making history."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
