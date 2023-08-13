@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man's worth is no greater than his ambitions."</i>
+<i>"The difference between winning and losing is most often not quitting."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
