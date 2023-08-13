@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your mind will make you rich or poor, depending on the use you put to it."</i>
+<i>"Your setback is just a setup for a comeback."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
