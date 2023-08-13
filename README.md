@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life can be the scariest and most beautiful thing simultaneously."</i>
+<i>"The day is for honest men, the night for thieves."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
