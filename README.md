@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hold yourself responsible for a higher standard than anybody else expects of you."</i>
+<i>"Your mind will make you rich or poor, depending on the use you put to it."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
