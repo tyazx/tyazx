@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who reads a book with a sense of obligation does not understand the art of reading."</i>
+<i>"Never confuse a single defeat with a final defeat."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
