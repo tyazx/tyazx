@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing."</i>
+<i>"The best revenge is to be unlike him who performed the injury."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
