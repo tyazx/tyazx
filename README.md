@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For the things we have to learn before we can do them, we learn by doing them."</i>
+<i>"Men are disturbed not by things, but by the view which they take of them."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
