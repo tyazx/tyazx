@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have more possibilities available in each moment than we realize."</i>
+<i>"You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
