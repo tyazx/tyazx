@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never confuse a single defeat with a final defeat."</i>
+<i>"Tall oaks grow from little acorns."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
