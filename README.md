@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ability is a poor man's wealth."</i>
+<i>"Faithless is he that says farewell when the road darkens."</i>
 <br>
-<b>- John Wooden</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
