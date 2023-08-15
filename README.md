@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are ever the smartest person in the room, you are in the wrong room."</i>
+<i>"Life may be full of pain but that's not an excuse to give up."</i>
 <br>
-<b>- C. Sean McGee</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
