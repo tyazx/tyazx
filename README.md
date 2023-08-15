@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stop wasting time defending your problems and work on addressing them instead."</i>
+<i>"A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
