@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear."</i>
+<i>"Pain doesn't last. And when it's gone, we have something to show for it. Growth."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
