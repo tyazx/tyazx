@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only when one allows themself the right to die, do they then give yourself the permission to live."</i>
+<i>"If you are ever the smartest person in the room, you are in the wrong room."</i>
 <br>
 <b>- C. Sean McGee</b>
 </blockquote>
