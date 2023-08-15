@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life may be full of pain but that's not an excuse to give up."</i>
+<i>"You are always your own best guru, your own best teacher, the answers are always inside you."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
