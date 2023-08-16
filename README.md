@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy."</i>
+<i>"Nothing can dim the light which shines from within."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
