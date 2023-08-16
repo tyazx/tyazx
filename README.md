@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're only given a little spark of madness. You mustn't lose it."</i>
+<i>"If you read a lot of books, you're considered well-read. But if you watch a lot of TV, you're not considered well-viewed."</i>
 <br>
-<b>- Robin Williams</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
