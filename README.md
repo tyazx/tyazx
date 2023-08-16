@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a constant series of opportunities."</i>
+<i>"When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
