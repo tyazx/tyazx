@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace is not absence of conflict, it is the ability to handle conflict by peaceful means."</i>
+<i>"You are now, and you do become, what you think about."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
