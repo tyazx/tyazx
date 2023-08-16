@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the expression of one's values."</i>
+<i>"Peace is not absence of conflict, it is the ability to handle conflict by peaceful means."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
