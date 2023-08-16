@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain."</i>
+<i>"Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know."</i>
 <br>
-<b>- Kabir</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
