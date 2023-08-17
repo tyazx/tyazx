@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The important thing is not to stop questioning. Curiosity has its own reason for existing."</i>
+<i>"You can live a whole life time never being awake."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
