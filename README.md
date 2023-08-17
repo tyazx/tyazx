@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fallacies do not cease to be fallacies because they become fashions."</i>
+<i>"Let not your mind run on what you lack as much as on what you have already."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
