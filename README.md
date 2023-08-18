@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can spend our whole lives escaping from the monsters of our minds."</i>
+<i>"You can't build a reputation on what you are going to do. "</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
