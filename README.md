@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't try to be young. Just open your mind. Stay interested in stuff."</i>
+<i>"Life is what you make it. Always has been, always will be."</i>
 <br>
-<b>- Betty White</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
