@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is what you make it. Always has been, always will be."</i>
+<i>"Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree. "</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
