@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A dead thing can go with the stream, but only a living thing can go against it."</i>
+<i>"In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
