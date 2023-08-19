@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves."</i>
+<i>"I do not seek. I find."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
