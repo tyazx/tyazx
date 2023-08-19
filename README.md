@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're afraid - don't do it, - if you're doing it - don't be afraid! "</i>
+<i>"A little progress each day adds up to big results."</i>
 <br>
-<b>- Genghis Khan</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
