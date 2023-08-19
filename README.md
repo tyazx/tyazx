@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The question isn't who is going to let me; it's who is going to stop me."</i>
+<i>"We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
