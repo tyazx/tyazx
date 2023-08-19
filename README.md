@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You use a glass mirror to see your face; you use works of art to see your soul."</i>
+<i>"The most important thing is to enjoy your life, to be happy, it's all that matters."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
