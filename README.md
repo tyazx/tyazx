@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live simply, expect little, give much."</i>
+<i>"The greatest weariness comes from work not done."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
