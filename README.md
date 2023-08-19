@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy."</i>
+<i>"The question isn't who is going to let me; it's who is going to stop me."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
