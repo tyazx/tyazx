@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All know that the drop merges into the ocean, but few know that the ocean merges into the drop."</i>
+<i>"It is better to fail in originality than to succeed in imitation."</i>
 <br>
-<b>- Kabir</b>
+<b>- Herman Melville</b>
 </blockquote>
 </p>
 
