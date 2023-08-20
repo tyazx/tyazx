@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are the average of the five people you spend the most time with."</i>
+<i>"Generosity is giving more than you can, and pride is taking less than you need."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
