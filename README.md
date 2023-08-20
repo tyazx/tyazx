@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're always free to change your mind and choose a different future, or a different past."</i>
+<i>"We can have more than we've got because we can become more than we are."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
