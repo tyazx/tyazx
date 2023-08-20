@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Generosity is giving more than you can, and pride is taking less than you need."</i>
+<i>"There are only encounters in history. There are no accidents."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
