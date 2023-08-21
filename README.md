@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep others in suspense, cultivate an air of unpredictability."</i>
+<i>"I never dwell on what happened. You can't change it. Move forward."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
