@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is but one dream flowing into another."</i>
+<i>"Every second you have on this planet is very precious and it's your responsibility that you're happy."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
