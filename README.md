@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I don't ever give up. I'd have to be dead or completely incapacitated."</i>
+<i>"Life is but one dream flowing into another."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
