@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fools read fast. Geniuses reread."</i>
+<i>"The quality of your life is the quality of your relationships."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
