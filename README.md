@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I never dwell on what happened. You can't change it. Move forward."</i>
+<i>"Fools read fast. Geniuses reread."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
