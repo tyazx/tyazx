@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every second you have on this planet is very precious and it's your responsibility that you're happy."</i>
+<i>"Allow motion to equal emotion."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
