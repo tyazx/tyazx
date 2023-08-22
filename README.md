@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Allow motion to equal emotion."</i>
+<i>"A little progress each day adds up to big results."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
