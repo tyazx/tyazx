@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot change your destination overnight but you can change your direction overnight."</i>
+<i>"You can have the mind or you can have the moment."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
