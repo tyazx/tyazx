@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is one long process of getting tired."</i>
+<i>"You cannot change your destination overnight but you can change your direction overnight."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
