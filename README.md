@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change is not a four letter word...but often your reaction to it is!"</i>
+<i>"Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners."</i>
 <br>
-<b>- Jeffrey Gitomer</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
