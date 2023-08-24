@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to fail in originality than to succeed in imitation."</i>
+<i>"You must be willing to do what others won't do, to have what others won't have."</i>
 <br>
-<b>- Herman Melville</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
