@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners."</i>
+<i>"It is better to fail in originality than to succeed in imitation."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Herman Melville</b>
 </blockquote>
 </p>
 
