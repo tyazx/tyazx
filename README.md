@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest discovery of all time is that a person can change their future by merely changing their attitude."</i>
+<i>"Fallacies do not cease to be fallacies because they become fashions."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
