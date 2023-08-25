@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your heart is the size of an ocean. Go find yourself in its hidden depths."</i>
+<i>"The soul should always stand ajar, ready to welcome the ecstatic experience."</i>
 <br>
-<b>- Rumi</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
