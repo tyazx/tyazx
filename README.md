@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must not sit down and wait for miracles. Up and be going!"</i>
+<i>"Simplicity is a difficult thing to achieve.  "</i>
 <br>
-<b>- John Eliot</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
