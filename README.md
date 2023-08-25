@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not until we are lost do we begin to understand ourselves."</i>
+<i>"Loss is nothing else but change and change is nature's delight."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
