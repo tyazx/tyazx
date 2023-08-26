@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My guiding principle is this: Guilt is never to be doubted. "</i>
+<i>"Faith means believing the unbelievable."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
