@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Faith means believing the unbelievable."</i>
+<i>"One mistake does not have to rule a person's entire life."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
