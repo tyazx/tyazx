@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The soul should always stand ajar, ready to welcome the ecstatic experience."</i>
+<i>"You cannot teach a crab to walk straight."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
