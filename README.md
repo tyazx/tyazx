@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You will succeed because most people are lazy."</i>
+<i>"My guiding principle is this: Guilt is never to be doubted. "</i>
 <br>
-<b>- Shahir Zag</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
