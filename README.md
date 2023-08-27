@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is not to be pursued, it is to be attracted by the person you become."</i>
+<i>"The only people without problems are those in cemeteries."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
