@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No tree, it is said, can grow to heaven unless its roots reach down to hell."</i>
+<i>"The best dreams happen when you're awake."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Cherie Gilderbloom</b>
 </blockquote>
 </p>
 
