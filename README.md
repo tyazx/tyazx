@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Short cuts make long delays."</i>
+<i>"Success is not to be pursued, it is to be attracted by the person you become."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
