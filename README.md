@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One mistake does not have to rule a person's entire life."</i>
+<i>"No tree, it is said, can grow to heaven unless its roots reach down to hell."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
