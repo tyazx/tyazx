@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can discover what your enemy fears most by observing the means he uses to frighten you."</i>
+<i>"The future is not a gift. It is an achievement."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
