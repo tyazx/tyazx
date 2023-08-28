@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future is not a gift. It is an achievement."</i>
+<i>"If you try to micromanage yourself all you're going to do is make yourself miserable."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
