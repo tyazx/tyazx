@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is easy to discover what another has discovered before."</i>
+<i>"Great acts are made up of small deeds."</i>
 <br>
-<b>- Christopher Columbus</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
