@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place."</i>
+<i>"Every strike brings me closer to the next home run. "</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Babe Ruth</b>
 </blockquote>
 </p>
 
