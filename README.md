@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't have anything worthwhile without difficulties."</i>
+<i>"Sometimes you have to travel a long way to find what is near."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
