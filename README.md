@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it."</i>
+<i>"The most difficult times for many of us are the ones we give ourselves."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
