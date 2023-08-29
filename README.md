@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is your attitude, not your aptitude, that determines your altitude."</i>
+<i>"To forgive means pardoning the unpardonable."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
