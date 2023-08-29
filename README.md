@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most difficult times for many of us are the ones we give ourselves."</i>
+<i>"To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh."</i>
 <br>
 <b>- Pema Chodron</b>
 </blockquote>
