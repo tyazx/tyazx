@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes you have to travel a long way to find what is near."</i>
+<i>"It is your attitude, not your aptitude, that determines your altitude."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
