@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't listen to the person who has the answers; listen to the person who has the questions."</i>
+<i>"Quiet people have the loudest minds."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
