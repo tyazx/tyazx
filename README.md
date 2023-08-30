@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What is planted in each person's soul will sprout.  "</i>
+<i>"If I love myself I love you. If I love you I love myself."</i>
 <br>
 <b>- Rumi</b>
 </blockquote>
