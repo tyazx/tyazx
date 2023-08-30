@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated."</i>
+<i>"Keep your dreams, you never know when you might need them."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
