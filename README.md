@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"She who loves roses must be patient and not cry out when she is pierced by thorns."</i>
+<i>"Without struggle, no progress and no result. Every breaking of habit produces a change in the machine."</i>
 <br>
-<b>- Kenji Miyazawa</b>
+<b>- G.I. Gurdjieff</b>
 </blockquote>
 </p>
 
