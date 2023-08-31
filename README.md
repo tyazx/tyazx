@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Against the assault of laughter nothing can stand."</i>
+<i>"True knowledge exists in knowing that you know nothing."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
