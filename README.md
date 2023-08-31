@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every drop in the ocean counts. "</i>
+<i>"It is in changing that we find purpose."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
