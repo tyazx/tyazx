@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be able to forget means sanity."</i>
+<i>"A memory is a beautiful thing, it's almost a desire that you miss."</i>
 <br>
-<b>- Jack London</b>
+<b>- Gustave Flaubert</b>
 </blockquote>
 </p>
 
