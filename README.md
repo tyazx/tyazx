@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freedom is the open window through which pours the sunlight of the human spirit and human dignity."</i>
+<i>"When you judge others, you do not define them, you define yourself."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
