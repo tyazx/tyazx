@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is just information and an opportunity to change your course."</i>
+<i>"Create with the heart; build with the mind."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
