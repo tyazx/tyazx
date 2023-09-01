@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must cultivate our garden. "</i>
+<i>"The difference between treason and patriotism is only a matter of dates."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
