@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. "</i>
+<i>"Love the life you live, live the life you love."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
