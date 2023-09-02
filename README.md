@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The difference between treason and patriotism is only a matter of dates."</i>
+<i>"Remember, hope is a good thing, maybe the best of things."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
