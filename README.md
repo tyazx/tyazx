@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to be successful, you have to jump, there's no way around it."</i>
+<i>"The past has no power over the present moment. "</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
