@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done."</i>
+<i>"Being in a good frame of mind helps keep one in the picture of health."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
