@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The past has no power over the present moment. "</i>
+<i>"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. "</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
