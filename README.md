@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Amateurs sit and wait for inspiration, the rest of us just get up and got to work."</i>
+<i>"If you want to be successful, you have to jump, there's no way around it."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
