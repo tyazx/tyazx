@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People think about what they don't want and attract more of the same."</i>
+<i>"Men trust their ears less than their eyes."</i>
 <br>
-<b>- Unknown</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
