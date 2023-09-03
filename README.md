@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men trust their ears less than their eyes."</i>
+<i>"Failure is acceptable. Not trying is a whole different ball park."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
