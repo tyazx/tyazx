@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are most nearly ourselves when we achieve the seriousness of the child at play."</i>
+<i>"Take away love and our earth is a tomb."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Robert Browning</b>
 </blockquote>
 </p>
 
