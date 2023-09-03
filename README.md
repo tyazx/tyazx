@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We take care of the future best by taking care of the present now."</i>
+<i>"Associate with people who are likely to improve you.  "</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
