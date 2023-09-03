@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Associate with people who are likely to improve you.  "</i>
+<i>"A lot of people have gone further than they thought they could because someone else thought they could."</i>
 <br>
-<b>- Seneca</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
