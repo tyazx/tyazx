@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take away love and our earth is a tomb."</i>
+<i>"All human beings can alter their lives by altering their attitudes."</i>
 <br>
-<b>- Robert Browning</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
