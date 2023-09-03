@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being in a good frame of mind helps keep one in the picture of health."</i>
+<i>"Discipline is the mark of intelligent living."</i>
 <br>
-<b>- Unknown</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
