@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A lot of people have gone further than they thought they could because someone else thought they could."</i>
+<i>"People think about what they don't want and attract more of the same."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
