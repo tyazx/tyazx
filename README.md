@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All human beings can alter their lives by altering their attitudes."</i>
+<i>"We take care of the future best by taking care of the present now."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
