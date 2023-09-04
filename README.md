@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is passion that makes man live; wisdom makes one only last."</i>
+<i>"A fear of weakness only strengthens weakness."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
