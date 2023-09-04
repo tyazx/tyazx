@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work harder on yourself than you do on your job."</i>
+<i>"The best fighter is never angry."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
