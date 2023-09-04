@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Big people don't make people feel small."</i>
+<i>"For fast-acting relief try slowing down."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
