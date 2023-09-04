@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the midst of movement and chaos, keep stillness inside of you."</i>
+<i>"It is passion that makes man live; wisdom makes one only last."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
