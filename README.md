@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A fear of weakness only strengthens weakness."</i>
+<i>"Never fear quarrels, but seek hazardous adventures."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
