@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never fear quarrels, but seek hazardous adventures."</i>
+<i>"Adults are just children who earn money."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Kenneth Branagh</b>
 </blockquote>
 </p>
 
