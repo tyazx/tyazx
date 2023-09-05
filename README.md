@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do something worth remembering."</i>
+<i>"Who looks outside, dreams; who looks inside, awakes."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
