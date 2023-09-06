@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again."</i>
+<i>"The glow of one warm thought is to me worth more than money."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
