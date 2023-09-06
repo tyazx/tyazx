@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People who bite the hand that feeds them usually lick the boot that kicks them."</i>
+<i>"We must cultivate our garden. "</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
