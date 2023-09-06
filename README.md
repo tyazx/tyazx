@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How to get more opportunity: Create more opportunity for others."</i>
+<i>"The biggest adventure you can ever take is to live the life of your dreams. "</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
