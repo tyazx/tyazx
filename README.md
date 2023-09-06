@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must cultivate our garden. "</i>
+<i>"Develop success from failures. Discouragement and failure are two of the surest stepping stones to success."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
