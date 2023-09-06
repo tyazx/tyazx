@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want more luck, take more chances."</i>
+<i>"It's the unknown we fear when we look upon death and darkness, nothing more."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
