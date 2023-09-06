@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The very essence of instinct is that it's followed independently of reason."</i>
+<i>"People who bite the hand that feeds them usually lick the boot that kicks them."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
