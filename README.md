@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Engage in those actions and thoughts that nurture the good qualities you want to have."</i>
+<i>"For your life to be great, your faith must be bigger than your fear."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
