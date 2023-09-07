@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest adventure you can ever take is to live the life of your dreams. "</i>
+<i>"The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
