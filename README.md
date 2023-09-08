@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adventure is worthwhile in itself."</i>
+<i>"Life has more imagination than we carry in our dreams."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Christopher Columbus</b>
 </blockquote>
 </p>
 
