@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Any idea, plan, or purpose may be placed in the mind through repetition of thought."</i>
+<i>"The present moment is filled with joy and happiness. If you are attentive, you will see it."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
