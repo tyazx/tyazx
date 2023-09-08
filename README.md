@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I hear and I forget. I see and I remember. I do and I understand. "</i>
+<i>"No man is happy unless he believes he is."</i>
 <br>
-<b>- Confucius</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
