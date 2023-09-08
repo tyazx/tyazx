@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Action may not always bring happiness, but there is no happiness without action."</i>
+<i>"The question is not what you look at, but what you see."</i>
 <br>
-<b>- William James</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
