@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never settle for the crumbs of life."</i>
+<i>"Making your mark on the world is hard. If it were easy, everybody would do it."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
