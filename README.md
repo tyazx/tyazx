@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Making your mark on the world is hard. If it were easy, everybody would do it."</i>
+<i>"He who fails to plan, plans to fail."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
