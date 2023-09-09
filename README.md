@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The question is not what you look at, but what you see."</i>
+<i>"Action is the foundational key to all success."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
