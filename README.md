@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Action is the foundational key to all success."</i>
+<i>"Our stories may be singular, but our destination is shared."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
