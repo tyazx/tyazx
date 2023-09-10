@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The trouble with most of us is that we'd rather be ruined by praise than saved by criticism."</i>
+<i>"If you run you stand a chance of losing, but if you don't run you've already lost."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
