@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's the possibility of having a dream come true that makes life interesting."</i>
+<i>"The trouble with most of us is that we'd rather be ruined by praise than saved by criticism."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
