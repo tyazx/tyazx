@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do you want to know who you are? Don't ask. Act! Action will delineate and define you."</i>
+<i>"The highest level of wisdom is when you not only accept but love adversity."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
