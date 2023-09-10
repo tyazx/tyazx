@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Seek not the good in external things;seek it in yourselves."</i>
+<i>"A path is made by walking on it."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
