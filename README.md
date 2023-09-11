@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing will work unless you do."</i>
+<i>"Lying can never save us from another lie."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
