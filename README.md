@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like underwear, should be changed twice a day.  "</i>
+<i>"The less you talk about your shame, the more of it you have."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
