@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a journey, not a destination."</i>
+<i>"Do what is right, not what is easy, nor what is popular."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
