@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less you talk about your shame, the more of it you have."</i>
+<i>"Nothing will work unless you do."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
