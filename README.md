@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life becomes easier and more beautiful when we can see the good in other people."</i>
+<i>"Life is a journey, not a destination."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
