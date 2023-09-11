@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength."</i>
+<i>"If I have seen further than others, it is by standing upon the shoulders of giants."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
