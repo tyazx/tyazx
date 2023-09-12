@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Bloom where you are planted!"</i>
+<i>"Arise, slay thy enemies, enjoy a prosperous kingdom."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
