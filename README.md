@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't have to control your thoughts; you just have to stop letting them control you."</i>
+<i>"There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
