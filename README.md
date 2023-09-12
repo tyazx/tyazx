@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do you want to know who you are? Don't ask. Act! Action will delineate and define you."</i>
+<i>"You don't have to control your thoughts; you just have to stop letting them control you."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
