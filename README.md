@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must cultivate our garden. "</i>
+<i>"Nothing will work unless you do."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
