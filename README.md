@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them."</i>
+<i>"Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
