@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For things to change, you have to change."</i>
+<i>"Life reflects your own thoughts back to you."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
