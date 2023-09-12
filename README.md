@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing will work unless you do."</i>
+<i>"Bloom where you are planted!"</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
