@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Arise, slay thy enemies, enjoy a prosperous kingdom."</i>
+<i>"For things to change, you have to change."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
