@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition."</i>
+<i>"Until you change how you get things done, you'll never know what works best."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
