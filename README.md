@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to fail in originality than to succeed in imitation."</i>
+<i>"We must cultivate our garden. "</i>
 <br>
-<b>- Herman Melville</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
