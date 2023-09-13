@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The chief cause of failure and unhappiness is trading what you want most for what you want right now."</i>
+<i>"There are no limitations to the mind except those we acknowledge..."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
