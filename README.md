@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams."</i>
+<i>"When you consider things like the stars, our affairs don't seem to matter very much, do they?"</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
