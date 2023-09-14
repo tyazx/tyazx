@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Focus on how far you have come in life rather than looking at the accomplishments of others."</i>
+<i>"When you're curious, you find lots of interesting things to do."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
