@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no absolute success in the world, only constant progress."</i>
+<i>"Listen to what you know instead of what you fear."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
