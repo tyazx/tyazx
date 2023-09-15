@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Listen to what you know instead of what you fear."</i>
+<i>"Anyone who reads a book with a sense of obligation does not understand the art of reading."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
