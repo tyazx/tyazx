@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True wealth is of the heart, not of the purse."</i>
+<i>"Live calmly. The time will come when the flowers bloom by themselves."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
