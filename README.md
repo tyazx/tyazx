@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Listen to what you know instead of what you fear."</i>
+<i>"All religions, arts and sciences are branches of the same tree. "</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
