@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being wrong opens us up to the possibility of change."</i>
+<i>"We tend to live up to our expectations."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
