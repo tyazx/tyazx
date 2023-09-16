@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are not the drop in the ocean, but the ocean in the drop."</i>
+<i>"Doing the best at this moment puts you in the best place for the next moment."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
