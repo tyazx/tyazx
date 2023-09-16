@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We tend to live up to our expectations."</i>
+<i>"There's more to life than being a passenger."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
