@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people fail in life not because they aim too high and miss, but because they aim too low and hit."</i>
+<i>"How much pain they have cost us, the evils which have never happened."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
