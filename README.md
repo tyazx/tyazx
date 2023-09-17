@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every moment of happiness requires a great amount of Ignorance"</i>
+<i>"To be fully alive, fully human, and completely awake is to be continually thrown out of the nest."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
