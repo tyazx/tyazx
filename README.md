@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better to die fighting for freedom than be a prisoner all the days of your life."</i>
+<i>"There is no greater agony than bearing an untold story inside you."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
