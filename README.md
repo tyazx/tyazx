@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes you put walls up not to keep people out, but to see who cares enough to break them down."</i>
+<i>"One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man."</i>
 <br>
-<b>- Socrates</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
