@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The heart that gives, gathers."</i>
+<i>"Better to die fighting for freedom than be a prisoner all the days of your life."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
