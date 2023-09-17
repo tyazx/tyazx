@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How much pain they have cost us, the evils which have never happened."</i>
+<i>"Every moment of happiness requires a great amount of Ignorance"</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
