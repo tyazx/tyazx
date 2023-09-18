@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality."</i>
+<i>"The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
