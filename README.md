@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The person who is his own master cannot tolerate another boss. "</i>
+<i>"It is only depth of character that determines the profundity with which we face life."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
