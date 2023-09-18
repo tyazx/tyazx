@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who reads a book with a sense of obligation does not understand the art of reading."</i>
+<i>"Every strike brings me closer to the next home run. "</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Babe Ruth</b>
 </blockquote>
 </p>
 
