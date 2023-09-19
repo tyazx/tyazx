@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't try to steer the river."</i>
+<i>"A journey of a thousand miles begins with a single step."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
