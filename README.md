@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is useless to meet revenge with revenge; it will heal nothing."</i>
+<i>"Words, once they are printed, have a life of their own."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
