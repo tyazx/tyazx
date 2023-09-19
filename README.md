@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A Rolling Stone Gathers No Moss."</i>
+<i>"Never let the fear of striking out keep you from playing the game."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Babe Ruth</b>
 </blockquote>
 </p>
 
