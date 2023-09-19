@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it."</i>
+<i>"Don't try to steer the river."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
