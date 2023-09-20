@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing can dim the light which shines from within."</i>
+<i>"Talent is luck. The important thing in life is courage."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
