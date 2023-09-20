@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe."</i>
+<i>"Dreams are the royal road to the unconscious. "</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
