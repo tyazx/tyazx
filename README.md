@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never let the fear of striking out keep you from playing the game."</i>
+<i>"Absence makes the heart grow fonder."</i>
 <br>
-<b>- Babe Ruth</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
