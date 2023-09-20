@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take into account that great love and great achievements involve great risk."</i>
+<i>"Nothing can dim the light which shines from within."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
