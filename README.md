@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people get ahead during the time that others waste."</i>
+<i>"Loyalty and friendship are the most precious possessions a man can have."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
