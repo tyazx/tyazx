@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember we're all in this alone."</i>
+<i>"The first principle of success is desire."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
