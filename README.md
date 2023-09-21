@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where we fall are the stepping-stones for our journey."</i>
+<i>"The clock indicates the moment...but what does eternity indicate?"</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
