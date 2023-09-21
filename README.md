@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is a prerequisite for great success. If you want success faster, double your rate of failure."</i>
+<i>"Most people get ahead during the time that others waste."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
