@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thought is so cunning, so clever, that it distorts everything for its own convenience."</i>
+<i>"Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Sydney Smith</b>
 </blockquote>
 </p>
 
