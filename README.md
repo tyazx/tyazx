@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything."</i>
+<i>"Failure is a prerequisite for great success. If you want success faster, double your rate of failure."</i>
 <br>
-<b>- Sydney Smith</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
