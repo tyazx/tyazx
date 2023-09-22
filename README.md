@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only way to 'find out if it will work out' is to do it."</i>
+<i>"Conscience is a dog that does not stop us from passing but that we cannot prevent from barking."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
