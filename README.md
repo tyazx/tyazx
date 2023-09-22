@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everybody needs a passion. That's what keeps life interesting."</i>
+<i>"The most tragic thing in the world is a man of genius who is not a man of honor."</i>
 <br>
-<b>- Betty White</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
