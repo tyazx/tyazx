@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Difficulties strengthen the mind, as labor does the body.  "</i>
+<i>"Mastering others is strength, mastering yourself is true power."</i>
 <br>
-<b>- Seneca</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
