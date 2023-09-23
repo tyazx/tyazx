@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There's a very deep connection among human beings. All we have to do is open our minds to it."</i>
+<i>"Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has."</i>
 <br>
-<b>- Yanni</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
