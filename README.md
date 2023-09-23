@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like a wheel. Sooner or later, it always comes around to where you started again."</i>
+<i>"There's a very deep connection among human beings. All we have to do is open our minds to it."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
