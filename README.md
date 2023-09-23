@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Integrity is the ability to stand by an idea."</i>
+<i>"Honor is the foundation of courage."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
