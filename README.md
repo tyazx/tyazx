@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What loneliness is more lonely than distrust?"</i>
+<i>"It is during our darkest moments that we must focus to see the light."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
