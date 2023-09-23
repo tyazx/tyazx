@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change is never easy, but always possible."</i>
+<i>"Some of your greatest lessons come from your darkest moments."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Roger Lee</b>
 </blockquote>
 </p>
 
