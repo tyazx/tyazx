@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you have to be in a soap opera try not to be cast in the worst role."</i>
+<i>"Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness."</i>
 <br>
-<b>- Judy Garland</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
