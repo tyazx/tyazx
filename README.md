@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Honor is the foundation of courage."</i>
+<i>"Life is trying things to see if they work."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
