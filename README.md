@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who wishes to be obeyed must know how to command."</i>
+<i>"A self that goes on changing is a self that goes on living."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
