@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand."</i>
+<i>"The most effective way to do it, is to do it."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
