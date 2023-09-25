@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When it comes to mastering a skill, time is the magic ingredient."</i>
+<i>"Mind is the creator of everything. You should therefore guide it to create only good."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
