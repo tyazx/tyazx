@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The real measure of your wealth is how much you'd be worth if you lost all your money."</i>
+<i>"Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more."</i>
 <br>
-<b>- Unknown</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
