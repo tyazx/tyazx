@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more."</i>
+<i>"Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
