@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most effective way to do it, is to do it."</i>
+<i>"A Penny Saved is a Penny Earned"</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
