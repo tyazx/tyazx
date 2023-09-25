@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A Penny Saved is a Penny Earned"</i>
+<i>"In peace, sons bury their fathers. In war, fathers bury their sons. "</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
