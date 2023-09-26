@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Discipline yourself, and others won't need to."</i>
+<i>"There are no mistakes in life, only lessons."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
