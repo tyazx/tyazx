@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"TEAMWORK: the fuel that allows common people attain uncommon results."</i>
+<i>"He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
