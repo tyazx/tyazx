@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no mistakes in life, only lessons."</i>
+<i>"Give so much away people insist on paying you."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
