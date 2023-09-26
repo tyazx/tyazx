@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus."</i>
+<i>"Discipline yourself, and others won't need to."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
