@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you change what you believe, you change what you do."</i>
+<i>"As mortals, we're ruled by conditions, not by ourselves."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
