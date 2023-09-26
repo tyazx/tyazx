@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success."</i>
+<i>"Quiet people have the loudest minds."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
