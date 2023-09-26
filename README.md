@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you decide to do, make sure it makes you happy."</i>
+<i>"TEAMWORK: the fuel that allows common people attain uncommon results."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
