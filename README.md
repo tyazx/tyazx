@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What people need and what they want may be very different."</i>
+<i>"It is the nature of the wise to resist pleasures, but the foolish to be a slave to them."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
