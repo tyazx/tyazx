@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not use life to give life to death. Do not use death to bring death to life."</i>
+<i>"It is often safer to be in chains than to be free. "</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
