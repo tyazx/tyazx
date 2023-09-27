@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn to sit back and observe, not everything needs a reaction."</i>
+<i>"True it is, we only hate those whom we do not know."</i>
 <br>
-<b>- Unknown</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
