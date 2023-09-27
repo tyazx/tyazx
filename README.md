@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Silence is sometimes the best answer."</i>
+<i>"Learn to sit back and observe, not everything needs a reaction."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
