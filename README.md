@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A tiny change today brings a dramatically different tomorrow."</i>
+<i>"Everything that is done in the world is done by hope."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
