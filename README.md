@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perplexity is the beginning of knowledge."</i>
+<i>"What people need and what they want may be very different."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
