@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When one door closes another door opens. "</i>
+<i>"Most people fail in life because they major in minor things."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
