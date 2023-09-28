@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is not a problem to be solved, but a reality to be experienced."</i>
+<i>"When one door closes another door opens. "</i>
 <br>
-<b>- Soren Kierkegaard</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
