@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your face to the sunshine and you cannot see the shadows."</i>
+<i>"To lead an orchestra, you must turn your back on the crowd."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
