@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fools read fast. Geniuses reread."</i>
+<i>"The ego wants comfort and certainty. The soul wants to live fully."</i>
 <br>
 <b>- Maxime Lagace</b>
 </blockquote>
