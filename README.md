@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Write to help yourself, publish to help others."</i>
+<i>"One never does wrong by doing right."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
