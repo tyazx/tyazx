@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only defense against the world is a thorough knowledge of it."</i>
+<i>"People spend too much time doing and not enough time thinking about what they should be doing."</i>
 <br>
-<b>- John Locke</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
