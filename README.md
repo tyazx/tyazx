@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is startling to realize how much unbelief is necessary to make belief possible."</i>
+<i>"Work as though you would live forever, and live as though you would die today. Go another mile."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
