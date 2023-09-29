@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work as though you would live forever, and live as though you would die today. Go another mile."</i>
+<i>"The secret of change is to focus all your energy not on fighting the old, but on building the new."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
