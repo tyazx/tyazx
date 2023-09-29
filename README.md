@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People spend too much time doing and not enough time thinking about what they should be doing."</i>
+<i>"Write to help yourself, publish to help others."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
