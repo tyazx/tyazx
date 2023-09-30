@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a constant series of opportunities."</i>
+<i>"The world makes way for the man who knows where he is going."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
