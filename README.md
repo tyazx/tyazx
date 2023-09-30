@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not get the chills when you set your goal you're not setting big enough goals."</i>
+<i>"Life isn't about finding yourself. Life is about creating yourself."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
