@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The Art of Peace begins with you."</i>
+<i>"If you do not get the chills when you set your goal you're not setting big enough goals."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
