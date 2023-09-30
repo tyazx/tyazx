@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life isn't about finding yourself. Life is about creating yourself."</i>
+<i>"Wheels of justice grind slow but grind fine."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
