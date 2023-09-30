@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world makes way for the man who knows where he is going."</i>
+<i>"Men trust their ears less than their eyes."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
