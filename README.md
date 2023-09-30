@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you quit once it becomes a habit."</i>
+<i>"Each problem has a positive side."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
