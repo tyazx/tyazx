@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men trust their ears less than their eyes."</i>
+<i>"Never allow someone to be your priority while allowing yourself to be their option."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
