@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"See what you're doing wrong, laugh at it, change and do better."</i>
+<i>"Failure is feedback. Learn from it and move on."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
