@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Show up even when you don't want to show up."</i>
+<i>"Don't learn to do, but learn in doing."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
