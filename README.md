@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be patient and calm; no one can catch fish in anger."</i>
+<i>"Just try to be the best you can be; never cease trying to be the best you can be. That's in your power."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
