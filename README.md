@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success."</i>
+<i>"He is richest who is content with the least, for content is the wealth of nature."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
