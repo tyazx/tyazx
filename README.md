@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just try to be the best you can be; never cease trying to be the best you can be. That's in your power."</i>
+<i>"See what you're doing wrong, laugh at it, change and do better."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
