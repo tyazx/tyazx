@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A person is only by the thoughts that he chooses."</i>
+<i>"I admire those who do good and expect nothing in return."</i>
 <br>
-<b>- James Allen</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
