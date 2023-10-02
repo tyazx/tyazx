@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change begets change. Nothing propagates so fast."</i>
+<i>"Be kind whenever possible. It is always possible."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
