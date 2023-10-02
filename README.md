@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be kind whenever possible. It is always possible."</i>
+<i>"Care about what other people think and you will always be their prisoner."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
