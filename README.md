@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who knows best knows how little he knows."</i>
+<i>"Happiness is when what you think, what you say, and what you do are in harmony."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
