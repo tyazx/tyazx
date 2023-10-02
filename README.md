@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is when what you think, what you say, and what you do are in harmony."</i>
+<i>"Change begets change. Nothing propagates so fast."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
