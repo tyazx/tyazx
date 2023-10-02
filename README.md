@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone you meet is fighting a battle you know nothing about. Be kind. Always."</i>
+<i>"A person is only by the thoughts that he chooses."</i>
 <br>
-<b>- Robin Williams</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
