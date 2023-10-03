@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the middle of difficulty lies opportunity."</i>
+<i>"Fools read fast. Geniuses reread."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
