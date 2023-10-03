@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fools read fast. Geniuses reread."</i>
+<i>"Some people want it to happen, some wish it would happen, others make it happen."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
