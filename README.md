@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles."</i>
+<i>"No man is happy who does not think himself so."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
