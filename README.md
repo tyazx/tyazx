@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is like most opinions - best unexpressed."</i>
+<i>"Fear of death is fear of the Unknown."</i>
 <br>
-<b>- Kenneth Branagh</b>
+<b>- Adi Da Samraj</b>
 </blockquote>
 </p>
 
