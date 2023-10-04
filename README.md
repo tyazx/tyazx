@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trying to define yourself is like trying to bite your own teeth."</i>
+<i>"We can see through others only when we can see through ourselves."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
