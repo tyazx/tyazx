@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is often achieved by those who don't know that failure is inevitable."</i>
+<i>"To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
