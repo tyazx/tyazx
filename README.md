@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do the work you get rewarded. There are no shortcuts in life."</i>
+<i>"I am not the outcome. I am never the result. I am only the effort."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
