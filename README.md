@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others."</i>
+<i>"Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
