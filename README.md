@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Human happiness and moral duty are inseparably connected. "</i>
+<i>"Good things aren't supposed to just fall into your lap."</i>
 <br>
-<b>- George Washington</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
