@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When we allow negative messages to fester in our head, they take on a life of their own."</i>
+<i>"Force has no place where there is need of skill. "</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
