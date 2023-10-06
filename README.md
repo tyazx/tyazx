@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Force has no place where there is need of skill. "</i>
+<i>"If we will be quiet and ready enough, we shall find compensation in every disappointment."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
