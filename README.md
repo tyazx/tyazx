@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A Penny Saved is a Penny Earned"</i>
+<i>"Your past does not equal your future."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
