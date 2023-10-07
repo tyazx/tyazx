@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are people who have money and people who are rich."</i>
+<i>"It's not how much we give but how much love we put into giving."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
