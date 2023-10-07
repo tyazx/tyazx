@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We will outstretch the hand if you unclench your fist."</i>
+<i>"Light a candle instead of cursing the darkness."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
