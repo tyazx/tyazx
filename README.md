@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people fail in life because they major in minor things."</i>
+<i>"If you love life, don't waste time, for time is what life is made up of. "</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
