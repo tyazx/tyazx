@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You drown not by falling into a river, but by staying submerged in it."</i>
+<i>"Give me six hours to chop down a tree and I will spend the first four sharpening the axe."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
