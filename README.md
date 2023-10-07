@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give me six hours to chop down a tree and I will spend the first four sharpening the axe."</i>
+<i>"Most people fail in life because they major in minor things."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
