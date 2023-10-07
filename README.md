@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed."</i>
+<i>"You drown not by falling into a river, but by staying submerged in it."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
