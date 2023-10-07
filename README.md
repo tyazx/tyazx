@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Walk slowly but never walk backward."</i>
+<i>"We will outstretch the hand if you unclench your fist."</i>
 <br>
-<b>- Unknown</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
