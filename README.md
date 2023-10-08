@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is achieved and maintained by those who try and keep trying. "</i>
+<i>"No kind action ever stops with itself. One kind action leads to another. Good example is followed."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
