@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Longevity is a fleeting moment that lasts forever."</i>
+<i>"Discipline is the mark of intelligent living."</i>
 <br>
-<b>- Vidal Sassoon</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
