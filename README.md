@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Often in the real world, it's not the smart that get ahead, but the bold."</i>
+<i>"A man is but a product of his thoughts. What he thinks he becomes."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
