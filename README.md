@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The single most powerful asset we all have is our mind."</i>
+<i>"Success is achieved and maintained by those who try and keep trying. "</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- W. Clement Stone</b>
 </blockquote>
 </p>
 
