@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you reach the end of your rope, tie a knot in it and hang on."</i>
+<i>"For changes to be of any true value, they've got to be lasting and consistent."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
