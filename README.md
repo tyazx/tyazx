@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Bloom where you are planted!"</i>
+<i>"Dreams are the royal road to the unconscious. "</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
