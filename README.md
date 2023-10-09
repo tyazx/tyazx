@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One loyal friend is worth ten thousand relatives."</i>
+<i>"Bloom where you are planted!"</i>
 <br>
-<b>- Euripides</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
