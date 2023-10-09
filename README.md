@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make your stand today. On this spot. On this day."</i>
+<i>"He who cannot be a good follower cannot be a good leader."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
