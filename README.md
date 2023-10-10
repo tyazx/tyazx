@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust, but verify."</i>
+<i>"You have as much laughter as you have faith."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
