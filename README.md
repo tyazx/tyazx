@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many people will walk in and out of your life, but only true friends will leave footprints in your heart."</i>
+<i>"The quieter you become, the more you are able to hear."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
