@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To some degree, you control your life by controlling your time."</i>
+<i>"Trust, but verify."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
