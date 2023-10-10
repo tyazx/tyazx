@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have as much laughter as you have faith."</i>
+<i>"Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
