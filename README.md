@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance."</i>
+<i>"You're never too old for anything."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
