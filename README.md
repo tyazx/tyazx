@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There's a very deep connection among human beings. All we have to do is open our minds to it."</i>
+<i>"The only thing we have to fear is fear itself."</i>
 <br>
-<b>- Yanni</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
