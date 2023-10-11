@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing can survive without food. Everything we consume acts either to heal us or to poison us."</i>
+<i>"Abundance of knowledge does not teach men to be wise."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
