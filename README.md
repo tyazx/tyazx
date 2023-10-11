@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness depends on your mindset and attitude."</i>
+<i>"The pen is the tongue of the mind. "</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
