@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To wish you were someone else is to waste the person you are."</i>
+<i>"Nothing can survive without food. Everything we consume acts either to heal us or to poison us."</i>
 <br>
-<b>- Unknown</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
