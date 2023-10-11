@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only thing we have to fear is fear itself."</i>
+<i>"Success is nothing more than a few simple disciplines practiced every day."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
