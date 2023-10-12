@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher."</i>
+<i>"The divine is not something high above us. It is in heaven, it is in earth, it is inside us."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
