@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ego wants comfort and certainty. The soul wants to live fully."</i>
+<i>"Silence is a source of great strength."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
