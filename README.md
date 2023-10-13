@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Silence is a source of great strength."</i>
+<i>"Arise, slay thy enemies, enjoy a prosperous kingdom."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
