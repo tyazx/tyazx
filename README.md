@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enthusiasm is a vital element toward the individual success of every man or woman."</i>
+<i>"Every saint has a past, and every sinner has a future."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
