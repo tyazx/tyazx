@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are the sky. Everything else - it's just the weather."</i>
+<i>"By the practice of meditation, you will find that you are carrying within your heart a portable paradise."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
