@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. "</i>
+<i>"To avoid criticism, do nothing, say nothing, and be nothing."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
