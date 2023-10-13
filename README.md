@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the end, it's not the years in your life that count. It's the life in your years."</i>
+<i>"You are the sky. Everything else - it's just the weather."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
