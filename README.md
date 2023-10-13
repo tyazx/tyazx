@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams."</i>
+<i>"Enthusiasm is a vital element toward the individual success of every man or woman."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Conrad Hilton</b>
 </blockquote>
 </p>
 
