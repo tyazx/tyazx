@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why do you stay in prison when the door is so wide open?"</i>
+<i>"Happiness is only real, when shared."</i>
 <br>
-<b>- Rumi</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
