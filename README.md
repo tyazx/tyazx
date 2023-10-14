@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To succeed takes more than the desire to win. It also takes the acceptance that we could fail."</i>
+<i>"It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
