@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best answer to anger is silence."</i>
+<i>"Everybody has talent, but ability takes hard work."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
