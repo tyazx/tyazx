@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everybody has talent, but ability takes hard work."</i>
+<i>"Why do you stay in prison when the door is so wide open?"</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
