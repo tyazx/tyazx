@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Coming together is a beginning, staying together is progress, and working together is success. "</i>
+<i>"Honesty is the first chapter in the book of wisdom."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
