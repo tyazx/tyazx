@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I will not walk backward in life."</i>
+<i>"The wiser you get, the less you care to look like a fool."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
