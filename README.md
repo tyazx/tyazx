@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To plant a garden is to believe in tomorrow.  "</i>
+<i>"Every time we liberate a woman, we liberate a man. "</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
