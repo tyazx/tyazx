@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled."</i>
+<i>"I begin with an idea and then it becomes something else."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
