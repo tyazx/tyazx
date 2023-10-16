@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work."</i>
+<i>"All know that the drop merges into the ocean, but few know that the ocean merges into the drop."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
