@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your time is limited, so don't waste it living someone elses. life."</i>
+<i>"The most important thing in communication is to hear what isn't being said."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
