@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All know that the drop merges into the ocean, but few know that the ocean merges into the drop."</i>
+<i>"Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad."</i>
 <br>
-<b>- Kabir</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
