@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  "</i>
+<i>"If light is in your heart, you will find your way home.  "</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
