@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important thing in communication is to hear what isn't being said."</i>
+<i>"As a matter of fact is an expression that precedes many an expression that isn't."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
