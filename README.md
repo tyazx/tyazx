@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes you have to travel a long way to find what is near."</i>
+<i>"The friend is the man who knows all about you, and still likes you."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
