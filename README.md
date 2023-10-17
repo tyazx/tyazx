@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not the knowing that is difficult, but the doing. "</i>
+<i>"All religions, arts and sciences are branches of the same tree. "</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
