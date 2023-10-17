@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unhappiness enters through a door that has been left open."</i>
+<i>"No one can hurt you without your consent."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
