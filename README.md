@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All religions, arts and sciences are branches of the same tree. "</i>
+<i>"Kind words can be short and easy to speak, but their echoes are truly endless."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
