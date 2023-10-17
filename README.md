@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The right thing to do and the hard thing to do are usually the same."</i>
+<i>"Unhappiness enters through a door that has been left open."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
