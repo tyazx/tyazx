@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We make a living by what we get, but we make a life by what we give."</i>
+<i>"It is not the knowing that is difficult, but the doing. "</i>
 <br>
-<b>- Unknown</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
