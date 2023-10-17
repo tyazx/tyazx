@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I love fools' experiments. I am always making them."</i>
+<i>"When you are totally at peace with yourself, nothing can shake you."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Deepam Chaterjee</b>
 </blockquote>
 </p>
 
