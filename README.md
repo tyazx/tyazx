@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're really truthful with yourself, it's a wonderful guidance.  "</i>
+<i>"Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
