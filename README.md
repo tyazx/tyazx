@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fortunate are those who take the first steps."</i>
+<i>"Fashion fades, only style remains the same."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
