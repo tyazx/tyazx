@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality."</i>
+<i>"From error to error one discovers the entire truth."</i>
 <br>
-<b>- James Cameron</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
