@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"From error to error one discovers the entire truth."</i>
+<i>"Fortunate are those who take the first steps."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
