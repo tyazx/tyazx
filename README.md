@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being."</i>
+<i>"Your heart is the size of an ocean. Go find yourself in its hidden depths."</i>
 <br>
-<b>- Anita Krizzan</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
