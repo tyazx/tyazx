@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Falling down is not failure. Failure comes when you stay where you have fallen."</i>
+<i>"Fears are nothing more than a state of mind."</i>
 <br>
-<b>- Socrates</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
