@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great minds are always feared by lesser minds."</i>
+<i>"Love is the expression of one's values."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
