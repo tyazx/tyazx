@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Open your mind before your mouth."</i>
+<i>"The ego wants comfort and certainty. The soul wants to live fully."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
