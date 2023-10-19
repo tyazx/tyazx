@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water."</i>
+<i>"Great minds are always feared by lesser minds."</i>
 <br>
-<b>- Buddha</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
