@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself."</i>
+<i>"Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
