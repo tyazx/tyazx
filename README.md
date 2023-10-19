@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ego wants comfort and certainty. The soul wants to live fully."</i>
+<i>"Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
