@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Create each day anew."</i>
+<i>"Open your mind before your mouth."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
