@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People do not decide their futures, they decide their habits and their habits decide their futures."</i>
+<i>"To plant a garden is to believe in tomorrow.  "</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
