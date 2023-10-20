@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today."</i>
+<i>"Discipline is the bridge between goals and accomplishment."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
