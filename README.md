@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The healthiest response to life is joy."</i>
+<i>"No matter what happens, always be yourself."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
