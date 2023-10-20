@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Discipline is the bridge between goals and accomplishment."</i>
+<i>"The healthiest response to life is joy."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
