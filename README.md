@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be not afraid of growing slowly, be afraid only of standing still. "</i>
+<i>"Sometimes you have to travel a long way to find what is near."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
