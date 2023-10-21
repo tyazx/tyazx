@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be - don't try to become "</i>
+<i>"Trust thyself: every heart vibrates to that iron string."</i>
 <br>
-<b>- Osho</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
