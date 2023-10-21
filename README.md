@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Little minds have little worries, big minds have no time for worries."</i>
+<i>"Be - don't try to become "</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
