@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best answer to anger is silence."</i>
+<i>"There is an essence of when you are fearless, you become more creative."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
