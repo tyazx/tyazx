@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter what happens, always be yourself."</i>
+<i>"Whether you think you can or think you can't – you are right."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
