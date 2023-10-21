@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep smiling, because life is a beautiful thing and there's so much to smile about."</i>
+<i>"Little minds have little worries, big minds have no time for worries."</i>
 <br>
-<b>- Marilyn Monroe</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
