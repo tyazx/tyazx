@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A thing must be loved before it is lovable."</i>
+<i>"Every second you have on this planet is very precious and it's your responsibility that you're happy."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
