@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Act the way you want to be and soon you'll be the way you act."</i>
+<i>"Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
