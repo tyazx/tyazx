@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not regret the past. Look to the future."</i>
+<i>"It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on."</i>
 <br>
-<b>- Soyen Shaku</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
