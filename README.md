@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live."</i>
+<i>"I will not walk backward in life."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
