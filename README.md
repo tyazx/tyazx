@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I wasn't brave, I just didn't have time to be scared."</i>
+<i>"The quieter you become, the more you are able to hear."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
