@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be happy in the moment, that's enough. Each moment is all we need, not more."</i>
+<i>"To some degree, you control your life by controlling your time."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Conrad Hilton</b>
 </blockquote>
 </p>
 
