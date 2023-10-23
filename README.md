@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The cost of leadership is self-interest."</i>
+<i>"Throw your heart over the bar and your body will follow."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
