@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To some degree, you control your life by controlling your time."</i>
+<i>"The cost of leadership is self-interest."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
