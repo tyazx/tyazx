@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throw your heart over the bar and your body will follow."</i>
+<i>"The truth is simple. If it was complicated, everyone would understand it."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
