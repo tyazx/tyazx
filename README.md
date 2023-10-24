@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to make God laugh, tell him about your plans. "</i>
+<i>"It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
