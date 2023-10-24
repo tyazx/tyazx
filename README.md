@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is when what you think, what you say, and what you do are in harmony."</i>
+<i>"The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. "</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Charles Swindoll</b>
 </blockquote>
 </p>
 
