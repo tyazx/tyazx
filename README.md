@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am not the outcome. I am never the result. I am only the effort."</i>
+<i>"If you want to make God laugh, tell him about your plans. "</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
