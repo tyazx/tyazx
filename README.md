@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends."</i>
+<i>"What kills the creative force is not age or lack of talent, but our own spirit, our own attitude."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
