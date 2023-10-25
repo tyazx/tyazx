@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the greatest of all mistakes to do nothing because you can only do little; do something."</i>
+<i>"Choose a job you love, and you will never have to work a day in your life. "</i>
 <br>
-<b>- Sydney Smith</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
