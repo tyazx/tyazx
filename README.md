@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The energy of the mind is the essence of life."</i>
+<i>"By seeking and blundering we learn."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
