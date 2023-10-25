@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Choose a job you love, and you will never have to work a day in your life. "</i>
+<i>"The energy of the mind is the essence of life."</i>
 <br>
-<b>- Confucius</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
