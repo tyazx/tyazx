@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it."</i>
+<i>"The art of being wise is knowing what to overlook."</i>
 <br>
-<b>- Rumi</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
