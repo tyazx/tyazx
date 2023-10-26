@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The art of being wise is knowing what to overlook."</i>
+<i>"Believe that life is worth living and your belief will help create the fact."</i>
 <br>
 <b>- William James</b>
 </blockquote>
