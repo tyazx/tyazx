@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Acknowledging the good that you already have in your life is the foundation for all abundance."</i>
+<i>"Each of us is a unique strand in the intricate web of life and here to make a contribution."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
