@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Engage in those actions and thoughts that nurture the good qualities you want to have."</i>
+<i>"A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
