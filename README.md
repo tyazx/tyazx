@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Here and now...breathe and relax...in battle and in life."</i>
+<i>"Engage in those actions and thoughts that nurture the good qualities you want to have."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
