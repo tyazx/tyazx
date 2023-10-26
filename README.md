@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly."</i>
+<i>"Here and now...breathe and relax...in battle and in life."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
