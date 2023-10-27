@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Yesterday is but today's memory, tomorrow is today's dream."</i>
+<i>"There is no greater agony than bearing an untold story inside you."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
