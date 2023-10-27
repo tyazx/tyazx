@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future is no more uncertain than the present."</i>
+<i>"To lead an orchestra, you must turn your back on the crowd."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
