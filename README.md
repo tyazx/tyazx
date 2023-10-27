@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is the price that life exacts for granting peace."</i>
+<i>"Winners are not people who never fail, but people who never quit."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
