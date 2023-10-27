@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not try to be on the side of the majority, but live according to your inner laws."</i>
+<i>"The world is open for play, everything and everybody is mockable in a wonderful way."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Robin Williams</b>
 </blockquote>
 </p>
 
