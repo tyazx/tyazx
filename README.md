@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"May you find grace as you surrender to life. May you find happiness, as you stop seeking it."</i>
+<i>"A scientific man ought to have no wishes, no affections, - a mere heart of stone."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
