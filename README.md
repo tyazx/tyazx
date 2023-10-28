@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be pushed by your problems; be led by your dreams."</i>
+<i>"In order to carry a positive action, we must develop here a positive vision."</i>
 <br>
-<b>- Unknown</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
