@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We become brave by doing brave acts."</i>
+<i>"Forever is composed of now's."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
