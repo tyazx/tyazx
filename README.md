@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To lead an orchestra, you must turn your back on the crowd."</i>
+<i>"May you find grace as you surrender to life. May you find happiness, as you stop seeking it."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
