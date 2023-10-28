@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To lead an orchestra, you must turn your back on the crowd."</i>
+<i>"Your problem isn't the problem. Your reaction is the problem."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
