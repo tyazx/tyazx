@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do good, live in the most positive and joyful way possible every day."</i>
+<i>"It is passion that makes man live; wisdom makes one only last."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
