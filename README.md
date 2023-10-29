@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where the willingness is great, the difficulties cannot be great."</i>
+<i>"Do good, live in the most positive and joyful way possible every day."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
