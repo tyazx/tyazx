@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go confidently in the direction of your dreams. Live the life you've imagined."</i>
+<i>"It's OK to have your eggs in one basket as long as you control what happens to that basket."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
