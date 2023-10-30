@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you."</i>
+<i>"You can never cross the ocean unless you have the courage to lose sight of the shore."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Christopher Columbus</b>
 </blockquote>
 </p>
 
