@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never lose hope. Storms make people stronger and never last forever."</i>
+<i>"Believe you can and you're halfway there."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
