@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember the entrance to the sanctuary is inside you."</i>
+<i>"Art, like morality, consists of drawing the line somewhere."</i>
 <br>
-<b>- Rumi</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
