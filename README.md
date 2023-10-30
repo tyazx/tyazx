@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams."</i>
+<i>"Do good by stealth, and blush to find it fame."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
