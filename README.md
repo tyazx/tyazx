@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are tempted to give up, your breakthrough is probably just around the corner."</i>
+<i>"Passion creates, addiction consumes."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Gabor Mate</b>
 </blockquote>
 </p>
 
