@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Motivation is what gets you started. Habit is what keeps you going."</i>
+<i>"When you are tempted to give up, your breakthrough is probably just around the corner."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
