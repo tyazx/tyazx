@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't cry because it's over. Smile because it happened."</i>
+<i>"You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
