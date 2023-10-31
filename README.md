@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Passion creates, addiction consumes."</i>
+<i>"We make a living by what we get, but we make a life by what we give."</i>
 <br>
-<b>- Gabor Mate</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
