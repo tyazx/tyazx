@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you believe you can, you can. If you believe you can't, then, well you can't."</i>
+<i>"Lying can never save us from another lie."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
