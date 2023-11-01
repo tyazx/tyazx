@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't like something change it; if you can't change it, change the way you think about it."</i>
+<i>"People tend to complicate their own lives, as if living weren't already complicated enough."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
