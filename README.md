@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fools talk, cowards are silent, wise men listen."</i>
+<i>"If you believe you can, you can. If you believe you can't, then, well you can't."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
