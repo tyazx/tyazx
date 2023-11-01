@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What the eye doesn't see and the mind doesn't know, doesn't exist."</i>
+<i>"It is only depth of character that determines the profundity with which we face life."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
