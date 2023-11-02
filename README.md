@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams are the royal road to the unconscious. "</i>
+<i>"Nothing is more real than nothing."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
