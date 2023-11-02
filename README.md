@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enlightenment is intimacy with all things."</i>
+<i>"No matter how tall the mountain is, it cannot block the sun."</i>
 <br>
-<b>- Dogen</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
