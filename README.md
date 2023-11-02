@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is getting what you want. Happiness is wanting what you get."</i>
+<i>"Expect the best of yourself, and then do what is necessary to make it a reality."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
