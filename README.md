@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quality means doing it right when no one is looking."</i>
+<i>"Everyone is a moon, and has a dark side which he never shows to anybody."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
