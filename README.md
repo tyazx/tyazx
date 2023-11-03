@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Expect the best of yourself, and then do what is necessary to make it a reality."</i>
+<i>"The cost of leadership is self-interest."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
