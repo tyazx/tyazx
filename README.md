@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have the ability, now apply yourself."</i>
+<i>"You are today where your thoughts have brought you."</i>
 <br>
-<b>- Benjamin Mays</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
