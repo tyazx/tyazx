@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Shoot for the moon. Even if you miss, you'll land among the stars."</i>
+<i>"You have the ability, now apply yourself."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Benjamin Mays</b>
 </blockquote>
 </p>
 
