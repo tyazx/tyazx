@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The question is not what you look at, but what you see."</i>
+<i>"Superstars think like superstars long before the fans or the press anoint them."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
