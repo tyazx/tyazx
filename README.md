@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be not glad at the misfortune of another, though he may be your enemy. "</i>
+<i>"Only when one allows themself the right to die, do they then give yourself the permission to live."</i>
 <br>
-<b>- George Washington</b>
+<b>- C. Sean McGee</b>
 </blockquote>
 </p>
 
