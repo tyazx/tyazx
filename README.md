@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose."</i>
+<i>"Never argue with stupid people, they will drag you down to their level and then beat you with experience."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
