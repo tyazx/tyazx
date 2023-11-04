@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never argue with stupid people, they will drag you down to their level and then beat you with experience."</i>
+<i>"Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
