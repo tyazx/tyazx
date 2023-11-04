@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be fascinated instead of frustrated."</i>
+<i>"You cannot find peace avoiding life."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
