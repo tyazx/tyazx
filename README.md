@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot find peace avoiding life."</i>
+<i>"There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
