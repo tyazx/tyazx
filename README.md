@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. "</i>
+<i>"Try all things, hold fast that which is good."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
