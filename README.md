@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every day may not be good, but there's something good in every day."</i>
+<i>"Sometimes you have to lose all you have to find out who you truly are."</i>
 <br>
-<b>- Unknown</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
