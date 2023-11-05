@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man."</i>
+<i>"Each of us is a unique strand in the intricate web of life and here to make a contribution."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
