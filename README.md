@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is 10% what happens to you and 90% how you react to it. "</i>
+<i>"Fear, uncertainty, and discomfort are your compasses toward growth."</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
