@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear, uncertainty, and discomfort are your compasses toward growth."</i>
+<i>"Everyone has oceans to fly, if they have the heart to do it. Is it reckless? Maybe. But what do dreams know of boundaries."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
