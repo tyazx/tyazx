@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less people know, the more stubbornly they know it."</i>
+<i>"Life is 10% what happens to you and 90% how you react to it. "</i>
 <br>
-<b>- Osho</b>
+<b>- Charles Swindoll</b>
 </blockquote>
 </p>
 
