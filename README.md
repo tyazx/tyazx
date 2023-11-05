@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each of us is a unique strand in the intricate web of life and here to make a contribution."</i>
+<i>"The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
