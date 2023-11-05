@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams are the touchstones of our characters."</i>
+<i>"The less people know, the more stubbornly they know it."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
