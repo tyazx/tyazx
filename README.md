@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We love the things we love for what they are."</i>
+<i>"Pursue what catches your heart, not what catches your eyes."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
