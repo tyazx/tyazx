@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have never let my schooling interfere with my education."</i>
+<i>"Much learning does not teach understanding."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
