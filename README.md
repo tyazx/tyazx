@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win."</i>
+<i>"To be angry is to revenge the faults of others on ourselves."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
