@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't wait for inspiration. You have to go after it with a club. "</i>
+<i>"Only he who has no use for the empire is fit to be entrusted with it."</i>
 <br>
-<b>- Jack London</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
