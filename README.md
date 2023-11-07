@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only he who has no use for the empire is fit to be entrusted with it."</i>
+<i>"Life is a traveling to the edge of knowledge, then a leap taken."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
