@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'm not afraid of death, but I'm in no hurry to die."</i>
+<i>"He that can have patience can have what he will."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
