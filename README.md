@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can calculate the worth of a man by the number of his enemies."</i>
+<i>"It always seems impossible until it's done."</i>
 <br>
-<b>- Gustave Flaubert</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
