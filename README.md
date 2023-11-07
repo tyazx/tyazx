@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He that can have patience can have what he will."</i>
+<i>"Your neighbor is the man who needs you."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
