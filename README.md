@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Inner peace is when you realize that, in the end, nothing matters."</i>
+<i>"However difficult life may seem, there is always something you can do and succeed at."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
