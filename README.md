@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Education breeds confidence. Confidence breeds hope. Hope breeds peace."</i>
+<i>"Wherever you are is the entry point."</i>
 <br>
-<b>- Confucius</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
