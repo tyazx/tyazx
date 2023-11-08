@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The heart wants what it wants - or else it does not care."</i>
+<i>"Education breeds confidence. Confidence breeds hope. Hope breeds peace."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
