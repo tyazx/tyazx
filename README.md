@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for."</i>
+<i>"The heart wants what it wants - or else it does not care."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
