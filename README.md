@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is useless to attempt to reason a man out of a thing he was never reasoned into."</i>
+<i>"The person who is his own master cannot tolerate another boss. "</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
