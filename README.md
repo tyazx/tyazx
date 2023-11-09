@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best of us sometimes eat our words.  "</i>
+<i>"Identification with our mind causes thought to become compulsive."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
