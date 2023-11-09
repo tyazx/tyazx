@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We cannot change anything unless we accept it."</i>
+<i>"If you want things to be different, perhaps the answer is to become different yourself."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
