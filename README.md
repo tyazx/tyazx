@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True prayer has no set form."</i>
+<i>"A wise person should have money in their head, but not in their heart."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
