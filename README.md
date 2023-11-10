@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To live outside the law, you must be honest. "</i>
+<i>"If you need inspiration, don't do it."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
