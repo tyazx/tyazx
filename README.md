@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are never too old to become younger."</i>
+<i>"Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad."</i>
 <br>
-<b>- Mae West</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
