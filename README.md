@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"On the other side of the clouds is a bright blue sky."</i>
+<i>"You are never too old to become younger."</i>
 <br>
-<b>- Unknown</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
