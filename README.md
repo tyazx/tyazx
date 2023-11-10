@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Growing up is losing some illusions, in order to acquire others."</i>
+<i>"On the other side of the clouds is a bright blue sky."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
