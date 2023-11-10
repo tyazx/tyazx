@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are able to employ your will always for constructive purposes, you become the controller of your destiny."</i>
+<i>"If you are ever the smartest person in the room, you are in the wrong room."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- C. Sean McGee</b>
 </blockquote>
 </p>
 
