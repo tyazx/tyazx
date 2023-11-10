@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Information changes your mind. Action changes your circumstances."</i>
+<i>"Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
