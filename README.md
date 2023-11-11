@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only way to 'find out if it will work out' is to do it."</i>
+<i>"Happiness depends upon ourselves."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
