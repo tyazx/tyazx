@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Conquer the devils with a little thing called love."</i>
+<i>"The question is not what you look at, but what you see."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
