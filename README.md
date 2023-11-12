@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wherever there is danger, there lurks opportunity; wherever there is opportunity, there lurks danger. The two are inseparable."</i>
+<i>"Words, once they are printed, have a life of their own."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
