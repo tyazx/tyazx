@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is everything. It is the preview of life's coming attractions."</i>
+<i>"Don't wait for the right opportunity: create it."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
