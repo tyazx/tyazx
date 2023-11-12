@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine."</i>
+<i>"You must either modify your dreams or magnify your skills."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
