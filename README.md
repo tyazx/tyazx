@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unless you change how you are, you will always have what you got."</i>
+<i>"Absorb what is useful, discard what is not, add what is uniquely your own."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
