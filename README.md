@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must either modify your dreams or magnify your skills."</i>
+<i>"Discipline yourself, and others won't need to."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
