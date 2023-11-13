@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one can hurt you without your consent."</i>
+<i>"Life is ten percent what you experience and ninety percent how you respond to it."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
