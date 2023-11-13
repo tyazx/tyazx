@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let the fear of losing be greater than the excitement of winning."</i>
+<i>"Play your part in life, but never forget that it is only a role."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
