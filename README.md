@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Play your part in life, but never forget that it is only a role."</i>
+<i>"He who knows, does not speak. He who speaks, does not know."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
