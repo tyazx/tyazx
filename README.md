@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you try, you might get exactly what you want. If you don't, you don't."</i>
+<i>"What keeps life fascinating is the constant creativity of the soul."</i>
 <br>
-<b>- Unknown</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
