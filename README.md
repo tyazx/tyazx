@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you."</i>
+<i>"Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort."</i>
 <br>
-<b>- Sonia Ricotti</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
