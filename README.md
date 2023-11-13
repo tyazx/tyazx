@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't wait for the right opportunity: create it."</i>
+<i>"If you try, you might get exactly what you want. If you don't, you don't."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
