@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Until we can manage time, we can manage nothing else."</i>
+<i>"Realistic people do not accomplish extraordinary things."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
