@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort."</i>
+<i>"Fear of death is fear of surrender to Infinity. Learn to surrender, to exist at Infinity while alive, and fear of death dissolves."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Adi Da Samraj</b>
 </blockquote>
 </p>
 
