@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Realistic people do not accomplish extraordinary things."</i>
+<i>"Acknowledging the good that you already have in your life is the foundation for all abundance."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
