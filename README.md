@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In peace, sons bury their fathers. In war, fathers bury their sons. "</i>
+<i>"The busy man is never wise and the wise man is never busy."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
