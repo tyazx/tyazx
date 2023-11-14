@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear of death is fear of surrender to Infinity. Learn to surrender, to exist at Infinity while alive, and fear of death dissolves."</i>
+<i>"Until we can manage time, we can manage nothing else."</i>
 <br>
-<b>- Adi Da Samraj</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
