@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I no doubt deserved my enemies, but I don't believe I deserved my friends."</i>
+<i>"A clear conscience never fears midnight knocking."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
