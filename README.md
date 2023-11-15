@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one is useless in this world who lightens the burdens of another."</i>
+<i>"I no doubt deserved my enemies, but I don't believe I deserved my friends."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
