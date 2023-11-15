@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time."</i>
+<i>"No one is useless in this world who lightens the burdens of another."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
