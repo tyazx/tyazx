@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can easily judge the character of a man by how he treats those who can do nothing for him."</i>
+<i>"The opposite of courage in our society is not cowardice... it is conformity."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
