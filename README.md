@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"None of us can change our yesterdays but all of us can change our tomorrows."</i>
+<i>"A little progress each day adds up to big results."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
