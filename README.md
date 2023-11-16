@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I have seen further than others, it is by standing upon the shoulders of giants."</i>
+<i>"You become a worrier by practicing worry. You become free of worry by practicing the opposite."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
