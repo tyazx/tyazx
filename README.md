@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You become a worrier by practicing worry. You become free of worry by practicing the opposite."</i>
+<i>"All know that the drop merges into the ocean, but few know that the ocean merges into the drop."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
