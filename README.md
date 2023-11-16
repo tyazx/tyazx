@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is the price that life exacts for granting peace."</i>
+<i>"If I have seen further than others, it is by standing upon the shoulders of giants."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
