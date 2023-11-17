@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who attain the middle Dominate the whole."</i>
+<i>"Children are our greatest natural resource."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
