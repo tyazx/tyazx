@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Children are our greatest natural resource."</i>
+<i>"Nothing you do is going to matter that much in the long run. Don't take yourself so seriously."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
