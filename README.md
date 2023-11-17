@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing you do is going to matter that much in the long run. Don't take yourself so seriously."</i>
+<i>"Every man gotta right to decide his own destiny."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
