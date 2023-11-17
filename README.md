@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who wants to achieve a dream must stay strong, focused and steady."</i>
+<i>"If I can stop one heart from breaking, I shall not live in vain."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
