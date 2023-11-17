@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward."</i>
+<i>"Go as far as you can see and you will see further.  "</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
