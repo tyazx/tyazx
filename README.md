@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True friendship ought never to conceal what it thinks. "</i>
+<i>"Human happiness and moral duty are inseparably connected. "</i>
 <br>
-<b>- St. Jerome</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
