@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man gotta right to decide his own destiny."</i>
+<i>"Words are the clothing of our thoughts."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
