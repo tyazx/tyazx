@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Human happiness and moral duty are inseparably connected. "</i>
+<i>"Invisible things are the only realities."</i>
 <br>
-<b>- George Washington</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
