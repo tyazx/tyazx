@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Motivation gets you going and habit gets you there.  "</i>
+<i>"Nothing is more creative...nor destructive...than a brilliant mind with a purpose."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
