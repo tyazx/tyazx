@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not all those who wander are lost."</i>
+<i>"Life is a long lesson in humility. "</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
