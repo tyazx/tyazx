@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Because a thing seems difficult for you, do not think it impossible."</i>
+<i>"Not all those who wander are lost."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
