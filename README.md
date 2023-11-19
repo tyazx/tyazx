@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Simple words, repeated daily, can change your life."</i>
+<i>"Because a thing seems difficult for you, do not think it impossible."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
