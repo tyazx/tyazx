@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A path is made by walking on it."</i>
+<i>"Where does a thought go when it's forgotten?"</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
