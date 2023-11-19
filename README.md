@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have never let my schooling interfere with my education."</i>
+<i>"High thoughts must have high language."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
