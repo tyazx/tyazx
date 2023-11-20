@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are free, and that is why you are lost."</i>
+<i>"The joy of life comes from our encounters with new experiences."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
