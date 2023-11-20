@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The joy of life comes from our encounters with new experiences."</i>
+<i>"Life without love is like a tree without blossoms or fruit."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
