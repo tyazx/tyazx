@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The people who succeed are irrationally passionate about something."</i>
+<i>"We need a backbone, not a wishbone."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
