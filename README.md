@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Meditate. It won't be fun but it will surface what you need to deal with."</i>
+<i>"The people who succeed are irrationally passionate about something."</i>
 <br>
 <b>- Naval Ravikant</b>
 </blockquote>
