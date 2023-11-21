@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We need a backbone, not a wishbone."</i>
+<i>"For changes to be of any true value, they've got to be lasting and consistent."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
