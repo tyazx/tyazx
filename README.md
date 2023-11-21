@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated."</i>
+<i>"Where we fall are the stepping-stones for our journey."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
