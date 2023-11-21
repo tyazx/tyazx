@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where we fall are the stepping-stones for our journey."</i>
+<i>"The only limits in our life are those we impose on ourselves."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
