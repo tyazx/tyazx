@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the mark of an educated mind to be able to entertain a thought without accepting it."</i>
+<i>"Know the rules well, so you can break them effectively."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
