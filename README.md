@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything will be ok in the end. If it's not ok, it's not the end."</i>
+<i>"Time stays long enough for anyone who will use it."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
