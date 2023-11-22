@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know the rules well, so you can break them effectively."</i>
+<i>"Distant water does not put out a nearby fire."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
