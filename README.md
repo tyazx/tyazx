@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people do what unsuccessful people are not willing to do."</i>
+<i>"To know your Enemy, you must become your Enemy."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
