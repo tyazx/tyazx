@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An intelligent person hires people who are more intelligent than he is."</i>
+<i>"Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself."</i>
 <br>
 <b>- Robert Kiyosaki</b>
 </blockquote>
