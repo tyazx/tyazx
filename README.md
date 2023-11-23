@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To know your Enemy, you must become your Enemy."</i>
+<i>"Successful people are not without problems. They're simply people who've learned to solve their problems."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
