@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When something is important enough, you do it even if the odds are not in your favor."</i>
+<i>"Faith is taking the first step even when you don't see the whole staircase."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
