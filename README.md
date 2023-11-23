@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people are not without problems. They're simply people who've learned to solve their problems."</i>
+<i>"A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
