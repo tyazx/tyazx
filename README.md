@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The primary cause of unhappiness is never the situation but your thoughts about it."</i>
+<i>"When something is important enough, you do it even if the odds are not in your favor."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
