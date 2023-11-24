@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated."</i>
+<i>"You may be one person in this world, but to one person you may mean the world."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
