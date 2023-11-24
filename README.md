@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself."</i>
+<i>"If you spend too much time thinking about a thing, you'll never get it done. "</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
