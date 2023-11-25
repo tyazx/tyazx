@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be happy we need something to solve. Happiness is therefore a form of action."</i>
+<i>"You can't climb the ladder of success with your hands in your pockets."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
