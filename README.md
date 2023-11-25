@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. "</i>
+<i>"He will win who knows when to fight and when not to fight."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
