@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intelligence is the ability to adapt to change."</i>
+<i>"Life is much more successfully looked at from a single window."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
