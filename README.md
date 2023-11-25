@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't climb the ladder of success with your hands in your pockets."</i>
+<i>"Happiness depends on your mindset and attitude."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
