@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He will win who knows when to fight and when not to fight."</i>
+<i>"Difficult and meaningful will always bring more satisfaction than easy and meaningless."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
