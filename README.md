@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your problem isn't the problem. Your reaction is the problem."</i>
+<i>"Seek not the good in external things;seek it in yourselves."</i>
 <br>
-<b>- Unknown</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
