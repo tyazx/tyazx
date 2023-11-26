@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A journey of a thousand miles begins with a single step."</i>
+<i>"A fool sees himself as another, but a wise man sees others as himself."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
