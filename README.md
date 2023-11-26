@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Show me a hero, and I'll write you a tragedy."</i>
+<i>"The important thing is not what one is born with but what use one makes of that equipment."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
