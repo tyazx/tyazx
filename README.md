@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wherever you are, it's the place you need to be."</i>
+<i>"The pen is the tongue of the mind. "</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
