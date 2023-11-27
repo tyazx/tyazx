@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One mistake does not have to rule a person's entire life."</i>
+<i>"When one door closes another door opens. "</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
