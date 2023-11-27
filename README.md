@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The question is not what you look at, but what you see."</i>
+<i>"Only by acceptance of the past, can you alter it."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
