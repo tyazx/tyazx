@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pen is the tongue of the mind. "</i>
+<i>"The question is not what you look at, but what you see."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
