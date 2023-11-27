@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's better to dance than to march through life."</i>
+<i>"All men are equal before fish."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
