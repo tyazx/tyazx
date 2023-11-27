@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. "</i>
+<i>"The power of man has grown in every sphere, except over himself."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
