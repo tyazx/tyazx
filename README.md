@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The power of man has grown in every sphere, except over himself."</i>
+<i>"Sometimes out of your biggest misery, comes your greatest gain."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
