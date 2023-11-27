@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes out of your biggest misery, comes your greatest gain."</i>
+<i>"It's better to dance than to march through life."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
