@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quality means doing it right when no one is looking."</i>
+<i>"All animals except man know that the principal business of life is to enjoy it."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
