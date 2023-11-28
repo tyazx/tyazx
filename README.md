@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What gets measured gets improved."</i>
+<i>"The first step is to establish that something is possible; then probability will occur."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
