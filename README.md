@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only by acceptance of the past, can you alter it."</i>
+<i>"Older men declare war. But it is youth that must fight and die."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
