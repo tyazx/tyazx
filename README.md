@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first step is to establish that something is possible; then probability will occur."</i>
+<i>"When you win, say nothing, when you lose say less."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
