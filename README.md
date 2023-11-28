@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All animals except man know that the principal business of life is to enjoy it."</i>
+<i>"I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
