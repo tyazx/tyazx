@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive."</i>
+<i>"What gets measured gets improved."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
