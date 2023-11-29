@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Acknowledging the good that you already have in your life is the foundation for all abundance."</i>
+<i>"Everyone must choose one of two pains: The pain of discipline or the pain of regret."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
