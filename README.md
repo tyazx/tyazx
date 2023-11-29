@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Genius is the ability to act rightly without precedent - the power to do the right thing the first time."</i>
+<i>"Trust thyself: every heart vibrates to that iron string."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
