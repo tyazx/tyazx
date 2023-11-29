@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time."</i>
+<i>"Genius is the ability to act rightly without precedent - the power to do the right thing the first time."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
