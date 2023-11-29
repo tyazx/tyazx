@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have a choice everyday regarding the attitude we will embrace for that day."</i>
+<i>"First say to yourself what you would be; and then do what you have to do."</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
