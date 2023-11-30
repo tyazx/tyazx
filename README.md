@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you rise in the morning, form a resolution to make the day a happy one for a fellow creature."</i>
+<i>"Life is ours to be spent, not to be saved. "</i>
 <br>
-<b>- Sydney Smith</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
