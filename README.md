@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is ours to be spent, not to be saved. "</i>
+<i>"Be brave enough to suck at something new."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
