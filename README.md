@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A warrior does not give up what he loves, he finds the love in what he does."</i>
+<i>"The less you open your heart to others, the more your heart suffers."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
