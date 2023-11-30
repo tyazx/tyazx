@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not everything that weighs you down is yours to carry."</i>
+<i>"Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task."</i>
 <br>
-<b>- Unknown</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
