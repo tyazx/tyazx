@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the first signs of the beginning of understanding is the wish to die. "</i>
+<i>"Know the rules well, so you can break them effectively."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
