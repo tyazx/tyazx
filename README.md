@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust thyself: every heart vibrates to that iron string."</i>
+<i>"Duty makes us do things well, but love makes us do them beautifully.  "</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
