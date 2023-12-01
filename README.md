@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings."</i>
+<i>"I don't pretend to know everything; I just only speak on matters I know I'll win."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
