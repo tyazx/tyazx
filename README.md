@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear is a natural reaction to moving closer to the truth."</i>
+<i>"The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
