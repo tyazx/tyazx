@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes you will never know the value of something, until it becomes a memory."</i>
+<i>"Those who dream by day are cognizant of many things which escape those who dream only by night."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
