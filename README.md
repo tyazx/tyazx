@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Integrity is the ability to stand by an idea."</i>
+<i>"Fear is a natural reaction to moving closer to the truth."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
