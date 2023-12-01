@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Preoccupied with a single leaf you won't see the tree."</i>
+<i>"Sometimes you will never know the value of something, until it becomes a memory."</i>
 <br>
-<b>- Unknown</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
