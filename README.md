@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest miracle is to be alive."</i>
+<i>"Thoughts become things. If you see it in your mind, you will hold it in your hand."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
