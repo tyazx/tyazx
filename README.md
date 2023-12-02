@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man becomes rich unless he enriches others."</i>
+<i>"Only the educated are free."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
