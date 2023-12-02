@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are not what you think you are, You are not what others think you are, You are what you think others think you are."</i>
+<i>"No man becomes rich unless he enriches others."</i>
 <br>
-<b>- Unknown</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
