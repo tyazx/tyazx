@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings."</i>
+<i>"Once you learn to quit, it becomes a habit."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
