@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only the educated are free."</i>
+<i>"You can only be afraid of what you think you know."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
