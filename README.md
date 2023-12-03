@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Passion is energy. Feel the power that comes from focusing on what excites you. "</i>
+<i>"No amount of regretting can change the past, and no amount of worrying can change the future."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
