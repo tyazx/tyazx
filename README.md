@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is not just the passing of time. Life is the collection of experiences and their intensity."</i>
+<i>"Never let the things you can't do stop you from doing what you can."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
