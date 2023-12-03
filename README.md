@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never let the things you can't do stop you from doing what you can."</i>
+<i>"A simple rule in dealing with those who are hard to get along with is to remember that this person is striving to assert his superiority; and you must deal with him from that point of view."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
