@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All you need is passion. If you have a passion for something, you'll create the talent."</i>
+<i>"Do not bite at the bait of pleasure, till you know there is no hook beneath it."</i>
 <br>
-<b>- Yanni</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
