@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The attempt to escape from pain, is what creates more pain."</i>
+<i>"It is best to begin at the beginning."</i>
 <br>
-<b>- Gabor Mate</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
