@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want something you've never had you must be willing to do something you've never done."</i>
+<i>"The ones who are crazy enough to think they can change the world, are the ones that do."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
