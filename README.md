@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to not feel hopeless is to get up and do something."</i>
+<i>"Leadership is solving problems"</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
