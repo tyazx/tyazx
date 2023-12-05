@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let the silly little dramas of each day get you down. For you are here to do great things."</i>
+<i>"Freedom from desire leads to inner peace."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
