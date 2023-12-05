@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freedom from desire leads to inner peace."</i>
+<i>"Good things aren't supposed to just fall into your lap."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
