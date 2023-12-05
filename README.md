@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The man who moved the mountain was the one who began carrying away the smallest stones."</i>
+<i>"Life goes by fast. Enjoy it. Calm down. It's all funny."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
