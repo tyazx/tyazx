@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want something new, you have to stop doing something old."</i>
+<i>"I'm an optimist by choice not by stupidity."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
