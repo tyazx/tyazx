@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Absurdity is the ecstasy of intellectualism."</i>
+<i>"He who leaves the game wins it."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
