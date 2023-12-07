@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is everything. It is the preview of life's coming attractions."</i>
+<i>"The opposite of courage in our society is not cowardice... it is conformity."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
