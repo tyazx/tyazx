@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The opposite of courage in our society is not cowardice... it is conformity."</i>
+<i>"Against the assault of laughter nothing can stand."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
