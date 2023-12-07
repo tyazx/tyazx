@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who leaves the game wins it."</i>
+<i>"You cannot find peace by avoiding life."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
