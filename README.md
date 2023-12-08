@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being ignorant is not so much a shame, as being unwilling to learn."</i>
+<i>"There is no greater agony than bearing an untold story inside you."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
