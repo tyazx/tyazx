@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future belongs to those who learn more skills and combine them in creative ways."</i>
+<i>"Your life does not get better by chance, it gets better by change."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
