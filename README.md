@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Correct what you can. Learn from what you can't."</i>
+<i>"If you see a get rich quick scheme, that's someone else trying to get rich off of you."</i>
 <br>
-<b>- Toni Morrison</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
