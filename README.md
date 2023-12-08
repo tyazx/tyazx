@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Paths are made by walking."</i>
+<i>"The more reasons you have for achieving your goal, the more determined you will become."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
