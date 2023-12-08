@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your life does not get better by chance, it gets better by change."</i>
+<i>"The friendship that can cease has never been real. "</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
