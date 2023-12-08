@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The friendship that can cease has never been real. "</i>
+<i>"Paths are made by walking."</i>
 <br>
-<b>- St. Jerome</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
