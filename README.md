@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our stories may be singular, but our destination is shared."</i>
+<i>"Dreams are for dreamers. Goals are for achievers."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
