@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Heart is what separates the good from the great."</i>
+<i>"The more you like yourself, the less you are like anyone else, which makes you unique."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
