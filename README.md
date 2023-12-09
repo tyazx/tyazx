@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you like yourself, the less you are like anyone else, which makes you unique."</i>
+<i>"Our stories may be singular, but our destination is shared."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
