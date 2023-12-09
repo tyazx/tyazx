@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more knowledge you have, the more you're free to rely on your instincts."</i>
+<i>"Anything becomes interesting if you look at it long enough.."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Gustave Flaubert</b>
 </blockquote>
 </p>
 
