@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams are for dreamers. Goals are for achievers."</i>
+<i>"To be calm is the highest achievement of the self."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
