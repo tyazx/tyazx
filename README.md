@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom is the oneness of mind that guides and permeates all things."</i>
+<i>"Conquer the devils with a little thing called love."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
