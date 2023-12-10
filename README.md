@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Showing off is the fool's idea of glory. "</i>
+<i>"Confidence comes from crossing thresholds."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
