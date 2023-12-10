@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the long run, the sharpest weapon of all is a kind and gentle spirit."</i>
+<i>"Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
