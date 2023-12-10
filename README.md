@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't like something change it; if you can't change it, change the way you think about it."</i>
+<i>"In the long run, the sharpest weapon of all is a kind and gentle spirit."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
