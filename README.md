@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want something new, you have to stop doing something old."</i>
+<i>"Showing off is the fool's idea of glory. "</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
