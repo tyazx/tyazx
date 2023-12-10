@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Given the choice between the experience of pain and nothing, I would choose pain."</i>
+<i>"The only reason to be alive is to enjoy it."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
