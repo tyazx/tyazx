@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing is not enough, we must apply. Willing is not enough, we must do.  "</i>
+<i>"The most important thing in communication is to hear what isn't being said."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
