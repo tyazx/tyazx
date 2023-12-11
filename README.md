@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our joy does not have to be based on our circumstances."</i>
+<i>"It is our experiences that mold us into who we are...during times of adversity our true character will show."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
