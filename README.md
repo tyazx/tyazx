@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Experience is simply the name we give our mistakes. "</i>
+<i>"All you need is passion. If you have a passion for something, you'll create the talent."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
