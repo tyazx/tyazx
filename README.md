@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important thing in communication is to hear what isn't being said."</i>
+<i>"Nothing ever goes away until it has taught us what we need to know."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
