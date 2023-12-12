@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is but a product of his thoughts. What he thinks he becomes."</i>
+<i>"Success is getting what you want. Happiness is wanting what you get."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
