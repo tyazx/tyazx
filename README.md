@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The traveler sees what he sees. The tourist sees what he has come to see."</i>
+<i>"Your problem isn't the problem. Your reaction is the problem."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
