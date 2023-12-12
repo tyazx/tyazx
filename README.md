@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing ever goes away until it has taught us what we need to know."</i>
+<i>"A single act of kindness throws out roots in all directions, and the roots spring up and make new trees."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
