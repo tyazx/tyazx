@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For fast-acting relief try slowing down."</i>
+<i>"Many of life's failures are people who did not realize how close they were to success when they gave up."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
