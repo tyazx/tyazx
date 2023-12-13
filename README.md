@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dream big and dare to fail."</i>
+<i>"Receive without complaint, Work with fate."</i>
 <br>
-<b>- Norman Vaughan</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
