@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To travel is to be alive, but to get somewhere is to be dead."</i>
+<i>"One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
