@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not as important how we start, but how we finish."</i>
+<i>"When you judge another, you do not define them, you define yourself"</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
