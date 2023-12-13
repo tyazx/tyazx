@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tension is who you think you should be. Relaxation is who you are."</i>
+<i>"Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
