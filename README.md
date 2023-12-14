@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is not something outside to be discovered, it is something inside to be realized."</i>
+<i>"Night is a more quiet time to work. It aids thought."</i>
 <br>
-<b>- Osho</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
