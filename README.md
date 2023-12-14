@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people appreciate where they have come from, but they don't let their past set the tone for their future."</i>
+<i>"Today I begin a new life. I will greet this day with love in my heart."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
