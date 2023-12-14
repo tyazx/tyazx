@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Boldness makes even the smallest animal dangerous."</i>
+<i>"Just throw away all thoughts of imaginary things, and stand firm in that which you are."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
