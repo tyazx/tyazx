@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams are the touchstones of our characters."</i>
+<i>"Boldness makes even the smallest animal dangerous."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
