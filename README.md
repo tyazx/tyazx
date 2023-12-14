@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart."</i>
+<i>"Successful people appreciate where they have come from, but they don't let their past set the tone for their future."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
