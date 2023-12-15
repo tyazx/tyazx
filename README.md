@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence."</i>
+<i>"Some people don't like change, but you need to embrace change if the alternative is disaster."</i>
 <br>
-<b>- Sydney Smith</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
