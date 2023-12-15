@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"However difficult life may seem, there is always something you can do and succeed at."</i>
+<i>"Life is filled with secrets. You can't learn them all at once."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
