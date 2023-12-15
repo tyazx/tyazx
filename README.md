@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you do in life, surround yourself with smart people who'll argue with you."</i>
+<i>"Identify your problems, but give your power and energy to solutions."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
