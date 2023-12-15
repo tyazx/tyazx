@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our life isn't how much we can take out, but how much we can put in.  "</i>
+<i>"You live by what you thrill to, and there's the end of it."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
