@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Today I begin a new life. I will greet this day with love in my heart."</i>
+<i>"If you are lucky enough to find love, remember it is there and don't throw it away."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
