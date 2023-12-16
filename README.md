@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Night is a more quiet time to work. It aids thought."</i>
+<i>"True life is lived when tiny changes occur."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
