@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't make someone feel good about themselves until you feel good about yourself."</i>
+<i>"Night is a more quiet time to work. It aids thought."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
