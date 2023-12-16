@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in."</i>
+<i>"Words, once they are printed, have a life of their own."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
