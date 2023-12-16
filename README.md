@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is filled with secrets. You can't learn them all at once."</i>
+<i>"You can't make someone feel good about themselves until you feel good about yourself."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
