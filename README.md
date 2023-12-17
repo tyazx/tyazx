@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain."</i>
+<i>"You're never given a dream without also being given the power to make it true."</i>
 <br>
-<b>- Kabir</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
