@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As mortals, we're ruled by conditions, not by ourselves."</i>
+<i>"No one ever said life was fair. Just Eventful."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
