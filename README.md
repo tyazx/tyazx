@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Manifest plainness, embrace simplicity, reduce selfishness, have few desires."</i>
+<i>"As mortals, we're ruled by conditions, not by ourselves."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
