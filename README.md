@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Living life in style also means living a life of balance."</i>
+<i>"Generosity is giving more than you can, and pride is taking less than you need."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
