@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one ever said life was fair. Just Eventful."</i>
+<i>"The truth is rarely pure and never simple. "</i>
 <br>
-<b>- Carol Burnett</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
