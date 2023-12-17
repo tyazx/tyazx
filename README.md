@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The shoe that fits one person pinches another; there is no recipe for living that suits all cases."</i>
+<i>"Tension is who you think you should be. Relaxation is who you are."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
