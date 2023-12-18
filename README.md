@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you see yourself as prosperous, you will be."</i>
+<i>"People inspire you, or they drain you. Pick them wisely."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
