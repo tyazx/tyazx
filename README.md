@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop."</i>
+<i>"Love doesn't need reason. It speaks from the irrational wisdom of the heart."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
