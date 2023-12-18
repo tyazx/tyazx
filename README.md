@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Generosity is giving more than you can, and pride is taking less than you need."</i>
+<i>"Little minds have little worries, big minds have no time for worries."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
