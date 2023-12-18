@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love doesn't need reason. It speaks from the irrational wisdom of the heart."</i>
+<i>"Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
