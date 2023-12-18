@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People inspire you, or they drain you. Pick them wisely."</i>
+<i>"Be strong. Be confident. Be the star of your own life."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
