@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through."</i>
+<i>"Men are equal; it is not birth but virtue that makes the difference."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
