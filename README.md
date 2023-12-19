@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving."</i>
+<i>"If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere."</i>
 <br>
-<b>- Yanni</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
