@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each of us is a unique strand in the intricate web of life and here to make a contribution."</i>
+<i>"Observe things as they are and don't pay attention to other people."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
