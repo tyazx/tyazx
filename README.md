@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't look back - you're not going that way."</i>
+<i>"Yesterday is but today's memory, tomorrow is today's dream."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
