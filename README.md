@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Yesterday is but today's memory, tomorrow is today's dream."</i>
+<i>"Talent is luck. The important thing in life is courage."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
