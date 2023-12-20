@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let the noise of others' opinions drown out your own inner voice."</i>
+<i>"To be alive - is Power."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
