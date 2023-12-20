@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Resilience is not what happens to you. It's how you react to, respond to, and recover from what happens to you."</i>
+<i>"It is better to fail in originality than to succeed in imitation."</i>
 <br>
-<b>- Jeffrey Gitomer</b>
+<b>- Herman Melville</b>
 </blockquote>
 </p>
 
