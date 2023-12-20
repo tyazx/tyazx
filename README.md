@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'm not afraid of death, but I'm in no hurry to die."</i>
+<i>"Failure is the key to success; each mistake teaches us something."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
