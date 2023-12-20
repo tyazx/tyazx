@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Today will never happen again. Don't waste it with a false start or no start at all."</i>
+<i>"In order to be irreplaceable one must always be different."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
