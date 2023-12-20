@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Walking with a friend in the dark is better than walking alone in the light."</i>
+<i>"Very little is needed to make a happy life; it is all within yourself, in your way of thinking."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
