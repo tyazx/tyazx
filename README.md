@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit."</i>
+<i>"Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
