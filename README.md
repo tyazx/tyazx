@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot find peace by avoiding life."</i>
+<i>"Anyone who has ever made anything of importance was disciplined."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Andrew Hendrixson</b>
 </blockquote>
 </p>
 
