@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. "</i>
+<i>"You cannot find peace by avoiding life."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
