@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you."</i>
+<i>"Never lose hope. Storms make people stronger and never last forever."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
