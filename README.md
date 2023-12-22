@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The joy of life comes from our encounters with new experiences."</i>
+<i>"There is no one giant step that does it. It's a lot of little steps."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Peter A. Cohen</b>
 </blockquote>
 </p>
 
