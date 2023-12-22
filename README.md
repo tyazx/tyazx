@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wake up and smile! Wake up and be grateful!"</i>
+<i>"The joy of life comes from our encounters with new experiences."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
