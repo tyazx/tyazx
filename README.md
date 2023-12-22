@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no one giant step that does it. It's a lot of little steps."</i>
+<i>"Throw your heart over the fence and the rest will follow"</i>
 <br>
-<b>- Peter A. Cohen</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
