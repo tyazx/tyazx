@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truth is not for all men, but for those who seek it."</i>
+<i>"Lost Time is never found again."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
