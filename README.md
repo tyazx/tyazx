@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control."</i>
+<i>"Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
