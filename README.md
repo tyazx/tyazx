@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We build too many walls and not enough bridges."</i>
+<i>"Great loves too must be endured."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
