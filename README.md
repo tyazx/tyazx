@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great loves too must be endured."</i>
+<i>"Everybody needs a passion. That's what keeps life interesting."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
