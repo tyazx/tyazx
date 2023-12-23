@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new."</i>
+<i>"First learn the meaning of what you say, and then speak."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
