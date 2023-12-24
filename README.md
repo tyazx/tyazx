@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It isn't that they can't see the solution. It is that they can't see the problem."</i>
+<i>"How you think when you lose determines how long it will be until you win."</i>
 <br>
 <b>- Gilbert Chesterton</b>
 </blockquote>
