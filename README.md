@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive."</i>
+<i>"If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
