@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't spend time beating on a wall, hoping to transform it into a door."</i>
+<i>"Happiness is a quality of the soul...not a function of one's material circumstances."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
