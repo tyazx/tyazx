@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are not what you think you are, You are not what others think you are, You are what you think others think you are."</i>
+<i>"It isn't that they can't see the solution. It is that they can't see the problem."</i>
 <br>
-<b>- Unknown</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
