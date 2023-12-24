@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How you think when you lose determines how long it will be until you win."</i>
+<i>"If you want work well done, select a busy man; the other kind has no time."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
