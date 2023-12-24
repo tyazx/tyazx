@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a quality of the soul...not a function of one's material circumstances."</i>
+<i>"To become what you are not, behave as you do not."</i>
 <br>
-<b>- Aristotle</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
