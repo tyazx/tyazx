@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you try to micromanage yourself all you're going to do is make yourself miserable."</i>
+<i>"An un-examined life is not worth living."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
