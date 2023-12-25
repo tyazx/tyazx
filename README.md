@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections."</i>
+<i>"When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
