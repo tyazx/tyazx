@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Open your eyes and look within. Are you satisfied with the life you're living?"</i>
+<i>"Success is getting what you want. Happiness is wanting what you get."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
