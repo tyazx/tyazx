@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An un-examined life is not worth living."</i>
+<i>"Adventure is worthwhile in itself."</i>
 <br>
-<b>- Socrates</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
