@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words can only have a positive effect on others if and when they are ready to listen."</i>
+<i>"Open your eyes and look within. Are you satisfied with the life you're living?"</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
