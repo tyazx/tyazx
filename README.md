@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adventure is worthwhile in itself."</i>
+<i>"Courage is knowing what not to fear."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
