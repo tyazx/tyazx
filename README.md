@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is impossible. The word itself says 'I'm possible!'"</i>
+<i>"Show up even when you don't want to show up."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
