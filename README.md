@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever."</i>
+<i>"When you have to make a choice and don't make it, that is in itself a choice."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
