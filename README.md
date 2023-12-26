@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Show up even when you don't want to show up."</i>
+<i>"Remember that the best relationship is one in which your love for each other exceeds your need for each other."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
