@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not how much money you make, it's how much money you keep."</i>
+<i>"The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
