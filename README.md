@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The businessman's tool is value."</i>
+<i>"Forget safety. Live where you fear to live."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
