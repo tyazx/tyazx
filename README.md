@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember that the best relationship is one in which your love for each other exceeds your need for each other."</i>
+<i>"Perpetual optimism is a force multiplier."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
