@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every saint has a past, and every sinner has a future."</i>
+<i>"Happiness is not the absence of problems, it's the ability to deal with them."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
