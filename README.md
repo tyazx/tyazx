@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's your outlook on life that counts."</i>
+<i>"Be as fluid as water, do not give your enemies anything solid to attack."</i>
 <br>
-<b>- Betty White</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
