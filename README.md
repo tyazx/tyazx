@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned."</i>
+<i>"Saying nothing sometimes says the most."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
