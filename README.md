@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is great not because he hasn't failed; a man is great because failure hasn't stopped him."</i>
+<i>"Every saint has a past, and every sinner has a future."</i>
 <br>
-<b>- Confucius</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
