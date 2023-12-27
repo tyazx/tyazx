@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want something new, you have to stop doing something old."</i>
+<i>"Your spirit is the true shield."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
