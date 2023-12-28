@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The true soldier fights not because he hates what is in front of him, but because he loves what is behind him."</i>
+<i>"Take into account that great love and great achievements involve great risk."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
