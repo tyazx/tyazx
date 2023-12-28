@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt."</i>
+<i>"Until you change how you get things done, you'll never know what works best."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
