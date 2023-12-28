@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take into account that great love and great achievements involve great risk."</i>
+<i>"All I can do is be me, whoever that is."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
