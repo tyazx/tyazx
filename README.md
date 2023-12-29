@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Invisible things are the only realities."</i>
+<i>"Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
