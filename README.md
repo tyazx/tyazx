@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Darkness is the absence of light."</i>
+<i>"Invisible things are the only realities."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
