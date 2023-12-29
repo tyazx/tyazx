@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Real learning comes about when the competitive spirit has ceased."</i>
+<i>"As a man thinketh in his heart, so shall he be."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
