@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is a prerequisite for great success. If you want success faster, double your rate of failure."</i>
+<i>"Everything you've ever wanted is on the other side of fear."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- George Addair</b>
 </blockquote>
 </p>
 
