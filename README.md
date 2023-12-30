@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Guilt is perhaps the most painful companion of death."</i>
+<i>"It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
