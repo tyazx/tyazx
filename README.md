@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is simply the opportunity to begin again, this time more intelligently."</i>
+<i>"You can easily judge the character of a man by how he treats those who can do nothing for him."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
