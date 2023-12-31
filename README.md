@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you truly expect something to be difficult, it will be."</i>
+<i>"Knowledge isn't power until it is applied."</i>
 <br>
-<b>- Peter A. Cohen</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
