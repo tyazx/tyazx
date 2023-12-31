@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't concern yourself with the money. Be of service. Build. Work. Dream. Create."</i>
+<i>"Don't allow your mind to tell your heart what to do. The mind gives up easily."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
