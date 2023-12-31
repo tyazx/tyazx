@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tension is who you think you should be. Relaxation is who you are."</i>
+<i>"When we allow negative messages to fester in our head, they take on a life of their own."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
