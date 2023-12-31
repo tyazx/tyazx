@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no limitations except those we create for ourselves."</i>
+<i>"If you truly expect something to be difficult, it will be."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Peter A. Cohen</b>
 </blockquote>
 </p>
 
