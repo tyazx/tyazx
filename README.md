@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't allow your mind to tell your heart what to do. The mind gives up easily."</i>
+<i>"Tension is who you think you should be. Relaxation is who you are."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
