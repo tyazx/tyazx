@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Art is the signature of civilizations. "</i>
+<i>"Laziness may appear attractive, but work gives satisfaction."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
