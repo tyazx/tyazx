@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We cannot always do great things in life, but we can do small things with great love."</i>
+<i>"Write to help yourself, publish to help others."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
