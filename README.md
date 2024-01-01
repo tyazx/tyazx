@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations."</i>
+<i>"Where there's life, there's hope."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
