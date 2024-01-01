@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where there's life, there's hope."</i>
+<i>"Expect the best, plan for the worst, and prepare to be surprised. "</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
