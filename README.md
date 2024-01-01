@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Write to help yourself, publish to help others."</i>
+<i>"Love is not about possession. Love is about appreciation."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
