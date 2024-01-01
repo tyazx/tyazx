@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great minds discuss ideas. Average minds discuss events. Small minds discuss people."</i>
+<i>"Let each man exercise the art he knows."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
