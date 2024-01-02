@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your world is a living expression of how you are using and have used your mind."</i>
+<i>"Don't change your mind just because people are offended; change your mind if you're wrong."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
