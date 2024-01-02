@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy."</i>
+<i>"Your world is a living expression of how you are using and have used your mind."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
