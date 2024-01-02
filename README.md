@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't change your mind just because people are offended; change your mind if you're wrong."</i>
+<i>"Muddy water is best cleared by leaving it alone."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
