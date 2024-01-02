@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Because of your smile, you make life more beautiful."</i>
+<i>"You gain strength, courage and confidence by every experience in which you really stop to look fear in the face."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
