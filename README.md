@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's much better to do good in a way that no one knows anything about it."</i>
+<i>"Would you rather live your life according to the approval of others or aligned with your truth and your dreams?"</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
