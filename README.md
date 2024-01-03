@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A single dream is more powerful than a thousand realities."</i>
+<i>"You have to make time, even for something as universal as staring at the stars."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- W.P. Kinsella</b>
 </blockquote>
 </p>
 
