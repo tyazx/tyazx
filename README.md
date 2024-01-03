@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wherever you are is the entry point."</i>
+<i>"You'll get more from being a peacemaker than a warrior."</i>
 <br>
-<b>- Kabir</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
