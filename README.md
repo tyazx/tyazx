@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't wait for extraordinary opportunities. Seize common occasions and make them great."</i>
+<i>"What you do today can improve all your tomorrows."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
