@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe that life is worth living and your belief will help create the fact."</i>
+<i>"Better to light a candle than to curse the darkness. "</i>
 <br>
-<b>- William James</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
