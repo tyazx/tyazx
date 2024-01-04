@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People think about what they don't want and attract more of the same."</i>
+<i>"Don't wait for extraordinary opportunities. Seize common occasions and make them great."</i>
 <br>
-<b>- Unknown</b>
+<b>- Orison Swett Marden</b>
 </blockquote>
 </p>
 
