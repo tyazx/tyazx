@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future."</i>
+<i>"To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
