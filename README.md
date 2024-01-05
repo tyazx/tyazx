@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I put my heart and soul into my work, and I have lost my mind in the process."</i>
+<i>"Sometimes letting things go is an act of far greater power than defending or hanging on."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
