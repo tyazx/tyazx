@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is literally what he thinks."</i>
+<i>"The source of a true smile is an awakened mind."</i>
 <br>
-<b>- James Allen</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
