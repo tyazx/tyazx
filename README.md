@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All that we see or seem is but a dream within a dream."</i>
+<i>"You only live once, but if you do it right, once is enough."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
