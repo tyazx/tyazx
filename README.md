@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Giving is living. If you stop wanting to give, there's nothing more to live for."</i>
+<i>"Knowing is not enough, we must apply. Willing is not enough, we must do.  "</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
