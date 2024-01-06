@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're really truthful with yourself, it's a wonderful guidance.  "</i>
+<i>"Go for it now. The future is promised to no one. "</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
