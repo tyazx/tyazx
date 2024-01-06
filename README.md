@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You only live once, but if you do it right, once is enough."</i>
+<i>"If you're really truthful with yourself, it's a wonderful guidance.  "</i>
 <br>
-<b>- Mae West</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
