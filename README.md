@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is fear that has said its prayers and decided to go forward anyway."</i>
+<i>"Be where your enemy is not."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
