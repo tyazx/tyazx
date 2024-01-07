@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change is never easy, but always possible."</i>
+<i>"The desire for more positive experience is itself a negative experience."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
