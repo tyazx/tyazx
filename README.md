@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have a duty to maintain the light of consciousness to make sure it continues into the future."</i>
+<i>"Cultivate the merry heart, develop the happiness habit, and life will become a continual feast."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
