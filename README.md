@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To the mind that is still, the whole universe surrenders."</i>
+<i>"Weeds are flowers too, once you get to know them."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- A.A. Milne</b>
 </blockquote>
 </p>
 
