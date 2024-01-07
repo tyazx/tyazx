@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The purpose of life is the expansion of happiness."</i>
+<i>"To the mind that is still, the whole universe surrenders."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
