@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A fear of weakness only strengthens weakness."</i>
+<i>"When you have a dream, you've got to grab it and never let go."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
