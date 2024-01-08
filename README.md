@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What the eye doesn't see and the mind doesn't know, doesn't exist."</i>
+<i>"One must be poor to know the luxury of giving."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
