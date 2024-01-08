@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Cultivate the merry heart, develop the happiness habit, and life will become a continual feast."</i>
+<i>"A heart is not judged by how much you love, but by how much you are loved by others."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
