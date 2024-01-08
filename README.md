@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed."</i>
+<i>"You don't need to be better than anyone else, you just need to be better than you used to be."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
