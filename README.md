@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A heart is not judged by how much you love, but by how much you are loved by others."</i>
+<i>"What the eye doesn't see and the mind doesn't know, doesn't exist."</i>
 <br>
-<b>- Judy Garland</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
