@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enthusiasm is a vital element toward the individual success of every man or woman."</i>
+<i>"The most important thing is to enjoy your life, to be happy, it's all that matters."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
