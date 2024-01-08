@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"However difficult life may seem, there is always something you can do and succeed at."</i>
+<i>"You become a worrier by practicing worry. You become free of worry by practicing the opposite."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
