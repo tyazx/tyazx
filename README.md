@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first principle of success is desire."</i>
+<i>"Animals don't hate, and we're supposed to be better than them."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
