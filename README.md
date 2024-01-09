@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you know what you want, and want it bad enough, you will find a way to get it."</i>
+<i>"Learn from the rejection and turn it into an opportunity!"</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
