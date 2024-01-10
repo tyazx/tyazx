@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is a big difference between being centered and being self-centered."</i>
+<i>"Every drop in the ocean counts. "</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
