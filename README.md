@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Any fool can turn a blind eye but who knows what the ostrich sees in the sand."</i>
+<i>"There is a big difference between being centered and being self-centered."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
