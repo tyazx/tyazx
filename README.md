@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your next step is simple. You are the first domino."</i>
+<i>"Don't let the noise of others opinions drown out your inner voice."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
