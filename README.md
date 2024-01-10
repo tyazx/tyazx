@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All problems are interpersonal relationship problems."</i>
+<i>"Every man desires to live long, but no man wishes to be old."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
