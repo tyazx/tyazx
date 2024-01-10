@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is an essence of when you are fearless, you become more creative."</i>
+<i>"Man's character is his fate."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
