@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let the noise of others opinions drown out your inner voice."</i>
+<i>"There is an essence of when you are fearless, you become more creative."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
