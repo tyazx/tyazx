@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No tree, it is said, can grow to heaven unless its roots reach down to hell."</i>
+<i>"Life is either a daring adventure, or nothing."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
