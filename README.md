@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man desires to live long, but no man wishes to be old."</i>
+<i>"People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
