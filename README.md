@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily."</i>
+<i>"Believe you can and you will be halfway there."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
