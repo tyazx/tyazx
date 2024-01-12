@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is in changing that we find purpose."</i>
+<i>"Best be yourself, imperial, plain, and true."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Robert Browning</b>
 </blockquote>
 </p>
 
