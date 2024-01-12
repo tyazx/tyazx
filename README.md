@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Best be yourself, imperial, plain, and true."</i>
+<i>"All human beings can alter their lives by altering their attitudes."</i>
 <br>
-<b>- Robert Browning</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
