@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is the spiritual experience of living every minute with love, grace and gratitude."</i>
+<i>"Every poem should remind the reader that they are going to die."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
