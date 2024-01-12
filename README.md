@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every poem should remind the reader that they are going to die."</i>
+<i>"It is in changing that we find purpose."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
