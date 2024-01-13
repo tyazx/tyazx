@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  "</i>
+<i>"How much pain they have cost us, the evils which have never happened."</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
