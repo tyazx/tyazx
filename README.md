@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am always doing what I cannot do yet, in order to learn how to do it."</i>
+<i>"There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
