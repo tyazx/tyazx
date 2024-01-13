@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A clear conscience is the sure sign of a bad memory."</i>
+<i>"Without the confidence, nothing can be accomplished."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
