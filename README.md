@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winning isn't everything, but wanting to win is."</i>
+<i>"The true soldier fights not because he hates what is in front of him, but because he loves what is behind him."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
