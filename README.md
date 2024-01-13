@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's the unknown we fear when we look upon death and darkness, nothing more."</i>
+<i>"Winning isn't everything, but wanting to win is."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
