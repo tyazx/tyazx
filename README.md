@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is not having the strength to go on; it is going on when you don't have the strength."</i>
+<i>"Truth is such a rare thing, it is delighted to tell it."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
