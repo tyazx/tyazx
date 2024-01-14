@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most creative act you will ever undertake is the act of creating yourself."</i>
+<i>"The greatest of empires, is the empire over one's self."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
