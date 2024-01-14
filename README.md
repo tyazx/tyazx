@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let making a living prevent you from making a life."</i>
+<i>"Where the willingness is great, the difficulties cannot be great."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Niccolo Machiavelli</b>
 </blockquote>
 </p>
 
