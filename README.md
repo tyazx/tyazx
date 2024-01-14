@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Simple words, repeated daily, can change your life."</i>
+<i>"Watch what you say, and whatever you say, practice it."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Soyen Shaku</b>
 </blockquote>
 </p>
 
