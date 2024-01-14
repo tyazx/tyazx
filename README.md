@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest of empires, is the empire over one's self."</i>
+<i>"Love is the expression of one's values."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
