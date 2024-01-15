@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good teacher opens the door for you, but you must enter the room by yourself."</i>
+<i>"The four P's to success are pressure, persistence, perseverance, and prayer."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
