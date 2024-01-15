@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The art of being wise is knowing what to overlook."</i>
+<i>"Changing minds is harder than finding people who already agree."</i>
 <br>
-<b>- William James</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
