@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the nature of the wise to resist pleasures, but the foolish to be a slave to them."</i>
+<i>"Life is essentially an endless series of problems. The solution to one problem is merely the creation of another."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
