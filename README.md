@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours. "</i>
+<i>"What we know is a drop, what we don't know is an ocean. "</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
