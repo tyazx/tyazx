@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is such a rare thing, it is delighted to tell it."</i>
+<i>"When you want to be honored by others, you learn to honor them first."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
