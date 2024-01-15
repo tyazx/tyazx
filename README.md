@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Changing minds is harder than finding people who already agree."</i>
+<i>"A good teacher opens the door for you, but you must enter the room by yourself."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
