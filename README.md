@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are two kinds of perfect people: those who are dead, and those who have not been born yet."</i>
+<i>"Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours. "</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Orison Swett Marden</b>
 </blockquote>
 </p>
 
