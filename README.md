@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unhappiness enters through a door that has been left open."</i>
+<i>"Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
