@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want others to be happy, practice compassion. If you want to be happy, practice compassion."</i>
+<i>"Remember to look up at the stars and not down at your feet."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
