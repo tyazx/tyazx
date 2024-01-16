@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything you can imagine is real."</i>
+<i>"All our dreams can come true, if we have the courage to pursue them."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
