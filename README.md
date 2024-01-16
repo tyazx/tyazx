@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What worries you, masters you."</i>
+<i>"Everything you can imagine is real."</i>
 <br>
-<b>- John Locke</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
