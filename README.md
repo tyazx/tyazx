@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Education breeds confidence. Confidence breeds hope. Hope breeds peace."</i>
+<i>"We have more possibilities available in each moment than we realize."</i>
 <br>
-<b>- Confucius</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
