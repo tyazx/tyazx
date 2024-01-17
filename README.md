@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Attitude drives actions. Actions drive results. Results drive lifestyles."</i>
+<i>"Peaceful is the one who expects nothing."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
