@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have more possibilities available in each moment than we realize."</i>
+<i>"Intelligent men are cruel. Stupid men are monstrously cruel."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
