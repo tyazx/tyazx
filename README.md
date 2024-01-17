@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reading should be a pleasure, not a chore."</i>
+<i>"The only difference between success and failure is the ability to take action."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
