@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Persistence is very important. You should not give up unless you are forced to give up."</i>
+<i>"The more you praise and celebrate your life, the more there is in life to celebrate. "</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
