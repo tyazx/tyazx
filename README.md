@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man will make a great leader who wants to do it all himself or to get all the credit for doing it."</i>
+<i>"Don't talk about what you have done or what you are going to do."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
