@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's your life-but only if you make it so."</i>
+<i>"He is richest who is content with the least, for content is the wealth of nature."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
