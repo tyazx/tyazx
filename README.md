@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you praise and celebrate your life, the more there is in life to celebrate. "</i>
+<i>"Arise, slay thy enemies, enjoy a prosperous kingdom."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
