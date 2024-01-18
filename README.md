@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose."</i>
+<i>"We can change our lives. We can do, have, and be exactly what we wish."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
