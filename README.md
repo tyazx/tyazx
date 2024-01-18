@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more something threatens your identity, the more you will avoid it."</i>
+<i>"We must accept finite disappointment, but never lose infinite hope."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
