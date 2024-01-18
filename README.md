@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It does not matter how slowly you go so long as you do not stop."</i>
+<i>"The more something threatens your identity, the more you will avoid it."</i>
 <br>
-<b>- Confucius</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
