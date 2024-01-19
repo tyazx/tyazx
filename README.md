@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I cannot make my days longer so I strive to make them better."</i>
+<i>"We can know only that we know nothing. And that is the highest degree of human wisdom."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
