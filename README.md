@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can know only that we know nothing. And that is the highest degree of human wisdom."</i>
+<i>"Knowledge is learning something everyday. Wisdom is letting go of something everyday."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
