@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do what you feel in your heart to be right - for you'll be criticized anyway."</i>
+<i>"Everything will be ok in the end. If it's not ok, it's not the end."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
