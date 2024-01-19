@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution."</i>
+<i>"Do what you feel in your heart to be right - for you'll be criticized anyway."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
