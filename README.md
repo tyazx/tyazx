@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Simplicity is the glory of expression."</i>
+<i>"If you get up one more time than you fall, you will make it through."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
