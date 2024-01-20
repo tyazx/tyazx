@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."</i>
+<i>"Each day your life grows a day shorter. Make every move count."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
