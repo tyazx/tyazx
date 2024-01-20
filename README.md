@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always remember that you are absolutely unique. Just like everyone else. "</i>
+<i>"To be alive - is Power."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
