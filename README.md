@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be alive - is Power."</i>
+<i>"Simplicity is the glory of expression."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
