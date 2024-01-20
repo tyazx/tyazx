@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The important thing is not to stop questioning. Curiosity has its own reason for existing."</i>
+<i>"There are no limitations to the mind except those we acknowledge..."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
