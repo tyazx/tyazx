@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A minute's success pays the failure of years."</i>
+<i>"One must be deeply aware of the impermanence of the world."</i>
 <br>
-<b>- Robert Browning</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
