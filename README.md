@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adventure is not outside man; it is within."</i>
+<i>"First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  "</i>
 <br>
-<b>- George Eliot</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
