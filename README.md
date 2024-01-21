@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes things become possible if we want them bad enough."</i>
+<i>"Life is either a daring adventure, or nothing."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
