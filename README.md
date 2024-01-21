@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wise man reads both books and life itself."</i>
+<i>"To live outside the law, you must be honest. "</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
