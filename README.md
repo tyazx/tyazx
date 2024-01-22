@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Talk does not cook rice."</i>
+<i>"Give more than you think you can, trusting that you are richer than you think."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
