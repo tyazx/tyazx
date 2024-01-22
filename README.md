@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only defense against the world is a thorough knowledge of it."</i>
+<i>"Give out what you most want to come back."</i>
 <br>
-<b>- John Locke</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
