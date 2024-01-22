@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Poverty and hardship are created by false thinking."</i>
+<i>"Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
