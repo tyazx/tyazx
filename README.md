@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is either a daring adventure, or nothing."</i>
+<i>"Talk does not cook rice."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
