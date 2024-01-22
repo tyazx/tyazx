@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Misfortune shows those who are not really friends."</i>
+<i>"Never confuse a single defeat with a final defeat."</i>
 <br>
-<b>- Aristotle</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
