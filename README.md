@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give more than you think you can, trusting that you are richer than you think."</i>
+<i>"No one can confidently say that he will still be living tomorrow."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
