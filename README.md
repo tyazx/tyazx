@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one can confidently say that he will still be living tomorrow."</i>
+<i>"Nothing is really work unless you would rather be doing something else. "</i>
 <br>
-<b>- Euripides</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
