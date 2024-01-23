@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You may be one person in this world, but to one person you may mean the world."</i>
+<i>"To seek is to suffer. To seek nothing is bliss."</i>
 <br>
-<b>- Unknown</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
