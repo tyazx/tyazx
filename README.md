@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't program yourself, life will program you."</i>
+<i>"The difference between impossible and possible is a willing heart."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
