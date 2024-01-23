@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter what happens, always be yourself."</i>
+<i>"Life is either a daring adventure, or it is nothing."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
