@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not regret the past. Look to the future."</i>
+<i>"No matter what happens, always be yourself."</i>
 <br>
-<b>- Soyen Shaku</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
