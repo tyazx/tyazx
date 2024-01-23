@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The difference between impossible and possible is a willing heart."</i>
+<i>"Be confident, not certain."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
