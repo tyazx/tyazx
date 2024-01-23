@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never confuse a single defeat with a final defeat."</i>
+<i>"Do not regret the past. Look to the future."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Soyen Shaku</b>
 </blockquote>
 </p>
 
