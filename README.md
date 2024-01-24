@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Talk sense to a fool and he calls you foolish."</i>
+<i>"Time is a game played beautifully by children."</i>
 <br>
-<b>- Euripides</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
