@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What the caterpillar calls the end of the world, the master calls a butterfly."</i>
+<i>"Only put off until tomorrow what you are willing to die having left undone."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
