@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Art is to console those who are broken by life."</i>
+<i>"Talk sense to a fool and he calls you foolish."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
