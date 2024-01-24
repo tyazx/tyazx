@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we all did the things we are capable of doing, we would literally astound ourselves."</i>
+<i>"Art is to console those who are broken by life."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
