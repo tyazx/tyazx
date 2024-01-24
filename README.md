@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not fear failure but rather fear not trying."</i>
+<i>"Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
