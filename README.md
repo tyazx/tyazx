@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Little by little, one travels far."</i>
+<i>"There is no self-discovery without pain and loss."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
