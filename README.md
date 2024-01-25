@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being wrong opens us up to the possibility of change."</i>
+<i>"Forever is composed of now's."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
