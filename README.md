@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only put off until tomorrow what you are willing to die having left undone."</i>
+<i>"Being wrong opens us up to the possibility of change."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
