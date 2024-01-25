@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is resistance to fear, mastery of fear - not absence of fear."</i>
+<i>"The best teacher is experience and not through someone's distorted point of view."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Jack Kerouac</b>
 </blockquote>
 </p>
 
