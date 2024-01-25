@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The past has no power over the present moment. "</i>
+<i>"Courage is the price that life exacts for granting peace."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
