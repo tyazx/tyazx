@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Identify your problems, but give your power and energy to solutions."</i>
+<i>"You are the only problem you will ever have and you are the only solution."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
