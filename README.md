@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your goals are the road maps that guide you and show you what is possible for your life."</i>
+<i>"Never do things others can do and will do if there are things others cannot do or will not do."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
