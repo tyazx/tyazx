@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything that irritates us about others."</i>
+<i>"Associate with people who are likely to improve you.  "</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
