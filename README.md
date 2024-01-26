@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do."</i>
+<i>"Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
