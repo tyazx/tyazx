@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tradition is the illusion of permanence. "</i>
+<i>"Progress lies not in enhancing what is, but in advancing toward what will be."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
