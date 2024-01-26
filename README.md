@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are the only problem you will ever have and you are the only solution."</i>
+<i>"Tradition is the illusion of permanence. "</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
