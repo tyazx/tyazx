@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Progress lies not in enhancing what is, but in advancing toward what will be."</i>
+<i>"Believe nothing you hear, and only one half that you see."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
