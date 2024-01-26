@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard."</i>
+<i>"Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
