@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a question and how we live it is our answer."</i>
+<i>"Only in the agony of parting do we look into the depths of love."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
