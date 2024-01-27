@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The act of taking the first step is what separates the winners from the losers."</i>
+<i>"A dream you dream alone is only a dream. A dream you dream together is reality."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
