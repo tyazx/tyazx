@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You never know when a moment and a few sincere words can have an impact on a life.  "</i>
+<i>"Not all of us can do great things. But we can do small things with great love."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
