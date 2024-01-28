@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reality is nothing but a collective hunch."</i>
+<i>"If you look for perfection, you'll never be content."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
