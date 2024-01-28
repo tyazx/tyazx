@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you look for perfection, you'll never be content."</i>
+<i>"We are all self-made, but only the successful will admit it."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
