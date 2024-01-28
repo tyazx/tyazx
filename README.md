@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Debt is the slavery of the free."</i>
+<i>"Good entrepreneurs don't fail because they stay at it."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
