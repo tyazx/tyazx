@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am thankful to all who said no to me. It is because of them that I'm doing it myself."</i>
+<i>"To be able to forget means sanity."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
