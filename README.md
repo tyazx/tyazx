@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unless you're ashamed of yourself now and then, you're not honest."</i>
+<i>"Take responsibility of your own happiness, never put it in other people's hands."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
