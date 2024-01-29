@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship takes time and energy if it's going to work."</i>
+<i>"It is truth that liberates, not your effort to be free."</i>
 <br>
-<b>- Betty White</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
