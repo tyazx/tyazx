@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is what we make out of what we have, not what we are given, that separates one person from another."</i>
+<i>"The purpose of life is to contribute in some way to making things better."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
