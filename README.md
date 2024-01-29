@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The purpose of life is to contribute in some way to making things better."</i>
+<i>"You are free, and that is why you are lost."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
