@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter what happens, always be yourself."</i>
+<i>"Life is a question and how we live it is our answer."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
