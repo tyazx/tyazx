@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found."</i>
+<i>"If fear is too strong, the genius is suppressed."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
