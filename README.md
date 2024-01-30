@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are free, and that is why you are lost."</i>
+<i>"To be alive - is Power."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
