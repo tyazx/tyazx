@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just do what must be done. This may not be happiness but it is greatness."</i>
+<i>"A very little key will open a very heavy door."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
