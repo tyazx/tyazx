@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all faced with a series of great opportunities brilliantly disguised as impossible situations. "</i>
+<i>"Public opinion is the worst of all opinions."</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
