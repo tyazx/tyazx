@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You become stronger with every problem you face and every obstacle you overcome."</i>
+<i>"To live outside the law, you must be honest. "</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
