@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The hard path is often the right one. The river teaches more than the shore."</i>
+<i>"The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
