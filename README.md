@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good, better, best. Never let it rest. 'Til your good is better and your better is best. "</i>
+<i>"The hard path is often the right one. The river teaches more than the shore."</i>
 <br>
-<b>- St. Jerome</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
