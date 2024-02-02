@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man."</i>
+<i>"Not all readers are leaders, but all leaders are readers."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
