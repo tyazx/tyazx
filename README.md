@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Less is more."</i>
+<i>"You have the potential for greatness."</i>
 <br>
-<b>- Robert Browning</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
