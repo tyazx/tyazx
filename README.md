@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The friendship that can cease has never been real. "</i>
+<i>"Laziness may appear attractive, but work gives satisfaction."</i>
 <br>
-<b>- St. Jerome</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
