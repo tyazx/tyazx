@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not try to be on the side of the majority, but live according to your inner laws."</i>
+<i>"Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree. "</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
