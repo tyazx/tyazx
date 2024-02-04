@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness depends on your mindset and attitude."</i>
+<i>"We can spend our whole lives escaping from the monsters of our minds."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
