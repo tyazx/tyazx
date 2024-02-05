@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man is happy who does not think himself so."</i>
+<i>"Don't wait for the right opportunity: create it."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
