@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you truly love Nature, you will find beauty everywhere. "</i>
+<i>"No man is happy who does not think himself so."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
