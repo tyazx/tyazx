@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is really work unless you would rather be doing something else. "</i>
+<i>"Expect the best of yourself, and then do what is necessary to make it a reality."</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
