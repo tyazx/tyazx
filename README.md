@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold."</i>
+<i>"What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
