@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can have it all. You just can't have it all at once. "</i>
+<i>"An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
