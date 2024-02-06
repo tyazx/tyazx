@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Today is the oldest you've ever been, and the youngest you'll ever be again."</i>
+<i>"Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
