@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot find peace avoiding life."</i>
+<i>"Until we can manage time, we can manage nothing else."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
