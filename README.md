@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Living life in style also means living a life of balance."</i>
+<i>"You cannot find peace avoiding life."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
