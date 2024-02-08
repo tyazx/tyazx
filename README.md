@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy."</i>
+<i>"Honesty is the first chapter in the book of wisdom."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
