@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest test of courage on earth is to bear defeat without losing heart."</i>
+<i>"Short cuts make long delays."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
