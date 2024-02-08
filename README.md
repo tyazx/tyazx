@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunity often comes disguised in the form of misfortune or temporary defeat."</i>
+<i>"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. "</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Nikola Tesla</b>
 </blockquote>
 </p>
 
