@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You miss 100% of the shots you don't take."</i>
+<i>"Life has the name of life, but in reality it is death."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
