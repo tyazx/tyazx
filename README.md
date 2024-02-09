@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can live a whole life time never being awake."</i>
+<i>"You are not what you think you are, You are not what others think you are, You are what you think others think you are."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
