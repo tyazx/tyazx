@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes it is more important to discover what one cannot do, than what one can do."</i>
+<i>"What the mind can conceive, it can achieve."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
