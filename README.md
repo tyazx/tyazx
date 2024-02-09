@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life has the name of life, but in reality it is death."</i>
+<i>"Happiness is the absence of the striving for happiness."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
