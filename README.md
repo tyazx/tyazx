@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less people know, the more stubbornly they know it."</i>
+<i>"Do it with passion, or not at all."</i>
 <br>
-<b>- Osho</b>
+<b>- Rosa Nouchette Carey</b>
 </blockquote>
 </p>
 
