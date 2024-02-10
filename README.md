@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace is letting it be. Letting life flow, letting emotions flow through you."</i>
+<i>"Where there's life, there's hope."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
