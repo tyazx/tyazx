@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results."</i>
+<i>"The measure of who we are is what we do with what we have."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
