@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where there's life, there's hope."</i>
+<i>"Play your part in life, but never forget that it is only a role."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
