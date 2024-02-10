@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The divine is not something high above us. It is in heaven, it is in earth, it is inside us."</i>
+<i>"Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
