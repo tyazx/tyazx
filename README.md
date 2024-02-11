@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A very little key will open a very heavy door."</i>
+<i>"If we know how to adapt, we end up being superior."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
