@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences "</i>
+<i>"Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Jeffrey Gitomer</b>
 </blockquote>
 </p>
 
