@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better."</i>
+<i>"Confidence is consistency of thinking about what is possible and how to make it possible."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
