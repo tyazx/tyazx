@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy."</i>
+<i>"We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences "</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Nikola Tesla</b>
 </blockquote>
 </p>
 
