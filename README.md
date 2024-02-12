@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes you have to lose all you have to find out who you truly are."</i>
+<i>"Death is not sad; the sad thing is that most people don't really live at all."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
