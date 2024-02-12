@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. "</i>
+<i>"Life is but one dream flowing into another."</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
