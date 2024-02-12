@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Death is not sad; the sad thing is that most people don't really live at all."</i>
+<i>"Do not fight with pigs - you will be smeared in mud but the pig will like it."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
