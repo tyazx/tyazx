@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Worry is a waste of emotional reserve."</i>
+<i>"Great loves too must be endured."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
