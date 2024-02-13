@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great minds are always feared by lesser minds."</i>
+<i>"Take interest and even delight in doing the small things well."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
