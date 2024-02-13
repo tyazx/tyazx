@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Things do not have meaning. We assign meaning to everything."</i>
+<i>"Some people find fault like there is a reward for it.  "</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
