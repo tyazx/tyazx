@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Greatness lies not in being strong, but in the right use of strength."</i>
+<i>"It is passion that makes man live; wisdom makes one only last."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
