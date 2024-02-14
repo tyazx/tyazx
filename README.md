@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One must be poor to know the luxury of giving."</i>
+<i>"Where there is anger, there is always pain underneath."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
