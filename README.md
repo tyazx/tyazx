@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anything you may hold firmly in your imagination can be yours."</i>
+<i>"Happiness is a quality of the soul...not a function of one's material circumstances."</i>
 <br>
-<b>- William James</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
