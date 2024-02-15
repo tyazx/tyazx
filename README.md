@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life without love is like a tree without blossoms or fruit."</i>
+<i>"Fallacies do not cease to be fallacies because they become fashions."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
