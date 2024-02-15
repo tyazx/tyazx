@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head."</i>
+<i>"The secret of change is to focus all your energy not on fighting the old, but on building the new."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
