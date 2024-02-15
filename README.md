@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People become attached to their burdens sometimes more than the burdens are attached to them."</i>
+<i>"Live your life and forget your age."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
