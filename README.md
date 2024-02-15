@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of change is to focus all your energy not on fighting the old, but on building the new."</i>
+<i>"Circumstances do not make the man, they reveal him."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
