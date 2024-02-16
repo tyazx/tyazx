@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams."</i>
+<i>"No valid plans for the future can be made by those who have no capacity for living now."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
