@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only time you run out of chances is when you stop taking them."</i>
+<i>"Everyone must choose one of two pains: The pain of discipline or the pain of regret."</i>
 <br>
-<b>- Unknown</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
