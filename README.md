@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We forge the chains we wear in life."</i>
+<i>"Nothing endures but change."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
