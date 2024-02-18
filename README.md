@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is but one dream flowing into another."</i>
+<i>"There are as many opinions as there are experts."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
