@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All cruelty springs from weakness.  "</i>
+<i>"What gets measured gets improved."</i>
 <br>
-<b>- Seneca</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
