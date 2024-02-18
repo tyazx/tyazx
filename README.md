@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To lead the people, walk behind them."</i>
+<i>"When you lose your desire for things that do not matter, you will be free."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
