@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is simply what our feelings do to us."</i>
+<i>"The dream is free, but the hustle is sold separately."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
