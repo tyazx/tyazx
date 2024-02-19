@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is the true magic carpet."</i>
+<i>"Trusting our intuition often saves us from disaster. "</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Anne Wilson Schaef</b>
 </blockquote>
 </p>
 
