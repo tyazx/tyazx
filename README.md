@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trusting our intuition often saves us from disaster. "</i>
+<i>"What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that."</i>
 <br>
-<b>- Anne Wilson Schaef</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
