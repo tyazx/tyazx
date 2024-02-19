@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have never in my life learned anything from any man who agreed with me."</i>
+<i>"If you don't know where you're going, you will probably end up somewhere else."</i>
 <br>
-<b>- Dudley Field Malone</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
