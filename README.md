@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Closing your eyes and listening to silence is self-care."</i>
+<i>"Instead of worrying about what you cannot control, shift your energy to what you can create."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
