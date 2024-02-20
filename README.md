@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no sadder sight than a young pessimist."</i>
+<i>"If light is in your heart, you will find your way home.  "</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
