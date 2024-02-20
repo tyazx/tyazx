@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If light is in your heart, you will find your way home.  "</i>
+<i>"Motivation gets you going and habit gets you there.  "</i>
 <br>
-<b>- Rumi</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
