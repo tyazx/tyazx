@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every poem should remind the reader that they are going to die."</i>
+<i>"On the other side of the clouds is a bright blue sky."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
