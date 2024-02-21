@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust your instincts: my first reaction is almost invariably the right one.  "</i>
+<i>"You are the average of the five people you spend most time with."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
