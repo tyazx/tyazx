@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't allow your mind to tell your heart what to do. The mind gives up easily."</i>
+<i>"We have a duty to maintain the light of consciousness to make sure it continues into the future."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
