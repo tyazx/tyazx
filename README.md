@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time."</i>
+<i>"We become what we believe."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
