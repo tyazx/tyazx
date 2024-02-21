@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who has ever made anything of importance was disciplined."</i>
+<i>"If you aren't sure which way to do something, do it both ways and see which works better."</i>
 <br>
-<b>- Andrew Hendrixson</b>
+<b>- John Carmack</b>
 </blockquote>
 </p>
 
