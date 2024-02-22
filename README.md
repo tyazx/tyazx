@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The consequences of today are determined by the actions of the past. To change your future, alter your decisions today."</i>
+<i>"Pursue what catches your heart, not what catches your eyes."</i>
 <br>
-<b>- Unknown</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
