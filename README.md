@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe in your infinite potential. Your only limitations are those you set upon yourself."</i>
+<i>"Surround yourself only with people who are going to take you higher."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
