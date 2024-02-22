@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hope means hoping when everything seems hopeless."</i>
+<i>"Turn your face to the sun, as flowers know how to do."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
