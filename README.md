@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you try, you might get exactly what you want. If you don't, you don't."</i>
+<i>"Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given."</i>
 <br>
-<b>- Unknown</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
