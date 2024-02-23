@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember the entrance to the sanctuary is inside you."</i>
+<i>"If you don't break your ropes while you're alive, do you think ghosts will do it after?"</i>
 <br>
-<b>- Rumi</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
