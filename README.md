@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is not something ready made. It comes from your own actions."</i>
+<i>"There is nothing more truly artistic than to love people."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
