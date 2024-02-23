@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. "</i>
+<i>"It's the job that's never started that takes the longest to finish."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
