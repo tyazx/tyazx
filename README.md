@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must have strong minds, ready to accept facts as they are."</i>
+<i>"The journey is what brings us happiness not the destination."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
