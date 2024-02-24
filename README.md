@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No snowflake ever falls in the wrong place."</i>
+<i>"Be kind, for everyone you meet is fighting a harder battle."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
