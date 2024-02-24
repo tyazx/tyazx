@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An intelligent person hires people who are more intelligent than he is."</i>
+<i>"No snowflake ever falls in the wrong place."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
