@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform."</i>
+<i>"Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
