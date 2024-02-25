@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be prepared is half the victory. "</i>
+<i>"True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
