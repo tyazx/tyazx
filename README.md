@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn from the mistakes of others. You can't live long enough to make them all yourself."</i>
+<i>"Integrity is the ability to stand by an idea."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
