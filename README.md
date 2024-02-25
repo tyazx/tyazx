@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us."</i>
+<i>"Learn from the mistakes of others. You can't live long enough to make them all yourself."</i>
 <br>
-<b>- Socrates</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
