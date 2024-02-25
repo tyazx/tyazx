@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work."</i>
+<i>"I no doubt deserved my enemies, but I don't believe I deserved my friends."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
