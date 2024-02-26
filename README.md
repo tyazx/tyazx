@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like riding a bicycle. To keep your balance you must keep moving."</i>
+<i>"The only defense against the world is a thorough knowledge of it."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
