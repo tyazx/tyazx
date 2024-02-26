@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always do your best. What you plant now, you will harvest later."</i>
+<i>"Life is like riding a bicycle. To keep your balance you must keep moving."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
