@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to."</i>
+<i>"The more you are motivated by Love, The more Fearless & Free your action will be."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
