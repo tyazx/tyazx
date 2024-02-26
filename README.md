@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is our experiences that mold us into who we are...during times of adversity our true character will show."</i>
+<i>"The guest will judge better of a feast than the cook."</i>
 <br>
-<b>- Unknown</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
