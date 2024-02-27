@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are never too old to set another goal or to dream a new dream."</i>
+<i>"Everybody needs a passion. That's what keeps life interesting."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
