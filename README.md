@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The four P's to success are pressure, persistence, perseverance, and prayer."</i>
+<i>"What loneliness is more lonely than distrust?"</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
