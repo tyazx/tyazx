@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everybody needs a passion. That's what keeps life interesting."</i>
+<i>"Much learning does not teach understanding."</i>
 <br>
-<b>- Betty White</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
