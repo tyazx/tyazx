@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are always complaining that our days are few, and acting as though there would be no end of them.  "</i>
+<i>"Surround yourself only with people who are going to take you higher."</i>
 <br>
-<b>- Seneca</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
