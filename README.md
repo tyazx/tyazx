@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good stance and posture reflect a proper state of mind."</i>
+<i>"In the long run, the sharpest weapon of all is a kind and gentle spirit."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
