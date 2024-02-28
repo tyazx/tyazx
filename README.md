@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is getting what you want. Happiness is wanting what you get."</i>
+<i>"Your spirit is the true shield."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
