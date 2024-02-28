@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be able to forget means sanity."</i>
+<i>"A good stance and posture reflect a proper state of mind."</i>
 <br>
-<b>- Jack London</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
