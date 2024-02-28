@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Surround yourself only with people who are going to take you higher."</i>
+<i>"Not why the addiction but why the pain."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Gabor Mate</b>
 </blockquote>
 </p>
 
