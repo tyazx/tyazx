@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you win, say nothing, when you lose say less."</i>
+<i>"Failure is the key to success; each mistake teaches us something."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
