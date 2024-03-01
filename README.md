@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust is built and maintained by many small actions over time."</i>
+<i>"To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
