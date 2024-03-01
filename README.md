@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I never dwell on what happened. You can't change it. Move forward."</i>
+<i>"If you do not change direction, you may end up where you are heading."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
