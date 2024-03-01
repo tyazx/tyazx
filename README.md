@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Leaders think and talk about solutions. Followers think and talk about the problems."</i>
+<i>"Always be a first rate version of yourself and not a second rate version of someone else."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
