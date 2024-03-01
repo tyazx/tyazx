@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not change direction, you may end up where you are heading."</i>
+<i>"There are dark shadows on the earth, but its lights are stronger in the contrast."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
