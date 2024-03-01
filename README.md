@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little."</i>
+<i>"The greatest gift that you can give to others is the gift of unconditional love and acceptance. "</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
