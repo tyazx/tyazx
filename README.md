@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is much more successfully looked at from a single window."</i>
+<i>"Some people feel the rain. Others just get wet. "</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
