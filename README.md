@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can see through others only when we can see through ourselves."</i>
+<i>"He who fails to plan, plans to fail."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
