@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who fails to plan, plans to fail."</i>
+<i>"What loneliness is more lonely than distrust?"</i>
 <br>
-<b>- Unknown</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
