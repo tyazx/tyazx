@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Memory is the scribe of the soul."</i>
+<i>"Life is much more successfully looked at from a single window."</i>
 <br>
-<b>- Aristotle</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
