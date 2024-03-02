@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction."</i>
+<i>"Go confidently in the direction of your dreams. Live the life you've imagined."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
