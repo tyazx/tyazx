@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people feel the rain. Others just get wet. "</i>
+<i>"The trouble with most of us is that we'd rather be ruined by praise than saved by criticism."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
