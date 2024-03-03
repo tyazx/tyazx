@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no value in anything until it is finished. "</i>
+<i>"Fear is your worst enemy. Risk is your best friend."</i>
 <br>
-<b>- Genghis Khan</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
