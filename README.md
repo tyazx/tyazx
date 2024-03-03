@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The trouble with most of us is that we'd rather be ruined by praise than saved by criticism."</i>
+<i>"You can only lose something that you have, but you cannot lose something that you are."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
