@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The people who succeed are irrationally passionate about something."</i>
+<i>"If you genuinely want something, don't wait for it - teach yourself."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
