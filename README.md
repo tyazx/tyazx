@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace of mind is that mental condition in which you have accepted the worst."</i>
+<i>"Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
