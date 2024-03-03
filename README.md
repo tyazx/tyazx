@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear is your worst enemy. Risk is your best friend."</i>
+<i>"Reversing your treatment of the man you have wronged is better than asking his forgiveness."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
