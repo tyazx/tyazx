@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your work is to discover your work and then, with all your heart, to give yourself to it."</i>
+<i>"Your time is limited, so don't waste it living someone elses. life."</i>
 <br>
-<b>- Buddha</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
