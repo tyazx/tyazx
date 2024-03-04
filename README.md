@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Loyalty and friendship are the most precious possessions a man can have."</i>
+<i>"Your work is to discover your work and then, with all your heart, to give yourself to it."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
