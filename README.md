@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why compare yourself with others? No one in the entire world can do a better job of being you than you."</i>
+<i>"Constantly think about how you could be doing things better."</i>
 <br>
-<b>- Unknown</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
