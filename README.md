@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Constantly think about how you could be doing things better."</i>
+<i>"Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
