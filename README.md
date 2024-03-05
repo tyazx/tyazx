@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The act of taking the first step is what separates the winners from the losers."</i>
+<i>"It is hard to fail, but it is worse never to have tried to succeed."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
