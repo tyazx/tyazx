@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it."</i>
+<i>"Every moment is a fresh beginning."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
