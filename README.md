@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are today where your thoughts have brought you."</i>
+<i>"Do anything, but let it produce joy."</i>
 <br>
-<b>- James Allen</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
