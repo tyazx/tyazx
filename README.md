@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is hard to fail, but it is worse never to have tried to succeed."</i>
+<i>"From morning till night, we should never rely on a single thing."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
