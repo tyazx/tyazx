@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes it is harder to deprive oneself of a pain than of a pleasure."</i>
+<i>"It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
