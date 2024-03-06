@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What we know is a drop, what we don't know is an ocean. "</i>
+<i>"Time is a game played beautifully by children."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
