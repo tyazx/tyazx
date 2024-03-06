@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never regret your past. Rather, embrace it as the teacher that it is."</i>
+<i>"Wake up and smile! Wake up and be grateful!"</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
