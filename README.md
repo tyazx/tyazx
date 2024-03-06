@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True life is lived when tiny changes occur."</i>
+<i>"Never regret your past. Rather, embrace it as the teacher that it is."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
