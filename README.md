@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love."</i>
+<i>"Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Jeffrey Gitomer</b>
 </blockquote>
 </p>
 
