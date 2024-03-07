@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A dream doesn't become reality through magic it takes sweat, determination and hard work."</i>
+<i>"Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
