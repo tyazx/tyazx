@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us."</i>
+<i>"A bird does not sing because it has an answer. It sings because it has a song."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
