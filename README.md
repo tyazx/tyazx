@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The friend is the man who knows all about you, and still likes you."</i>
+<i>"To do two things at once is to do neither."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
