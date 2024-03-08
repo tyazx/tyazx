@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want more luck, take more chances."</i>
+<i>"To the mind that is still, the whole universe surrenders."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
