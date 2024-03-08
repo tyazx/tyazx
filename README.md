@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only when one allows themself the right to die, do they then give yourself the permission to live."</i>
+<i>"He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed. "</i>
 <br>
-<b>- C. Sean McGee</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
