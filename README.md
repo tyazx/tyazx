@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To escape from the world means that one's mind is not concerned with the opinions of the world."</i>
+<i>"To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh."</i>
 <br>
-<b>- Dogen</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
