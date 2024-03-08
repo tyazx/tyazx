@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Choose a job you love, and you will never have to work a day in your life. "</i>
+<i>"To be great is to be misunderstood."</i>
 <br>
-<b>- Confucius</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
