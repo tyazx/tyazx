@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Definiteness of purpose is the starting point of all achievement. "</i>
+<i>"Failure is just information and an opportunity to change your course."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
