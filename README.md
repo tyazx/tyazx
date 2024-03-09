@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let us rather run the risk of wearing out than rusting out."</i>
+<i>"Men go to far greater lengths to avoid what they fear than to obtain what they desire."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
