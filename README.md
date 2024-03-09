@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men go to far greater lengths to avoid what they fear than to obtain what they desire."</i>
+<i>"Help others and give something back."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
