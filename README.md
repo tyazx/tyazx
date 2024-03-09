@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Muddy water is best cleared by leaving it alone."</i>
+<i>"Nothing important is learned; it is simply remembered."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
