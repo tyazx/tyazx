@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most courageous act is still to think for yourself. Aloud."</i>
+<i>"The first step toward getting somewhere is to decide that you are not going to stay where you are."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
