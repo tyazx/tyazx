@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want something new, you have to stop doing something old."</i>
+<i>"People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
