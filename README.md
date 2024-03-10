@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a process. We are a process. The universe is a process."</i>
+<i>"The measure of who we are is what we do with what we have."</i>
 <br>
-<b>- Anne Wilson Schaef</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
