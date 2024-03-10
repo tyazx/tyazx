@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Decide what your truth is. Then live it."</i>
+<i>"To the mind that is still, the whole universe surrenders."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
