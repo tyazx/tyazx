@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True knowledge exists in knowing that you know nothing."</i>
+<i>"Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations."</i>
 <br>
-<b>- Socrates</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
