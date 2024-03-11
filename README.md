@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"While some of us act without thinking, too many of us think without acting."</i>
+<i>"If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
