@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Lack of direction, not lack of time, is the problem. We all have twenty-four hour days."</i>
+<i>"While some of us act without thinking, too many of us think without acting."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
