@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Over time, loneliness gets inside you and doesn't go away."</i>
+<i>"If ever you feel like an animal among men, be a lion."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
