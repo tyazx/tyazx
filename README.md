@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding."</i>
+<i>"We cannot change anything unless we accept it."</i>
 <br>
-<b>- John D. Rockefeller</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
