@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"TEAMWORK: the fuel that allows common people attain uncommon results."</i>
+<i>"Lack of direction, not lack of time, is the problem. We all have twenty-four hour days."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
