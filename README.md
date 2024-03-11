@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Eighty percent of success is showing up. "</i>
+<i>"Over time, loneliness gets inside you and doesn't go away."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
