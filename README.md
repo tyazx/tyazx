@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If ever you feel like an animal among men, be a lion."</i>
+<i>"True knowledge exists in knowing that you know nothing."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
