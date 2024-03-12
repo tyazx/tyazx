@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"This is the most simple and basic component of life: our struggles determine our successes."</i>
+<i>"When you judge others, you do not define them, you define yourself."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
