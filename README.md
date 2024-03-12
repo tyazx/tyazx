@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you judge others, you do not define them, you define yourself."</i>
+<i>"You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- A.A. Milne</b>
 </blockquote>
 </p>
 
