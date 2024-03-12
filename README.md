@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless."</i>
+<i>"To seek is to suffer. To seek nothing is bliss."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
