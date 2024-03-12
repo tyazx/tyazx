@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people dream of success, while others wake up and work hard at it."</i>
+<i>"I learned the value of hard work by working hard. "</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
