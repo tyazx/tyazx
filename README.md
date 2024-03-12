@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your problem isn't the problem. Your reaction is the problem."</i>
+<i>"This is the most simple and basic component of life: our struggles determine our successes."</i>
 <br>
-<b>- Unknown</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
