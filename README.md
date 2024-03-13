@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream."</i>
+<i>"You are free, and that is why you are lost. "</i>
 <br>
-<b>- Unknown</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
