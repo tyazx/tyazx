@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who realize their folly are not true fools."</i>
+<i>"Make your stand today. On this spot. On this day."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
