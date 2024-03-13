@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Action may not always bring happiness, but there is no happiness without action."</i>
+<i>"We shape clay into a pot, but it is the emptiness inside that holds whatever we want."</i>
 <br>
-<b>- William James</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
