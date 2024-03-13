@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make your stand today. On this spot. On this day."</i>
+<i>"Action may not always bring happiness, but there is no happiness without action."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
