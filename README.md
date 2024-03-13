@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't try to steer the river."</i>
+<i>"Go confidently in the direction of your dreams! Live the life you've imagined."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
