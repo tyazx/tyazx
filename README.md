@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to disappoint people with the truth than to appease them with a lie."</i>
+<i>"Be confident, not certain."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
