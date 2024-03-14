@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your success and happiness lie in you."</i>
+<i>"Trust, but verify."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
