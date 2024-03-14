@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things."</i>
+<i>"Happiness is pretty simple: someone to love, something to do, something to look forward to."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
