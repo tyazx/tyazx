@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is pretty simple: someone to love, something to do, something to look forward to."</i>
+<i>"The health of nations is more important than the wealth of nations."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
