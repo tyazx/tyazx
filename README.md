@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We shape clay into a pot, but it is the emptiness inside that holds whatever we want."</i>
+<i>"Doing what you love is the cornerstone of having abundance in your life. "</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
