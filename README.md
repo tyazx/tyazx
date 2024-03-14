@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only limits in our life are those we impose on ourselves."</i>
+<i>"Your success and happiness lie in you."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
