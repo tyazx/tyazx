@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be confident, not certain."</i>
+<i>"Rest in reason; move in passion."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
