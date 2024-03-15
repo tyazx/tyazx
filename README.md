@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing has any power over me other than that which I give it through my conscious thoughts."</i>
+<i>"Don't let the noise of others' opinions drown out your own inner voice."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
