@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The man who does not value himself, cannot value anything or anyone."</i>
+<i>"Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
