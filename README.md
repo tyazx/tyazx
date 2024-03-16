@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do what you can, with what you have, where you are."</i>
+<i>"There is a wisdom of the head, and there is a wisdom of the heart."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
