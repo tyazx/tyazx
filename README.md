@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our stories may be singular, but our destination is shared."</i>
+<i>"In order to attain the impossible, one must attempt the absurd."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
