@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A comfort zone is a beautiful place, but nothing ever grows there."</i>
+<i>"If you're afraid - don't do it, - if you're doing it - don't be afraid! "</i>
 <br>
-<b>- Unknown</b>
+<b>- Genghis Khan</b>
 </blockquote>
 </p>
 
