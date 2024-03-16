@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are tempted to give up, your breakthrough is probably just around the corner."</i>
+<i>"Our stories may be singular, but our destination is shared."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
