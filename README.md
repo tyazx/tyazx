@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Have the fearless attitude of a hero and the loving heart of a child."</i>
+<i>"Obstacles are those frightful things you see when you take your eyes off your goal."</i>
 <br>
-<b>- Soyen Shaku</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
