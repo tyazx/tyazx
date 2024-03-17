@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order to attain the impossible, one must attempt the absurd."</i>
+<i>"Difficult and meaningful will always bring more satisfaction than easy and meaningless."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
