@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In spite of everything, I shall rise again."</i>
+<i>"It's the possibility of having a dream come true that makes life interesting."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
