@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who has ever made anything of importance was disciplined."</i>
+<i>"In spite of everything, I shall rise again."</i>
 <br>
-<b>- Andrew Hendrixson</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
