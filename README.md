@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Difficult and meaningful will always bring more satisfaction than easy and meaningless."</i>
+<i>"Anyone who has ever made anything of importance was disciplined."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Andrew Hendrixson</b>
 </blockquote>
 </p>
 
