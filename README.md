@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's the possibility of having a dream come true that makes life interesting."</i>
+<i>"People will forget what you said, people will forget what you did, but people will never forget how you made them feel."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
