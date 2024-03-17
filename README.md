@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Obstacles are those frightful things you see when you take your eyes off your goal."</i>
+<i>"The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
