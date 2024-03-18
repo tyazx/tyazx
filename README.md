@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Human beings can alter their lives by altering their attitudes of mind."</i>
+<i>"Darkness is the absence of light."</i>
 <br>
-<b>- William James</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
