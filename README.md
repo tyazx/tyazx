@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you want to be honored by others, you learn to honor them first."</i>
+<i>"Your worth consists in what you are and not in what you have."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
