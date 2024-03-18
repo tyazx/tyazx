@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have as much laughter as you have faith."</i>
+<i>"Life without love is like a tree without blossoms or fruit."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
