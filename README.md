@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All that we see or seem is but a dream within a dream."</i>
+<i>"You may be disappointed if you fail, but you are doomed if you don't try. "</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
