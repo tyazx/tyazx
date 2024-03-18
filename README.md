@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life without love is like a tree without blossoms or fruit."</i>
+<i>"Even when you think you have your life all mapped out, things happen that shape your destiny in ways you might never have imagined."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
