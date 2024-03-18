@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The two most powerful warriors are patience and time."</i>
+<i>"You have as much laughter as you have faith."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
