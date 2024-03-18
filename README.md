@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't cry because it's over. Smile because it happened."</i>
+<i>"All that we see or seem is but a dream within a dream."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
