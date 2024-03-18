@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Darkness is the absence of light."</i>
+<i>"Don't cry because it's over. Smile because it happened."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
