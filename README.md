@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your worth consists in what you are and not in what you have."</i>
+<i>"Human beings can alter their lives by altering their attitudes of mind."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
