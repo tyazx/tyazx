@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want work well done, select a busy man; the other kind has no time."</i>
+<i>"Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?"</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
