@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The shoe that fits one person pinches another; there is no recipe for living that suits all cases."</i>
+<i>"Art is to console those who are broken by life."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
