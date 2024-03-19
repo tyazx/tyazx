@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You may be disappointed if you fail, but you are doomed if you don't try. "</i>
+<i>"Opportunities don't often come along. So, when they do, you have to grab them."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
