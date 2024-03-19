@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By changing nothing, nothing changes."</i>
+<i>"If you are lucky enough to find love, remember it is there and don't throw it away."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
