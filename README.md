@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My instinct is always to seek out challenges as opposed to avoiding them."</i>
+<i>"By changing nothing, nothing changes."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
