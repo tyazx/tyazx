@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ripe fruit falls by itself - but it doesn't fall in your mouth. "</i>
+<i>"I admire those who do good and expect nothing in return."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
