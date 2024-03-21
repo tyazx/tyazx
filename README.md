@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.  "</i>
+<i>"We all give up great expectations along the way."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
