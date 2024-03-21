@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it."</i>
+<i>"Hope is not a strategy. Luck is not a factor. Fear is not an option."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- James Cameron</b>
 </blockquote>
 </p>
 
