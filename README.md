@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't hate the player. Change the game."</i>
+<i>"It's always to soon to quit!"</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
