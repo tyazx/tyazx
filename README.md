@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All human wisdom is contained in these two words - Wait and Hope"</i>
+<i>"To be calm is the highest achievement of the self."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
