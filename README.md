@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's always to soon to quit!"</i>
+<i>"Take interest and even delight in doing the small things well."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
