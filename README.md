@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Others can stop you temporarily - you are the only one who can do it permanently."</i>
+<i>"Only by attracting the best people will you accomplish great deeds."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
