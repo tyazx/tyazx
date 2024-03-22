@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Goodness is the only investment that never fails."</i>
+<i>"It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
