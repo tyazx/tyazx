@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The key to success is to focus our conscious mind on things we desire not things we fear. "</i>
+<i>"Youth has no age."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
