@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to offer no excuse than a bad one. "</i>
+<i>"I try more and more to be myself, caring relatively little whether people approve or disapprove."</i>
 <br>
-<b>- George Washington</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
