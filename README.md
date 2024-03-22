@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The man who removes a mountain begins by carrying away small stones."</i>
+<i>"The significance of life is living."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
