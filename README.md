@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I try more and more to be myself, caring relatively little whether people approve or disapprove."</i>
+<i>"Do one thing every day that scares you."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
