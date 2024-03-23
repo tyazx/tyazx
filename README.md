@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Forgive those who have hurt you."</i>
+<i>"Dance first. Think later. It's the natural order."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
