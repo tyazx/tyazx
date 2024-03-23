@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Self-knowledge is the beginning of self-correction."</i>
+<i>"Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
