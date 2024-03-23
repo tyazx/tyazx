@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wise men speak because they have something to say; Fools because they have to say something."</i>
+<i>"Forget safety. Live where you fear to live."</i>
 <br>
-<b>- Plato</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
