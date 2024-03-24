@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure means you've now learned another valuable lesson that pushes you one step closer to success."</i>
+<i>"Waste not fresh tears over old griefs."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
