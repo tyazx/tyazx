@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Exceptional thinkers ignore their critics and go about their business making history."</i>
+<i>"The dead receive more flowers than the living because regret is stronger than gratitude."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
