@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination."</i>
+<i>"Failure means you've now learned another valuable lesson that pushes you one step closer to success."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
