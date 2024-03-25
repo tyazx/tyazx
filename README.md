@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What's the point in being smart enough to read, if everything you read makes you dumb?"</i>
+<i>"Your only limitations are those you set up in your mind or permit others to set up for you."</i>
 <br>
-<b>- C. Sean McGee</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
