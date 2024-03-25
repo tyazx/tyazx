@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You will face many defeats in life, but never let yourself be defeated."</i>
+<i>"You can't make someone feel good about themselves until you feel good about yourself."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
