@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Blessed is he who expects nothing, for he shall be disappointed."</i>
+<i>"Life would be tragic if it weren't funny."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
