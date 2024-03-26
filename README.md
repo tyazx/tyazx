@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more one judges, the less one loves."</i>
+<i>"It's the unknown we fear when we look upon death and darkness, nothing more."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
