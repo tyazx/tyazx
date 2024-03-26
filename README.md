@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes you have to shut your eyes, so you can see the real beauty."</i>
+<i>"Older men declare war. But it is youth that must fight and die."</i>
 <br>
-<b>- Kilian Jornet</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
