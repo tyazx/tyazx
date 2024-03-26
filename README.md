@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not all readers are leaders, but all leaders are readers."</i>
+<i>"The more one judges, the less one loves."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
