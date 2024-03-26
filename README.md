@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is the willingness to engage in a risk-taking behavior regardless of whether the consequences are unknown or possibly adverse."</i>
+<i>"Better to die fighting for freedom than be a prisoner all the days of your life."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
