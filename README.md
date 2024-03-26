@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only the one reality, neither to be realized nor attained."</i>
+<i>"Kind words can be short and easy to speak, but their echoes are truly endless."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
