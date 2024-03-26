@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Older men declare war. But it is youth that must fight and die."</i>
+<i>"We have no more right to consume happiness without producing it than to consume wealth without producing it."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
