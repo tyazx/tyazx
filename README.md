@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have no more right to consume happiness without producing it than to consume wealth without producing it."</i>
+<i>"Only those who will risk going too far can possibly find out how far one can go."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
