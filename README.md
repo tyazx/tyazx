@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy."</i>
+<i>"You can suffer the pain of change or suffer remaining the way you are."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
