@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stay away from people who makes you feel like you are wasting their time."</i>
+<i>"Success is getting what you want... Happiness is wanting what you get."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
