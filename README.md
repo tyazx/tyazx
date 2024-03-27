@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who wishes to be obeyed must know how to command."</i>
+<i>"You are not what you think you are, You are not what others think you are, You are what you think others think you are."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
