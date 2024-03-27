@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To travel is to be alive, but to get somewhere is to be dead."</i>
+<i>"If you're afraid - don't do it, - if you're doing it - don't be afraid! "</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Genghis Khan</b>
 </blockquote>
 </p>
 
