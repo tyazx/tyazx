@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You just can't beat the person who never gives up. "</i>
+<i>"Man must use what he has, not hope for what is not."</i>
 <br>
-<b>- Babe Ruth</b>
+<b>- G.I. Gurdjieff</b>
 </blockquote>
 </p>
 
