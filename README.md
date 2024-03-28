@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better a diamond with a flaw than a pebble without one."</i>
+<i>"We can know only that we know nothing. And that is the highest degree of human wisdom."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
