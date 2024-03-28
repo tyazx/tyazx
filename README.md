@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing can dim the light which shines from within."</i>
+<i>"Empty your mind, be formless, shapeless, like water."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
