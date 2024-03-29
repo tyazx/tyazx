@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Simple words, repeated daily, can change your life."</i>
+<i>"If you care about someone enough, you'll always be there for them no matter what."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
