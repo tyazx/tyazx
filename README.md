@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is well known that those who do not trust themselves never trust others."</i>
+<i>"By changing nothing, nothing changes."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
