@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you care about someone enough, you'll always be there for them no matter what."</i>
+<i>"Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
