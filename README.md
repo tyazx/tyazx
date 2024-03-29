@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A scientific man ought to have no wishes, no affections, - a mere heart of stone."</i>
+<i>"The more you lose yourself in something bigger than yourself, the more energy you will have."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
