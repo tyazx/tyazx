@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you lose yourself in something bigger than yourself, the more energy you will have."</i>
+<i>"TEAMWORK: the fuel that allows common people attain uncommon results."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
