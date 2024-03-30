@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Follow your instincts. That is where true wisdom manifests itself."</i>
+<i>"There's no coming to consciousness without pain"</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
