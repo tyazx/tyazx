@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart."</i>
+<i>"Identification with our mind causes thought to become compulsive."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
