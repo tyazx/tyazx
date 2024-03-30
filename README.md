@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I didn't get there by wishing for it or hoping for it, but by working for it."</i>
+<i>"Follow your instincts. That is where true wisdom manifests itself."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
