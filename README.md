@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. "</i>
+<i>"Progress is limited by your ability to change your mind."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
