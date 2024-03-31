@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Age is a very high price to pay for maturity."</i>
+<i>"If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. "</i>
 <br>
-<b>- William James</b>
+<b>- Nikola Tesla</b>
 </blockquote>
 </p>
 
