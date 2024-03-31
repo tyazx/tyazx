@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everybody's life is either rewarding or an example."</i>
+<i>"If the happiness and prosperity of other people depend on you, you have nothing to fear anymore."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
