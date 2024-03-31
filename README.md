@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Progress is limited by your ability to change your mind."</i>
+<i>"Believe nothing you hear, and only one half that you see."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
