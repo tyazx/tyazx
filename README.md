@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live your life as an exclamation rather than an explanation."</i>
+<i>"Everybody's life is either rewarding or an example."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
