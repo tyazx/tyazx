@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You'll see it when you believe it. "</i>
+<i>"When you change what you believe, you change what you do."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
