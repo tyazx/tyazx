@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can only lose something that you have, but you cannot lose something that you are."</i>
+<i>"Do you want to know who you are? Don't ask. Act! Action will delineate and define you."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
