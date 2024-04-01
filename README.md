@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are unable to find the truth right where you are, where else do you expect to find it?"</i>
+<i>"It's not the men in your life that matters, it's the life in your men."</i>
 <br>
-<b>- Dogen</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
