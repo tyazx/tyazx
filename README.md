@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty."</i>
+<i>"To lose your temper is only useful once a year."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Colin R. Davis</b>
 </blockquote>
 </p>
 
