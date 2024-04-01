@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let each man exercise the art he knows."</i>
+<i>"If you are unable to find the truth right where you are, where else do you expect to find it?"</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
