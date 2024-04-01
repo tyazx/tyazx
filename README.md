@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't cry because it's over. Smile because it happened."</i>
+<i>"Words have no power to impress the mind without the exquisite horror of their reality."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
