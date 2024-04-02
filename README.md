@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world is a puzzle; no need to make sense out of it."</i>
+<i>"Knowing is not enough, we must apply. Willing is not enough, we must do.  "</i>
 <br>
-<b>- Socrates</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
