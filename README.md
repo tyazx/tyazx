@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just do the best you can. No one can do more than that."</i>
+<i>"The world is a puzzle; no need to make sense out of it."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
