@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are people who have money and people who are rich."</i>
+<i>"Love is the energy of life."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Robert Browning</b>
 </blockquote>
 </p>
 
