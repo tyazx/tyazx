@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the energy of life."</i>
+<i>"Sometimes adversity is what you need to face in order to become successful."</i>
 <br>
-<b>- Robert Browning</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
