@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The act of taking the first step is what separates the winners from the losers."</i>
+<i>"Just do the best you can. No one can do more than that."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
