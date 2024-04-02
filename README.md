@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing is not enough, we must apply. Willing is not enough, we must do.  "</i>
+<i>"Everything that irritates us about others."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
