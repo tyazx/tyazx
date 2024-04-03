@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only those who will risk going too far can possibly find out how far one can go."</i>
+<i>"One always begins to forgive a place as soon as it's left behind."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
