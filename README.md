@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life doesn't get easier or more forgiving, we get stronger and more resilient."</i>
+<i>"Being entirely honest with oneself is a good exercise."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
