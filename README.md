@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is what happens to you while you're busy making other plans."</i>
+<i>"The past has no power over the present moment. "</i>
 <br>
-<b>- John Lennon</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
