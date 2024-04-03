@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One always begins to forgive a place as soon as it's left behind."</i>
+<i>"Where does a thought go when it's forgotten?"</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
