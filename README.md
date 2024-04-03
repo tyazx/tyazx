@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The past has no power over the present moment. "</i>
+<i>"No one is useless in this world who lightens the burdens of another."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
