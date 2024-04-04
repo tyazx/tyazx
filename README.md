@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can do two things at once, but you can't focus effectively on two things at once."</i>
+<i>"Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
