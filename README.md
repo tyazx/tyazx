@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not what you pay a man, but what he costs you that counts."</i>
+<i>"The more acquaintances you have, the less you know them."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
