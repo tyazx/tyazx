@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To live is to be willing to die over and over again."</i>
+<i>"Do not look upon this world with fear and loathing. Bravely face whatever the gods offer."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
