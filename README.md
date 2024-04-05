@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Surround yourself only with people who are going to take you higher."</i>
+<i>"You can suffer the pain of change or suffer remaining the way you are."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
