@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even though you are on the right track - you will get run over if you just sit there."</i>
+<i>"The most creative act you will ever undertake is the act of creating yourself."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
