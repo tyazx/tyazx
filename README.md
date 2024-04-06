@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine."</i>
+<i>"Wisdom is doing now what you are going to be happy with later on."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
