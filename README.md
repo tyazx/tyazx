@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just do the best you can. No one can do more than that."</i>
+<i>"People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
