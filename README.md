@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Genius, in truth, means little more than the faculty of perceiving in an unhabitual way."</i>
+<i>"Patience is not the ability to wait but the ability to keep a good attitude while waiting."</i>
 <br>
-<b>- William James</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
