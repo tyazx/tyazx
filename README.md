@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance."</i>
+<i>"Always seek out the seed of triumph in every adversity."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
