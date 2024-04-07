@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you want something in life, you just gotta reach out and grab it."</i>
+<i>"It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
