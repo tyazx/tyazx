@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You will succeed because most people are lazy."</i>
+<i>"Whatever you are, be a good one."</i>
 <br>
-<b>- Shahir Zag</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
