@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What's the point in being smart enough to read, if everything you read makes you dumb?"</i>
+<i>"Everything has beauty but not everyone sees it."</i>
 <br>
-<b>- C. Sean McGee</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
