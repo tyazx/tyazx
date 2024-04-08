@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time is more valuable than money. You can get more money, but you cannot get more time."</i>
+<i>"Everything will be ok in the end. If it's not ok, it's not the end."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
