@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no fear for one whose mind is not filled with desires."</i>
+<i>"Here is the test to find whether your mission on earth is finished. If you're alive, it isn't."</i>
 <br>
-<b>- Buddha</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
