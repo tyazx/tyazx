@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unhappiness enters through a door that has been left open."</i>
+<i>"If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
