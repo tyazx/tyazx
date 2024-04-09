@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let the noise of others' opinions drown out your own inner voice."</i>
+<i>"You need a plan to build a house. To build a life, it is even more important to have a plan or goal."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
