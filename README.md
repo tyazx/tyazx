@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You need a plan to build a house. To build a life, it is even more important to have a plan or goal."</i>
+<i>"Turn your wounds into wisdom. "</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
