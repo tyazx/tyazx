@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In matters of style, swim with the current; in matters of principle, stand like a rock."</i>
+<i>"You can never cross the ocean unless you have the courage to lose sight of the shore."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Christopher Columbus</b>
 </blockquote>
 </p>
 
