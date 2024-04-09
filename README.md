@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny."</i>
+<i>"Your only obligation in any lifetime is to be true to yourself."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
