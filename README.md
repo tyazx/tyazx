@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it."</i>
+<i>"In matters of style, swim with the current; in matters of principle, stand like a rock."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
