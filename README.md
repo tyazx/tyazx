@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy."</i>
+<i>"Life is the art of drawing sufficient conclusions from insufficient premises."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
