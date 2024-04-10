@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly."</i>
+<i>"We are what we repeatedly do. Excellence, then, is not an act, but a habit."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
