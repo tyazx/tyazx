@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't allow your mind to tell your heart what to do. The mind gives up easily."</i>
+<i>"The best of us sometimes eat our words.  "</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
