@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only real security that a man can have in this world is a reserve of knowledge, experience and ability. "</i>
+<i>"You have to make time, even for something as universal as staring at the stars."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- W.P. Kinsella</b>
 </blockquote>
 </p>
 
