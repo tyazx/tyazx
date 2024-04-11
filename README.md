@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Riches don't make a man rich, they only make him busier."</i>
+<i>"Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream."</i>
 <br>
-<b>- Christopher Columbus</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
