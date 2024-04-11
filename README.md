@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is essentially an endless series of problems. The solution to one problem is merely the creation of another."</i>
+<i>"Riches don't make a man rich, they only make him busier."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Christopher Columbus</b>
 </blockquote>
 </p>
 
