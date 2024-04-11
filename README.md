@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be - don't try to become "</i>
+<i>"Consider the rights of others before your own feelings, and the feelings of others before your own rights."</i>
 <br>
-<b>- Osho</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
