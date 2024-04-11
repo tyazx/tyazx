@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are the average of the five people you spend the most time with."</i>
+<i>"There can be no deep disappointment where there is not deep love."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
