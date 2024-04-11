@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world only exists in your eyes. You can make it as big or as small as you want."</i>
+<i>"The strength of a wall is neither greater nor less than the courage of the men who defend it. "</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Genghis Khan</b>
 </blockquote>
 </p>
 
