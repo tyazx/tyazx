@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Consider the rights of others before your own feelings, and the feelings of others before your own rights."</i>
+<i>"The sun shines upon good and bad alike."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
