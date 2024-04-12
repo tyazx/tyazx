@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place."</i>
+<i>"Every man is guilty of all the good he did not do. "</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
