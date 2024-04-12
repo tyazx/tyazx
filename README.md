@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An intelligence test sometimes shows a man how smart he would have been not to have taken it."</i>
+<i>"What are we doing here, that is the question."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
