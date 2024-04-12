@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The meaning of life is just to be alive. It is so plain and so obvious and so simple."</i>
+<i>"Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
