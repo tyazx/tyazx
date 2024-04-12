@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility."</i>
+<i>"Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
