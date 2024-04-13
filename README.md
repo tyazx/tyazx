@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success on the outside means nothing unless you also have success within."</i>
+<i>"Some people feel the rain. Others just get wet. "</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
