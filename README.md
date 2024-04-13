@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can discover what your enemy fears most by observing the means he uses to frighten you."</i>
+<i>"Be happy now, without reason - or you never will be at all."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
