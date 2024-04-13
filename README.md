@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Obstacles are those frightful things you see when you take your eyes off your goal."</i>
+<i>"Success on the outside means nothing unless you also have success within."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
