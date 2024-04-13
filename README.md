@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The nearer a man comes to a calm mind, the closer he is to strength."</i>
+<i>"A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
