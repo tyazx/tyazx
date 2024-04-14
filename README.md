@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control."</i>
+<i>"Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. "</i>
 <br>
-<b>- Epictetus</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
