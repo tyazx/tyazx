@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results."</i>
+<i>"Rest in reason; move in passion."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
