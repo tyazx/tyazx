@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The problem happens when we have multiple desires. When we have fuzzy desires. When we want to do ten different things and we're not clear about which is the one we care about."</i>
+<i>"I try more and more to be myself, caring relatively little whether people approve or disapprove."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
