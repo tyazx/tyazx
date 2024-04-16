@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you always do what you've always done, you'll always get what you've always got. "</i>
+<i>"The less you respond to negative people, the more positive your life will become."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
