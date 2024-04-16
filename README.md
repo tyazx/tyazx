@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our attitude toward life determines life's attitude towards us."</i>
+<i>"If your mind is empty, it is always ready for anything, it is open to everything."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
