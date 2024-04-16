@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love the life you live, live the life you love."</i>
+<i>"Our attitude toward life determines life's attitude towards us."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
