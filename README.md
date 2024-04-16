@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Misfortune shows those who are not really friends."</i>
+<i>"If someone betrays you once, it's their fault; if they betray you twice, it's your fault."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
