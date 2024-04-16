@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A crisis is an opportunity riding the dangerous wind."</i>
+<i>"Misfortune shows those who are not really friends."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
