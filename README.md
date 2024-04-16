@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We suffer more often in imagination than in reality.  "</i>
+<i>"To affect the quality of the day, that is the highest of arts."</i>
 <br>
-<b>- Seneca</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
