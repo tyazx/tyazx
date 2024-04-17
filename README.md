@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want peace, you won't get it with violence."</i>
+<i>"For fast-acting relief try slowing down."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
