@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are a function of what the whole universe is doing in the same way that a wave is a function of what the whole ocean is doing."</i>
+<i>"You need to be doing fewer things for more effect instead of doing more things with side effects."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
