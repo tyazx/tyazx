@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one returns from a long journey the same person they were before."</i>
+<i>"Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
