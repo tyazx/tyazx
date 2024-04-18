@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To a mind that is still, the entire universe surrenders."</i>
+<i>"No one returns from a long journey the same person they were before."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
