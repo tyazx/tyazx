@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be approximately right rather than exactly wrong."</i>
+<i>"To a mind that is still, the entire universe surrenders."</i>
 <br>
-<b>- John Tukey</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
