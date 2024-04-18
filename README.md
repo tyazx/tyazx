@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not fear failure but rather fear not trying."</i>
+<i>"Even if you stumble and fall down, it doesn't mean you've chosen the wrong path."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
