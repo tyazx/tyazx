@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored."</i>
+<i>"Life is a succession of lessons, which must be lived to be understood."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
