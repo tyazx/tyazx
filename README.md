@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship takes time and energy if it's going to work."</i>
+<i>"Be approximately right rather than exactly wrong."</i>
 <br>
-<b>- Betty White</b>
+<b>- John Tukey</b>
 </blockquote>
 </p>
 
