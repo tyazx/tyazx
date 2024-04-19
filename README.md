@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving."</i>
+<i>"Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Anne Wilson Schaef</b>
 </blockquote>
 </p>
 
