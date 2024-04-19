@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We shape clay into a pot, but it is the emptiness inside that holds whatever we want."</i>
+<i>"Peace is not absence of conflict, it is the ability to handle conflict by peaceful means."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
