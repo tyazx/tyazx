@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never do things others can do and will do if there are things others cannot do or will not do."</i>
+<i>"Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
