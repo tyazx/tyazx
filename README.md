@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friends ask you questions; enemies question you."</i>
+<i>"For fast-acting relief try slowing down."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
