@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can often change your circumstances by changing your attitude."</i>
+<i>"Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Billie Jean King</b>
 </blockquote>
 </p>
 
