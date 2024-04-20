@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Once a decision was made, I didn't worry about it afterward."</i>
+<i>"Your imagination is your preview of life's coming attractions."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
