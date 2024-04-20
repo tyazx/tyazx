@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For fast-acting relief try slowing down."</i>
+<i>"Once a decision was made, I didn't worry about it afterward."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
