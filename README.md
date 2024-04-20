@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your imagination is your preview of life's coming attractions."</i>
+<i>"Never do things others can do and will do if there are things others cannot do or will not do."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
