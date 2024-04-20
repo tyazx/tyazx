@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We meet ourselves time and again in a thousand disguises on the path of life."</i>
+<i>"Silence is a source of great strength."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
