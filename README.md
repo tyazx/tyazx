@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most of the evil in this world is done by people with good intentions."</i>
+<i>"I didn't get there by wishing for it or hoping for it, but by working for it."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
