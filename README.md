@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Money poisons you when you've got it, and starves you when you haven't."</i>
+<i>"To every action there is always opposed an equal reaction."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
