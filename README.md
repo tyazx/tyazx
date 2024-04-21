@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By the practice of meditation, you will find that you are carrying within your heart a portable paradise."</i>
+<i>"You can't build a reputation on what you are going to do. "</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
