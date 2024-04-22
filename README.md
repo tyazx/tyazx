@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It does not do to dwell on dreams and forget to live, remember that."</i>
+<i>"Imagination is the true magic carpet."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
