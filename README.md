@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I begin with an idea and then it becomes something else."</i>
+<i>"The truly rich men are the ones who have health, loved ones and a work they love."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
