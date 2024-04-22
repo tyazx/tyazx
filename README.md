@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing we see or hear is perfect. But right there in the imperfection is perfect reality."</i>
+<i>"Real loss is only possible when you love something more than you love yourself."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Robin Williams</b>
 </blockquote>
 </p>
 
