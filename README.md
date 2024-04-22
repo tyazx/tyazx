@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Real loss is only possible when you love something more than you love yourself."</i>
+<i>"Death smiles at us all. All we can do is smile back."</i>
 <br>
-<b>- Robin Williams</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
