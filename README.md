@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quality means doing it right when no one is looking."</i>
+<i>"There is peace even in the storm."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
