@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The purpose of life is the expansion of happiness."</i>
+<i>"Don't learn to do, but learn in doing."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
