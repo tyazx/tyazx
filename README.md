@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't learn to do, but learn in doing."</i>
+<i>"Life has no limitations except the ones you make."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
