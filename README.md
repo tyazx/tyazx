@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What loneliness is more lonely than distrust?"</i>
+<i>"What the mind can conceive, it can achieve."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
