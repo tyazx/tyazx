@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're walking down the right path and you're willing to keep walking, eventually you'll make progress."</i>
+<i>"I'm an optimist by choice not by stupidity."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
