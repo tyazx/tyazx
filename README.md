@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you let your head get too big, it'll break your neck."</i>
+<i>"May you find grace as you surrender to life. May you find happiness, as you stop seeking it."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
