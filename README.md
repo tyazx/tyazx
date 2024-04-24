@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good luck is opportunity meeting preparedness."</i>
+<i>"Not everything that weighs you down is yours to carry."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
