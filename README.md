@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not everything that weighs you down is yours to carry."</i>
+<i>"If you let your head get too big, it'll break your neck."</i>
 <br>
-<b>- Unknown</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
