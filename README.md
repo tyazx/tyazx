@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If it entertains you now but will bore you someday, it's a distraction. Keep looking."</i>
+<i>"All human beings can alter their lives by altering their attitudes."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
