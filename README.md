@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you aim at nothing, you will hit it every time.  "</i>
+<i>"Our happiness depends on the habit of mind we cultivate."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
