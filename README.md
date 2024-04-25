@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the mark of an educated mind to be able to entertain a thought without accepting it."</i>
+<i>"There are two things a person should never be angry at, what they can help, and what they cannot."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
