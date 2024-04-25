@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Absorb what is useful, discard what is useless and add what is specifically your own.  "</i>
+<i>"All leaders are readers."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
