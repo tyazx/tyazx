@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No idea, no matter how good, will work if it doesn't get used."</i>
+<i>"Zen insists that the whole trouble is just our failure to realize that there is no problem."</i>
 <br>
-<b>- Peter A. Cohen</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
