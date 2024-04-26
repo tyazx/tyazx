@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Faith is taking the first step even when you don't see the whole staircase."</i>
+<i>"You need to be doing fewer things for more effect instead of doing more things with side effects."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
