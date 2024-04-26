@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freedom from desire leads to inner peace."</i>
+<i>"Art is the signature of civilizations. "</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
