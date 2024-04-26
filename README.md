@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words have no power to impress the mind without the exquisite horror of their reality."</i>
+<i>"Be not afraid of growing slowly, be afraid only of standing still. "</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
