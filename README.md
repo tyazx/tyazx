@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be not afraid of growing slowly, be afraid only of standing still. "</i>
+<i>"Freedom from desire leads to inner peace."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
