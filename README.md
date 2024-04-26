@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board."</i>
+<i>"Words have no power to impress the mind without the exquisite horror of their reality."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
