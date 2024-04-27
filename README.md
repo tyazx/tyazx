@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where violence reigns, reason is weak."</i>
+<i>"The greatest test of courage on earth is to bear defeat without losing heart."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
