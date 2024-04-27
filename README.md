@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot find peace avoiding life."</i>
+<i>"Courage is knowing what not to fear."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
