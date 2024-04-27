@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest test of courage on earth is to bear defeat without losing heart."</i>
+<i>"You are not what you think you are, You are not what others think you are, You are what you think others think you are."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
