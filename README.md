@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I pay attention to every minute of the day."</i>
+<i>"Persistence is very important. You should not give up unless you are forced to give up."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
