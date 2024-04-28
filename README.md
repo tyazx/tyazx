@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"On the other side of the clouds is a bright blue sky."</i>
+<i>"He who knows, does not speak. He who speaks, does not know."</i>
 <br>
-<b>- Unknown</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
