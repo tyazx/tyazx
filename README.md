@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are born from a quiet sleep, and we die to a calm awakening"</i>
+<i>"We become brave by doing brave acts."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
