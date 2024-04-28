@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An ounce of performance is worth pounds of promises."</i>
+<i>"Whatever you think the world is withholding from you, you are withholding from the world."</i>
 <br>
-<b>- Mae West</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
