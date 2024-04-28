@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you think the world is withholding from you, you are withholding from the world."</i>
+<i>"On the other side of the clouds is a bright blue sky."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
