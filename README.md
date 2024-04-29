@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you done it, it ain't bragging."</i>
+<i>"When you win, say nothing, when you lose say less."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
