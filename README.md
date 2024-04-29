@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unless you're ashamed of yourself now and then, you're not honest."</i>
+<i>"It is useless to attempt to reason a man out of a thing he was never reasoned into."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
