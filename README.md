@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mistake is a mistake only if you make it twice."</i>
+<i>"A pessimist is one who makes difficulties of his opportunities and an optimist is one who makes opportunities of his difficulties."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
