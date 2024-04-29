@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is useless to attempt to reason a man out of a thing he was never reasoned into."</i>
+<i>"Peace of mind is that mental condition in which you have accepted the worst."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
