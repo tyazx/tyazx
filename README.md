@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are only encounters in history. There are no accidents."</i>
+<i>"Unless you're ashamed of yourself now and then, you're not honest."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
