@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you move beyond your fear, you feel free."</i>
+<i>"Nothing can bring you peace but yourself."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
