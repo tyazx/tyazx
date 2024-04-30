@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Create each day anew."</i>
+<i>"Happiness is not something ready made. It comes from your own actions."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
