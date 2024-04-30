@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The positive thinker sees the invisible, feels the intangible, and achieves the impossible."</i>
+<i>"Repetition does not transform a lie into a truth."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
