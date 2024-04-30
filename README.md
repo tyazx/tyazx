@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never trust he who trusts everyone."</i>
+<i>"When you move beyond your fear, you feel free."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
