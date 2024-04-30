@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Honesty is the first chapter in the book of wisdom."</i>
+<i>"Begin now to be what you will be hereafter."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
