@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is not something ready made. It comes from your own actions."</i>
+<i>"Never trust he who trusts everyone."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
