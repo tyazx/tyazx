@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I didn't get there by wishing for it or hoping for it, but by working for it."</i>
+<i>"The positive thinker sees the invisible, feels the intangible, and achieves the impossible."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
