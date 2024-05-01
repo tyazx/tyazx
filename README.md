@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world."</i>
+<i>"To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength."</i>
 <br>
-<b>- Gabor Mate</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
