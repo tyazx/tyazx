@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunities don't often come along. So, when they do, you have to grab them."</i>
+<i>"Heart is what separates the good from the great."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
