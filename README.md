@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is during our darkest moments that we must focus to see the light."</i>
+<i>"If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
