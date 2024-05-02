@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To wish you were someone else is to waste the person you are."</i>
+<i>"If everyone is moving forward together, then success takes care of itself."</i>
 <br>
-<b>- Unknown</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
