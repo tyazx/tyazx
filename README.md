@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first rule of handling conflict is don't hang around people who are constantly engaging in conflict."</i>
+<i>"If you are unable to find the truth right where you are, where else do you expect to find it?"</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
