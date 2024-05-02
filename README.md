@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are unable to find the truth right where you are, where else do you expect to find it?"</i>
+<i>"To wish you were someone else is to waste the person you are."</i>
 <br>
-<b>- Dogen</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
