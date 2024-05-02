@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The older you get, the more you understand how your conscience works."</i>
+<i>"A man who cannot tolerate small misfortunes can never accomplish great things."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
