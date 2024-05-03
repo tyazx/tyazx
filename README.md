@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are never too old to set another goal or to dream a new dream."</i>
+<i>"Don't allow your mind to tell your heart what to do. The mind gives up easily."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
