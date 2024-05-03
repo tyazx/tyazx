@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time is a game played beautifully by children."</i>
+<i>"Life is a journey, not a destination."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
