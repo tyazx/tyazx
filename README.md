@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your spirit is the true shield."</i>
+<i>"Whatever is begun in anger, ends in shame."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
