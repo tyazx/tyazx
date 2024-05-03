@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. "</i>
+<i>"Time is a game played beautifully by children."</i>
 <br>
-<b>- Jack London</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
