@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty."</i>
+<i>"It's not how much we give but how much love we put into giving."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
