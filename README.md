@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There can be no deep disappointment where there is not deep love."</i>
+<i>"Start the day with love, spend the day with love, fill the day with love and end the day with love."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
