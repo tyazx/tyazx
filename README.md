@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People who have goals succeed because they know where they're going. It's that simple."</i>
+<i>"Life does not get better by chance, it gets better by change."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
