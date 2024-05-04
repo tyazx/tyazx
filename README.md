@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Start the day with love, spend the day with love, fill the day with love and end the day with love."</i>
+<i>"Be brave enough to suck at something new."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
