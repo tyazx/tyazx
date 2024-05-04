@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not how much we give but how much love we put into giving."</i>
+<i>"There can be no deep disappointment where there is not deep love."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
