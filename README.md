@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is like reaching an important birthday and finding you're exactly the same."</i>
+<i>"Opportunities don't often come along. So, when they do, you have to grab them."</i>
 <br>
 <b>- Audrey Hepburn</b>
 </blockquote>
