@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life does not get better by chance, it gets better by change."</i>
+<i>"Success is like reaching an important birthday and finding you're exactly the same."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
