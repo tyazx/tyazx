@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is really work unless you would rather be doing something else. "</i>
+<i>"Science can flourish only in an atmosphere of free speech. "</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
