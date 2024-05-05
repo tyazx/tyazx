@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water."</i>
+<i>"The opposite of courage in our society is not cowardice... it is conformity."</i>
 <br>
-<b>- Buddha</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
