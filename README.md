@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunities don't often come along. So, when they do, you have to grab them."</i>
+<i>"The key to immortality is first living a life worth remembering. "</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
