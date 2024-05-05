@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold."</i>
+<i>"Doubt is an uncomfortable condition, but certainty is a ridiculous one."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
