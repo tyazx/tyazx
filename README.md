@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Out of suffering have emerged the strongest souls; the most massive characters are seared with scars."</i>
+<i>"The more you take responsibility for your past and present, the more you are able to create the future you seek."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
