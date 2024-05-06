@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future is the worst thing about the present."</i>
+<i>"Inspire yourself to be great. Being good isn't good enough."</i>
 <br>
-<b>- Gustave Flaubert</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
