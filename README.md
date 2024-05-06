@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The power of man has grown in every sphere, except over himself."</i>
+<i>"A leader leads by example, not by force."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
