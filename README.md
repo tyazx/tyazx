@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Inspire yourself to be great. Being good isn't good enough."</i>
+<i>"The power of man has grown in every sphere, except over himself."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
