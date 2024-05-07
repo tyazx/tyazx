@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In spite of everything, I shall rise again."</i>
+<i>"Exceptional thinkers ignore their critics and go about their business making history."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
