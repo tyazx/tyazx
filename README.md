@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wise speak only of what they know."</i>
+<i>"It is startling to realize how much unbelief is necessary to make belief possible."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
