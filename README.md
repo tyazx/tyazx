@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never argue with ignorance. It only leads to frustration."</i>
+<i>"In spite of everything, I shall rise again."</i>
 <br>
-<b>- Unknown</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
