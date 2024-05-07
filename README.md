@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is startling to realize how much unbelief is necessary to make belief possible."</i>
+<i>"I am not what happened to me, I am what I choose to become."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
