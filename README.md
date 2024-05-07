@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never settle for the crumbs of life."</i>
+<i>"Never argue with ignorance. It only leads to frustration."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
