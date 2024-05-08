@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind."</i>
+<i>"The only lost cause is one we give up on before we enter the struggle."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
