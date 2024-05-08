@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What lies behind us and what lies before us are tiny matters compared to what lies within us."</i>
+<i>"We are what we repeatedly do. Excellence, then, is not an act, but a habit."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
