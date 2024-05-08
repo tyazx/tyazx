@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is ours to be spent, not to be saved. "</i>
+<i>"If I can pay the bills, I'm happy."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Morgan Wootten</b>
 </blockquote>
 </p>
 
