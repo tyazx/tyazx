@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."</i>
+<i>"The more you give, the more comes back to you."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
