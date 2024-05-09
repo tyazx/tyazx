@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are what we repeatedly do. Excellence, then, is not an act, but a habit."</i>
+<i>"The educated differ from the uneducated as much as the living differ from the dead."</i>
 <br>
 <b>- Aristotle</b>
 </blockquote>
