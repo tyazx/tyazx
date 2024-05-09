@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sadness is but a wall between two gardens."</i>
+<i>"There are no secrets to success. It is the result of preparation, hard work, and learning from failure."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
