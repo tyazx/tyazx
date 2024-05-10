@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make each day a new horizon."</i>
+<i>"It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
