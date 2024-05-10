@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do all things with love."</i>
+<i>"The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.  "</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
