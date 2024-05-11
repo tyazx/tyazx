@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is literally what he thinks."</i>
+<i>"Whatever satisfies the soul is truth."</i>
 <br>
-<b>- James Allen</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
