@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stop being a prisoner of your past. Become the architect of your future."</i>
+<i>"The more perfect a person is on the outside, the more demons they have on the inside."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
