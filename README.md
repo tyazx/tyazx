@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You know you are on the road to success if you would do your job and not be paid for it."</i>
+<i>"It's just a bad day, not a bad life."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
