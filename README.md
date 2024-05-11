@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A wise person should have money in their head, but not in their heart."</i>
+<i>"To be of use to the world is the only way to be happy."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
