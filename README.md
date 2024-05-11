@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever satisfies the soul is truth."</i>
+<i>"A wise person should have money in their head, but not in their heart."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
