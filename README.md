@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be of use to the world is the only way to be happy."</i>
+<i>"Without education, we are in a horrible and deadly danger of taking educated people seriously."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
