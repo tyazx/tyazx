@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The journey is what brings us happiness not the destination."</i>
+<i>"There's more to life than being a passenger."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
