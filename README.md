@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The outer conditions of a person's life will always be found to reflect their inner beliefs."</i>
+<i>"The soul should always stand ajar, ready to welcome the ecstatic experience."</i>
 <br>
-<b>- James Allen</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
