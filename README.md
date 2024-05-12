@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A moving door hinge never corrodes. Flowing water never grows stagnant."</i>
+<i>"How many times do you have to get hit over the head until you figure out who's hitting you?"</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
