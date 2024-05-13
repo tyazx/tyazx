@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even when you think you have your life all mapped out, things happen that shape your destiny in ways you might never have imagined."</i>
+<i>"You can never get enough of what you don't need to make you happy."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
