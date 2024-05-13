@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is the meaning and the purpose of life, the whole aim and end of human existence."</i>
+<i>"You want to live but do you know how to live? You are scared of dying and tell me, is the kind of life you lead really any different from being dead?"</i>
 <br>
-<b>- Aristotle</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
