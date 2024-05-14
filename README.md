@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rivers know this: there is no hurry. We shall get there some day."</i>
+<i>"Failure is not fatal, but failure to change might be."</i>
 <br>
-<b>- A.A. Milne</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
