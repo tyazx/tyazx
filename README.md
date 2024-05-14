@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man that flies from his fear may find that he has only taken a short cut to meet it."</i>
+<i>"We are most nearly ourselves when we achieve the seriousness of the child at play."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
