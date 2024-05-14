@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is the true magic carpet."</i>
+<i>"Rivers know this: there is no hurry. We shall get there some day."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- A.A. Milne</b>
 </blockquote>
 </p>
 
