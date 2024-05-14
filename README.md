@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I don't ever give up. I'd have to be dead or completely incapacitated."</i>
+<i>"Our greatest glory is not in never falling, but in rising every time we fall. "</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
