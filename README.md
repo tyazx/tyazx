@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The beautiful journey of today can only begin when we learn to let go of yesterday."</i>
+<i>"Never settle for the crumbs of life."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
