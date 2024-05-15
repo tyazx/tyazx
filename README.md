@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less you respond to negative people, the more positive your life will become."</i>
+<i>"Forgive yourself for your faults and your mistakes and move on."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
