@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You need to be doing fewer things for more effect instead of doing more things with side effects."</i>
+<i>"Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
