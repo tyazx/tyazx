@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves."</i>
+<i>"You need to be doing fewer things for more effect instead of doing more things with side effects."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
