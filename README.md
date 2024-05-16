@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you believe with feeling becomes your reality. "</i>
+<i>"There is no limitations except those we create for ourselves."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
