@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's just a bad day, not a bad life."</i>
+<i>"If you want work well done, select a busy man; the other kind has no time."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
