@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the oldest human needs is having someone to wonder where you are when you don't come home at night. "</i>
+<i>"Today I begin a new life. I will greet this day with love in my heart."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
