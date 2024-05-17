@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are dark shadows on the earth, but its lights are stronger in the contrast."</i>
+<i>"No one ever said life was fair. Just Eventful."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
