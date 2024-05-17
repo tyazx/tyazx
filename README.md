@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Begin now to be what you will be hereafter."</i>
+<i>"Growth comes at the point of resistance."</i>
 <br>
-<b>- St. Jerome</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
