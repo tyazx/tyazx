@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Children are our greatest natural resource."</i>
+<i>"Happiness can be found, even in the darkest of times, if one only remembers to turn on the light."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
