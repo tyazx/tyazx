@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Inner peace is when you realize that, in the end, nothing matters."</i>
+<i>"Children are our greatest natural resource."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
