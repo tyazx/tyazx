@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let what you cannot do interfere with what you can do."</i>
+<i>"It's not how much money you make, it's how much money you keep."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
