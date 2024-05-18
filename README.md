@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Embody what you teach, and teach only what you have embodied."</i>
+<i>"Every day is an opportunity to a make a new happy ending."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
