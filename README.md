@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your only obligation in any lifetime is to be true to yourself."</i>
+<i>"If we are not able to smile, then the world will not have peace."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
