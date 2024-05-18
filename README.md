@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Attitude drives actions. Actions drive results. Results drive lifestyles."</i>
+<i>"Don't let what you cannot do interfere with what you can do."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
