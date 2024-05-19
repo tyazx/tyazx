@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be a master of change rather than a victim of change."</i>
+<i>"It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
