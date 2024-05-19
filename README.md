@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance."</i>
+<i>"I cannot make my days longer so I strive to make them better."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
