@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not what happens to you, but how you react to it that matters."</i>
+<i>"The only person you should try to be better than is the person you were yesterday."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
