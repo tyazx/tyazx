@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated."</i>
+<i>"Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'"</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
