@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I cannot make my days longer so I strive to make them better."</i>
+<i>"Every day is an opportunity to a make a new happy ending."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
