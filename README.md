@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't need anybody to tell you who you are or what you are. You are what you are!"</i>
+<i>"Greatest success comes just one step beyond the point at which defeat overtakes you."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
