@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Over time, loneliness gets inside you and doesn't go away."</i>
+<i>"My instinct is always to seek out challenges as opposed to avoiding them."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
