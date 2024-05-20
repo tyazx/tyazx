@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest miracle is to be alive."</i>
+<i>"Good judgment comes from experience, and experience comes from bad judgment."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
