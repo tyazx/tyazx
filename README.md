@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Choose to be optimistic, it feels better."</i>
+<i>"Know your gifts and share them."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
