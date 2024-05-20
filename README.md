@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know your gifts and share them."</i>
+<i>"Decide what your truth is. Then live it."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
