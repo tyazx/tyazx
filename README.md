@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win."</i>
+<i>"Go as far as you can see and you will see further.  "</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
