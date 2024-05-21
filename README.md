@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love."</i>
+<i>"A successful man is one who can lay a firm foundation with the bricks others have thrown at him.  "</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- David Brinkley</b>
 </blockquote>
 </p>
 
