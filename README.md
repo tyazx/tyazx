@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throw me to the wolves and I will return leading the pack.  "</i>
+<i>"Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win."</i>
 <br>
-<b>- Seneca</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
