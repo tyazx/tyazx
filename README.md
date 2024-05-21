@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Decide what your truth is. Then live it."</i>
+<i>"Throw me to the wolves and I will return leading the pack.  "</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
