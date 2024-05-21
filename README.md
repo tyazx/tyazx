@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you have to be in a soap opera try not to be cast in the worst role."</i>
+<i>"Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner."</i>
 <br>
-<b>- Judy Garland</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
