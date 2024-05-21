@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A successful man is one who can lay a firm foundation with the bricks others have thrown at him.  "</i>
+<i>"Opportunity comes when you continually push forward."</i>
 <br>
-<b>- David Brinkley</b>
+<b>- Sonia Ricotti</b>
 </blockquote>
 </p>
 
