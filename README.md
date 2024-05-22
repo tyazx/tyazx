@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Forget safety. Live where you fear to live."</i>
+<i>"Short cuts make long delays."</i>
 <br>
-<b>- Rumi</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
