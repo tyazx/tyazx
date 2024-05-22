@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let us always meet each other with smile, for the smile is the beginning of love."</i>
+<i>"If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
