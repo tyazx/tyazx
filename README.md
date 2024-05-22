@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunity comes when you continually push forward."</i>
+<i>"Learning is a gift, even when pain is your teacher."</i>
 <br>
-<b>- Sonia Ricotti</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
