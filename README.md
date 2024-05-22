@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Outstanding people have one thing in common: an absolute sense of mission.  "</i>
+<i>"Take interest and even delight in doing the small things well."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
