@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge has to be improved, challenged, and increased constantly, or it vanishes."</i>
+<i>"Outstanding people have one thing in common: an absolute sense of mission.  "</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
