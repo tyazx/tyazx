@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People seldom do what they believe in. They do what is convenient, then repent."</i>
+<i>"Focus on how far you have come in life rather than looking at the accomplishments of others."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
