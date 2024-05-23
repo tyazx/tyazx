@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ask no questions, and you'll be told no lies."</i>
+<i>"You are not only responsible for what you say, but also for what you do not say. "</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
