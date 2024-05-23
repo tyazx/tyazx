@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To wish you were someone else is to waste the person you are."</i>
+<i>"Ability is a poor man's wealth."</i>
 <br>
-<b>- Unknown</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
