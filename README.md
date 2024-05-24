@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability."</i>
+<i>"To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
