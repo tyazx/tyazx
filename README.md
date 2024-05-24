@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are lucky enough to find love, remember it is there and don't throw it away."</i>
+<i>"The wisest men follow their own direction."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
