@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it."</i>
+<i>"You are what you believe in. You become that which you believe you can become."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
