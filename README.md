@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A pessimist is one who makes difficulties of his opportunities and an optimist is one who makes opportunities of his difficulties."</i>
+<i>"The eyes of others our prisons; their thoughts our cages."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
