@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wisest men follow their own direction."</i>
+<i>"The smallest act of kindness is worth more than the greatest intention.  "</i>
 <br>
-<b>- Euripides</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
