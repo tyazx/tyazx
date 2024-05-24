@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be regular and orderly in your life, so that you may be violent and original in your work."</i>
+<i>"Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it."</i>
 <br>
-<b>- Gustave Flaubert</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
