@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great ones are willing to get burned time and again as they sharpen their swords in the fire."</i>
+<i>"Money poisons you when you've got it, and starves you when you haven't."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
