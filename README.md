@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you have only one smile in you give it to the people you love."</i>
+<i>"To bear trials with a calm mind robs misfortune of its strength and burden."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
