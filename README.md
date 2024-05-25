@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To bear trials with a calm mind robs misfortune of its strength and burden."</i>
+<i>"It is well known that those who do not trust themselves never trust others."</i>
 <br>
-<b>- Seneca</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
