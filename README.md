@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have."</i>
+<i>"Man suffers only because he takes seriously what the gods made for fun."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
