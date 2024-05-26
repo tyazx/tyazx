@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Making your mark on the world is hard. If it were easy, everybody would do it."</i>
+<i>"Closing your eyes and listening to silence is self-care."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
