@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not whether you get knocked down, its whether you get back up."</i>
+<i>"Making your mark on the world is hard. If it were easy, everybody would do it."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
