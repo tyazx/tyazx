@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unless you're ashamed of yourself now and then, you're not honest."</i>
+<i>"The river that flows in you also flows in me."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
