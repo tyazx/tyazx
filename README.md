@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When one door closes another door opens. "</i>
+<i>"Unless you're ashamed of yourself now and then, you're not honest."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
