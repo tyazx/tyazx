@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Closing your eyes and listening to silence is self-care."</i>
+<i>"A hut full of laughter is richer than a palace full of sadness."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
