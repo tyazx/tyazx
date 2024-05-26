@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All our dreams can come true, if we have the courage to pursue them."</i>
+<i>"When one door closes another door opens. "</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
