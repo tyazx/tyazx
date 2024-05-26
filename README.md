@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man suffers only because he takes seriously what the gods made for fun."</i>
+<i>"Some of your greatest lessons come from your darkest moments."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Roger Lee</b>
 </blockquote>
 </p>
 
