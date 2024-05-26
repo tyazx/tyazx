@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I didn't get there by wishing for it or hoping for it, but by working for it."</i>
+<i>"Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
