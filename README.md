@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Human beings can alter their lives by altering their attitudes of mind."</i>
+<i>"A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board."</i>
 <br>
-<b>- William James</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
