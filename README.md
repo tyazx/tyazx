@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is the meaning and the purpose of life, the whole aim and end of human existence."</i>
+<i>"Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
