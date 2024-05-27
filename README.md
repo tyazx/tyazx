@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The golden opportunity you are seeking is within yourself."</i>
+<i>"Simplicity is a difficult thing to achieve.  "</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
