@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The river that flows in you also flows in me."</i>
+<i>"The clock indicates the moment...but what does eternity indicate?"</i>
 <br>
-<b>- Kabir</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
