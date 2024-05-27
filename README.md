@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Simplicity is a difficult thing to achieve.  "</i>
+<i>"The idea of ourselves is our escape from the fact of what we really are."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
