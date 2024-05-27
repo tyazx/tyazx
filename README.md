@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad."</i>
+<i>"Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
