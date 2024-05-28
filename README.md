@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach."</i>
+<i>"The enemy is a very good teacher."</i>
 <br>
-<b>- Benjamin Mays</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
