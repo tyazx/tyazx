@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life has no limitations except the ones you make."</i>
+<i>"Failure is feedback. Learn from it and move on."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
