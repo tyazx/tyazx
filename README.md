@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your life does not get better by chance, it gets better by change."</i>
+<i>"The more you are motivated by Love, The more Fearless & Free your action will be."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
