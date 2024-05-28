@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just as true humor is laughter at oneself, true humanity is knowledge of oneself."</i>
+<i>"The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Benjamin Mays</b>
 </blockquote>
 </p>
 
