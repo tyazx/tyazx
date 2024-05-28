@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you are motivated by Love, The more Fearless & Free your action will be."</i>
+<i>"You're braver than you believe, and stronger than you seem, and smarter than you think."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- A.A. Milne</b>
 </blockquote>
 </p>
 
