@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who seek the easy way do not seek the true way."</i>
+<i>"You must find the place inside yourself where nothing is impossible."</i>
 <br>
-<b>- Dogen</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
