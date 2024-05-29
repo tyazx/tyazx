@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must find the place inside yourself where nothing is impossible."</i>
+<i>"People have the illusion that all over the world, all the time, all kinds of fantastic things are happening."</i>
 <br>
-<b>- Les Brown</b>
+<b>- David Brinkley</b>
 </blockquote>
 </p>
 
