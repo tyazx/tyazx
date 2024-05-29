@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have to live life with a sense of urgency so not a minute is wasted."</i>
+<i>"Some people want it to happen, some wish it would happen, others make it happen."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
