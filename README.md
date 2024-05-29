@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're braver than you believe, and stronger than you seem, and smarter than you think."</i>
+<i>"Those who seek the easy way do not seek the true way."</i>
 <br>
-<b>- A.A. Milne</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
