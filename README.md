@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Investing in yourself is the best investment you will ever make."</i>
+<i>"People have the illusion that all over the world, all the time, all kinds of fantastic things are happening."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- David Brinkley</b>
 </blockquote>
 </p>
 
