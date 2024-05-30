@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do what you can, with what you have, where you are."</i>
+<i>"The art of being happy lies in the power of extracting happiness from common things."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
