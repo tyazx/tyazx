@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving."</i>
+<i>"If you don't break your ropes while you're alive, do you think ghosts will do it after?"</i>
 <br>
-<b>- Yanni</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
