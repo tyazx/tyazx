@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want peace, you won't get it with violence."</i>
+<i>"It's better to stand by someone's side than by yourself."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
