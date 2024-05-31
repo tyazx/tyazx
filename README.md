@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Constantly seek criticism. A well thought out critique of whatever you're doing is as valuable as gold."</i>
+<i>"Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!"</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
