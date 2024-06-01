@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you set your goals ridiculously high and its a failure, you will fail above everyone elses success."</i>
+<i>"Stuff your eyes with wonder... live as if you'd drop dead in ten seconds. See the world. It's more fantastic than any dream made or paid for in factories."</i>
 <br>
-<b>- James Cameron</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
