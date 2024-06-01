@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stuff your eyes with wonder... live as if you'd drop dead in ten seconds. See the world. It's more fantastic than any dream made or paid for in factories."</i>
+<i>"When the world pushes you to your knees, you're in the perfect position to pray."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
