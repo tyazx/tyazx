@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The purpose of life is to contribute in some way to making things better."</i>
+<i>"Logic is like the sword - those who appeal to it shall perish by it."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
