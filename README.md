@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Logic is like the sword - those who appeal to it shall perish by it."</i>
+<i>"It's not what we do once in a while that shapes our lives, but what we do consistently."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
