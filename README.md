@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A wise man will be master of his mind, a fool will be its slave."</i>
+<i>"People who belittle people, will be LITTLE people, and will accomplish very Little"</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
