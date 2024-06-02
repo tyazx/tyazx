@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A comfort zone is a beautiful place, but nothing ever grows there."</i>
+<i>"To judge a man by his weakest link or deed is like judging the power of the ocean by one wave."</i>
 <br>
-<b>- Unknown</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
