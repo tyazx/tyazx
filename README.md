@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I live by letting things happen."</i>
+<i>"A comfort zone is a beautiful place, but nothing ever grows there."</i>
 <br>
-<b>- Dogen</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
