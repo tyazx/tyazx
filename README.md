@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is like most opinions - best unexpressed."</i>
+<i>"People are doing the best that they can from their own level of consciousness."</i>
 <br>
-<b>- Kenneth Branagh</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
