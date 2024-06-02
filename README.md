@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fears are nothing more than a state of mind."</i>
+<i>"There are no mistakes in life, only lessons."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
