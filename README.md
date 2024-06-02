@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you spend too much time thinking about a thing, you'll never get it done. "</i>
+<i>"If you let your head get too big, it'll break your neck."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
