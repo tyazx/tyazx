@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes it is harder to deprive oneself of a pain than of a pleasure."</i>
+<i>"If you can't argue both sides, you can't argue."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
