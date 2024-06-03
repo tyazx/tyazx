@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot swim for new horizons until you have courage to lose sight of the shore."</i>
+<i>"Understanding that rests in what it does not understand is the finest."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
