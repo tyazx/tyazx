@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream."</i>
+<i>"Listening well is as powerful as talking well, and is also as essential to true conversation."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
