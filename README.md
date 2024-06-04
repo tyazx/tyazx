@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Talk sense to a fool and he calls you foolish."</i>
+<i>"If the plan doesn't work, change the plan, but never the goal."</i>
 <br>
-<b>- Euripides</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
