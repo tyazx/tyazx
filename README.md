@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Listening well is as powerful as talking well, and is also as essential to true conversation."</i>
+<i>"True prayer has no set form."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
