@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thinking is difficult, that's why most people judge."</i>
+<i>"Talk sense to a fool and he calls you foolish."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
