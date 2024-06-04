@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If the plan doesn't work, change the plan, but never the goal."</i>
+<i>"In spite of everything, I shall rise again."</i>
 <br>
-<b>- Unknown</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
