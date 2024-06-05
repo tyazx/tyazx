@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the End, we will remember not the words of our enemies, but the silence of our friends."</i>
+<i>"You can't let your failures define you. You have to let your failures teach you."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
