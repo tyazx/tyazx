@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is never too late to be what you might have been."</i>
+<i>"The more perfect a person is on the outside, the more demons they have on the inside."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
