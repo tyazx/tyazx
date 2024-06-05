@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We cannot expect to be happy always... by experiencing evil as well as good we become wise."</i>
+<i>"It is never too late to be what you might have been."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
