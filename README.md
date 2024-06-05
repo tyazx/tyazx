@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness."</i>
+<i>"In the End, we will remember not the words of our enemies, but the silence of our friends."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
