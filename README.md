@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Living life in style also means living a life of balance."</i>
+<i>"A hero is an ordinary person doing things in an extra ordinary way."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
