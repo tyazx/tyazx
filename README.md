@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is useless to attempt to reason a man out of a thing he was never reasoned into."</i>
+<i>"Play your part in life, but never forget that it is only a role."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
