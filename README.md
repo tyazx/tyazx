@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace is letting it be. Letting life flow, letting emotions flow through you."</i>
+<i>"Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff."</i>
 <br>
 <b>- Kamal Ravikant</b>
 </blockquote>
