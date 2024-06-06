@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The purpose of life is to contribute in some way to making things better."</i>
+<i>"Life has more imagination than we carry in our dreams."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Christopher Columbus</b>
 </blockquote>
 </p>
 
