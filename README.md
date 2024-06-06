@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life has more imagination than we carry in our dreams."</i>
+<i>"Peace is letting it be. Letting life flow, letting emotions flow through you."</i>
 <br>
-<b>- Christopher Columbus</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
