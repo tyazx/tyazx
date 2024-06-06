@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success and failure come and go, but don't let them define you. It's who you are that matters."</i>
+<i>"To escape from the world means that one's mind is not concerned with the opinions of the world."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
