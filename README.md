@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability."</i>
+<i>"It is useless to attempt to reason a man out of a thing he was never reasoned into."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
