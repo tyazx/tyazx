@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What do we live for if not to make life less difficult for each other?"</i>
+<i>"Inspire yourself to be great. Being good isn't good enough."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
