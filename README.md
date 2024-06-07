@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I dream my painting and I paint my dream."</i>
+<i>"Learning is a gift, even when pain is your teacher."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
