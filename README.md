@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Against the assault of laughter nothing can stand."</i>
+<i>"Talk sense to a fool and he calls you foolish."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
