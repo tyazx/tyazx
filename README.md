@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The season of failure is the best time for sowing the seeds of success. "</i>
+<i>"The quality of your life is determined by the quality of your thoughts."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
