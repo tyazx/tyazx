@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge isn't power until it is applied."</i>
+<i>"Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
