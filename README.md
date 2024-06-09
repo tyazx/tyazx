@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. "</i>
+<i>"Tomorrow is only found in the calendar of fools."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
