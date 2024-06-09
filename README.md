@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest."</i>
+<i>"People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind."</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
