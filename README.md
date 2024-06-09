@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wrong does not cease to be wrong because the majority share in it."</i>
+<i>"Learn to sit back and observe, not everything needs a reaction."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
