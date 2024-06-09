@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tomorrow is only found in the calendar of fools."</i>
+<i>"If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Seungsahn</b>
 </blockquote>
 </p>
 
