@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Who wishes to fight must first count the cost."</i>
+<i>"Life is essentially an endless series of problems. The solution to one problem is merely the creation of another."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
