@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have."</i>
+<i>"Who wishes to fight must first count the cost."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
