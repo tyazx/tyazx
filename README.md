@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better."</i>
+<i>"If I have seen further than others, it is by standing upon the shoulders of giants."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
