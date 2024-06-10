@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn to sit back and observe, not everything needs a reaction."</i>
+<i>"Through selfless service, you will always be fruitful and find the fulfillment of your desires."</i>
 <br>
-<b>- Unknown</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
