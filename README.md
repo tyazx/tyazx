@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is about not knowing and then doing something anyway."</i>
+<i>"Most of us will do anything to avoid facing ourselves."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
