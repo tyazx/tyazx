@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I have seen further than others, it is by standing upon the shoulders of giants."</i>
+<i>"To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
