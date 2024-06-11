@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's OK to have your eggs in one basket as long as you control what happens to that basket."</i>
+<i>"When you want something in life, you just gotta reach out and grab it."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
