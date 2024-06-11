@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every day passes whether you participate or not."</i>
+<i>"Every drop in the ocean counts. "</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
