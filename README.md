@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't know who is important to you until you actually lose them."</i>
+<i>"Every day passes whether you participate or not."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
