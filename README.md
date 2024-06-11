@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our happiness depends on the habit of mind we cultivate."</i>
+<i>"Character is destiny."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
