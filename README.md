@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh."</i>
+<i>"Behind every cloud is another cloud."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
