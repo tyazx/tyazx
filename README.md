@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are few reasons for telling the truth, but for lying the number is infinite."</i>
+<i>"Forget safety. Live where you fear to live."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
