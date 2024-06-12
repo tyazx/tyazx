@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"May you live all the days of your life."</i>
+<i>"Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
