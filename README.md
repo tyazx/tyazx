@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you take responsibility for yourself you will develop a hunger to accomplish your dream."</i>
+<i>"Victims recite problems, leaders provide solutions."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
