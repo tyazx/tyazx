@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To handle yourself, use your head; to handle others, use your heart."</i>
+<i>"Being entirely honest with oneself is a good exercise."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
