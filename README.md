@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If it's not broken, tinker with it till you find out how it works."</i>
+<i>"It's wise to tell the truth. It's even wiser to tell it kindly."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
