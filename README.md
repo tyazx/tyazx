@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Character is destiny."</i>
+<i>"To handle yourself, use your head; to handle others, use your heart."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
