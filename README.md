@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being entirely honest with oneself is a good exercise."</i>
+<i>"If it's not broken, tinker with it till you find out how it works."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
