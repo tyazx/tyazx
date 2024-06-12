@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Victims recite problems, leaders provide solutions."</i>
+<i>"Failure is just information and an opportunity to change your course."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
