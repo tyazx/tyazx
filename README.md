@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is like reaching an important birthday and finding you're exactly the same."</i>
+<i>"Desire for the fruits of work must never be your motive in working."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
