@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything."</i>
+<i>"Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
