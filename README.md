@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We cannot change anything unless we accept it."</i>
+<i>"Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
