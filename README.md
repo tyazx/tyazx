@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Desire for the fruits of work must never be your motive in working."</i>
+<i>"We cannot change anything unless we accept it."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
