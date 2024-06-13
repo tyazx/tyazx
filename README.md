@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your happiness is what truly matters most. Do what you have to do in order to be happy."</i>
+<i>"Success is like reaching an important birthday and finding you're exactly the same."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
