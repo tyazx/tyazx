@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're never too old for anything."</i>
+<i>"Get mad, then get over it."</i>
 <br>
-<b>- Betty White</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
