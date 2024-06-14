@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best answer to anger is silence."</i>
+<i>"Public opinion is the worst of all opinions."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
