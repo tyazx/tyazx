@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A random act of kindness, no matter how small, can make a tremendous impact on someone else's life."</i>
+<i>"Go confidently in the direction of your dreams. Live the life you've imagined."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
