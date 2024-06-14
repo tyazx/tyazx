@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Public opinion is the worst of all opinions."</i>
+<i>"There are only encounters in history. There are no accidents."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
