@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everybody needs a passion. That's what keeps life interesting."</i>
+<i>"The more reasons you have for achieving your goal, the more determined you will become."</i>
 <br>
-<b>- Betty White</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
