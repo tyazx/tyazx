@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"At first dreams seem impossible, then improbable, then inevitable."</i>
+<i>"The mind that turns ever outward Will have no end to craving. Only the mind turned inward Will find a still-point of peace."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
