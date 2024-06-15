@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first rule of business; treat others like they want to treat you."</i>
+<i>"A creative man is motivated by the desire to achieve, not by the desire to beat others."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
