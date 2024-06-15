@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future will be shaped by those willing to commit their minds and their bodies to the task."</i>
+<i>"Death smiles at us all. All we can do is smile back."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
