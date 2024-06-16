@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All I can do is be me, whoever that is."</i>
+<i>"We know nothing of tomorrow, our business is to be good and happy today."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Sydney Smith</b>
 </blockquote>
 </p>
 
