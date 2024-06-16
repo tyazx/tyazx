@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wealth is the product of man's capacity to think."</i>
+<i>"All I can do is be me, whoever that is."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
