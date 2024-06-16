@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I dream my painting and I paint my dream."</i>
+<i>"Wealth is the product of man's capacity to think."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
