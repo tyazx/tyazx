@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is but a product of his thoughts. What he thinks he becomes."</i>
+<i>"Desire for the fruits of work must never be your motive in working."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
