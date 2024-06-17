@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without education, we are in a horrible and deadly danger of taking educated people seriously."</i>
+<i>"A man should do his job so well that the living, the dead, and the unborn could do it no better."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
