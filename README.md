@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even if you stumble and fall down, it doesn't mean you've chosen the wrong path."</i>
+<i>"To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
