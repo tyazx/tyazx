@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have to walk in a way that we only print peace and serenity on the Earth. Walk as if you are kissing the Earth with your feet."</i>
+<i>"To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
