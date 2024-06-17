@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be yourself; everyone else is already taken."</i>
+<i>"The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
