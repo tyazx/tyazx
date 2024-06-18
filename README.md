@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing like looking if you want to find something."</i>
+<i>"Not until we are lost do we begin to understand ourselves."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
