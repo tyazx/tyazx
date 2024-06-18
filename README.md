@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not until we are lost do we begin to understand ourselves."</i>
+<i>"To be prepared is half the victory. "</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
