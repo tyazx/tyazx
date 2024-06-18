@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we are not able to smile, then the world will not have peace."</i>
+<i>"Always be a first-rate version of yourself, instead of a second-rate version of someone else."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
