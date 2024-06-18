@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be prepared is half the victory. "</i>
+<i>"If we are not able to smile, then the world will not have peace."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
