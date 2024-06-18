@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Giving back involves a certain amount of giving up."</i>
+<i>"The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
