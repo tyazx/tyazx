@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always be a first-rate version of yourself, instead of a second-rate version of someone else."</i>
+<i>"Fools resist. The wise embrace."</i>
 <br>
-<b>- Judy Garland</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
