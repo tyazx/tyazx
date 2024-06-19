@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Giving is living. If you stop wanting to give, there's nothing more to live for."</i>
+<i>"What you do today can improve all your tomorrows."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
