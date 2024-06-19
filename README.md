@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you set your goals ridiculously high and its a failure, you will fail above everyone elses success."</i>
+<i>"The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes."</i>
 <br>
-<b>- James Cameron</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
