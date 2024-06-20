@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Belief creates the actual fact."</i>
+<i>"Winners don't Quit. That's why they Win."</i>
 <br>
-<b>- William James</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
