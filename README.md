@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just do the best you can. No one can do more than that."</i>
+<i>"Common sense is not so common. "</i>
 <br>
-<b>- John Wooden</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
