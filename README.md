@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest room in the world is the room for improvement."</i>
+<i>"Whatever happens always happens on time."</i>
 <br>
-<b>- Unknown</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
