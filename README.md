@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness cannot be traveled to, owned, earned, worn or consumed."</i>
+<i>"The biggest room in the world is the room for improvement."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
