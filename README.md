@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Common sense is not so common. "</i>
+<i>"Belief creates the actual fact."</i>
 <br>
-<b>- Voltaire</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
