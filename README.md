@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wisdom of life consists in the elimination of the nonessentials."</i>
+<i>"Not doing it is certainly the best way to not getting it.  "</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
