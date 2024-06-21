@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winners don't Quit. That's why they Win."</i>
+<i>"Meditate. It won't be fun but it will surface what you need to deal with."</i>
 <br>
-<b>- Unknown</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
