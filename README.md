@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freedom itself demands discomfort."</i>
+<i>"Create each day anew."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
