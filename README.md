@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing will work unless you do."</i>
+<i>"Those who are easily shocked should be shocked more often."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
