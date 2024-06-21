@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Meditate. It won't be fun but it will surface what you need to deal with."</i>
+<i>"Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
