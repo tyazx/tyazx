@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not doing it is certainly the best way to not getting it.  "</i>
+<i>"The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
