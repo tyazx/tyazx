@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water."</i>
+<i>"Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams."</i>
 <br>
-<b>- Buddha</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
