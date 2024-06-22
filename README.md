@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The temptation to give up is strongest just before victory."</i>
+<i>"An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
