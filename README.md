@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold."</i>
+<i>"Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.  "</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
