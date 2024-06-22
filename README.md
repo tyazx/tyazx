@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Abundance of knowledge does not teach men to be wise."</i>
+<i>"Art is the signature of civilizations. "</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
