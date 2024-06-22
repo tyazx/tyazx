@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is 10% what happens to you and 90% how you react to it. "</i>
+<i>"A heart is not judged by how much you love, but by how much you are loved by others."</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
