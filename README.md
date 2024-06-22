@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings."</i>
+<i>"It is in changing that we find purpose."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
