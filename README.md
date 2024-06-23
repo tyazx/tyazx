@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change is hard at first, messy in the middle and gorgeous at the end."</i>
+<i>"A man is great not because he hasn't failed; a man is great because failure hasn't stopped him."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
