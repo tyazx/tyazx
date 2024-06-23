@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The meaning of life is to find your gift. The purpose of life is to give it away."</i>
+<i>"Change is hard at first, messy in the middle and gorgeous at the end."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
