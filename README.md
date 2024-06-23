@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't Let Yesterday Take Up Too Much Of Today."</i>
+<i>"People are doing the best that they can from their own level of consciousness."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
