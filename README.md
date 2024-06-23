@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thinking will not overcome fear but action will. "</i>
+<i>"If you do not push the boundaries, you will never know where they are."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
