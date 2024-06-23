@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The real measure of your wealth is how much you'd be worth if you lost all your money."</i>
+<i>"The meaning of life is to find your gift. The purpose of life is to give it away."</i>
 <br>
-<b>- Unknown</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
