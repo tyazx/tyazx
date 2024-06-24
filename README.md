@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is either a daring adventure, or it is nothing."</i>
+<i>"The meaning of life is just to be alive. It is so plain and so obvious and so simple."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
