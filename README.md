@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In any moment of decision, the best thing you can do is the right thing. The worst thing you can do is nothing."</i>
+<i>"I skate to where the puck is going to be, not where it has been."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
