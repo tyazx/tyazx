@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What the mind can conceive and believe, and the heart desire, you can achieve."</i>
+<i>"If you see a get rich quick scheme, that's someone else trying to get rich off of you."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
