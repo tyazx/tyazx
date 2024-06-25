@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy."</i>
+<i>"In any moment of decision, the best thing you can do is the right thing. The worst thing you can do is nothing."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
