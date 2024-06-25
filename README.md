@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Numbing the pain for a while will only make it worse when you finally feel it."</i>
+<i>"Realistic people do not accomplish extraordinary things."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
