@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take interest and even delight in doing the small things well."</i>
+<i>"I admire those who do good and expect nothing in return."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
