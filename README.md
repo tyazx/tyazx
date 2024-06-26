@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wise warrior avoids the battle."</i>
+<i>"Adults are just children who earn money."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Kenneth Branagh</b>
 </blockquote>
 </p>
 
