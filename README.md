@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes success isn't about making the right decision, it's more about making some decision."</i>
+<i>"The measure of wisdom is how calm you are when facing any given situation."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
