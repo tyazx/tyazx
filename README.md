@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  "</i>
+<i>"Even when you think you have your life all mapped out, things happen that shape your destiny in ways you might never have imagined."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
