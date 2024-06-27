@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid to give up the good to go for the great."</i>
+<i>"Pleasure in the job puts perfection in the work."</i>
 <br>
-<b>- John D. Rockefeller</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
