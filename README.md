@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The measure of wisdom is how calm you are when facing any given situation."</i>
+<i>"Circumstances do not make the man, they reveal him."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
