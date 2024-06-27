@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward."</i>
+<i>"The road to success and the road to failure are almost exactly the same."</i>
 <br>
-<b>- Unknown</b>
+<b>- Colin R. Davis</b>
 </blockquote>
 </p>
 
