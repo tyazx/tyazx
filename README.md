@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Circumstances do not make the man, they reveal him."</i>
+<i>"If you have only one smile in you give it to the people you love."</i>
 <br>
-<b>- James Allen</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
