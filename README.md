@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only difference between success and failure is the ability to take action."</i>
+<i>"On the other side of the clouds is a bright blue sky."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
