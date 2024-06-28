@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is nothing more than a few simple disciplines practiced every day."</i>
+<i>"Men go to far greater lengths to avoid what they fear than to obtain what they desire."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
