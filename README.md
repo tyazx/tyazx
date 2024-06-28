@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pleasure in the job puts perfection in the work."</i>
+<i>"Success is nothing more than a few simple disciplines practiced every day."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
