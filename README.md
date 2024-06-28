@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For fast-acting relief try slowing down."</i>
+<i>"Man should fear never beginning to live."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
