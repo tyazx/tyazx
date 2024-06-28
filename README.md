@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men go to far greater lengths to avoid what they fear than to obtain what they desire."</i>
+<i>"At the center of your being you have the answer; you know who you are and you know what you want."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
