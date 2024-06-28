@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are not the drop in the ocean, but the ocean in the drop."</i>
+<i>"Leaders think and talk about solutions. Followers think and talk about the problems."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
