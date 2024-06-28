@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man should fear never beginning to live."</i>
+<i>"It is not fair to ask of others what you are not willing to do yourself."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
