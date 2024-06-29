@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're walking down the right path and you're willing to keep walking, eventually you'll make progress."</i>
+<i>"Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?"</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
