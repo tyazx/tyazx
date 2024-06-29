@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No tree, it is said, can grow to heaven unless its roots reach down to hell."</i>
+<i>"Nothing is too high for a man to reach, but he must climb with care and confidence"</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
