@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every night before going to sleep, we must ask ourselves: what weakness did I overcome today? What virtue did I acquire?"</i>
+<i>"If you want peace, accept. If you want suffering, expect."</i>
 <br>
-<b>- Seneca</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
