@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want peace, accept. If you want suffering, expect."</i>
+<i>"All power is from within and therefore under our control."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
