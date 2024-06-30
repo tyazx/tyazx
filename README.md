@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be kind whenever possible. It is always possible."</i>
+<i>"Mastering others is strength, mastering yourself is true power."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
