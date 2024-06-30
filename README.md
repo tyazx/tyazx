@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn to value yourself, which means: fight for your happiness."</i>
+<i>"Dream big. Start small. But most of all, start."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
