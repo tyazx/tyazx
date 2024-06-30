@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We will outstretch the hand if you unclench your fist."</i>
+<i>"The final mystery is oneself."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
