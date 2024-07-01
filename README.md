@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order to carry a positive action, we must develop here a positive vision."</i>
+<i>"Everybody by your side ain't on your side."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
