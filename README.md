@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone telling you it's pointless to share your perspective is sharing their perspective."</i>
+<i>"The quality of your life is determined by the quality of your thoughts."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
