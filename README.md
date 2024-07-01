@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All happiness depends on courage and work."</i>
+<i>"Only by acceptance of the past, can you alter it."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
