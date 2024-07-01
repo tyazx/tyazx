@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to see things just as they are, then you yourself must practice just as you are."</i>
+<i>"If you don't break your ropes while you're alive, do you think ghosts will do it after?"</i>
 <br>
-<b>- Dogen</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
