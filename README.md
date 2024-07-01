@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is not final, failure is not fatal: it is the courage to continue that counts."</i>
+<i>"He who hesitates is a damned fool."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
