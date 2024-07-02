@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all in the gutter, but some of us are looking at the stars. "</i>
+<i>"The first rule of handling conflict is don't hang around people who are constantly engaging in conflict."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
