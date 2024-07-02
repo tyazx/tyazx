@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Goodness is the only investment that never fails."</i>
+<i>"Attitude is a little thing that makes a big difference."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
