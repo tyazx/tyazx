@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being in a good frame of mind helps keep one in the picture of health."</i>
+<i>"It is not how much we have, but how much we enjoy, that makes happiness."</i>
 <br>
-<b>- Unknown</b>
+<b>- Charles Spurgeon</b>
 </blockquote>
 </p>
 
