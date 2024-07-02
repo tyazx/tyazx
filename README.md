@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not how much we have, but how much we enjoy, that makes happiness."</i>
+<i>"We have more possibilities available in each moment than we realize."</i>
 <br>
-<b>- Charles Spurgeon</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
