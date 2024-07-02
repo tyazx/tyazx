@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society."</i>
+<i>"The final mystery is oneself."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
