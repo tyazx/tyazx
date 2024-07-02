@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you take responsibility for your past and present, the more you are able to create the future you seek."</i>
+<i>"It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
