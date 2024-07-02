@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first rule of handling conflict is don't hang around people who are constantly engaging in conflict."</i>
+<i>"I am thankful to all those who said no. It's because of them, I did it myself.  "</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
