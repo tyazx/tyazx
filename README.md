@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future."</i>
+<i>"Remember to look up at the stars and not down at your feet."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
