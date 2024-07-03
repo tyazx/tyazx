@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are like islands in the sea, separate on the surface but connected in the deep."</i>
+<i>"Success and failure come and go, but don't let them define you. It's who you are that matters."</i>
 <br>
-<b>- William James</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
