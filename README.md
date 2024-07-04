@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quality of your commitments will determine the course of your life."</i>
+<i>"One never does wrong by doing right."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
