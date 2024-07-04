@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there."</i>
+<i>"You'll never find rainbows if you're looking down.  "</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
