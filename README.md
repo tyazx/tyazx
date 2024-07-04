@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To arrive at the simplest truth requires years of contemplation."</i>
+<i>"Talk to someone about themselves and they'll listen for hours."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
