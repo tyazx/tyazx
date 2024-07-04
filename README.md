@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes, the only way to evolve is to open ourselves fully."</i>
+<i>"The successful warrior is the average man, with laser-like focus."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
