@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is hard to fail, but it is worse never to have tried to succeed."</i>
+<i>"Sometimes, the only way to evolve is to open ourselves fully."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
