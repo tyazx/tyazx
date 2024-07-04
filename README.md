@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Attitude is a little thing that makes a big difference."</i>
+<i>"The right thing to do and the hard thing to do are usually the same."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
