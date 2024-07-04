@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We think too much and feel too little."</i>
+<i>"The quality of your commitments will determine the course of your life."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
