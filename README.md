@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your face always toward the sunshine -  shadows will fall behind you."</i>
+<i>"Know the rules well, so you can break them effectively."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
