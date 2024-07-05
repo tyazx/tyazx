@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't need a weatherman to know which way the wind blows."</i>
+<i>"For all evils there are two remedies - time and silence."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
