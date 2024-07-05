@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For all evils there are two remedies - time and silence."</i>
+<i>"The four P's to success are pressure, persistence, perseverance, and prayer."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
