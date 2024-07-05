@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Find the game where you can win, and then commit your life to playing it; and play to win."</i>
+<i>"If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
