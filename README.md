@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success."</i>
+<i>"The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
