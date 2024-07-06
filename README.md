@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take into account that great love and great achievements involve great risk."</i>
+<i>"Character is destiny."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
