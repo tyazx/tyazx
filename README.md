@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?"</i>
+<i>"The only man who never makes mistakes is the man who never does anything."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
