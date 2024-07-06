@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Goals are the fuel in the furnace of achievement."</i>
+<i>"If you need inspiration, don't do it."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
