@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our view of the world is truly shaped by what we decide to hear."</i>
+<i>"Passion creates, addiction consumes."</i>
 <br>
-<b>- William James</b>
+<b>- Gabor Mate</b>
 </blockquote>
 </p>
 
