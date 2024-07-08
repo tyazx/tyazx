@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take care of your body. It's the only place you have to live."</i>
+<i>"Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough. "</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
