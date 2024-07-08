@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Too many of us are not living our dreams because we are living our fears."</i>
+<i>"Genius is the ability to act rightly without precedent - the power to do the right thing the first time."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
