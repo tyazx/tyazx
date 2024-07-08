@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Leadership starts at the top."</i>
+<i>"There is a difference between giving directions and giving direction."</i>
 <br>
-<b>- Morgan Wootten</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
