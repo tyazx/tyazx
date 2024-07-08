@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is a difference between giving directions and giving direction."</i>
+<i>"Life is filled with secrets. You can't learn them all at once."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
