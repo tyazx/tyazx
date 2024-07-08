@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Genius is the ability to act rightly without precedent - the power to do the right thing the first time."</i>
+<i>"Every poem should remind the reader that they are going to die."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
