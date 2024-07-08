@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fools talk, cowards are silent, wise men listen."</i>
+<i>"Too many of us are not living our dreams because we are living our fears."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
