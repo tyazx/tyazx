@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Watch what you say, and whatever you say, practice it."</i>
+<i>"Everybody by your side ain't on your side."</i>
 <br>
-<b>- Soyen Shaku</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
