@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Curiosity is the most powerful thing you own."</i>
+<i>"There is no limitations except those we create for ourselves."</i>
 <br>
-<b>- James Cameron</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
