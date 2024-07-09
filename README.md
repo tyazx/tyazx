@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd."</i>
+<i>"Curiosity is the most powerful thing you own."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- James Cameron</b>
 </blockquote>
 </p>
 
