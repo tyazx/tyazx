@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everybody by your side ain't on your side."</i>
+<i>"Don't stumble over something that's behind you."</i>
 <br>
 <b>- Steve Harvey</b>
 </blockquote>
