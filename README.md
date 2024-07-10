@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear can hold you prisoner. Hope can set you free."</i>
+<i>"The score never interested me, only the game."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
