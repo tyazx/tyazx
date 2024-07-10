@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freeing oneself from words is liberation. "</i>
+<i>"Silence is sometimes the best answer."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
