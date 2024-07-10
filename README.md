@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your very silence shows you agree."</i>
+<i>"We are all different. Don't judge, understand instead."</i>
 <br>
-<b>- Euripides</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
