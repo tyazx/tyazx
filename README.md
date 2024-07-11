@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Experience is simply the name we give our mistakes. "</i>
+<i>"To get angry is like to revenge yourself for the guilt of others."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
