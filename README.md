@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is nothing more than a few simple disciplines practiced every day."</i>
+<i>"Over time, loneliness gets inside you and doesn't go away."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
