@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A little progress each day adds up to big results."</i>
+<i>"He who has overcome his fears will truly be free."</i>
 <br>
-<b>- Unknown</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
