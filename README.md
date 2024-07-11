@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who has overcome his fears will truly be free."</i>
+<i>"Success is nothing more than a few simple disciplines practiced every day."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
