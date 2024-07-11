@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window."</i>
+<i>"Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  "</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Jack Kerouac</b>
 </blockquote>
 </p>
 
