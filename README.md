@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Much learning does not teach understanding."</i>
+<i>"Wisdom is the oneness of mind that guides and permeates all things."</i>
 <br>
 <b>- Heraclitus</b>
 </blockquote>
