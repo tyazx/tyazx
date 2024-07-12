@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom is the oneness of mind that guides and permeates all things."</i>
+<i>"Once you learn to quit, it becomes a habit."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
