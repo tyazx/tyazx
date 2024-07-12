@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Maybe you are searching among the branches, for what only appears in the roots."</i>
+<i>"Nothing is more real than nothing."</i>
 <br>
-<b>- Rumi</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
