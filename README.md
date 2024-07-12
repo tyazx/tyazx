@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Things may come to those who wait, but only the things left by those who hustle."</i>
+<i>"Always do your best. What you plant now, you will harvest later."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
