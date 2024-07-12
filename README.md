@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quiet people have the loudest minds."</i>
+<i>"The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
