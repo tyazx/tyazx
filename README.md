@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible."</i>
+<i>"Whatever you think the world is withholding from you, you are withholding from the world."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
