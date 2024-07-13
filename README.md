@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom is doing now what you are going to be happy with later on."</i>
+<i>"The moment you doubt whether you can fly, you cease for ever to be able to do it."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
