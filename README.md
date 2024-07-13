@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It will never rain roses: when we want to have more roses, we must plant more roses."</i>
+<i>"Always be a first rate version of yourself and not a second rate version of someone else."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
