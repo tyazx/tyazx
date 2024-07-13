@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you have to make a choice and don't make it, that is in itself a choice."</i>
+<i>"It will never rain roses: when we want to have more roses, we must plant more roses."</i>
 <br>
-<b>- William James</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
