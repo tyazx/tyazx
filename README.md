@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.  "</i>
+<i>"The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
