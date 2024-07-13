@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The moment you doubt whether you can fly, you cease for ever to be able to do it."</i>
+<i>"No tree, it is said, can grow to heaven unless its roots reach down to hell."</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
