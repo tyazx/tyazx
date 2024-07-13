@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always be a first rate version of yourself and not a second rate version of someone else."</i>
+<i>"We are shaped and fashioned by what we love."</i>
 <br>
-<b>- Judy Garland</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
