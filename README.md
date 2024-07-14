@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you lose yourself in something bigger than yourself, the more energy you will have."</i>
+<i>"Success is nothing more than a few simple disciplines practiced every day."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
