@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every artist dips his brush in his own soul, and paints his own nature into his pictures."</i>
+<i>"Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
