@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Turn the pain into power."</i>
+<i>"There's no coming to consciousness without pain"</i>
 <br>
-<b>- Unknown</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
