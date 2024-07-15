@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Yesterday is but today's memory, tomorrow is today's dream."</i>
+<i>"We are willing to believe anything other than the truth."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
