@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are willing to believe anything other than the truth."</i>
+<i>"Life is a series of choices and all we can do is make them."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
