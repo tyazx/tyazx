@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest challenge after success is shutting up about it."</i>
+<i>"Nothing is hopeless; we must hope for everything."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
