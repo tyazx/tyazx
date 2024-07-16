@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Education breeds confidence. Confidence breeds hope. Hope breeds peace."</i>
+<i>"If you chase two rabbits, you catch none."</i>
 <br>
 <b>- Confucius</b>
 </blockquote>
