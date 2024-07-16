@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be like a postage stamp. Stick to it until you get there."</i>
+<i>"Fallacies do not cease to be fallacies because they become fashions."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
