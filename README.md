@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to predict the future is to create it."</i>
+<i>"Be like a postage stamp. Stick to it until you get there."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
