@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is hopeless; we must hope for everything."</i>
+<i>"Turn your wounds into wisdom. "</i>
 <br>
-<b>- Euripides</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
