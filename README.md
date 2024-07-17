@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make no small plans for they have no power to stir the soul."</i>
+<i>"Don't listen to the person who has the answers; listen to the person who has the questions."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
