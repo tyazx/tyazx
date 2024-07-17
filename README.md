@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If there's a definition of freedom, I think it's this: living life on your terms."</i>
+<i>"Time stays long enough for anyone who will use it."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
