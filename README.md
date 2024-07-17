@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you get by achieving your goals is not as important as what you become by achieving your goals."</i>
+<i>"It's very strange that the people you love are often the people you're most cruel to."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Kenneth Branagh</b>
 </blockquote>
 </p>
 
