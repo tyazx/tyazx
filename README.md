@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anxiety is the dizziness of freedom."</i>
+<i>"Every act of creation is first an act of destruction."</i>
 <br>
-<b>- Soren Kierkegaard</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
