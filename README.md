@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every act of creation is first an act of destruction."</i>
+<i>"Self-knowledge is the beginning of self-correction."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
