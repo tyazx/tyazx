@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The question is not what you look at, but what you see."</i>
+<i>"Character is the result of two things: mental attitude and the way we spend our time."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
