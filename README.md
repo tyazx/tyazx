@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your next step is simple. You are the first domino."</i>
+<i>"All power is from within and therefore under our control."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
