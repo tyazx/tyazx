@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Self-knowledge is the beginning of self-correction."</i>
+<i>"Smile, breathe and go slowly."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
