@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make your stand today. On this spot. On this day."</i>
+<i>"Your next step is simple. You are the first domino."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
