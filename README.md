@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Smile, breathe and go slowly."</i>
+<i>"Peace if possible, truth at all costs."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
