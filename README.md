@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace if possible, truth at all costs."</i>
+<i>"The best dreams happen when you're awake."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Cherie Gilderbloom</b>
 </blockquote>
 </p>
 
