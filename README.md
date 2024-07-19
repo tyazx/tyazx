@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One small positive thought can change your whole day."</i>
+<i>"You miss 100% of the shots you don't take."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
