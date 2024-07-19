@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever satisfies the soul is truth."</i>
+<i>"One small positive thought can change your whole day."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
