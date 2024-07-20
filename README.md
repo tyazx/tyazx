@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is never final, failure is never fatal. It's courage that counts."</i>
+<i>"While some of us act without thinking, too many of us think without acting."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
