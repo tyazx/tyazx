@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In three words I can sum up everything I've learned about life: it goes on."</i>
+<i>"Confidence comes not from always being right but not fearing to be wrong."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
