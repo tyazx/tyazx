@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The outer conditions of a person's life will always be found to reflect their inner beliefs."</i>
+<i>"For the things we have to learn before we can do them, we learn by doing them."</i>
 <br>
-<b>- James Allen</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
