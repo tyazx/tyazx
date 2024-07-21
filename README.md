@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pain of parting is nothing to the joy of meeting again."</i>
+<i>"To be calm is the highest achievement of the self."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
