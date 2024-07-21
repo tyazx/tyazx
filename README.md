@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence comes not from always being right but not fearing to be wrong."</i>
+<i>"Great deeds are usually wrought at great risks."</i>
 <br>
-<b>- Unknown</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
