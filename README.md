@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Real growth comes through intense, difficult, and challenging situations."</i>
+<i>"Don't try to steer the river."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
