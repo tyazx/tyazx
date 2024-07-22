@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the root is strong, the fruit is sweet."</i>
+<i>"It's your outlook on life that counts."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
