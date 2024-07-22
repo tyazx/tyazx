@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The harder you work, the harder it is to surrender."</i>
+<i>"Fear is stupid. So are regrets."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Marilyn Monroe</b>
 </blockquote>
 </p>
 
