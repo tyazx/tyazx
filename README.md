@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear is stupid. So are regrets."</i>
+<i>"Attitude is a little thing that makes a big difference."</i>
 <br>
-<b>- Marilyn Monroe</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
