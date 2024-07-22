@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything begins with an idea."</i>
+<i>"Note that this journey is uniquely yours, no one elses. So the path has to be your own."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
