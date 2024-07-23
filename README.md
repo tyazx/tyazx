@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never settle for the crumbs of life."</i>
+<i>"Friends ask you questions; enemies question you."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
