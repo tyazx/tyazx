@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Who you are is always right."</i>
+<i>"Don't shortchange yourself when it comes to investing in your own better future."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
