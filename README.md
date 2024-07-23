@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't shortchange yourself when it comes to investing in your own better future."</i>
+<i>"We must create our own world or we will die from inaction."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
