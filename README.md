@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is the sum of small efforts, repeated day in and day out."</i>
+<i>"Never settle for the crumbs of life."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
