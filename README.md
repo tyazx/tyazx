@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hold yourself responsible for a higher standard than anybody else expects of you."</i>
+<i>"All we have to decide is what to do with the time that is given to us."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
