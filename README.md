@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Look to the beauty of this day, miracles are all around you."</i>
+<i>"There is nothing quite so tragic as a young cynic."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
