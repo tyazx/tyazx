@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Chop your own wood and it will warm you twice. "</i>
+<i>"Arise, slay thy enemies, enjoy a prosperous kingdom."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
