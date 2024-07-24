@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where the willingness is great, the difficulties cannot be great."</i>
+<i>"People think you're crazy if you talk about things they don't understand."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
