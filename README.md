@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your dreams, you never know when you might need them."</i>
+<i>"Relax. Nothing is under control."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Adi Da Samraj</b>
 </blockquote>
 </p>
 
