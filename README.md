@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love and compassion are necessities, not luxuries. Without them, humanity cannot survive."</i>
+<i>"If you truly love Nature, you will find beauty everywhere. "</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
