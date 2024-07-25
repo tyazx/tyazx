@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."</i>
+<i>"The more you are focused on time - past and future - the more you miss the Now, the most precious thing there is."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
