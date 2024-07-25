@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must not sit down and wait for miracles. Up and be going!"</i>
+<i>"If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
