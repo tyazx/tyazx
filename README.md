@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As a matter of fact is an expression that precedes many an expression that isn't."</i>
+<i>"Learn from the rejection and turn it into an opportunity!"</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
