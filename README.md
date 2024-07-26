@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know."</i>
+<i>"Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. "</i>
 <br>
-<b>- Colin Powell</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
