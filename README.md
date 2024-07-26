@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no sadder sight than a young pessimist."</i>
+<i>"There's more to life than being a passenger."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
