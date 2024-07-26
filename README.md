@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you are focused on time - past and future - the more you miss the Now, the most precious thing there is."</i>
+<i>"We are born from a quiet sleep, and we die to a calm awakening"</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
