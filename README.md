@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good system shortens the road to the goal. "</i>
+<i>"Those who are possessed by nothing possess everything."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
