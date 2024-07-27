@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who are possessed by nothing possess everything."</i>
+<i>"We are all here for some special reason."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
