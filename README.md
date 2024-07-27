@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only when I fall do I get up again."</i>
+<i>"Failure is the key to success; each mistake teaches us something."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
