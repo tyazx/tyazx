@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Human happiness and moral duty are inseparably connected. "</i>
+<i>"Only when I fall do I get up again."</i>
 <br>
-<b>- George Washington</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
