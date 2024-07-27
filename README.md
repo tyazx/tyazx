@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If there's a definition of freedom, I think it's this: living life on your terms."</i>
+<i>"Human happiness and moral duty are inseparably connected. "</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
