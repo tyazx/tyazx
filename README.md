@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Normal is the average of deviance."</i>
+<i>"Peace is letting it be. Letting life flow, letting emotions flow through you."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
