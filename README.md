@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man sees in the world what he carries in his heart."</i>
+<i>"Forever is composed of now's."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
