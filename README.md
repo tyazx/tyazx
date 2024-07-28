@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best time to plant a tree was 20 years ago. The second best time is now."</i>
+<i>"Truth is like the sun. You can shut it out for a time, but it ain't going away."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
