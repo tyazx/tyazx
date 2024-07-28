@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Real loss is only possible when you love something more than you love yourself."</i>
+<i>"Normal is the average of deviance."</i>
 <br>
-<b>- Robin Williams</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
