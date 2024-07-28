@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose."</i>
+<i>"Be not glad at the misfortune of another, though he may be your enemy. "</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
