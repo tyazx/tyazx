@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is a great teacher. If you're open to it every mistake has a lesson to offer."</i>
+<i>"Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
