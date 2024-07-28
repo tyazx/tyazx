@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no mistakes in life, only lessons."</i>
+<i>"A man sees in the world what he carries in his heart."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
