@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Forever is composed of now's."</i>
+<i>"The best time to plant a tree was 20 years ago. The second best time is now."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
