@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace is letting it be. Letting life flow, letting emotions flow through you."</i>
+<i>"Failure is a great teacher. If you're open to it every mistake has a lesson to offer."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
