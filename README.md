@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations."</i>
+<i>"Where we fall are the stepping-stones for our journey."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
