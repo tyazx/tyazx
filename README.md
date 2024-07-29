@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Try all things, hold fast that which is good."</i>
+<i>"Each problem has a positive side."</i>
 <br>
-<b>- John Locke</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
