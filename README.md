@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each problem has a positive side."</i>
+<i>"Someday death will take us to another star."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
