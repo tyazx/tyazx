@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Children are our greatest natural resource."</i>
+<i>"Productize your perspective."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
