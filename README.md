@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Someday death will take us to another star."</i>
+<i>"Inner peace is when you realize that, in the end, nothing matters."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
