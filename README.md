@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I persist long enough I will win."</i>
+<i>"Little by little, one travels far."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
