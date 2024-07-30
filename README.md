@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible."</i>
+<i>"In order to control myself I must first accept myself by going with and not against my nature."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
