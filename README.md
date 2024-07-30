@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order to control myself I must first accept myself by going with and not against my nature."</i>
+<i>"Either get busy living or get busy dying."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
