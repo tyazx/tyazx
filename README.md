@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you run you stand a chance of losing, but if you don't run you've already lost."</i>
+<i>"Imagination is more important than knowledge."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
