@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Human beings can alter their lives by altering their attitudes of mind."</i>
+<i>"A day wasted on others is not wasted on one's self."</i>
 <br>
-<b>- William James</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
