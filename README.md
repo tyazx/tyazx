@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never confuse a single defeat with a final defeat."</i>
+<i>"If you run you stand a chance of losing, but if you don't run you've already lost."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
