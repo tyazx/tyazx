@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A day wasted on others is not wasted on one's self."</i>
+<i>"The more people you help become successful the more successful you become."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
