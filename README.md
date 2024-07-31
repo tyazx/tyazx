@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I didn't get there by wishing for it or hoping for it, but by working for it."</i>
+<i>"Educating the mind without educating the heart is no education at all."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
