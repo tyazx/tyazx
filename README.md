@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for."</i>
+<i>"No problem can be solved from the same level of consciousness that created it."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
