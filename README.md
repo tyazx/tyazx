@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All wealth is the product of labor."</i>
+<i>"Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for."</i>
 <br>
-<b>- John Locke</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
