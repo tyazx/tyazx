@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The past has no power over the present moment. "</i>
+<i>"I am thankful to all who said no to me. It is because of them that I'm doing it myself."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
