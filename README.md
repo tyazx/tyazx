@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What would you do if you weren't afraid?"</i>
+<i>"Wishing to be friends is quick work, but friendship is a slow ripening fruit."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
