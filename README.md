@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To forget the whole world is easy; to make the whole world forget you is hard."</i>
+<i>"To find yourself, think for yourself."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
