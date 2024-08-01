@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There's a very deep connection among human beings. All we have to do is open our minds to it."</i>
+<i>"Intelligent men are cruel. Stupid men are monstrously cruel."</i>
 <br>
-<b>- Yanni</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
