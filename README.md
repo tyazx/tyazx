@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wishing to be friends is quick work, but friendship is a slow ripening fruit."</i>
+<i>"The temptation to give up is strongest just before victory."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
