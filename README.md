@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The older you get, the more you understand how your conscience works."</i>
+<i>"Everyone sees what you appear to be, few experience what you really are."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Niccolo Machiavelli</b>
 </blockquote>
 </p>
 
