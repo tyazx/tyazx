@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To find yourself, think for yourself."</i>
+<i>"Nothing is hopeless; we must hope for everything."</i>
 <br>
-<b>- Socrates</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
