@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No duty is more urgent than that of returning thanks."</i>
+<i>"Problems remain as problems because people are busy defending them rather than finding solutions."</i>
 <br>
-<b>- James Allen</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
