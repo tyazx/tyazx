@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing like a health problem to turn up the contrast dial for the rest of life."</i>
+<i>"FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
