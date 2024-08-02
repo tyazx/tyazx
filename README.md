@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The purpose of life is the life of purpose."</i>
+<i>"The wise man reads both books and life itself."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
