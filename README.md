@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The temptation to give up is strongest just before victory."</i>
+<i>"Nothing like a health problem to turn up the contrast dial for the rest of life."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
