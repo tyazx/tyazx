@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours."</i>
+<i>"No duty is more urgent than that of returning thanks."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
