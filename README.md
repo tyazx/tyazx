@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life should be touched, not strangled.  "</i>
+<i>"It is best to begin at the beginning."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
