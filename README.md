@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Presents are made for the pleasure of who gives them, not the merits of who receives them."</i>
+<i>"It's not how much we give but how much love we put into giving."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
