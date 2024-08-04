@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor."</i>
+<i>"The beautiful journey of today can only begin when we learn to let go of yesterday."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
