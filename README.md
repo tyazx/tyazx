@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd."</i>
+<i>"When you move beyond your fear, you feel free."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
