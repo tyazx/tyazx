@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you move beyond your fear, you feel free."</i>
+<i>"I pay attention to every minute of the day."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
