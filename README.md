@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you take responsibility for your past and present, the more you are able to create the future you seek."</i>
+<i>"Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- John D. Rockefeller</b>
 </blockquote>
 </p>
 
