@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just do the best you can. No one can do more than that."</i>
+<i>"Better a diamond with a flaw than a pebble without one."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
