@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Act as if what you do makes a difference. It does."</i>
+<i>"If I persist long enough I will win."</i>
 <br>
-<b>- William James</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
