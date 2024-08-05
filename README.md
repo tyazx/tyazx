@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.  "</i>
+<i>"Love never keeps a man from pursuing his destiny."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
