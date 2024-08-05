@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Getting lost along your path is a part of finding the path you are meant to be on."</i>
+<i>"When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.  "</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
