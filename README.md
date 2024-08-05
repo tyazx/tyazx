@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become."</i>
+<i>"One small positive thought can change your whole day."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
