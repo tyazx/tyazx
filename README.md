@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always be a first rate version of yourself and not a second rate version of someone else."</i>
+<i>"Getting lost along your path is a part of finding the path you are meant to be on."</i>
 <br>
-<b>- Judy Garland</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
