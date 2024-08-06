@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One small positive thought can change your whole day."</i>
+<i>"The only limits in our life are those we impose on ourselves."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
