@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can only lose something that you have, but you cannot lose something that you are."</i>
+<i>"Life has the name of life, but in reality it is death."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
