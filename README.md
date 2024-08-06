@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we know how to adapt, we end up being superior."</i>
+<i>"The one who boasts does so only out of a feeling of inferiority."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
