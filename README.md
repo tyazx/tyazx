@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The one who boasts does so only out of a feeling of inferiority."</i>
+<i>"If you need inspiration, don't do it."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
