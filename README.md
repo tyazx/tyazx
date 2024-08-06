@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The Art of Peace begins with you."</i>
+<i>"Time you enjoy wasting, was not wasted."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
