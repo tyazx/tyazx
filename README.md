@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no uninteresting things, only uninterested people."</i>
+<i>"Learn from the mistakes of others. You can't live long enough to make them all yourself."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
