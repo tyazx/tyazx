@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Common sense is not so common. "</i>
+<i>"The most important battle is one to conquer yourself."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
