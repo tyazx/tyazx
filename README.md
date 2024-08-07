@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A fall into a ditch makes you wiser."</i>
+<i>"Everything you can imagine is real."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
