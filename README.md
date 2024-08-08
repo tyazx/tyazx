@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive."</i>
+<i>"Nothing can dim the light which shines from within."</i>
 <br>
-<b>- Anne Wilson Schaef</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
