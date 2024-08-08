@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is not a goal...it's a by-product of a life well lived."</i>
+<i>"If you are ever the smartest person in the room, you are in the wrong room."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- C. Sean McGee</b>
 </blockquote>
 </p>
 
