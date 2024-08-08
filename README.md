@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself."</i>
+<i>"Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
