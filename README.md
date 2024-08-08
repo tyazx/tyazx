@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing can dim the light which shines from within."</i>
+<i>"To the world you may be one person; but to one person you may be the world."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
