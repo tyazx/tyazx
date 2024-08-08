@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting."</i>
+<i>"The strength of a wall is neither greater nor less than the courage of the men who defend it. "</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Genghis Khan</b>
 </blockquote>
 </p>
 
