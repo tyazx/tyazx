@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control."</i>
+<i>"Human beings believe just as they breathe - in order to survive."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
