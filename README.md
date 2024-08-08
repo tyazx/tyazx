@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not fair to ask of others what you are not willing to do yourself."</i>
+<i>"Play your part in life, but never forget that it is only a role."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
