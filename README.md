@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution."</i>
+<i>"Don't seek, don't avoid, don't expect. Take what comes and be happy."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
