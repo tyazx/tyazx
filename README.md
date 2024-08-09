@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't seek, don't avoid, don't expect. Take what comes and be happy."</i>
+<i>"Our joy does not have to be based on our circumstances."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
