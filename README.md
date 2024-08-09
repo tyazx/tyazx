@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What have you done today to make someone else happy?"</i>
+<i>"There is no absolute success in the world, only constant progress."</i>
 <br>
-<b>- Deepam Chaterjee</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
