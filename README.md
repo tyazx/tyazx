@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no absolute success in the world, only constant progress."</i>
+<i>"The art of being happy lies in the power of extracting happiness from common things."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
