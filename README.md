@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The art of being happy lies in the power of extracting happiness from common things."</i>
+<i>"Argue for your limitations and sure enough, they're yours."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
