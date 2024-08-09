@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Argue for your limitations and sure enough, they're yours."</i>
+<i>"It's easier to lose than to win.  "</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
