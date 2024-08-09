@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our joy does not have to be based on our circumstances."</i>
+<i>"Few things are more deceptive than memories."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
