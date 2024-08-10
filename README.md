@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are people who have money and people who are rich."</i>
+<i>"I try more and more to be myself, caring relatively little whether people approve or disapprove."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
