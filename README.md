@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If life were predictable it would cease to be life, and be without flavor."</i>
+<i>"Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
