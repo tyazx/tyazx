@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great things are not accomplished by those who yield to trends and fads and popular opinion."</i>
+<i>"You are the sky. Everything else - it's just the weather."</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
