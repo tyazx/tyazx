@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are the sky. Everything else - it's just the weather."</i>
+<i>"The way of success is the way of continuous pursuit of knowledge."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
