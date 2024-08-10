@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot push anyone up a ladder unless he is willing to climb a little himself."</i>
+<i>"There are people who have money and people who are rich."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
