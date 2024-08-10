@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know."</i>
+<i>"You cannot push anyone up a ladder unless he is willing to climb a little himself."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
