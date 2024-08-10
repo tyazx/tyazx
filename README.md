@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I try more and more to be myself, caring relatively little whether people approve or disapprove."</i>
+<i>"We make a living by what we get, but we make a life by what we give."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
