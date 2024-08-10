@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make failure your teacher, not your undertaker.  "</i>
+<i>"The first step toward getting somewhere is to decide that you are not going to stay where you are."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
