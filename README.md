@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take responsibility of your own happiness, never put it in other people's hands."</i>
+<i>"I am always doing that which I can not do, in order that I may learn how to do it."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
