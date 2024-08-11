@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I believe that one of life's greatest risks is never daring to risk."</i>
+<i>"The salvation of the world lies in the human heart."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
