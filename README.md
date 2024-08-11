@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be who you are and say what you feel because those who mind don't matter and those who matter don't mind."</i>
+<i>"Words are the clothing of our thoughts."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
