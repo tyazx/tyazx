@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words are the clothing of our thoughts."</i>
+<i>"A clear conscience never fears midnight knocking."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
