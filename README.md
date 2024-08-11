@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only when I fall do I get up again."</i>
+<i>"The busy man is never wise and the wise man is never busy."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
