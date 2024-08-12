@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people."</i>
+<i>"The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
