@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't tell big dreams to small minded people."</i>
+<i>"What you seek is seeking you."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
