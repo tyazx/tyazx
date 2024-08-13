@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every one of us is the sum total of his own thoughts."</i>
+<i>"The way out is in."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
