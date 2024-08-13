@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone has the right to make his own decisions, but none has the right to force his decision on others."</i>
+<i>"No one ever said life was fair. Just Eventful."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
