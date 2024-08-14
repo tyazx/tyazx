@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is feedback. Learn from it and move on."</i>
+<i>"Never close your lips to those whom you have already opened your heart."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
