@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take into account that great love and great achievements involve great risk."</i>
+<i>"Success on the outside means nothing unless you also have success within."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
