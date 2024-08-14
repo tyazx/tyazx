@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The eye with which I see God is the same eye with which God sees me."</i>
+<i>"Failure is feedback. Learn from it and move on."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
