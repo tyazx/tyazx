@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything."</i>
+<i>"The best answer to anger is silence."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
