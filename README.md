@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We need never be ashamed of our tears."</i>
+<i>"Only when I fall do I get up again."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
