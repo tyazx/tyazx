@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Try not to become a man of success, but rather try to become a man of value."</i>
+<i>"Treat every moment as your last. It is not preparation for something else."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
