@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When angry count to ten before you speak. If very angry, count to one hundred."</i>
+<i>"We need never be ashamed of our tears."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
