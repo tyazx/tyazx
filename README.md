@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live in the sunshine, swim the sea, drink the wild air."</i>
+<i>"The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
