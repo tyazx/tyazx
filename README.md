@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only when I fall do I get up again."</i>
+<i>"Someday death will take us to another star."</i>
 <br>
 <b>- Vincent van Gogh</b>
 </blockquote>
