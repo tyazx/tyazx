@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's OK to have your eggs in one basket as long as you control what happens to that basket."</i>
+<i>"Life is like stepping onto a boat which is about to sail out to sea and sink."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
