@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Far more crucial than what we know or do not know is what we do not want to know."</i>
+<i>"It's not whether you get knocked down, its whether you get back up."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
