@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I put my heart and soul into my work, and I have lost my mind in the process."</i>
+<i>"My guiding principle is this: Guilt is never to be doubted. "</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
