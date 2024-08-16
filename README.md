@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anything you may hold firmly in your imagination can be yours."</i>
+<i>"Be grateful for what you have now, and nothing should be taken for granted."</i>
 <br>
-<b>- William James</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
