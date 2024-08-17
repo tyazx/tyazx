@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. "</i>
+<i>"It is the mark of an educated mind to be able to entertain a thought without accepting it."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
