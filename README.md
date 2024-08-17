@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Closing your eyes and listening to silence is self-care."</i>
+<i>"The consequences of today are determined by the actions of the past. To change your future, alter your decisions today."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
