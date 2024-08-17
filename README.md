@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Have the fearless attitude of a hero and the loving heart of a child."</i>
+<i>"Closing your eyes and listening to silence is self-care."</i>
 <br>
-<b>- Soyen Shaku</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
