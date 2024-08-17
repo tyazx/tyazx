@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some of your greatest lessons come from your darkest moments."</i>
+<i>"There is no value in anything until it is finished. "</i>
 <br>
-<b>- Roger Lee</b>
+<b>- Genghis Khan</b>
 </blockquote>
 </p>
 
