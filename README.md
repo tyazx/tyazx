@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is permanent in this wicked world - not even our troubles."</i>
+<i>"If you want work well done, select a busy man; the other kind has no time."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
