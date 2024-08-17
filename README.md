@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It takes a very long time to become young."</i>
+<i>"Nothing is permanent in this wicked world - not even our troubles."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
