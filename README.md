@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wrong turns are as important as right turns. More important, sometimes."</i>
+<i>"Have the fearless attitude of a hero and the loving heart of a child."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Soyen Shaku</b>
 </blockquote>
 </p>
 
