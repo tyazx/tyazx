@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no value in anything until it is finished. "</i>
+<i>"It takes a very long time to become young."</i>
 <br>
-<b>- Genghis Khan</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
