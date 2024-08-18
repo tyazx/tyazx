@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness must be grown in one's own garden."</i>
+<i>"The greatest doer must also be a great dreamer."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
