@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nature loves to hide."</i>
+<i>"Freedom lies in being bold."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
