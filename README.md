@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Turn your wounds into wisdom. "</i>
+<i>"Failure is the key to success; each mistake teaches us something."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
