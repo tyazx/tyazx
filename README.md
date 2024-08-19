@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are your best thing."</i>
+<i>"I am always doing that which I can not do, in order that I may learn how to do it."</i>
 <br>
-<b>- Toni Morrison</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
