@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truly rich men are the ones who have health, loved ones and a work they love."</i>
+<i>"There is no self-discovery without pain and loss."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
