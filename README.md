@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control."</i>
+<i>"Don't worry about being successful, but work toward being significant and the success will naturally follow."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
