@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am always doing that which I can not do, in order that I may learn how to do it."</i>
+<i>"Some of us learn from other people's mistakes and the rest of us have to be other people.  "</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
