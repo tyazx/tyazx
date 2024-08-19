@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you become is far more important than what you get."</i>
+<i>"You are your best thing."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Toni Morrison</b>
 </blockquote>
 </p>
 
