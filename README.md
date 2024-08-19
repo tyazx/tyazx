@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no self-discovery without pain and loss."</i>
+<i>"When you're curious, you find lots of interesting things to do."</i>
 <br>
-<b>- Anita Krizzan</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
