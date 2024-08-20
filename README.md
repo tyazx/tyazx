@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am who I am today because of the choices I made yesterday."</i>
+<i>"If you can't imagine it, you can't have it."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Toni Morrison</b>
 </blockquote>
 </p>
 
