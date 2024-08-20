@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only the educated are free."</i>
+<i>"Be patient and calm; no one can catch fish in anger."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
