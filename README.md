@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you tell the truth, you don't have to remember anything."</i>
+<i>"Better to light a candle than to curse the darkness. "</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
