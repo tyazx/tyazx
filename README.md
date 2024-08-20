@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make your mind your own business."</i>
+<i>"Only the educated are free."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
