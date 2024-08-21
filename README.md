@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only thing worse than being blind is having sight but no vision."</i>
+<i>"Facts are the enemy of truth. "</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
