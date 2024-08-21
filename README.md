@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're on earth. There's no cure for that."</i>
+<i>"Work for something because it is good, not just because it stands a chance to succeed."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
