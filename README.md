@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is the art of drawing sufficient conclusions from insufficient premises."</i>
+<i>"Perpetual optimism is a force multiplier."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
