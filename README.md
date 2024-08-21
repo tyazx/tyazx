@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Longevity is a fleeting moment that lasts forever."</i>
+<i>"The outer conditions of a person's life will always be found to reflect their inner beliefs."</i>
 <br>
-<b>- Vidal Sassoon</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
