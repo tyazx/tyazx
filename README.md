@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perpetual optimism is a force multiplier."</i>
+<i>"The most important thing in life is to stop saying 'I wish' and start saying 'I will'. Consider nothing impossible, then treat possibilities as probabilities."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
