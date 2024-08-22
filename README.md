@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water."</i>
+<i>"Judge your success by what you had to give up in order to get it."</i>
 <br>
-<b>- Buddha</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
