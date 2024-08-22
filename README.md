@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Chase your passion, not your pension. "</i>
+<i>"There are people who have money and people who are rich."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
