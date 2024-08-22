@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your business is not to 'get somewhere' - it is to be here."</i>
+<i>"Winners never quit and quitters never win."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
