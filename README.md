@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love."</i>
+<i>"Chase your passion, not your pension. "</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
