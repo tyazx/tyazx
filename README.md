@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't imagine it, you can't have it."</i>
+<i>"Keep your eyes on the stars, but remember to keep your feet on the ground."</i>
 <br>
-<b>- Toni Morrison</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
