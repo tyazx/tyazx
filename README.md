@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always keep your eyes open. Keep watching. Because whatever you see can inspire you."</i>
+<i>"We are all different. Don't judge, understand instead."</i>
 <br>
-<b>- Grace Coddington</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
