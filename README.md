@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your friends close, and your enemies closer."</i>
+<i>"To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
