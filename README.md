@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I can pay the bills, I'm happy."</i>
+<i>"Better late than never."</i>
 <br>
-<b>- Morgan Wootten</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
