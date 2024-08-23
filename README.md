@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No snowflake ever falls in the wrong place."</i>
+<i>"If I can pay the bills, I'm happy."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Morgan Wootten</b>
 </blockquote>
 </p>
 
