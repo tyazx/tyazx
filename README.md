@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For the things we have to learn before we can do them, we learn by doing them."</i>
+<i>"Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it."</i>
 <br>
-<b>- Aristotle</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
