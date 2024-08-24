@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you care about someone enough, you'll always be there for them no matter what."</i>
+<i>"I wasn't brave, I just didn't have time to be scared."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
