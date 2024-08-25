@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more tranquil a man becomes, the greater is his success, his influence, his power for good. Calmness of mind is one of the beautiful jewels of wisdom."</i>
+<i>"The divine is not something high above us. It is in heaven, it is in earth, it is inside us."</i>
 <br>
-<b>- James Allen</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
