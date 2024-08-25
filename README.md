@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be Brave and Take Risks: You need to have faith in yourself. Be brave and take risks. You don't have to have it all figured out to move forward."</i>
+<i>"Hope means hoping when everything seems hopeless."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
