@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you repeat a mistake, it is not a mistake anymore: it is a decision."</i>
+<i>"Begin now to be what you will be hereafter."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
