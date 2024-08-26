@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Begin now to be what you will be hereafter."</i>
+<i>"Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you."</i>
 <br>
-<b>- St. Jerome</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
