@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When your intuition is strong, follow it."</i>
+<i>"It doesn't matter how slow you go, as long as you don't stop."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
