@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's easy to be a critic, but being a doer requires effort, risk, and change.  "</i>
+<i>"Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love. "</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
