@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love. "</i>
+<i>"When you repeat a mistake, it is not a mistake anymore: it is a decision."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
