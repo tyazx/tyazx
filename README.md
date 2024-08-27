@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be true to yourself, help others, make each day your masterpiece"</i>
+<i>"Showing off is the fool's idea of glory. "</i>
 <br>
-<b>- John Wooden</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
