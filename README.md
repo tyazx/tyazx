@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort."</i>
+<i>"Alone we can do so little; together we can do so much."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
