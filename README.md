@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pen is the tongue of the mind. "</i>
+<i>"The single most powerful asset we all have is our mind."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
