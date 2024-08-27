@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear does not have any special power unless you empower it by submitting to it."</i>
+<i>"In order to be walked over, you have to be lying down."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
