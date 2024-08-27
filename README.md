@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order to be walked over, you have to be lying down."</i>
+<i>"What the eye doesn't see and the mind doesn't know, doesn't exist."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
