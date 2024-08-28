@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The opposite of courage in our society is not cowardice... it is conformity."</i>
+<i>"A man's worth is no greater than his ambitions."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
