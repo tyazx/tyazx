@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Understanding that rests in what it does not understand is the finest."</i>
+<i>"If you don't know, the thing to do is not to get scared, but to learn."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
