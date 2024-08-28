@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man's worth is no greater than his ambitions."</i>
+<i>"Happiness cannot be traveled to, owned, earned, worn or consumed."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
