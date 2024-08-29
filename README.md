@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our deeds determine us, as much as we determine our deeds."</i>
+<i>"Success is never final; failure is never fatal."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Conrad Hilton</b>
 </blockquote>
 </p>
 
