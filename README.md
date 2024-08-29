@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have to accept whatever comes, and the only important thing is that you meet it with the best you have to give."</i>
+<i>"True friendship ought never to conceal what it thinks. "</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
