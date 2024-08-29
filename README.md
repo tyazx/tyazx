@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trying to define yourself is like trying to bite your own teeth."</i>
+<i>"Simplicity is a difficult thing to achieve.  "</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
