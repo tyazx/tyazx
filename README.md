@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything has beauty but not everyone sees it."</i>
+<i>"Quiet people have the loudest minds."</i>
 <br>
-<b>- Confucius</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
