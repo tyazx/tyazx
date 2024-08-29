@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember that sometimes not getting what you want is a wonderful stroke of luck."</i>
+<i>"Anger exceeding limits causes fear and excessive kindness eliminates respect."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
