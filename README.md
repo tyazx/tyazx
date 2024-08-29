@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anger exceeding limits causes fear and excessive kindness eliminates respect."</i>
+<i>"A dream doesn't become reality through magic it takes sweat, determination and hard work."</i>
 <br>
-<b>- Euripides</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
