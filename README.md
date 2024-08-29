@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True friendship ought never to conceal what it thinks. "</i>
+<i>"You get in life what you have the courage to ask for."</i>
 <br>
-<b>- St. Jerome</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
