@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is never final; failure is never fatal."</i>
+<i>"You never know when a moment and a few sincere words can have an impact on a life.  "</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
