@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Projecting your mind into a successful situation is the most powerful means to achieve goals.  "</i>
+<i>"At the end of the day, let there be no excuses, no explanations, no regrets."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
