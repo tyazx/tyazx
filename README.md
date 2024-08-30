@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Use your smile to change the world but don't let the world change your smile."</i>
+<i>"Don't talk about what you have done or what you are going to do."</i>
 <br>
-<b>- Unknown</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
