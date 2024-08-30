@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Difficult and meaningful will always bring more satisfaction than easy and meaningless."</i>
+<i>"Definiteness of purpose is the starting point of all achievement. "</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- W. Clement Stone</b>
 </blockquote>
 </p>
 
