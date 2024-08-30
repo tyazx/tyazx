@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who reads a book with a sense of obligation does not understand the art of reading."</i>
+<i>"Projecting your mind into a successful situation is the most powerful means to achieve goals.  "</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
