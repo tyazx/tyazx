@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"At the end of the day, let there be no excuses, no explanations, no regrets."</i>
+<i>"Don't blame others. it won't make you a better person."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
