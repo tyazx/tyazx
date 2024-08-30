@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By perseverance the snail reached the ark."</i>
+<i>"The question isn't who is going to let me; it's who is going to stop me."</i>
 <br>
-<b>- Charles Spurgeon</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
