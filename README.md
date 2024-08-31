@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists."</i>
+<i>"Our truest life is when we are in dreams awake."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
