@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only the one reality, neither to be realized nor attained."</i>
+<i>"Do you have the patience to wait until your mud settles and the water is clear?"</i>
 <br>
-<b>- Huang Po</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
