@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do you have the patience to wait until your mud settles and the water is clear?"</i>
+<i>"Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
