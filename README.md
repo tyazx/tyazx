@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our truest life is when we are in dreams awake."</i>
+<i>"Life happens in the river, not the shore."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
