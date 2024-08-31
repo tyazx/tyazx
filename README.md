@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great loves too must be endured."</i>
+<i>"Our greatest fears lie in anticipation."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
