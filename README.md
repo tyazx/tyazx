@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way out is always through."</i>
+<i>"Great loves too must be endured."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
