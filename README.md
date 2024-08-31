@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life happens in the river, not the shore."</i>
+<i>"The best way out is always through."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
