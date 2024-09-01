@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is such a rare thing, it is delighted to tell it."</i>
+<i>"You may be disappointed if you fail, but you are doomed if you don't try. "</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
