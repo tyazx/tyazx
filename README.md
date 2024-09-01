@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  "</i>
+<i>"Respect is earned by effort not age, all things age without effort."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- C. Sean McGee</b>
 </blockquote>
 </p>
 
