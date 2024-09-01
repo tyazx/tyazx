@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Respect is earned by effort not age, all things age without effort."</i>
+<i>"All human wisdom is contained in these two words - Wait and Hope"</i>
 <br>
-<b>- C. Sean McGee</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
