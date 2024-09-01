@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people don't like change, but you need to embrace change if the alternative is disaster."</i>
+<i>"I can think of nothing less pleasurable than a life devoted to pleasure."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- John D. Rockefeller</b>
 </blockquote>
 </p>
 
