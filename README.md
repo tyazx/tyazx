@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man is more cheated than the selfish man."</i>
+<i>"Convinced myself, I seek not to convince."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
