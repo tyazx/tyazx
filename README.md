@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you get up one more time than you fall, you will make it through."</i>
+<i>"Know your gifts and share them."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
