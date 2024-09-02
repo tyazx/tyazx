@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you chase two rabbits, you catch none."</i>
+<i>"Others can stop you temporarily - you are the only one who can do it permanently."</i>
 <br>
-<b>- Confucius</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
