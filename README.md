@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True love stories never have endings."</i>
+<i>"If you chase two rabbits, you catch none."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
