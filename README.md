@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your only obligation in any lifetime is to be true to yourself."</i>
+<i>"The final mystery is oneself."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
