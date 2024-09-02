@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything that is done in the world is done by hope."</i>
+<i>"If you get up one more time than you fall, you will make it through."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
