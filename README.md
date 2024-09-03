@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Teachers open the door. You enter by yourself. "</i>
+<i>"Every strike brings me closer to the next home run. "</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Babe Ruth</b>
 </blockquote>
 </p>
 
