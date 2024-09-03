@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Older men declare war. But it is youth that must fight and die."</i>
+<i>"Those who are easily shocked should be shocked more often."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
