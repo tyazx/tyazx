@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all faced with a series of great opportunities brilliantly disguised as impossible situations. "</i>
+<i>"Older men declare war. But it is youth that must fight and die."</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
