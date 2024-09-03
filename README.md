@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time."</i>
+<i>"A hopeless man is a very desperate and dangerous man, almost a dead man."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
