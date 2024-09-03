@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you believe with feeling becomes your reality. "</i>
+<i>"We must have strong minds, ready to accept facts as they are."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
