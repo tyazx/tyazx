@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The mind can calculate, but the spirit yearns, and the heart wants what the heart wants."</i>
+<i>"The road to success is always under construction."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
