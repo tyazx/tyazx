@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throughout this life, you can never be certain of living long enough to take another breath."</i>
+<i>"Avoiding danger is no safer in the long run than exposure."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
