@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it."</i>
+<i>"You drown not by falling into a river, but by staying submerged in it."</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
