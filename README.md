@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never stand begging for that which you have the power to earn."</i>
+<i>"Selfishness and greed, individual or national, cause most of our troubles."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
