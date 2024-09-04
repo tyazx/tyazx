@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one ever is defeated until defeat has been accepted as a reality."</i>
+<i>"A journey of a thousand miles must begin with a single step."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
