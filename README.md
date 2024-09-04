@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Selfishness and greed, individual or national, cause most of our troubles."</i>
+<i>"Throughout this life, you can never be certain of living long enough to take another breath."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
