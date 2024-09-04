@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You drown not by falling into a river, but by staying submerged in it."</i>
+<i>"Never trust he who trusts everyone."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
