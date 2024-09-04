@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A journey of a thousand miles must begin with a single step."</i>
+<i>"The mind can calculate, but the spirit yearns, and the heart wants what the heart wants."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
