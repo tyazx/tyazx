@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not how much we give but how much love we put into giving."</i>
+<i>"The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Benjamin Mays</b>
 </blockquote>
 </p>
 
