@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A little progress each day adds up to big results."</i>
+<i>"Knowing is not enough, we must apply. Willing is not enough, we must do.  "</i>
 <br>
-<b>- Unknown</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
