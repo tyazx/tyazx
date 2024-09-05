@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing is not enough, we must apply. Willing is not enough, we must do.  "</i>
+<i>"From a certain point onward there is no longer any turning back. That is the point that must be reached."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
