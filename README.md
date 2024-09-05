@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"From a certain point onward there is no longer any turning back. That is the point that must be reached."</i>
+<i>"It's not the men in your life that matters, it's the life in your men."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
