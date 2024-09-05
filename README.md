@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Decide what your truth is. Then live it."</i>
+<i>"A little progress each day adds up to big results."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
