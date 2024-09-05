@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness cannot be traveled to, owned, earned, worn or consumed."</i>
+<i>"Decide what your truth is. Then live it."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
