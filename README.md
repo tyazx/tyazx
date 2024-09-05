@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Avoiding danger is no safer in the long run than exposure."</i>
+<i>"Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
