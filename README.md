@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be approximately right rather than exactly wrong."</i>
+<i>"The quality of your life is the quality of your relationships."</i>
 <br>
-<b>- John Tukey</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
