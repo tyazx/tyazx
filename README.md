@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The constant assertion of belief is an indication of fear."</i>
+<i>"Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
