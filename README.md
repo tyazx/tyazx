@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All cruelty springs from weakness.  "</i>
+<i>"The constant assertion of belief is an indication of fear."</i>
 <br>
-<b>- Seneca</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
