@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"None are more hopelessly enslaved than those who falsely believe they are free."</i>
+<i>"There are few reasons for telling the truth, but for lying the number is infinite."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
