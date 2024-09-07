@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is permanent in this wicked world - not even our troubles."</i>
+<i>"Faults are yours to fix, not to curse."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
