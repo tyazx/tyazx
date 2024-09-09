@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A tiny change today brings a dramatically different tomorrow."</i>
+<i>"Know yourself and you will win all battles."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
