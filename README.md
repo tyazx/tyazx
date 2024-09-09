@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest room in the world is the room for improvement."</i>
+<i>"What people need and what they want may be very different."</i>
 <br>
-<b>- Unknown</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
