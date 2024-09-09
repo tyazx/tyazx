@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What people need and what they want may be very different."</i>
+<i>"Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
