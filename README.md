@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're waiting until you feel talented enough to make it, you'll never make it."</i>
+<i>"The biggest room in the world is the room for improvement."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
