@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy."</i>
+<i>"Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!"</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
