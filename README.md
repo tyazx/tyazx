@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'"</i>
+<i>"One of the most difficult things is not to change society - but to change yourself."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
