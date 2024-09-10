@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know yourself and you will win all battles."</i>
+<i>"The more you give, the more comes back to you."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
