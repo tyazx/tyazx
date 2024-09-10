@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you need inspiration, don't do it."</i>
+<i>"Don't stop when you're tired. Stop when you're done."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Marilyn Monroe</b>
 </blockquote>
 </p>
 
