@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The prettiest eyes have cried the most."</i>
+<i>"Everything you look at can become a fairy tale and you can get a story from everything you touch."</i>
 <br>
-<b>- Unknown</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
