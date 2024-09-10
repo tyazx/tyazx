@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the most difficult things is not to change society - but to change yourself."</i>
+<i>"A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
