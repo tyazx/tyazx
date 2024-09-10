@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be brave. Take risks. Nothing can substitute experience."</i>
+<i>"While we may not be able to control all that happens to us, we can control what happens inside us."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
