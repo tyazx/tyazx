@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My instinct is always to seek out challenges as opposed to avoiding them."</i>
+<i>"The only defense against the world is a thorough knowledge of it."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
