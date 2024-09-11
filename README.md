@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Begin at once to live, and count each separate day as a separate life.  "</i>
+<i>"The way to love anything is to realize that it may be lost."</i>
 <br>
-<b>- Seneca</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
