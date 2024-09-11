@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The trouble with most of us is that we'd rather be ruined by praise than saved by criticism."</i>
+<i>"Life and the simple beauty of it is too good to pass up."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
