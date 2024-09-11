@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge."</i>
+<i>"Any fool can paint a picture, but it takes a wise man to be able to sell it."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
