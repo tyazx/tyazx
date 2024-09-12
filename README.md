@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way to love anything is to realize that it may be lost."</i>
+<i>"The only person you should try to be better than is the person you were yesterday."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
