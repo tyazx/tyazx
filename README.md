@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing more frightful than ignorance in action."</i>
+<i>"True prayer has no set form."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
