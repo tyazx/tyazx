@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True prayer has no set form."</i>
+<i>"Is it really possible to tell someone else what one feels?"</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
