@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge."</i>
+<i>"True wealth is of the heart, not of the purse."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
