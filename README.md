@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I would rather die on my feet than live on my knees."</i>
+<i>"The less people know, the more stubbornly they know it."</i>
 <br>
-<b>- Euripides</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
