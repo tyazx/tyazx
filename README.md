@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The positive thinker sees the invisible, feels the intangible, and achieves the impossible."</i>
+<i>"Growth comes at the point of resistance."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
