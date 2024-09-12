@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without the rain there would be no rainbow."</i>
+<i>"I would rather die on my feet than live on my knees."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
