@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Is it really possible to tell someone else what one feels?"</i>
+<i>"The best of us sometimes eat our words.  "</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
