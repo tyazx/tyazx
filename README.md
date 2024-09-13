@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How you think is as important as as what you think."</i>
+<i>"There is nothing quite so tragic as a young cynic."</i>
 <br>
-<b>- Unknown</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
