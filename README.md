@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The guest will judge better of a feast than the cook."</i>
+<i>"Success is like reaching an important birthday and finding you're exactly the same."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
