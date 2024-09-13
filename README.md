@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whenever you do a thing, act as if all the world were watching."</i>
+<i>"To wish you were someone else is to waste the person you are."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
