@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing quite so tragic as a young cynic."</i>
+<i>"The guest will judge better of a feast than the cook."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
