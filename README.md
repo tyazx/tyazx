@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are tempted to give up, your breakthrough is probably just around the corner."</i>
+<i>"What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!"</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
