@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As soon as you truly commit to making something happen, the 'how' will reveal itself."</i>
+<i>"Discipline is the bridge between goals and accomplishment."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
