@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable."</i>
+<i>"Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
