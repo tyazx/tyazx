@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"None of us can change our yesterdays but all of us can change our tomorrows."</i>
+<i>"Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  "</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Jack Kerouac</b>
 </blockquote>
 </p>
 
