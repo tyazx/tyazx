@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Today I begin a new life. I will greet this day with love in my heart."</i>
+<i>"As soon as you truly commit to making something happen, the 'how' will reveal itself."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
