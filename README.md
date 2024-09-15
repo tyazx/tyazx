@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving."</i>
+<i>"Take away love and our earth is a tomb."</i>
 <br>
-<b>- Yanni</b>
+<b>- Robert Browning</b>
 </blockquote>
 </p>
 
