@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!"</i>
+<i>"The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
