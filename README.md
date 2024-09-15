@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The few who do are the envy of the many who only watch."</i>
+<i>"Watch what you say, and whatever you say, practice it."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Soyen Shaku</b>
 </blockquote>
 </p>
 
