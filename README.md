@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"They who have conquered doubt and fear have conquered failure."</i>
+<i>"The few who do are the envy of the many who only watch."</i>
 <br>
-<b>- James Allen</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
