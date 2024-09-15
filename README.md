@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For changes to be of any true value, they've got to be lasting and consistent."</i>
+<i>"People seldom do what they believe in. They do what is convenient, then repent."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
