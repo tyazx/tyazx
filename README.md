@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Watch what you say, and whatever you say, practice it."</i>
+<i>"To be in harmony with the wholeness of things is not to have anxiety over imperfections."</i>
 <br>
-<b>- Soyen Shaku</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
