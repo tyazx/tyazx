@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations."</i>
+<i>"Words are the clothing of our thoughts."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
