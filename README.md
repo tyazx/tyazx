@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just do the best you can. No one can do more than that."</i>
+<i>"Nothing is really work unless you would rather be doing something else. "</i>
 <br>
-<b>- John Wooden</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
