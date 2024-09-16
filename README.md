@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stress happens when the mind resists what is."</i>
+<i>"To forgive means pardoning the unpardonable."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
