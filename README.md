@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For changes to be of any true value, they've got to be lasting and consistent."</i>
+<i>"When something comes from within, when it is a part of you, you have no choice but to live it, to express it."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
