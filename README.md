@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When something comes from within, when it is a part of you, you have no choice but to live it, to express it."</i>
+<i>"No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
