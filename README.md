@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words are the clothing of our thoughts."</i>
+<i>"Just do the best you can. No one can do more than that."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
