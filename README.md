@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fortunate are those who take the first steps."</i>
+<i>"Doing the best at this moment puts you in the best place for the next moment."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
