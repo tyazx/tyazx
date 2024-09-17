@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep others in suspense, cultivate an air of unpredictability."</i>
+<i>"Believe nothing you hear, and only one half that you see."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
