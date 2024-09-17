@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In matters of style, swim with the current; in matters of principle, stand like a rock."</i>
+<i>"Words are the clothes thoughts wear."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
