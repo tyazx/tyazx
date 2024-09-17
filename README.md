@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Smile, breathe and go slowly."</i>
+<i>"Fortunate are those who take the first steps."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
