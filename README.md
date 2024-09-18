@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you can't make them see the light, make them feel the heat."</i>
+<i>"Faithless is he that says farewell when the road darkens."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
