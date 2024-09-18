@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose."</i>
+<i>"It's easier to lose than to win.  "</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
