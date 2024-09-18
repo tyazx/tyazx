@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Faithless is he that says farewell when the road darkens."</i>
+<i>"There is no truth. There is only perception."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Gustave Flaubert</b>
 </blockquote>
 </p>
 
