@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You never know when a moment and a few sincere words can have an impact on a life.  "</i>
+<i>"The only time you run out of chances is when you stop taking them."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
