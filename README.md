@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I alone cannot change the world, but I can cast a stone across the waters to create many ripples."</i>
+<i>"You never know when a moment and a few sincere words can have an impact on a life.  "</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
