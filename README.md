@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only time you run out of chances is when you stop taking them."</i>
+<i>"The older you get, the better you get. Unless you're a banana."</i>
 <br>
-<b>- Unknown</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
