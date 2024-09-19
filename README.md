@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The older you get, the better you get. Unless you're a banana."</i>
+<i>"What do we live for, if it is not to make life less difficult for each other?"</i>
 <br>
-<b>- Betty White</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
