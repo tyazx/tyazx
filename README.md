@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We will now discuss in a little more detail the Struggle for Existence."</i>
+<i>"I didn't get there by wishing for it or hoping for it, but by working for it."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
