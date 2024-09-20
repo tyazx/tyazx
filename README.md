@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can change our lives. We can do, have, and be exactly what we wish."</i>
+<i>"We will now discuss in a little more detail the Struggle for Existence."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
