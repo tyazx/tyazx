@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wisest men follow their own direction."</i>
+<i>"Life is a process. We are a process. The universe is a process."</i>
 <br>
-<b>- Euripides</b>
+<b>- Anne Wilson Schaef</b>
 </blockquote>
 </p>
 
