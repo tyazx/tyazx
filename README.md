@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Curiosity is the most powerful thing you own."</i>
+<i>"A loving heart is the truest wisdom."</i>
 <br>
-<b>- James Cameron</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
