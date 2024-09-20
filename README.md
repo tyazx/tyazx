@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I didn't get there by wishing for it or hoping for it, but by working for it."</i>
+<i>"Try all things, hold fast that which is good."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
