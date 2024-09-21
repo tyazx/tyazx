@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first principle of success is desire."</i>
+<i>"Faith means believing the unbelievable."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
