@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is resistance to fear, mastery of fear - not absence of fear."</i>
+<i>"What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
