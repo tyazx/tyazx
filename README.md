@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Walk with those seeking truth... RUN FROM THOSE WHO THINK THEY'VE FOUND IT."</i>
+<i>"Life is essentially an endless series of problems. The solution to one problem is merely the creation of another."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
