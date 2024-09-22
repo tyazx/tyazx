@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people."</i>
+<i>"If you take responsibility for yourself you will develop a hunger to accomplish your dream."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
