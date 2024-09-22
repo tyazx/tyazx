@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The nearer a man comes to a calm mind, the closer he is to strength."</i>
+<i>"Absence makes the heart grow fonder."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
