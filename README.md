@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Absence makes the heart grow fonder."</i>
+<i>"The more I want to get something done, the less I call it work."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
