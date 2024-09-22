@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is essentially an endless series of problems. The solution to one problem is merely the creation of another."</i>
+<i>"Honesty is the first chapter in the book of wisdom."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
