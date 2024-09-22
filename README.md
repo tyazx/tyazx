@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not stop thinking of life as an adventure."</i>
+<i>"Your very silence shows you agree."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
