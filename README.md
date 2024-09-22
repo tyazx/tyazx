@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you know what you want, and you want it bad enough, you will find a way to get it."</i>
+<i>"Do not stop thinking of life as an adventure."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
