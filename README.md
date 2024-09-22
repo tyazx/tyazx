@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your very silence shows you agree."</i>
+<i>"The nearer a man comes to a calm mind, the closer he is to strength."</i>
 <br>
-<b>- Euripides</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
