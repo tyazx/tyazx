@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't spend major time on minor things."</i>
+<i>"Stress happens when the mind resists what is."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
