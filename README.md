@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage."</i>
+<i>"Don't spend major time on minor things."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
