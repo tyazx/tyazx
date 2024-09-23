@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you focus on results and finding shortcuts, you'll get impatient. If you focus on the process and doing the right thing, you'll be unstoppable."</i>
+<i>"The salvation of the world lies in the human heart."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
