@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can, you should, and if you're brave enough to start, you will."</i>
+<i>"The big thing is to make a winning effort. I'm not obsessed with wins."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Morgan Wootten</b>
 </blockquote>
 </p>
 
