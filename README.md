@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never be bored, and you will never be boring."</i>
+<i>"It's the unknown we fear when we look upon death and darkness, nothing more."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
