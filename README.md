@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stress happens when the mind resists what is."</i>
+<i>"Your problem isn't the problem. Your reaction is the problem."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
