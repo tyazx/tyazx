@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's the unknown we fear when we look upon death and darkness, nothing more."</i>
+<i>"You can, you should, and if you're brave enough to start, you will."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
