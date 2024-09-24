@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The cost of leadership is self-interest."</i>
+<i>"A real friend is one who walks in when the rest of the world walks out."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
