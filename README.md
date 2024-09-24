@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One is never afraid of the unknown; one is afraid of the known coming to an end."</i>
+<i>"Your imagination is your preview of life's coming attractions."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
