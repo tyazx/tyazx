@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who wants to achieve a dream must stay strong, focused and steady."</i>
+<i>"The cost of leadership is self-interest."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
