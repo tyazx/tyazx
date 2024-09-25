@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A real friend is one who walks in when the rest of the world walks out."</i>
+<i>"An intelligence test sometimes shows a man how smart he would have been not to have taken it."</i>
 <br>
-<b>- Unknown</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
