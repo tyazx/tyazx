@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Changing minds is harder than finding people who already agree."</i>
+<i>"Keep away from people who try to belittle your ambitions."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
