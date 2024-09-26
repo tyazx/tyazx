@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who dream by day are cognizant of many things which escape those who dream only by night."</i>
+<i>"Public opinion is the worst of all opinions."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
