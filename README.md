@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Public opinion is the worst of all opinions."</i>
+<i>"20 percent of your activities will account for 80 percent of your results."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
