@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are few reasons for telling the truth, but for lying the number is infinite."</i>
+<i>"An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
