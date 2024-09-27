@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quicker you let go of old cheese, the sooner you find new cheese."</i>
+<i>"When you're curious, you find lots of interesting things to do."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
