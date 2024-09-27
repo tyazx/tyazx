@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throw your heart over the bar and your body will follow."</i>
+<i>"When the world pushes you to your knees, you're in the perfect position to pray."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
