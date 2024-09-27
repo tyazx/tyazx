@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the world pushes you to your knees, you're in the perfect position to pray."</i>
+<i>"Do not use life to give life to death. Do not use death to bring death to life."</i>
 <br>
-<b>- Rumi</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
