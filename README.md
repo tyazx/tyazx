@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone has oceans to fly, if they have the heart to do it. Is it reckless? Maybe. But what do dreams know of boundaries."</i>
+<i>"Never trust he who trusts everyone."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
