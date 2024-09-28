@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I can live without money, but I cannot live without love."</i>
+<i>"Do what is right, not what is easy, nor what is popular."</i>
 <br>
-<b>- Judy Garland</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
