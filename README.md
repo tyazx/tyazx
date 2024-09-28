@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not get the chills when you set your goal you're not setting big enough goals."</i>
+<i>"When angry count to ten before you speak. If very angry, count to one hundred."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
