@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world would go on even without you. Don't take yourself so seriously."</i>
+<i>"The more you are grateful for what you have the more you will have to be grateful for.  "</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
