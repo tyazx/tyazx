@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no greater agony than bearing an untold story inside you."</i>
+<i>"When you win, say nothing, when you lose say less."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
