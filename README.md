@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest treasures are those invisible to the eye but found by the heart."</i>
+<i>"Looking after my health today gives me a better hope for tomorrow. "</i>
 <br>
-<b>- Judy Garland</b>
+<b>- Anne Wilson Schaef</b>
 </blockquote>
 </p>
 
