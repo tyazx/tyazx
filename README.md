@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be prepared is half the victory. "</i>
+<i>"There is no greater agony than bearing an untold story inside you."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
