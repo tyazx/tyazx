@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow. "</i>
+<i>"The more tranquil a man becomes, the greater is his success, his influence, his power for good. Calmness of mind is one of the beautiful jewels of wisdom."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
