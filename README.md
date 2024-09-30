@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know the rules well, so you can break them effectively."</i>
+<i>"There can be no deep disappointment where there is not deep love."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
