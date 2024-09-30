@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything is possible. The impossible just takes longer."</i>
+<i>"Find something you love and do it better than everyone else."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
