@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never take your position for granted and never let any favors you receive go to your head."</i>
+<i>"Peace begins with a smile."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
