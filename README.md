@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't Let Yesterday Take Up Too Much Of Today."</i>
+<i>"There is only one thing that makes a dream impossible to achieve: the fear of failure."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
