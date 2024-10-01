@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only one thing that makes a dream impossible to achieve: the fear of failure."</i>
+<i>"The greatest work that kindness does to others is that it makes them kind themselves."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
