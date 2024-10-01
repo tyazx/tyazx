@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is 10% what happens to you and 90% how you react to it. "</i>
+<i>"To the world you may be one person; but to one person you may be the world."</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
