@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest work that kindness does to others is that it makes them kind themselves."</i>
+<i>"Only I can change my life. No one can do it for me."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
