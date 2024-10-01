@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To the world you may be one person; but to one person you may be the world."</i>
+<i>"Our life is what our thoughts make it. A man will find that as he alters his thoughts toward things and other people, things and other people will alter towards him."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
