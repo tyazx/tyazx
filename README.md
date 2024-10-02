@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We cannot change anything unless we accept it."</i>
+<i>"Each of us is a unique strand in the intricate web of life and here to make a contribution."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
