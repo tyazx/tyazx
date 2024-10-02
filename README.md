@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Character is the result of two things: mental attitude and the way we spend our time."</i>
+<i>"You have to make time, even for something as universal as staring at the stars."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- W.P. Kinsella</b>
 </blockquote>
 </p>
 
