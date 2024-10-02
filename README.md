@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have to make time, even for something as universal as staring at the stars."</i>
+<i>"Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along."</i>
 <br>
-<b>- W.P. Kinsella</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
