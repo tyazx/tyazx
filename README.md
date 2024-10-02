@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand."</i>
+<i>"Storms don't last forever."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
