@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not ignore the passion that burns in you. Spend time to discover your gift."</i>
+<i>"Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
