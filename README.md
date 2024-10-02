@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each of us is a unique strand in the intricate web of life and here to make a contribution."</i>
+<i>"Character is the result of two things: mental attitude and the way we spend our time."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
