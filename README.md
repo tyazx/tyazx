@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To a mind that is still, the entire universe surrenders."</i>
+<i>"Not doing it is certainly the best way to not getting it.  "</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
