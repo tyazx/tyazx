@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not doing it is certainly the best way to not getting it.  "</i>
+<i>"All has not been said and never will be."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
