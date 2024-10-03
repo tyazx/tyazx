@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world is a puzzle; no need to make sense out of it."</i>
+<i>"Tension is who you think you should be. Relaxation is who you are."</i>
 <br>
-<b>- Socrates</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
