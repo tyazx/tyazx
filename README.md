@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tension is who you think you should be. Relaxation is who you are."</i>
+<i>"You Create Your Own Present By What You Give Your Attention To Today."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
