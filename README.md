@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy."</i>
+<i>"Perpetual optimism is a force multiplier."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
