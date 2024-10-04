@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who are possessed by nothing possess everything."</i>
+<i>"Don't let your learning lead to knowledge. Let your learning lead to action."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
