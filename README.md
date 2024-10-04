@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Death and life have their determined appointments; riches and honors depend upon heaven. "</i>
+<i>"People do not decide their futures, they decide their habits and their habits decide their futures."</i>
 <br>
-<b>- Confucius</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
