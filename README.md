@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have no methods; all I do is accept people as they are."</i>
+<i>"Those who are possessed by nothing possess everything."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
