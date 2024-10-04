@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perpetual optimism is a force multiplier."</i>
+<i>"Death and life have their determined appointments; riches and honors depend upon heaven. "</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
