@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let your learning lead to knowledge. Let your learning lead to action."</i>
+<i>"Short cuts make long delays."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
