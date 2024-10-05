@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As you think, so shall you become. "</i>
+<i>"Our joy does not have to be based on our circumstances."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
