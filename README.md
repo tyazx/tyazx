@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You make your own luck if you stay at it long enough."</i>
+<i>"Tomorrow is only found in the calendar of fools."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
