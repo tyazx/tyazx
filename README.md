@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A Rolling Stone Gathers No Moss."</i>
+<i>"You make your own luck if you stay at it long enough."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
