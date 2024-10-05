@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is but one dream flowing into another."</i>
+<i>"A Rolling Stone Gathers No Moss."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
