@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"This is the most simple and basic component of life: our struggles determine our successes."</i>
+<i>"Don't let someone elses. opinion become your reality."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
