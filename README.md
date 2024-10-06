@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your goals are the road maps that guide you and show you what is possible for your life."</i>
+<i>"The more you extend kindness to yourself, the more it will become your automatic response to others."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
