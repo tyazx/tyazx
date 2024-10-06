@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even though you are on the right track - you will get run over if you just sit there."</i>
+<i>"This is the most simple and basic component of life: our struggles determine our successes."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
