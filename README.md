@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To avoid criticism, do nothing, say nothing, and be nothing."</i>
+<i>"Your goals are the road maps that guide you and show you what is possible for your life."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
