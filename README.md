@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you put water into a cup, it becomes the cup."</i>
+<i>"As you think, so shall you become. "</i>
 <br>
 <b>- Bruce Lee</b>
 </blockquote>
