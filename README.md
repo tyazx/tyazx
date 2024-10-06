@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let someone elses. opinion become your reality."</i>
+<i>"The final mystery is oneself."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
