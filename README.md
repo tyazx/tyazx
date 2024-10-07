@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you correct your mind, the rest of your life will fall into place."</i>
+<i>"It does not matter how slowly you go so long as you do not stop."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
