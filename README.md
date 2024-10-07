@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throughout this life, you can never be certain of living long enough to take another breath."</i>
+<i>"It is far easier to start something than it is to finish it."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
