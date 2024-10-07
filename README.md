@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can do two things at once, but you can't focus effectively on two things at once."</i>
+<i>"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
