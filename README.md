@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine."</i>
+<i>"You Create Your Own Present By What You Give Your Attention To Today."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
