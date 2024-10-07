@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You Create Your Own Present By What You Give Your Attention To Today."</i>
+<i>"No man will make a great leader who wants to do it all himself or to get all the credit for doing it."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
