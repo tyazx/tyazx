@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing is not enough, we must apply. Willing is not enough, we must do."</i>
+<i>"Either write something worth reading or do something worth writing."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
