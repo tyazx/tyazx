@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you know what you want, and you want it bad enough, you will find a way to get it."</i>
+<i>"There is no significance in life without struggle."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
