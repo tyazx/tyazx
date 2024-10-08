@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am who I am today because of the choices I made yesterday."</i>
+<i>"We lie the loudest when we lie to ourselves."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
