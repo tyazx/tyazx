@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no significance in life without struggle."</i>
+<i>"Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
