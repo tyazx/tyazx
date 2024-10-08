@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rich people have small TVs and big libraries, and poor people have small libraries and big TVs."</i>
+<i>"Love is the energy of life."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Robert Browning</b>
 </blockquote>
 </p>
 
