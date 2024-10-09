@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love doesn't need reason. It speaks from the irrational wisdom of the heart."</i>
+<i>"One of the advantages of being disorganized is that one is always having surprising discoveries."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- A.A. Milne</b>
 </blockquote>
 </p>
 
