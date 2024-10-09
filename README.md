@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the midst of chaos, there is also opportunity."</i>
+<i>"Great loves too must be endured."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
