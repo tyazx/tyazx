@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not try to be on the side of the majority, but live according to your inner laws."</i>
+<i>"It's OK to have your eggs in one basket as long as you control what happens to that basket."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
