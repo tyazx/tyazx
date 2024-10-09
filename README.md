@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not take life too seriously. You will never get out of it alive."</i>
+<i>"Love doesn't need reason. It speaks from the irrational wisdom of the heart."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
