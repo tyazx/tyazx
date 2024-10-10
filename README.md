@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You may be one person in this world, but to one person you may mean the world."</i>
+<i>"Those who are easily shocked should be shocked more often."</i>
 <br>
-<b>- Unknown</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
