@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is amazing what you can accomplish if you do not care who gets the credit."</i>
+<i>"Stop being a prisoner of your past. Become the architect of your future."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
