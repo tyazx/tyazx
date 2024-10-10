@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never trust he who trusts everyone."</i>
+<i>"Do not believe that you will reach your destination without leaving the shore. "</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
