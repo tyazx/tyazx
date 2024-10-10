@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stop being a prisoner of your past. Become the architect of your future."</i>
+<i>"Your business is not to 'get somewhere' - it is to be here."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
