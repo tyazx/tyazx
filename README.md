@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Beware of false knowledge, it is more dangerous than ignorance."</i>
+<i>"It is amazing what you can accomplish if you do not care who gets the credit."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
