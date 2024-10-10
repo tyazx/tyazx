@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's OK to have your eggs in one basket as long as you control what happens to that basket."</i>
+<i>"Everyday you can take a tiny step in the right direction."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
