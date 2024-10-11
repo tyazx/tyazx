@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your business is not to 'get somewhere' - it is to be here."</i>
+<i>"Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
