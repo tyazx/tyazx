@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Human beings can alter their lives by altering their attitudes of mind."</i>
+<i>"Don't just sit there. Do something. The answers will follow."</i>
 <br>
-<b>- William James</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
