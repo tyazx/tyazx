@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things."</i>
+<i>"If you've made a mistake, it's better just to laugh at it."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
