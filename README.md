@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quality is more important than quantity. One home run is much better than two doubles."</i>
+<i>"To forget the whole world is easy; to make the whole world forget you is hard."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
