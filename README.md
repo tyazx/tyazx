@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Definiteness of purpose is the starting point of all achievement. "</i>
+<i>"The mind can calculate, but the spirit yearns, and the heart wants what the heart wants."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
