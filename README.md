@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Lack of emotion causes lack of progress and lack of motivation."</i>
+<i>"I am thankful to all who said no to me. It is because of them that I'm doing it myself."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
