@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am thankful to all who said no to me. It is because of them that I'm doing it myself."</i>
+<i>"When it hurts - observe. Life is trying to teach you something."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
