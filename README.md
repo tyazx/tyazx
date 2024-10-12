@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is useless to attempt to reason a man out of a thing he was never reasoned into."</i>
+<i>"Lack of emotion causes lack of progress and lack of motivation."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
