@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Money poisons you when you've got it, and starves you when you haven't."</i>
+<i>"When you realize you've made a mistake, take immediate steps to correct it."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
