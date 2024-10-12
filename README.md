@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The mind can calculate, but the spirit yearns, and the heart wants what the heart wants."</i>
+<i>"A mountain never yields to the wind no matter how strong it is."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
