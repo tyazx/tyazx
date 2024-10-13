@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can change your mind, you can change your life."</i>
+<i>"Insanity: doing the same thing over and over again and expecting different results."</i>
 <br>
-<b>- William James</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
