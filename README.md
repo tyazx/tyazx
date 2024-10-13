@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man can get rich himself unless he enriches others."</i>
+<i>"Those who attain the middle Dominate the whole."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
