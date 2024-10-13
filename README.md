@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sorrow is how we learn to love."</i>
+<i>"No man can get rich himself unless he enriches others."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
