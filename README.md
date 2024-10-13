@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Self-knowledge is the beginning of self-correction."</i>
+<i>"Sorrow is how we learn to love."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
