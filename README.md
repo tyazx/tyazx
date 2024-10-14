@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man is made by his belief. As he believes, so he is."</i>
+<i>"If I can pay the bills, I'm happy."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Morgan Wootten</b>
 </blockquote>
 </p>
 
