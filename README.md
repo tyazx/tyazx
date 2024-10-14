@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A wise person should have money in their head, but not in their heart."</i>
+<i>"Showing off is the fool's idea of glory. "</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
