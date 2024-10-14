@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who attain the middle Dominate the whole."</i>
+<i>"The season of failure is the best time for sowing the seeds of success. "</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
