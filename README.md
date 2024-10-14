@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you change the way you look at things, the things you look at change. "</i>
+<i>"Death and life have their determined appointments; riches and honors depend upon heaven. "</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
