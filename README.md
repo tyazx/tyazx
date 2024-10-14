@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality."</i>
+<i>"If you change the way you look at things, the things you look at change. "</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
