@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Showing off is the fool's idea of glory. "</i>
+<i>"The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. "</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
