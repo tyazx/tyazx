@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If they wrote it to make money, don't read it."</i>
+<i>"Every poem should remind the reader that they are going to die."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
