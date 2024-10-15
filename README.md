@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let your learning lead to knowledge. Let your learning lead to action."</i>
+<i>"Once you choose hope, anything's possible."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
