@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't make someone feel good about themselves until you feel good about yourself."</i>
+<i>"You miss 100% of the shots you don't take."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
