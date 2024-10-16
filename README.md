@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid to go slowly. Be afraid of stopping."</i>
+<i>"When you want something in life, you just gotta reach out and grab it."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
