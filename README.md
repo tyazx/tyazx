@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The chief enemy of creativity is good sense."</i>
+<i>"Success is never final; failure is never fatal."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Conrad Hilton</b>
 </blockquote>
 </p>
 
