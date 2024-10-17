@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are the average of the five people you spend the most time with."</i>
+<i>"Those who can make you believe absurdities can make you commit atrocities. "</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
