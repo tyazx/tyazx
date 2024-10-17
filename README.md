@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you see a get rich quick scheme, that's someone else trying to get rich off of you."</i>
+<i>"A simple rule in dealing with those who are hard to get along with is to remember that this person is striving to assert his superiority; and you must deal with him from that point of view."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
