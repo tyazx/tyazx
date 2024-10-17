@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Surround yourself with only people who are going to lift you higher. "</i>
+<i>"It is passion that makes man live; wisdom makes one only last."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
