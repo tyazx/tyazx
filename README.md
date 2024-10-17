@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is passion that makes man live; wisdom makes one only last."</i>
+<i>"It all depends on what you choose to believe."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
