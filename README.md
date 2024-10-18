@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The goal is not to show how great you are to others, but how vulnerable you are to yourself."</i>
+<i>"Keep your dreams, you never know when you might need them."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
