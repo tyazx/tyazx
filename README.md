@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you."</i>
+<i>"Some people feel the rain. Others just get wet. "</i>
 <br>
-<b>- Sonia Ricotti</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
