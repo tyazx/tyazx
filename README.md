@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest miracle is to be alive."</i>
+<i>"Each day provides it's own gifts."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
