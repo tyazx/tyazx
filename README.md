@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no truth. There is only perception."</i>
+<i>"Patience is bitter, but its fruit is sweet."</i>
 <br>
-<b>- Gustave Flaubert</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
