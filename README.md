@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people feel the rain. Others just get wet. "</i>
+<i>"Words, once they are printed, have a life of their own."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
