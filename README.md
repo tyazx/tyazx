@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take responsibility of your own happiness, never put it in other people's hands."</i>
+<i>"I know of only one duty, and that is to love."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
