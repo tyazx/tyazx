@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I know of only one duty, and that is to love."</i>
+<i>"You're on earth. There's no cure for that."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
