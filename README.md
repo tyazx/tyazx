@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth."</i>
+<i>"Turn the pain into power."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
