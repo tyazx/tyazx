@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man should fear never beginning to live."</i>
+<i>"The key to success is action."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
