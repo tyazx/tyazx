@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only time you run out of chances is when you stop taking them."</i>
+<i>"Abundance of knowledge does not teach men to be wise."</i>
 <br>
-<b>- Unknown</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
