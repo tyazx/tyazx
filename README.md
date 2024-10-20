@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Patience is not the ability to wait but the ability to keep a good attitude while waiting."</i>
+<i>"I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
