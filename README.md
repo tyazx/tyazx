@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't try to be young. Just open your mind. Stay interested in stuff."</i>
+<i>"Do something worth remembering."</i>
 <br>
-<b>- Betty White</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
