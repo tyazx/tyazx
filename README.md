@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry."</i>
+<i>"Don't try to be young. Just open your mind. Stay interested in stuff."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
