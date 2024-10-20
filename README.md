@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Honor is the foundation of courage."</i>
+<i>"One mistake does not have to rule a person's entire life."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
