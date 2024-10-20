@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The meaning of life is to find your gift. The purpose of life is to give it away."</i>
+<i>"The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
