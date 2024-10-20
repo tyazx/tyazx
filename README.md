@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do something worth remembering."</i>
+<i>"Honor is the foundation of courage."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
