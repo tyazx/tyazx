@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is not how high you have climbed, but how you make a positive difference to the world."</i>
+<i>"It is not fair to ask of others what you are not willing to do yourself."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
