@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is like the sun. You can shut it out for a time, but it ain't going away."</i>
+<i>"If you want to make God laugh, tell him about your plans. "</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
