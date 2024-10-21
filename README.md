@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to make God laugh, tell him about your plans. "</i>
+<i>"Too many of us are not living our dreams because we are living our fears."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
