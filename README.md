@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The older you get, the better you get. Unless you're a banana."</i>
+<i>"Once you learn to quit, it becomes a habit."</i>
 <br>
-<b>- Betty White</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
