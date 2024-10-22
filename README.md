@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. "</i>
+<i>"The older you get, the better you get. Unless you're a banana."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
