@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even when a friend does something you do not like, he continues to be your friend. "</i>
+<i>"We will now discuss in a little more detail the Struggle for Existence."</i>
 <br>
-<b>- Genghis Khan</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
