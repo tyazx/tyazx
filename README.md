@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We will now discuss in a little more detail the Struggle for Existence."</i>
+<i>"The wisest men follow their own direction."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
