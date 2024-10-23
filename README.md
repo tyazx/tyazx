@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Until we can manage time, we can manage nothing else."</i>
+<i>"The trouble with most of us is that we'd rather be ruined by praise than saved by criticism."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
