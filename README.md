@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best mind-altering drug is the truth."</i>
+<i>"Turn your face to the sun, as flowers know how to do."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
