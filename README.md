@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A day without laughter is a day wasted."</i>
+<i>"Freedom lies in being bold."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
