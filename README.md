@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents."</i>
+<i>"A day without laughter is a day wasted."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
