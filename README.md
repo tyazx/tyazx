@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Turn your face to the sun, as flowers know how to do."</i>
+<i>"People tend to complicate their own lives, as if living weren't already complicated enough."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
