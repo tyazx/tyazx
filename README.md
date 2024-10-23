@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's your life-but only if you make it so."</i>
+<i>"Until we can manage time, we can manage nothing else."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
