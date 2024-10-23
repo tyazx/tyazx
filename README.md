@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Catch, then, O catch the transient hour; Improve each moment as it flies! "</i>
+<i>"It's your life-but only if you make it so."</i>
 <br>
-<b>- St. Jerome</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
