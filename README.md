@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is what happens to you while you're busy making other plans."</i>
+<i>"The best mind-altering drug is the truth."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
