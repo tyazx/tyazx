@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way to love anything is to realize that it may be lost."</i>
+<i>"It is easy to discover what another has discovered before."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Christopher Columbus</b>
 </blockquote>
 </p>
 
