@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments."</i>
+<i>"It is the power of thought that gives man power over nature."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
