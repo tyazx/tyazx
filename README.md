@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be fully alive is to feel that everything is possible."</i>
+<i>"The way to love anything is to realize that it may be lost."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
