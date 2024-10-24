@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood."</i>
+<i>"Death and life have their determined appointments; riches and honors depend upon heaven. "</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
