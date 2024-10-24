@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People tend to complicate their own lives, as if living weren't already complicated enough."</i>
+<i>"To be fully alive is to feel that everything is possible."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
