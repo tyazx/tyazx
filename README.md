@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you."</i>
+<i>"A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
