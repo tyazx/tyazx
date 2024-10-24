@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is easy to discover what another has discovered before."</i>
+<i>"He who hesitates is a damned fool."</i>
 <br>
-<b>- Christopher Columbus</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
