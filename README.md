@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Re-examine all that you have been told... dismiss that which insults your soul."</i>
+<i>"The source of a true smile is an awakened mind."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
