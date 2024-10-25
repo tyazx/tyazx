@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The source of a true smile is an awakened mind."</i>
+<i>"Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
