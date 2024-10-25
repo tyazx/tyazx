@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The health of nations is more important than the wealth of nations."</i>
+<i>"Follow the man who seeks the truth; run from the man who has found it."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
