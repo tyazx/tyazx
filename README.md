@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not the love you make. It's the love you give. "</i>
+<i>"Be polite to all, but intimate with few."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
