@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As long as a human being worries about when he will die, and what he has that is his, all of his works are zero."</i>
+<i>"People don't care how much you know until they know how much you care."</i>
 <br>
-<b>- Kabir</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
