@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you do,strive to do it so well that no man living and no man dead and no man yet to be born could do it any better."</i>
+<i>"Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else."</i>
 <br>
-<b>- Benjamin Mays</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
