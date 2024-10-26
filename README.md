@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no limitations except those we create for ourselves."</i>
+<i>"Life must be a constant education; one must learn everything, from speaking to dying."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Gustave Flaubert</b>
 </blockquote>
 </p>
 
