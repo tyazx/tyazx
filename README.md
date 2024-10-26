@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Once a decision was made, I didn't worry about it afterward."</i>
+<i>"You will not do incredible things without an incredible dream."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
