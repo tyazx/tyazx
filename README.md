@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Constantly seek criticism. A well thought out critique of whatever you're doing is as valuable as gold."</i>
+<i>"If we know how to adapt, we end up being superior."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
