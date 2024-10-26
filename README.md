@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People don't care how much you know until they know how much you care."</i>
+<i>"Once a decision was made, I didn't worry about it afterward."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
