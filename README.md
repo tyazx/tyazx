@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is simply the opportunity to begin again, this time more intelligently."</i>
+<i>"If you're waiting until you feel talented enough to make it, you'll never make it."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
