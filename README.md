@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you take responsibility for yourself you will develop a hunger to accomplish your dream."</i>
+<i>"It's necessary to get the losers out of your life if you want to live your dream."</i>
 <br>
 <b>- Les Brown</b>
 </blockquote>
