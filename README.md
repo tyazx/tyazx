@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Simplicity is the glory of expression."</i>
+<i>"It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
