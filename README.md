@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only real security that a man can have in this world is a reserve of knowledge, experience and ability. "</i>
+<i>"The time is always right to do what is right."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
