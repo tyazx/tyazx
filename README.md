@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unless a man is master of his soul, all other kinds of mastery amount to little."</i>
+<i>"Anyone who wants to achieve a dream must stay strong, focused and steady."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
