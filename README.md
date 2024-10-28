@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want work well done, select a busy man; the other kind has no time."</i>
+<i>"Wherever you are, it's the place you need to be."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
