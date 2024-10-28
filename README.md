@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return."</i>
+<i>"If you want work well done, select a busy man; the other kind has no time."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
