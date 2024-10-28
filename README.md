@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember we're all in this alone."</i>
+<i>"Focused, hard work is the real key to success."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- John Carmack</b>
 </blockquote>
 </p>
 
