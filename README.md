@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know your gifts and share them."</i>
+<i>"It's the job that's never started that takes the longest to finish."</i>
 <br>
-<b>- Les Brown</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
