@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Focused, hard work is the real key to success."</i>
+<i>"Know your gifts and share them."</i>
 <br>
-<b>- John Carmack</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
