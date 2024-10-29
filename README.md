@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You may be disappointed if you fail, but you are doomed if you don't try."</i>
+<i>"Rewards and punishment is the lowest form of education."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
