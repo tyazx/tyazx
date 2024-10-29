@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thinking will not overcome fear but action will. "</i>
+<i>"The person who is his own master cannot tolerate another boss. "</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
