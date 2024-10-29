@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunities multiply as they are seized."</i>
+<i>"If I can laugh, I can live."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
