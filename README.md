@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Insanity: doing the same thing over and over again and expecting different results."</i>
+<i>"Art, like morality, consists of drawing the line somewhere."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
