@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"So long as we are being remembered, we remain alive."</i>
+<i>"You may be disappointed if you fail, but you are doomed if you don't try."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
