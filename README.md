@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's the job that's never started that takes the longest to finish."</i>
+<i>"Thinking will not overcome fear but action will. "</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- W. Clement Stone</b>
 </blockquote>
 </p>
 
