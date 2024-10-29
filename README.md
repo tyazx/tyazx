@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where we fall are the stepping-stones for our journey."</i>
+<i>"So long as we are being remembered, we remain alive."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
