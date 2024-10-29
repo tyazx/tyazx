@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The person who is his own master cannot tolerate another boss. "</i>
+<i>"Insanity: doing the same thing over and over again and expecting different results."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
