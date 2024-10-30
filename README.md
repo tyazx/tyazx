@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We cannot expect to be happy always... by experiencing evil as well as good we become wise."</i>
+<i>"Everyone is a moon, and has a dark side which he never shows to anybody."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
