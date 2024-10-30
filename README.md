@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is literally true that you can succeed best and quickest by helping others succeed."</i>
+<i>"Where there is anger, there is always pain underneath."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
