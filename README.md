@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's necessary to get the losers out of your life if you want to live your dream."</i>
+<i>"When one does not have what one wants, one must want what one has."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
