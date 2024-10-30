@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where there is anger, there is always pain underneath."</i>
+<i>"The wisest men follow their own direction."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
