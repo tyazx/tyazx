@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The weak can never forgive. Forgiveness is the attribute of the strong."</i>
+<i>"Failure means you've now learned another valuable lesson that pushes you one step closer to success."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
