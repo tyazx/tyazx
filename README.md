@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wisest men follow their own direction."</i>
+<i>"The fear of death is more to be feared, than death itself."</i>
 <br>
-<b>- Euripides</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
