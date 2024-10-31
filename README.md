@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Bloom where you are planted!"</i>
+<i>"Don't spend major time on minor things."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
