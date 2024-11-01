@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Power is not what we do but what we do not - hasty and unwise actions that we repeat every day and which ultimately bring us into trouble."</i>
+<i>"The world would go on even without you. Don't take yourself so seriously."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
