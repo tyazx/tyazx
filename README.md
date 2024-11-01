@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you run you stand a chance of losing, but if you don't run you've already lost."</i>
+<i>"If you read a lot of books, you're considered well-read. But if you watch a lot of TV, you're not considered well-viewed."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
