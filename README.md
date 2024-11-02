@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be thankful for everything that happens in your life; it's all an experience."</i>
+<i>"Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
