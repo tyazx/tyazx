@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best of us sometimes eat our words.  "</i>
+<i>"Listening well is as powerful as talking well, and is also as essential to true conversation."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
