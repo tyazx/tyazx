@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To achieve, you need thought. You have to know what you are doing and that's real power."</i>
+<i>"We need a backbone, not a wishbone."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
