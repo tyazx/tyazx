@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best teacher is experience and not through someone's distorted point of view."</i>
+<i>"Your heart is full of fertile seeds, waiting to sprout."</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
