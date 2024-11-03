@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your heart is full of fertile seeds, waiting to sprout."</i>
+<i>"Life is ten percent what you experience and ninety percent how you respond to it."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
