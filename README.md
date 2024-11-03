@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like underwear, should be changed twice a day.  "</i>
+<i>"Life is either a daring adventure, or it is nothing."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
