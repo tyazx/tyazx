@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is ten percent what you experience and ninety percent how you respond to it."</i>
+<i>"Life is like underwear, should be changed twice a day.  "</i>
 <br>
-<b>- Unknown</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
