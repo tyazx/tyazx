@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your heart is full of fertile seeds, waiting to sprout."</i>
+<i>"Don't let someone elses. opinion become your reality."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
