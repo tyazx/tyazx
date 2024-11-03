@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is either a daring adventure, or it is nothing."</i>
+<i>"Give so much away people insist on paying you."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
