@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learning is a weightless treasure you can always carry easily."</i>
+<i>"Your heart is full of fertile seeds, waiting to sprout."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
