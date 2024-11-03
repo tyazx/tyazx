@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give so much away people insist on paying you."</i>
+<i>"The best teacher is experience and not through someone's distorted point of view."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Jack Kerouac</b>
 </blockquote>
 </p>
 
