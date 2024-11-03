@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good judgment comes from experience, and experience comes from bad judgment."</i>
+<i>"He who laughs at himself never runs out of things to laugh at."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
