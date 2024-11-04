@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Embrace the life you have and stop wishing that you could be someone else."</i>
+<i>"My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
