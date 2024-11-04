@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The glow of one warm thought is to me worth more than money."</i>
+<i>"The less you try to impress, the more peaceful you can be."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
