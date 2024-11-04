@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time."</i>
+<i>"Everybody by your side ain't on your side."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
