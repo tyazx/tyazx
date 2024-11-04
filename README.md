@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less you try to impress, the more peaceful you can be."</i>
+<i>"Embrace the life you have and stop wishing that you could be someone else."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
