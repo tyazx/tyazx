@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everybody by your side ain't on your side."</i>
+<i>"The ability to observe without evaluating is the highest form of intelligence."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
