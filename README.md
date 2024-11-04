@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Optimism, when applied to your life, develops strength and peace within you."</i>
+<i>"The glow of one warm thought is to me worth more than money."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
