@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today."</i>
+<i>"Optimism, when applied to your life, develops strength and peace within you."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
