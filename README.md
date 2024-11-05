@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stop being tormented by everyone else's reaction to you."</i>
+<i>"We must be free not because we claim freedom, but because we practice it."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
