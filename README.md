@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is useless to meet revenge with revenge; it will heal nothing."</i>
+<i>"It's not about what it is, it's about what it can become."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
