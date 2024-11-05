@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just living is not enough... one must have sunshine, freedom, and a little flower. "</i>
+<i>"Do Something. If it works, do more of it. If it doesn't, do something else."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
