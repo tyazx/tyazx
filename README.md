@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ability to observe without evaluating is the highest form of intelligence."</i>
+<i>"Stop being tormented by everyone else's reaction to you."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
