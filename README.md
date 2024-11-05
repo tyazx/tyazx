@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man is free who is not master of himself."</i>
+<i>"Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
