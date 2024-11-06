@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thoughts become things. If you see it in your mind, you will hold it in your hand."</i>
+<i>"What you do today can improve all your tomorrows."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
