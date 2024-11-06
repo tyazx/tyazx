@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you."</i>
+<i>"I was angered, for I had no shoes. Then I met a man who had no feet. "</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
