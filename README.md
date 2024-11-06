@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every day may not be good, but there's something good in every day."</i>
+<i>"Nothing is hopeless; we must hope for everything."</i>
 <br>
-<b>- Unknown</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
