@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I was angered, for I had no shoes. Then I met a man who had no feet. "</i>
+<i>"To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
