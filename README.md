@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is hopeless; we must hope for everything."</i>
+<i>"If you can't, you must. If you must, you can."</i>
 <br>
-<b>- Euripides</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
