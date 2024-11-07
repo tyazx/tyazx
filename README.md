@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The merit of all things lies in their difficulty."</i>
+<i>"When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
