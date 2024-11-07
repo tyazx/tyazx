@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never take your position for granted and never let any favors you receive go to your head."</i>
+<i>"My powers are ordinary. Only my application brings me success."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
