@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live your life and forget your age."</i>
+<i>"The merit of all things lies in their difficulty."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
