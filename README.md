@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence breeds beauty.  "</i>
+<i>"Unless you're ashamed of yourself now and then, you're not honest."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
