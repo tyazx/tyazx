@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It doesn't matter where you are, you are nowhere compared to where you can go."</i>
+<i>"We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
