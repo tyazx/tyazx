@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people fail in life not because they aim too high and miss, but because they aim too low and hit."</i>
+<i>"Create each day anew."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
