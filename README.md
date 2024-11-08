@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything great that has ever happened to humanity has begun as a single thought in someone's mind."</i>
+<i>"The wiser you get, the less you care to look like a fool."</i>
 <br>
-<b>- Yanni</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
