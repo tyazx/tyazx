@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wiser you get, the less you care to look like a fool."</i>
+<i>"Avoiding danger is no safer in the long run than exposure."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
