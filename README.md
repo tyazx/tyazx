@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding."</i>
+<i>"Much learning does not teach understanding."</i>
 <br>
-<b>- John D. Rockefeller</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
