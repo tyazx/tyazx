@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life reflects your own thoughts back to you."</i>
+<i>"Everything great that has ever happened to humanity has begun as a single thought in someone's mind."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
