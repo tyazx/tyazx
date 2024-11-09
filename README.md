@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Re-examine all that you have been told... dismiss that which insults your soul."</i>
+<i>"I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
