@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One's best success comes after their greatest disappointments."</i>
+<i>"You get paid in direct proportion to the difficulty of problems you solve."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
