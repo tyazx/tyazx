@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I do not seek. I find."</i>
+<i>"Try all things, hold fast that which is good."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
