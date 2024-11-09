@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You get paid in direct proportion to the difficulty of problems you solve."</i>
+<i>"Don't let making a living prevent you from making a life."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
