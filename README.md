@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let the past steal your present."</i>
+<i>"Cherish forever what makes you unique, cuz you're really a yawn if it goes."</i>
 <br>
-<b>- Cherralea Morgen</b>
+<b>- Bette Midler</b>
 </blockquote>
 </p>
 
