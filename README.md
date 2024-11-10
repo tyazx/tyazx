@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Cherish forever what makes you unique, cuz you're really a yawn if it goes."</i>
+<i>"The most tragic thing in the world is a man of genius who is not a man of honor."</i>
 <br>
-<b>- Bette Midler</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
