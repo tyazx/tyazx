@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the beginner's mind there are many possibilities, but in the expert's mind there are few."</i>
+<i>"It is better to fail in originality than to succeed in imitation."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Herman Melville</b>
 </blockquote>
 </p>
 
