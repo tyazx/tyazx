@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Becoming a great leader doesn't mean being perfect. it means living with your imperfections."</i>
+<i>"When you lose your desire for things that do not matter, you will be free."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
