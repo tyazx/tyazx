@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let the silly little dramas of each day get you down. For you are here to do great things."</i>
+<i>"When you reach the end of your rope, tie a knot in it and hang on."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
