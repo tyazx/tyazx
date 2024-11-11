@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Light a candle instead of cursing the darkness."</i>
+<i>"A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
