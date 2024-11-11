@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enjoy every minute of life. Never second-guess life."</i>
+<i>"A man who dares to waste one hour of time has not discovered the value of life."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
