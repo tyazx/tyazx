@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you reach the end of your rope, tie a knot in it and hang on."</i>
+<i>"Peace of mind is that mental condition in which you have accepted the worst."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
