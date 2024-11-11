@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not look for a sanctuary in anyone except your self."</i>
+<i>"Courage is knowing what not to fear."</i>
 <br>
-<b>- Buddha</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
