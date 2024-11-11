@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Longevity is a fleeting moment that lasts forever."</i>
+<i>"Light a candle instead of cursing the darkness."</i>
 <br>
-<b>- Vidal Sassoon</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
