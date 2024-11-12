@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is contagious. So is lack of confidence."</i>
+<i>"I no doubt deserved my enemies, but I don't believe I deserved my friends."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
