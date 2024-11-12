@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anxiety is the dizziness of freedom."</i>
+<i>"To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking."</i>
 <br>
-<b>- Soren Kierkegaard</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
