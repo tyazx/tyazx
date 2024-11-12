@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge has to be improved, challenged, and increased constantly, or it vanishes."</i>
+<i>"Good things aren't supposed to just fall into your lap."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
