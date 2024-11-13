@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Any fool can turn a blind eye but who knows what the ostrich sees in the sand."</i>
+<i>"In any moment of decision, the best thing you can do is the right thing. The worst thing you can do is nothing."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
