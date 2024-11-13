@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I no doubt deserved my enemies, but I don't believe I deserved my friends."</i>
+<i>"Some people dream of success, while others wake up and work hard at it."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
