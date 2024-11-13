@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In any moment of decision, the best thing you can do is the right thing. The worst thing you can do is nothing."</i>
+<i>"Things may come to those who wait, but only the things left by those who hustle."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
