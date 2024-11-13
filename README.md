@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Awaken. Take heed, do not squander your life."</i>
+<i>"Short cuts make long delays."</i>
 <br>
-<b>- Dogen</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
