@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go confidently in the direction of your dreams. Live the life you've imagined."</i>
+<i>"Awaken. Take heed, do not squander your life."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
