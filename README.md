@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment."</i>
+<i>"Go confidently in the direction of your dreams. Live the life you've imagined."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
