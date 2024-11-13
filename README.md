@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who are enlightened never stop forging themselves."</i>
+<i>"Life is the art of drawing sufficient conclusions from insufficient premises."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
