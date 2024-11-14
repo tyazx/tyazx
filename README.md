@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Things turn out best for the people who make the best of the way things turn out."</i>
+<i>"If you don't break your ropes while you're alive, do you think ghosts will do it after?"</i>
 <br>
-<b>- John Wooden</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
