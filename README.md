@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not ignore the passion that burns in you. Spend time to discover your gift."</i>
+<i>"Life comes at us in waves. We can't predict or control those waves, but we can learn to surf."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
