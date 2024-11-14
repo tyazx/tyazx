@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life comes at us in waves. We can't predict or control those waves, but we can learn to surf."</i>
+<i>"Not engaging in ignorance is wisdom. "</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
