@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not engaging in ignorance is wisdom. "</i>
+<i>"Nothing is hopeless; we must hope for everything."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
