@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world."</i>
+<i>"The biggest challenge after success is shutting up about it."</i>
 <br>
-<b>- Gabor Mate</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
