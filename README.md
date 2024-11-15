@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The hardest arithmetic to master is that which enables us to count our blessings."</i>
+<i>"It isn't what you do, but how you do it."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
