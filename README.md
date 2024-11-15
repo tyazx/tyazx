@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Realize deeply that the present moment is all you ever have. "</i>
+<i>"The secret of success lies not in doing your own work, but in recognizing the right man to do it."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
