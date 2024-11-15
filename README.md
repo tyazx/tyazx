@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To handle yourself, use your head; to handle others, use your heart."</i>
+<i>"It is better to be looked over than overlooked."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
