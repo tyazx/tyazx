@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to be looked over than overlooked."</i>
+<i>"Out of your vulnerabilities will come your strength."</i>
 <br>
-<b>- Mae West</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
