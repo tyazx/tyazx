@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each day your life grows a day shorter. Make every move count."</i>
+<i>"It is better to fail in originality than to succeed in imitation."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Herman Melville</b>
 </blockquote>
 </p>
 
