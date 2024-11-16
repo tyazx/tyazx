@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always try to be a little kinder than necessary."</i>
+<i>"Life and the simple beauty of it is too good to pass up."</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
