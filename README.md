@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Out of your vulnerabilities will come your strength."</i>
+<i>"Do what is right, not what is easy, nor what is popular."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
