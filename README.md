@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do what is right, not what is easy, nor what is popular."</i>
+<i>"It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
