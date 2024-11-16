@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It still holds true that man is most uniquely human when he turns obstacles into opportunities."</i>
+<i>"Each day your life grows a day shorter. Make every move count."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
