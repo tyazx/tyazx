@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be confident, not certain."</i>
+<i>"Life is about choice. You can choose to be a victim or anything else you like to be."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
