@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Attitude drives actions. Actions drive results. Results drive lifestyles."</i>
+<i>"Education breeds confidence. Confidence breeds hope. Hope breeds peace."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
