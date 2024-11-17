@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A hero is an ordinary person doing things in an extra ordinary way."</i>
+<i>"A goal is a dream with a deadline."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
