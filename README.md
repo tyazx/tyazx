@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I would rather be hated for who I am than loved for who I'm not.  "</i>
+<i>"Know your gifts and share them."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
