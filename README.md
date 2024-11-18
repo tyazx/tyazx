@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Education breeds confidence. Confidence breeds hope. Hope breeds peace."</i>
+<i>"The best way to predict the future is to create it."</i>
 <br>
-<b>- Confucius</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
