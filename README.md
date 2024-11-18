@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Real growth comes through intense, difficult, and challenging situations."</i>
+<i>"To be alive - is Power."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
