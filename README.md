@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is startling to realize how much unbelief is necessary to make belief possible."</i>
+<i>"I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
