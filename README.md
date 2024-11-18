@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is never final; failure is never fatal."</i>
+<i>"Guilt is perhaps the most painful companion of death."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
