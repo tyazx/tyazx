@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey."</i>
+<i>"Man must use what he has, not hope for what is not."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- G.I. Gurdjieff</b>
 </blockquote>
 </p>
 
