@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be totally at leisure for one day is to be immortal for one day. "</i>
+<i>"The most difficult times for many of us are the ones we give ourselves."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
