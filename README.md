@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most difficult times for many of us are the ones we give ourselves."</i>
+<i>"Your happiness is what truly matters most. Do what you have to do in order to be happy."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
