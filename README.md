@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No duty is more urgent than that of returning thanks."</i>
+<i>"When you are able to employ your will always for constructive purposes, you become the controller of your destiny."</i>
 <br>
-<b>- James Allen</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
