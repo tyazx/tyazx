@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is during our darkest moments that we must focus to see the light."</i>
+<i>"No duty is more urgent than that of returning thanks."</i>
 <br>
-<b>- Aristotle</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
