@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place."</i>
+<i>"It is during our darkest moments that we must focus to see the light."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
