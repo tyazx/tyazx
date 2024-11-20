@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is either a daring adventure, or it is nothing."</i>
+<i>"Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
