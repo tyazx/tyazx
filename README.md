@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only limits in our life are those we impose on ourselves."</i>
+<i>"Fiction is the truth inside the lie."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
