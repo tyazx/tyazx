@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To affect the quality of the day, that is the highest of arts."</i>
+<i>"You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
