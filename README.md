@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy."</i>
+<i>"Catch, then, O catch the transient hour; Improve each moment as it flies! "</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
