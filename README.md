@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our truest life is when we are in dreams awake."</i>
+<i>"Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
