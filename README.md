@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better to have, and not need, than to need, and not have."</i>
+<i>"Not doing it is certainly the best way to not getting it.  "</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
