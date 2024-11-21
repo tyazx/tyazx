@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The power to make and break habits and learning how to do that is really important."</i>
+<i>"Guilt is perhaps the most painful companion of death."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
