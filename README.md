@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn from the rejection and turn it into an opportunity!"</i>
+<i>"Nothing is too high for a man to reach, but he must climb with care and confidence"</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
