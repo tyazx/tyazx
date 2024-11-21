@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Blessed is he who expects nothing, for he shall never be disappointed."</i>
+<i>"Better to have, and not need, than to need, and not have."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
