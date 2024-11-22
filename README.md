@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not doing it is certainly the best way to not getting it.  "</i>
+<i>"Trust thyself: every heart vibrates to that iron string."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
