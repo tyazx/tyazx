@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You need a plan to build a house. To build a life, it is even more important to have a plan or goal."</i>
+<i>"It's very strange that the people you love are often the people you're most cruel to."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Kenneth Branagh</b>
 </blockquote>
 </p>
 
