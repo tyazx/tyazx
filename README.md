@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose."</i>
+<i>"The key to immortality is first living a life worth remembering. "</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
