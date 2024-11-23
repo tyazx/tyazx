@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The man who asks a question is a fool for a minute, the man who does not ask is a fool for life."</i>
+<i>"Do every act of your life as if it were your last."</i>
 <br>
-<b>- Confucius</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
