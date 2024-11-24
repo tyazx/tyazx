@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Raise your words, not voice. It is rain that grows flowers, not thunder."</i>
+<i>"It is hard to fail, but it is worse never to have tried to succeed."</i>
 <br>
-<b>- Rumi</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
