@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Outstanding people have one thing in common: an absolute sense of mission.  "</i>
+<i>"Those who are possessed by nothing possess everything."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
