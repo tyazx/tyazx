@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is a wisdom of the head, and there is a wisdom of the heart."</i>
+<i>"Fishing is much more than fish."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
