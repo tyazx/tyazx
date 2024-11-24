@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Until we can manage time, we can manage nothing else."</i>
+<i>"What's right is what's left if you do everything else wrong."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Robin Williams</b>
 </blockquote>
 </p>
 
