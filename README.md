@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fishing is much more than fish."</i>
+<i>"Raise your words, not voice. It is rain that grows flowers, not thunder."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
