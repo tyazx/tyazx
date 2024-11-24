@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember, today is the tomorrow you worried about yesterday."</i>
+<i>"Wrong does not cease to be wrong because the majority share in it."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
