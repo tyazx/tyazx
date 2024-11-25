@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wrong does not cease to be wrong because the majority share in it."</i>
+<i>"A day without laughter is a day wasted."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
