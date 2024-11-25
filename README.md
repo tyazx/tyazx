@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there."</i>
+<i>"It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
