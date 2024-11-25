@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We live only now. Everything else is either passed or is unknown."</i>
+<i>"Here and now...breathe and relax...in battle and in life."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
