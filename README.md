@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Here and now...breathe and relax...in battle and in life."</i>
+<i>"The health of nations is more important than the wealth of nations."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
