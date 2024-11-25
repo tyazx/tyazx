@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Chase your passion, not your pension. "</i>
+<i>"By changing nothing, nothing changes."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
