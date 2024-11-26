@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intense love does not measure, it just gives."</i>
+<i>"Even a hare will bite when it is cornered. "</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
