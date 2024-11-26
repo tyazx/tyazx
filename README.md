@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy."</i>
+<i>"The most creative act you will ever undertake is the act of creating yourself."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
