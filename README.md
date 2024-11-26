@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The sweetest pleasure arises from difficulties overcome."</i>
+<i>"It all depends on what you choose to believe."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
