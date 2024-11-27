@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wise warrior avoids the battle."</i>
+<i>"The best fighter is never angry."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
