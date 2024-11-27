@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear not the path of Truth for the lack of People walking on it."</i>
+<i>"Be royal in your own fashion: act like a king to be treated like one."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
