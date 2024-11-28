@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."</i>
+<i>"Inspire yourself to be great. Being good isn't good enough."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
