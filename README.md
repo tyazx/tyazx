@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first rule of handling conflict is don't hang around people who are constantly engaging in conflict."</i>
+<i>"Do you have the patience to wait until your mud settles and the water is clear?"</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
