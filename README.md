@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do you have the patience to wait until your mud settles and the water is clear?"</i>
+<i>"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
