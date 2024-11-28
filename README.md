@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no path to Love. Love is the path."</i>
+<i>"True love stories never have endings."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
