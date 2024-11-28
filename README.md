@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes it is more important to discover what one cannot do, than what one can do."</i>
+<i>"Friendship is like money, easier made than kept."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
