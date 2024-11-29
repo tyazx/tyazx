@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The older you get the stronger the wind gets - and it's always in your face."</i>
+<i>"Out of your vulnerabilities will come your strength."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
