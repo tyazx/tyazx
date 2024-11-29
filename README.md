@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"They who have conquered doubt and fear have conquered failure."</i>
+<i>"I hear and I forget. I see and I remember. I do and I understand. "</i>
 <br>
-<b>- James Allen</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
