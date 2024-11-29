@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Weeds are flowers too, once you get to know them."</i>
+<i>"They who have conquered doubt and fear have conquered failure."</i>
 <br>
-<b>- A.A. Milne</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
