@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Out of your vulnerabilities will come your strength."</i>
+<i>"Weeds are flowers too, once you get to know them."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- A.A. Milne</b>
 </blockquote>
 </p>
 
