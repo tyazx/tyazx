@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's what you do in the present that will redeem the past and thereby change the future."</i>
+<i>"Thinking is the hardest work there is. That is why so few people engage in it."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
