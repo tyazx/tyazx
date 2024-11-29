@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thinking is the hardest work there is. That is why so few people engage in it."</i>
+<i>"You may be disappointed if you fail, but you are doomed if you don't try."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
