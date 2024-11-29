@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even when a friend does something you do not like, he continues to be your friend. "</i>
+<i>"If you don't know where you're going, you will probably end up somewhere else."</i>
 <br>
-<b>- Genghis Khan</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
