@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The traveler sees what he sees. The tourist sees what he has come to see."</i>
+<i>"The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
