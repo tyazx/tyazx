@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can change your mind, you can change your life."</i>
+<i>"Art is to console those who are broken by life."</i>
 <br>
-<b>- William James</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
