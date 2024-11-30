@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I admire those who do good and expect nothing in return."</i>
+<i>"Great deeds are usually wrought at great risks."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
