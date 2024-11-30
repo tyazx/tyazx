@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in."</i>
+<i>"If fear is too strong, the genius is suppressed."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
