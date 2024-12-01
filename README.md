@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less you try to impress, the more peaceful you can be."</i>
+<i>"Although the world is full of suffering, it is also full of the overcoming of it."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
