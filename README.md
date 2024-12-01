@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All wealth is the product of labor."</i>
+<i>"People become attached to their burdens sometimes more than the burdens are attached to them."</i>
 <br>
-<b>- John Locke</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
