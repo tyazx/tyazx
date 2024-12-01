@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People become attached to their burdens sometimes more than the burdens are attached to them."</i>
+<i>"If you spend too much time thinking about a thing, you'll never get it done. "</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
