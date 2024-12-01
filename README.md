@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can easily judge the character of a man by how he treats those who can do nothing for him."</i>
+<i>"Do Something. If it works, do more of it. If it doesn't, do something else."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
