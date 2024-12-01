@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A journey of a thousand miles must begin with a single step."</i>
+<i>"All wealth is the product of labor."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
