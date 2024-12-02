@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not what you pay a man, but what he costs you that counts."</i>
+<i>"Trust your instincts: my first reaction is almost invariably the right one.  "</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
