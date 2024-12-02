@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. "</i>
+<i>"It's not what you pay a man, but what he costs you that counts."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
