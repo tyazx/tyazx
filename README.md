@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust your instincts: my first reaction is almost invariably the right one.  "</i>
+<i>"The whole world is a series of miracles, but we're so used to them we call them ordinary things."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
