@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We're kept from our goal not by obstacles, but by a clear path to a lesser goal."</i>
+<i>"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. "</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
