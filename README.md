@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is an option here. If things are not failing, you are not innovating enough."</i>
+<i>"It is not titles that honour men, but men that honour titles."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Niccolo Machiavelli</b>
 </blockquote>
 </p>
 
