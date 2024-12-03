@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Art is the signature of civilizations. "</i>
+<i>"Unless someone truly has the power to say no, they never truly have the power to say yes."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
