@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One never does wrong by doing right."</i>
+<i>"We can see through others only when we can see through ourselves."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
