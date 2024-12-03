@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't argue both sides, you can't argue."</i>
+<i>"Smell the cheese often so you know when it is getting old."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
