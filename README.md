@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy."</i>
+<i>"One never does wrong by doing right."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
