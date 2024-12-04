@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All men are equal before fish."</i>
+<i>"Hope means hoping when everything seems hopeless."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
