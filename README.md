@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who look for the bad in people will surely find it."</i>
+<i>"Every one of us is the sum total of his own thoughts."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
