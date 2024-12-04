@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long."</i>
+<i>"Knowing is not enough, we must apply. Willing is not enough, we must do."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
