@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every one of us is the sum total of his own thoughts."</i>
+<i>"We all give up great expectations along the way."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
