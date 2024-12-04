@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life begins where fear ends."</i>
+<i>"If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long."</i>
 <br>
-<b>- Osho</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
