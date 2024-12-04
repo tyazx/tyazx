@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing is not enough, we must apply. Willing is not enough, we must do."</i>
+<i>"The foolish reject what they see, not what they think; the wise reject what they think, not what they see."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
