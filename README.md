@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We all give up great expectations along the way."</i>
+<i>"Life begins where fear ends."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
