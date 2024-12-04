@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain."</i>
+<i>"Those who look for the bad in people will surely find it."</i>
 <br>
-<b>- Kabir</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
