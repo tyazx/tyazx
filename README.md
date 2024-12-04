@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The impossible can always be broken down into possibilities."</i>
+<i>"All men are equal before fish."</i>
 <br>
-<b>- Unknown</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
