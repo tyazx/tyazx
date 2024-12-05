@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours. "</i>
+<i>"Life without love is like a tree without blossoms or fruit."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
