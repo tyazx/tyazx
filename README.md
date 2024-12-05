@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do every act of your life as if it were your last."</i>
+<i>"Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours. "</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Orison Swett Marden</b>
 </blockquote>
 </p>
 
