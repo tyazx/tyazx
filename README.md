@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Real learning comes about when the competitive spirit has ceased."</i>
+<i>"Do every act of your life as if it were your last."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
