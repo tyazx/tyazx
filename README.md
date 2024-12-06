@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is more real than nothing."</i>
+<i>"Hope is a waking dream."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
