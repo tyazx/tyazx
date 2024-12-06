@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists."</i>
+<i>"The world doesn't owe you anything. It was here first."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
