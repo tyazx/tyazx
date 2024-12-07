@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better the cottage where one is merry than the palace where one weeps."</i>
+<i>"To wish you were someone else is to waste the person you are."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
