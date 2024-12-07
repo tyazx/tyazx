@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness depends upon ourselves."</i>
+<i>"A person hears only what they understand."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
