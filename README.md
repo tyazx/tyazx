@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like stepping onto a boat which is about to sail out to sea and sink."</i>
+<i>"Do you have the patience to wait until your mud settles and the water is clear?"</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
