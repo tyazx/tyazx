@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Leadership is solving problems"</i>
+<i>"The world is a puzzle; no need to make sense out of it."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
