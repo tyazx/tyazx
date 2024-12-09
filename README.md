@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Talk to someone about themselves and they'll listen for hours."</i>
+<i>"Success is never final; failure is never fatal."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Conrad Hilton</b>
 </blockquote>
 </p>
 
