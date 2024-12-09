@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Leadership is solving problems"</i>
+<i>"Coming together is a beginning, staying together is progress, and working together is success. "</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
