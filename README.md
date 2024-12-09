@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Coming together is a beginning, staying together is progress, and working together is success. "</i>
+<i>"Circumstances do not make the man, they reveal him."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
