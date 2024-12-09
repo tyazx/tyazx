@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If there were no God, there would be no atheists."</i>
+<i>"In order to attain the impossible, one must attempt the absurd."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
