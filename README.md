@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life can be wonderful if you're not afraid of it."</i>
+<i>"Nothing is too high for a man to reach, but he must climb with care and confidence"</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
