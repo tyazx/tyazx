@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest test of courage on earth is to bear defeat without losing heart."</i>
+<i>"Life can be wonderful if you're not afraid of it."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
