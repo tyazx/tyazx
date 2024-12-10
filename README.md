@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Growing up is losing some illusions, in order to acquire others."</i>
+<i>"Paths are made by walking."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
