@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd."</i>
+<i>"The greatest test of courage on earth is to bear defeat without losing heart."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
