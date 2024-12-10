@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Paths are made by walking."</i>
+<i>"He who hesitates is a damned fool."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
