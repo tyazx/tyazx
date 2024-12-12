@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new."</i>
+<i>"Failure is the highway to success."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
