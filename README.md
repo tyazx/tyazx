@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live as if you were to die tomorrow. Learn as if you were to live forever."</i>
+<i>"Every blessing ignored becomes a curse."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
