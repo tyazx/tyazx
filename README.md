@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Genius is one percent inspiration and ninety-nine percent perspiration."</i>
+<i>"When you win, say nothing, when you lose say less."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
