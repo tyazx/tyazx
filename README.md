@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no differences but differences of degree between different degrees of difference and no difference."</i>
+<i>"Be kind, for everyone you meet is fighting a harder battle."</i>
 <br>
-<b>- William James</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
