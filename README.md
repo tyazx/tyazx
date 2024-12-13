@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month."</i>
+<i>"The one who praises you is a thief. The one who criticizes you is your true friend."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Seungsahn</b>
 </blockquote>
 </p>
 
