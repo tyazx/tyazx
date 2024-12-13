@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The one who praises you is a thief. The one who criticizes you is your true friend."</i>
+<i>"The only way it gets better for you is when you get better. Better is not something you wish, it's something you become."</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
