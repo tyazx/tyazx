@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unless a man is master of his soul, all other kinds of mastery amount to little."</i>
+<i>"Dreams are the touchstones of our characters."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
