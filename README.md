@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't give up the fight, Stand up for your rights."</i>
+<i>"A journey of a thousand miles must begin with a single step."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
