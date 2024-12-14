@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit."</i>
+<i>"No experience is a cause of success or failure. We do not suffer from the shock of our experiences, so-called trauma - but we make out of them just what suits our purposes."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
