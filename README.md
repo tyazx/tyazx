@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unhappiness enters through a door that has been left open."</i>
+<i>"Believe and you're halfway there."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
