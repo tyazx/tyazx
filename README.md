@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world."</i>
+<i>"I am not what happened to me, I am what I choose to become."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
