@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be like a postage stamp. Stick to it until you get there."</i>
+<i>"Treat every moment as your last. It is not preparation for something else."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
