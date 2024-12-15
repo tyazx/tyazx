@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It isn't what you do, but how you do it."</i>
+<i>"There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
