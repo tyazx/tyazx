@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stay away from people who makes you feel like you are wasting their time."</i>
+<i>"No man is more cheated than the selfish man."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
