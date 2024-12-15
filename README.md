@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Treat every moment as your last. It is not preparation for something else."</i>
+<i>"We all give up great expectations along the way."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
