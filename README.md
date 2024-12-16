@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not whether you get knocked down, its whether you get back up."</i>
+<i>"Everything flows, nothing stands still."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
