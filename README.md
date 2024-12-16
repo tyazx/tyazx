@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The journey is what brings us happiness not the destination."</i>
+<i>"It's not whether you get knocked down, its whether you get back up."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
