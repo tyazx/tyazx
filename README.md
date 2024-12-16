@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else."</i>
+<i>"The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. "</i>
 <br>
-<b>- Les Brown</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
