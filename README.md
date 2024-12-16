@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Passion creates, addiction consumes."</i>
+<i>"Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else."</i>
 <br>
-<b>- Gabor Mate</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
