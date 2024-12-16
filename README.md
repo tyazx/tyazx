@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live simply, expect little, give much."</i>
+<i>"You can tell more about a person by what he says about others than you can by what others say about him."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
