@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty."</i>
+<i>"Either get busy living or get busy dying."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
