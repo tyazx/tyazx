@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To earn more you must learn more."</i>
+<i>"A Rolling Stone Gathers No Moss."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
