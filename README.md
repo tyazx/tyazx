@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A different result requires doing something different."</i>
+<i>"There are as many opinions as there are experts."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
