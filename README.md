@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We build too many walls and not enough bridges."</i>
+<i>"Dream big and dare to fail."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Norman Vaughan</b>
 </blockquote>
 </p>
 
