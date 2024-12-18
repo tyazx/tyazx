@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dream big and dare to fail."</i>
+<i>"Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new."</i>
 <br>
-<b>- Norman Vaughan</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
