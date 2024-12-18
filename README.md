@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For the things we have to learn before we can do them, we learn by doing them."</i>
+<i>"Time heals what reason cannot.  "</i>
 <br>
-<b>- Aristotle</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
