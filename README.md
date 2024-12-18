@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Obstacles don't block the path, they are the path."</i>
+<i>"Being a good example is the best form of service."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
