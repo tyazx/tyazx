@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being a good example is the best form of service."</i>
+<i>"Tension is who you think you should be. Relaxation is who you are."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
