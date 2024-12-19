@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tension is who you think you should be. Relaxation is who you are."</i>
+<i>"Have a vision. Be demanding."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
