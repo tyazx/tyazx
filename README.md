@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone has the right to make his own decisions, but none has the right to force his decision on others."</i>
+<i>"Your happiness is what truly matters most. Do what you have to do in order to be happy."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
