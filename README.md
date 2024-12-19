@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way."</i>
+<i>"An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold."</i>
 <br>
-<b>- Osho</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
