@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without education, we are in a horrible and deadly danger of taking educated people seriously."</i>
+<i>"Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
