@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Inspiration exists, but it has to find you working."</i>
+<i>"The privilege of a lifetime is to become who you truly are."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
