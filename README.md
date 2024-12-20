@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We've got to live, no matter how many skies have fallen."</i>
+<i>"We turn not older with years but newer every day."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
