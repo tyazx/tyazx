@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We turn not older with years but newer every day."</i>
+<i>"Try not to become a man of success, but rather try to become a man of value."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
