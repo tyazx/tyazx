@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is liking yourself, liking what you do, and liking how you do it."</i>
+<i>"The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
