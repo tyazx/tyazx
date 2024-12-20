@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Heal the past, live the present, dream the future."</i>
+<i>"Success is liking yourself, liking what you do, and liking how you do it."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
