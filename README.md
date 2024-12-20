@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Still your waters."</i>
+<i>"Heal the past, live the present, dream the future."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
