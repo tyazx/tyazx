@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be fully alive, fully human, and completely awake is to be continually thrown out of the nest."</i>
+<i>"Imagination is the true magic carpet."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
