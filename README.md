@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened."</i>
+<i>"Change begets change. Nothing propagates so fast."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
