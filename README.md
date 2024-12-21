@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the long run, the sharpest weapon of all is a kind and gentle spirit."</i>
+<i>"Little minds have little worries, big minds have no time for worries."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
