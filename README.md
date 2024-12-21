@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future belongs to those who believe in the beauty of their dreams."</i>
+<i>"Pleasure in the job puts perfection in the work."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
