@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Absorb what is useful, discard what is not, add what is uniquely your own."</i>
+<i>"To be fully alive, fully human, and completely awake is to be continually thrown out of the nest."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
