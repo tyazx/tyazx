@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Would you rather live your life according to the approval of others or aligned with your truth and your dreams?"</i>
+<i>"When you move beyond your fear, you feel free."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
