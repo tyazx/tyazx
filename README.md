@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every great change is preceded by chaos."</i>
+<i>"Adventure is worthwhile in itself."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
