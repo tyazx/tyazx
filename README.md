@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We suffer more often in imagination than in reality."</i>
+<i>"Be the silent watcher of your thoughts and behavior. You are beneath the thinker."</i>
 <br>
-<b>- Seneca</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
