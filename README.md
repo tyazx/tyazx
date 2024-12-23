@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time flies whether you are having fun or not."</i>
+<i>"Your home is where your thoughts find peace."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
