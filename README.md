@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your home is where your thoughts find peace."</i>
+<i>"Much learning does not teach understanding."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
