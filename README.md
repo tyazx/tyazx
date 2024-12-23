@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All great truths begin as blasphemies."</i>
+<i>"Time flies whether you are having fun or not."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
