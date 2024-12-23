@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not look for approval except for the consciousness of doing your best."</i>
+<i>"Insanity is relative. It depends on who has who locked in what cage.  "</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
