@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Insanity is relative. It depends on who has who locked in what cage.  "</i>
+<i>"Distant water does not put out a nearby fire."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
