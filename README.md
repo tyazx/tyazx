@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you want something in life, you just gotta reach out and grab it."</i>
+<i>"Age is a very high price to pay for maturity."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
