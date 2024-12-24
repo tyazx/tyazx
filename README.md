@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love never keeps a man from pursuing his destiny."</i>
+<i>"You do not read a book for the book's sake, but for your own."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
