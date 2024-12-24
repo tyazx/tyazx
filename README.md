@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases."</i>
+<i>"Our deeds determine us, as much as we determine our deeds."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
