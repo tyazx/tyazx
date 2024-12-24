@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future belongs to those who learn more skills and combine them in creative ways."</i>
+<i>"Love never keeps a man from pursuing his destiny."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
