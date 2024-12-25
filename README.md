@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A hopeless man is a very desperate and dangerous man, almost a dead man."</i>
+<i>"Success is about doing the right thing, not about doing everything right."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
