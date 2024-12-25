@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If ever you feel like an animal among men, be a lion."</i>
+<i>"The giving of love is an education in itself."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
