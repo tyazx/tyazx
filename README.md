@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The giving of love is an education in itself."</i>
+<i>"Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have?"</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
