@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Behind every cloud is another cloud."</i>
+<i>"If you see yourself as prosperous, you will be."</i>
 <br>
-<b>- Judy Garland</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
