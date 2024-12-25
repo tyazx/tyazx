@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Age is a very high price to pay for maturity."</i>
+<i>"Unless a man is master of his soul, all other kinds of mastery amount to little."</i>
 <br>
-<b>- William James</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
