@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order to be irreplaceable one must always be different."</i>
+<i>"You are your best thing."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Toni Morrison</b>
 </blockquote>
 </p>
 
