@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to be looked over than overlooked."</i>
+<i>"Do your duty and a little more and the future will take care of itself."</i>
 <br>
-<b>- Mae West</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
