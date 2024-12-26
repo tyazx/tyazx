@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whenever people agree with me I always feel I must be wrong."</i>
+<i>"In the middle of difficulty lies opportunity."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
