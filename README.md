@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have?"</i>
+<i>"If you do not push the boundaries, you will never know where they are."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
