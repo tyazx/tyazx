@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Argue for your limitations and sure enough, they're yours."</i>
+<i>"Whenever people agree with me I always feel I must be wrong."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
