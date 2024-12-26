@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is such a rare thing, it is delighted to tell it."</i>
+<i>"If you're afraid - don't do it, - if you're doing it - don't be afraid! "</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Genghis Khan</b>
 </blockquote>
 </p>
 
