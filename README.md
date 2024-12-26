@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the middle of difficulty lies opportunity."</i>
+<i>"It is better to be looked over than overlooked."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
