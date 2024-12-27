@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence breeds beauty.  "</i>
+<i>"There is no such thing as a great talent without great willpower."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
