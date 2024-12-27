@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every great change is preceded by chaos."</i>
+<i>"Every day may not be good, but there's something good in every day."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
