@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Growth comes at the point of resistance."</i>
+<i>"Confidence breeds beauty.  "</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
