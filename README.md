@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be in harmony with the wholeness of things is not to have anxiety over imperfections."</i>
+<i>"Life is a question and how we live it is our answer."</i>
 <br>
-<b>- Dogen</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
