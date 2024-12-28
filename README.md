@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be polite to all, but intimate with few."</i>
+<i>"Remember that the best relationship is one in which your love for each other exceeds your need for each other."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
