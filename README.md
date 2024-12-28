@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make each day your masterpiece."</i>
+<i>"Man should fear never beginning to live."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
