@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When we allow negative messages to fester in our head, they take on a life of their own."</i>
+<i>"Treat everyone with politeness and kindness, not because they are nice, but because you are."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
