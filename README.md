@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do you have the patience to wait until your mud settles and the water is clear?"</i>
+<i>"Success does not consist in never making mistakes but in never making the same one a second time."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
