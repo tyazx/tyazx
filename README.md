@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world."</i>
+<i>"The less you talk about your shame, the more of it you have."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
