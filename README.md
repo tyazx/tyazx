@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is feedback. Learn from it and move on."</i>
+<i>"The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
