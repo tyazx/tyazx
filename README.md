@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success does not consist in never making mistakes but in never making the same one a second time."</i>
+<i>"Life is about not knowing and then doing something anyway."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
