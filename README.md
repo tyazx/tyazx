@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you always do what you've always done, you'll always get what you've always got. "</i>
+<i>"Progress comes to those who train and train; reliance on secret techniques will get you nowhere."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
