@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People think you're crazy if you talk about things they don't understand."</i>
+<i>"Nourish the mind like you would your body. The mind cannot survive on junk food."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
