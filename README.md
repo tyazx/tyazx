@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I believe that one of life's greatest risks is never daring to risk."</i>
+<i>"Working hard for something we don't care about is called stress: Working hard for something we love is called passion."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
