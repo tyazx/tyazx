@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What would you do if you weren't afraid?"</i>
+<i>"There's no next time. It's now or never."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
