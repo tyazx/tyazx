@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe that life is worth living and your belief will help create the fact."</i>
+<i>"Who you are is always right."</i>
 <br>
-<b>- William James</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
