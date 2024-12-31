@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every day passes whether you participate or not."</i>
+<i>"Receive without complaint, Work with fate."</i>
 <br>
 <b>- Ming-Dao Deng</b>
 </blockquote>
