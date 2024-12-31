@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Progress comes to those who train and train; reliance on secret techniques will get you nowhere."</i>
+<i>"Failure is the highway to success."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
