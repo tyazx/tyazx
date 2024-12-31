@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest discovery of all time is that a person can change their future by merely changing their attitude."</i>
+<i>"Every day passes whether you participate or not."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
