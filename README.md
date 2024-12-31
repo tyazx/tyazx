@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You may delay, but time will not."</i>
+<i>"The most important thing in life is to stop saying 'I wish' and start saying 'I will'. Consider nothing impossible, then treat possibilities as probabilities."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
