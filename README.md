@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not about what it is, it's about what it can become."</i>
+<i>"All that we see or seem is but a dream within a dream."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
