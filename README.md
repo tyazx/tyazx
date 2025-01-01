@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whenever you do a thing, act as if all the world were watching."</i>
+<i>"It's not about what it is, it's about what it can become."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
