@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty."</i>
+<i>"Follow your heart, listen to your inner voice, stop caring about what others think."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
