@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who realize their folly are not true fools."</i>
+<i>"Awakening is possible only for those who seek it and want it."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- G.I. Gurdjieff</b>
 </blockquote>
 </p>
 
