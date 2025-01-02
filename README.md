@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'm not afraid of death, but I'm in no hurry to die."</i>
+<i>"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
