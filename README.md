@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To live outside the law, you must be honest. "</i>
+<i>"You cannot teach a crab to walk straight."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
