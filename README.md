@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fashion fades, only style remains the same."</i>
+<i>"Make each day a new horizon."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
