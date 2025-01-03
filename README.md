@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The glow of one warm thought is to me worth more than money."</i>
+<i>"If you don't like something change it; if you can't change it, change the way you think about it."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
