@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes."</i>
+<i>"In spite of everything, I shall rise again."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
