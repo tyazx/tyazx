@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can live a whole life time never being awake."</i>
+<i>"Failure is an option, fear is not."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- James Cameron</b>
 </blockquote>
 </p>
 
