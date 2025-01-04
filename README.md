@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge isn't power until it is applied."</i>
+<i>"Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
