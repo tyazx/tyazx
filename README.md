@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A memory is a beautiful thing, it's almost a desire that you miss."</i>
+<i>"Anything you may hold firmly in your imagination can be yours."</i>
 <br>
-<b>- Gustave Flaubert</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
