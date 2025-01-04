@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you."</i>
+<i>"It's not how much we give but how much love we put into giving."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
