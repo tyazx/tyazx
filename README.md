@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is an option, fear is not."</i>
+<i>"It's your outlook on life that counts."</i>
 <br>
-<b>- James Cameron</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
