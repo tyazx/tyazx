@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be fascinated instead of frustrated."</i>
+<i>"I've always lived in the moment."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
