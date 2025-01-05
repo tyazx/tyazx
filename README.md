@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is not a problem to be solved, but a reality to be experienced."</i>
+<i>"Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it."</i>
 <br>
-<b>- Soren Kierkegaard</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
