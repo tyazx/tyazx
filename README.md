@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust in dreams, for in them is the hidden gate to eternity.  "</i>
+<i>"Why fit in when you were born to stand out?"</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
