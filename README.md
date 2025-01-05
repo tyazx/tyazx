@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why fit in when you were born to stand out?"</i>
+<i>"If you focus on results and finding shortcuts, you'll get impatient. If you focus on the process and doing the right thing, you'll be unstoppable."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
