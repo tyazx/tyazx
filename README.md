@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"This is such a short and precious life that it's really important that you don't spend it being unhappy."</i>
+<i>"Manifest plainness, embrace simplicity, reduce selfishness, have few desires."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
