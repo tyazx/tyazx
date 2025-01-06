@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What kills the creative force is not age or lack of talent, but our own spirit, our own attitude."</i>
+<i>"Better to light a candle than to curse the darkness. "</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
