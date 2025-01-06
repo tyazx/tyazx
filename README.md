@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I've always lived in the moment."</i>
+<i>"Enthusiasm makes up for a host of deficiencies."</i>
 <br>
-<b>- Yanni</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
