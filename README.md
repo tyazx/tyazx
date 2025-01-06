@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better to light a candle than to curse the darkness. "</i>
+<i>"Tomorrow is only found in the calendar of fools."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
