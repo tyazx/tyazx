@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tomorrow is only found in the calendar of fools."</i>
+<i>"Imagination is the beginning of creation."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
