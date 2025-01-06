@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being wrong opens us up to the possibility of change."</i>
+<i>"Absurdity is the ecstasy of intellectualism."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
