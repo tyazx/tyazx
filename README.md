@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you put water into a cup, it becomes the cup."</i>
+<i>"A man that flies from his fear may find that he has only taken a short cut to meet it."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
