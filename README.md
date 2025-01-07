@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is your attitude, not your aptitude, that determines your altitude."</i>
+<i>"Courage is fear that has said its prayers and decided to go forward anyway."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
