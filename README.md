@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Humans and prosperity never endure side by side for long."</i>
+<i>"A person is only by the thoughts that he chooses."</i>
 <br>
-<b>- Herodotus</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
