@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."</i>
+<i>"Nothing can bring you peace but yourself."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
