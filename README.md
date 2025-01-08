@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A journey of a thousand miles begins with a single step."</i>
+<i>"Humans and prosperity never endure side by side for long."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
