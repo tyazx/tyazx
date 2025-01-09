@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most difficult times for many of us are the ones we give ourselves."</i>
+<i>"Desire for the fruits of work must never be your motive in working."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
