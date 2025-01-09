@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the end, it's not the years in your life that count. It's the life in your years."</i>
+<i>"Music is like creating an emotional painting. The sounds are the colors."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
