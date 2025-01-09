@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nature does not hurry, yet everything is accomplished."</i>
+<i>"Smile, breathe and go slowly."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
