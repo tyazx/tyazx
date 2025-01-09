@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Smile, breathe and go slowly."</i>
+<i>"A clear conscience never fears midnight knocking."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
