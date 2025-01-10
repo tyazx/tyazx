@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is a consequence and must not be a goal."</i>
+<i>"Everybody by your side ain't on your side."</i>
 <br>
-<b>- Gustave Flaubert</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
