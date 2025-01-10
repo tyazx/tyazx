@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Music is like creating an emotional painting. The sounds are the colors."</i>
+<i>"Those who dream by day are cognizant of many things which escape those who dream only by night."</i>
 <br>
-<b>- Yanni</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
