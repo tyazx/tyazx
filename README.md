@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise. "</i>
+<i>"One of the keys to happiness is a bad memory."</i>
 <br>
-<b>- Buddha</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
