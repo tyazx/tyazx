@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't waste your energy on being angry at something that somebody did six months ago or a year ago. It's over."</i>
+<i>"The person who never made a mistake never tried anything new."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
