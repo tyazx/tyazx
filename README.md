@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who laughs at himself never runs out of things to laugh at."</i>
+<i>"Think and wonder, wonder and think."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
