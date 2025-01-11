@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be angry is to revenge the faults of others on ourselves."</i>
+<i>"No one can compete with you on being you. Most of life is a search for who and what needs you the most."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
