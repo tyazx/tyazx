@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths."</i>
+<i>"Always do your best. What you plant now, you will harvest later."</i>
 <br>
-<b>- Charles Spurgeon</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
