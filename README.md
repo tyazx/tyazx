@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we will be quiet and ready enough, we shall find compensation in every disappointment."</i>
+<i>"If I can pay the bills, I'm happy."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Morgan Wootten</b>
 </blockquote>
 </p>
 
