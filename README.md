@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world doesn't owe you anything. It was here first."</i>
+<i>"The more we have the less we own."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
