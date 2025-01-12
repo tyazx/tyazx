@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When people are free to do as they please, they usually imitate each other."</i>
+<i>"You're only given a little spark of madness. You mustn't lose it."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Robin Williams</b>
 </blockquote>
 </p>
 
