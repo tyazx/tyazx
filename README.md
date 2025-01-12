@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life can only be understood backwards; but it must be lived forwards."</i>
+<i>"The world doesn't owe you anything. It was here first."</i>
 <br>
-<b>- Soren Kierkegaard</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
