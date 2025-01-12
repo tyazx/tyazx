@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If no one ever broke the rules, then we'd never advance."</i>
+<i>"I'm not afraid of death, but I'm in no hurry to die."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
