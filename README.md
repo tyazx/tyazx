@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be."</i>
+<i>"Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it!"</i>
 <br>
-<b>- Yanni</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
