@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge isn't power until it is applied."</i>
+<i>"My sun sets to rise again."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Robert Browning</b>
 </blockquote>
 </p>
 
