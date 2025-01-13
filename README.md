@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience."</i>
+<i>"Be confident, not certain."</i>
 <br>
 <b>- Eleanor Roosevelt</b>
 </blockquote>
