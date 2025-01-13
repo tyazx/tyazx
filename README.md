@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be confident, not certain."</i>
+<i>"Productize your perspective."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
