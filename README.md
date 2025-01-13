@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You become a worrier by practicing worry. You become free of worry by practicing the opposite."</i>
+<i>"The quality of your life is the quality of your relationships."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
