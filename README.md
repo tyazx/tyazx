@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is not something ready made. It comes from your own actions."</i>
+<i>"With self-discipline, almost anything is possible."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
