@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is easier than fault finding."</i>
+<i>"Focused, hard work is the real key to success."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- John Carmack</b>
 </blockquote>
 </p>
 
