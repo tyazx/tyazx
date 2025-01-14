@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A leader leads by example, not by force."</i>
+<i>"What is planted in each person's soul will sprout.  "</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
