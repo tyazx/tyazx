@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"With self-discipline, almost anything is possible."</i>
+<i>"Mistake is a mistake only if you make it twice."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
