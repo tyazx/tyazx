@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Here and now...breathe and relax...in battle and in life."</i>
+<i>"There are no uninteresting things, only uninterested people."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
