@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Focused, hard work is the real key to success."</i>
+<i>"A leader leads by example, not by force."</i>
 <br>
-<b>- John Carmack</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
