@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"None are more hopelessly enslaved than those who falsely believe they are free."</i>
+<i>"Keep away from people who try to belittle your ambitions."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
