@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friends ask you questions; enemies question you."</i>
+<i>"What is planted in each person's soul will sprout.  "</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
