@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have?"</i>
+<i>"Take care of your cents: dollars will take care of themselves."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
