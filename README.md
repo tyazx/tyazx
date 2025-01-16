@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment."</i>
+<i>"The greatest doer must also be a great dreamer."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
