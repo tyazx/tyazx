@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must create our own world or we will die from inaction."</i>
+<i>"One mistake does not have to rule a person's entire life."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
