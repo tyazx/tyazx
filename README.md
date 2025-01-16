@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The scariest monsters are the ones that lurk within our souls."</i>
+<i>"When you change what you believe, you change what you do."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
