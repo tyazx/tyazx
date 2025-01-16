@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything will be ok in the end. If it's not ok, it's not the end."</i>
+<i>"We must create our own world or we will die from inaction."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
