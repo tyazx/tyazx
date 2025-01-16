@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One mistake does not have to rule a person's entire life."</i>
+<i>"The scariest monsters are the ones that lurk within our souls."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
