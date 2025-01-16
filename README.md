@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you change what you believe, you change what you do."</i>
+<i>"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
