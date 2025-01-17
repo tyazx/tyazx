@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is passion that makes man live; wisdom makes one only last."</i>
+<i>"Happiness is when what you think, what you say, and what you do are in harmony."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
