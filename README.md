@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Short cuts make long delays."</i>
+<i>"It is passion that makes man live; wisdom makes one only last."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
