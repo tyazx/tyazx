@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the end, it's not the years in your life that count. It's the life in your years."</i>
+<i>"Never whine, never complain, never try to justify yourself."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
