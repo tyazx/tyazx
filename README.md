@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The salvation of the world lies in the human heart."</i>
+<i>"We have no more right to consume happiness without producing it than to consume wealth without producing it."</i>
 <br>
-<b>- Vaclav Havel</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
