@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You'll see it when you believe it. "</i>
+<i>"Everything you've ever wanted is on the other side of fear."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- George Addair</b>
 </blockquote>
 </p>
 
