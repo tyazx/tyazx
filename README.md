@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything you've ever wanted is on the other side of fear."</i>
+<i>"The salvation of the world lies in the human heart."</i>
 <br>
-<b>- George Addair</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
