@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fools read fast. Geniuses reread."</i>
+<i>"Peace is letting it be. Letting life flow, letting emotions flow through you."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
