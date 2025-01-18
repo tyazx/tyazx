@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ones who are crazy enough to think they can change the world, are the ones that do."</i>
+<i>"You are what you do, not what you say you'll do."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
