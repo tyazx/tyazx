@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have no methods; all I do is accept people as they are."</i>
+<i>"You have to give up some of the old so that you can make room for the new."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
