@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are what you do, not what you say you'll do."</i>
+<i>"There are dark shadows on the earth, but its lights are stronger in the contrast."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
