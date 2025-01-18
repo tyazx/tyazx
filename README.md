@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The goal is not to be perfect by the end, the goal is to be better today."</i>
+<i>"If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Seungsahn</b>
 </blockquote>
 </p>
 
