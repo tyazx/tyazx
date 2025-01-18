@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important thing in communication is to hear what isn't being said."</i>
+<i>"The goal is not to be perfect by the end, the goal is to be better today."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
