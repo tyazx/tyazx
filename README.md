@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The scariest monsters are the ones that lurk within our souls."</i>
+<i>"The ones who are crazy enough to think they can change the world, are the ones that do."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
