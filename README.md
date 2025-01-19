@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness depends on your mindset and attitude."</i>
+<i>"The best answer to anger is silence."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
