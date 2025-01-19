@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace is letting it be. Letting life flow, letting emotions flow through you."</i>
+<i>"You only live once, but if you do it right, once is enough."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
