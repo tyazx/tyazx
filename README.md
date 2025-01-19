@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Judge your success by what you had to give up in order to get it."</i>
+<i>"I learned the value of hard work by working hard. "</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
