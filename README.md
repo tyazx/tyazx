@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The busy man is never wise and the wise man is never busy."</i>
+<i>"Judge your success by what you had to give up in order to get it."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
