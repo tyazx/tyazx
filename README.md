@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It doesn't matter how much you want. What really matters is how much you want it."</i>
+<i>"Happiness depends on your mindset and attitude."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
