@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most effective way to do it, is to do it."</i>
+<i>"Quality is not an act, it is a habit."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
