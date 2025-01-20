@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty."</i>
+<i>"Don't let the noise of others opinions drown out your inner voice."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
