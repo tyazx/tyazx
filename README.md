@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy."</i>
+<i>"Chop your own wood and it will warm you twice. "</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
