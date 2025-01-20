@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quality is not an act, it is a habit."</i>
+<i>"Some of your greatest lessons come from your darkest moments."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Roger Lee</b>
 </blockquote>
 </p>
 
