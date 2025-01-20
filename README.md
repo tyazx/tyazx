@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Chop your own wood and it will warm you twice. "</i>
+<i>"The most effective way to do it, is to do it."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
