@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men are equal; it is not birth but virtue that makes the difference."</i>
+<i>"Love the life you live, live the life you love."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
