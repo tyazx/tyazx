@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It doesn't matter how much you want. What really matters is how much you want it."</i>
+<i>"In order to carry a positive action, we must develop here a positive vision."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
