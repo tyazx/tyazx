@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order to carry a positive action, we must develop here a positive vision."</i>
+<i>"Normal is the average of deviance."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
