@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not why the addiction but why the pain."</i>
+<i>"Most people fail in life because they major in minor things."</i>
 <br>
-<b>- Gabor Mate</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
