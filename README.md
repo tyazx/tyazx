@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A little progress each day adds up to big results."</i>
+<i>"Wrong does not cease to be wrong because the majority share in it."</i>
 <br>
-<b>- Unknown</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
