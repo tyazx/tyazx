@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never lose hope. Storms make people stronger and never last forever."</i>
+<i>"A little progress each day adds up to big results."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
