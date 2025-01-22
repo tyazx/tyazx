@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The least deviation from truth will be multiplied later."</i>
+<i>"A fear of weakness only strengthens weakness."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
