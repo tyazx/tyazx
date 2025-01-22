@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most great people have achieved their greatest success just one step beyond their greatest failure."</i>
+<i>"The least deviation from truth will be multiplied later."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
