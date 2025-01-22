@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is not the absence of problems, it's the ability to deal with them."</i>
+<i>"Most great people have achieved their greatest success just one step beyond their greatest failure."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
