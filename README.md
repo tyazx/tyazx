@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Genius, in truth, means little more than the faculty of perceiving in an unhabitual way."</i>
+<i>"It's your life-but only if you make it so."</i>
 <br>
-<b>- William James</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
