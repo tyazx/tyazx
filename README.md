@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We cannot always do great things in life, but we can do small things with great love."</i>
+<i>"You can discover what your enemy fears most by observing the means he uses to frighten you."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
