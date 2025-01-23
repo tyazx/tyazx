@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our stories may be singular, but our destination is shared."</i>
+<i>"It's always to soon to quit!"</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
