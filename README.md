@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can discover what your enemy fears most by observing the means he uses to frighten you."</i>
+<i>"Success is like reaching an important birthday and finding you're exactly the same."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
