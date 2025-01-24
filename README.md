@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am always doing that which I can not do, in order that I may learn how to do it."</i>
+<i>"Opportunities don't often come along. So, when they do, you have to grab them."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
