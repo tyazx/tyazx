@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way."</i>
+<i>"I am always doing that which I can not do, in order that I may learn how to do it."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
