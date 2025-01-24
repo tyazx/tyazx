@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunities don't often come along. So, when they do, you have to grab them."</i>
+<i>"Youth has no age."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
