@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's always to soon to quit!"</i>
+<i>"The older you get, the more you understand how your conscience works."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
