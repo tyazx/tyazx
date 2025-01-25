@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes it is harder to deprive oneself of a pain than of a pleasure."</i>
+<i>"Quality means doing it right when no one is looking."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
