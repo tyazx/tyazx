@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you get up one more time than you fall, you will make it through."</i>
+<i>"The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
