@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where there is anger, there is always pain underneath."</i>
+<i>"If you quit once it becomes a habit."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
