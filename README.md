@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes you have to travel a long way to find what is near."</i>
+<i>"Sometimes it is harder to deprive oneself of a pain than of a pleasure."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
