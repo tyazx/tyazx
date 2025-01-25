@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Coming together is a beginning, staying together is progress, and working together is success. "</i>
+<i>"We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
