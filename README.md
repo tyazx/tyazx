@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All that a man achieves and all that he fails to achieve is the direct result of his own thoughts."</i>
+<i>"A man who cannot tolerate small misfortunes can never accomplish great things."</i>
 <br>
-<b>- James Allen</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
