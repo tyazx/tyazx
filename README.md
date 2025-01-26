@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ego wants to go fast. The soul needs to go slow."</i>
+<i>"Those who cannot change their minds cannot change anything."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
