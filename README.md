@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What most people need to learn in life is how to love people and use things instead of using people and loving things."</i>
+<i>"Acknowledging the good that you already have in your life is the foundation for all abundance."</i>
 <br>
-<b>- Unknown</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
