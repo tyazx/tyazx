@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who cannot change their minds cannot change anything."</i>
+<i>"What most people need to learn in life is how to love people and use things instead of using people and loving things."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
