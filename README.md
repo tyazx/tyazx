@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have lost friends, some by death...others by sheer inability to cross the street."</i>
+<i>"Make yourself so useful to other people, that they think you are irreplaceable."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
