@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peaceful is the one who expects nothing."</i>
+<i>"I have lost friends, some by death...others by sheer inability to cross the street."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
