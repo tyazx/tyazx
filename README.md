@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always render more and better service than is expected of you, no matter what your task may be."</i>
+<i>"Surround yourself with only people who are going to lift you higher. "</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
