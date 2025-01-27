@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Surround yourself with only people who are going to lift you higher. "</i>
+<i>"If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
