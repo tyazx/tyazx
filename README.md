@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life must be a constant education; one must learn everything, from speaking to dying."</i>
+<i>"If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form."</i>
 <br>
-<b>- Gustave Flaubert</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
