@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Looking after my health today gives me a better hope for tomorrow. "</i>
+<i>"I don't walk away from things that I think are unfinished."</i>
 <br>
-<b>- Anne Wilson Schaef</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
