@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else."</i>
+<i>"The foolish reject what they see, not what they think; the wise reject what they think, not what they see."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
