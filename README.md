@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all here for some special reason."</i>
+<i>"The birth of the mind is the death of the senses."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
