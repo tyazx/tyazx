@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The birth of the mind is the death of the senses."</i>
+<i>"Have the courage to follow your heart and intuition. They somehow know what you truly want to become."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
