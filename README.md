@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The soul should always stand ajar, ready to welcome the ecstatic experience."</i>
+<i>"The greatest weariness comes from work not done."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
