@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest weariness comes from work not done."</i>
+<i>"What most people need to learn in life is how to love people and use things instead of using people and loving things."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
