@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't like something, change it. If you can't change it, change your attitude."</i>
+<i>"Be like a postage stamp. Stick to it until you get there."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
