@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is peace even in the storm."</i>
+<i>"Live your life and forget your age."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
