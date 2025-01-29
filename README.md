@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One beam, no matter how big, cannot support an entire house on its own."</i>
+<i>"It's better to dance than to march through life."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
