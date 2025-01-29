@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everybody has talent, but ability takes hard work."</i>
+<i>"People should pursue what they're passionate about. That will make them happier than pretty much anything else."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
