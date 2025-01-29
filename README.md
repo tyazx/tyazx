@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you think adventure is dangerous, try routine; it is lethal."</i>
+<i>"Everybody has talent, but ability takes hard work."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
