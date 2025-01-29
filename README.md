@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live your life and forget your age."</i>
+<i>"Whatever your heart clings to and confides in, that is really your God."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
