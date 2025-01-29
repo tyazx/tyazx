@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever your heart clings to and confides in, that is really your God."</i>
+<i>"It's not about what it is, it's about what it can become."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
