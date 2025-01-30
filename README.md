@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear does not have any special power unless you empower it by submitting to it."</i>
+<i>"It's what you do in the present that will redeem the past and thereby change the future."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
