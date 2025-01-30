@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is like reaching an important birthday and finding you're exactly the same."</i>
+<i>"There are no secrets to success. It is the result of preparation, hard work, and learning from failure."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
