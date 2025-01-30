@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's what you do in the present that will redeem the past and thereby change the future."</i>
+<i>"Happiness is the spiritual experience of living every minute with love, grace and gratitude."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
