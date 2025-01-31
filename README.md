@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything is in your own heart."</i>
+<i>"Do not be so open-minded that your brains fall out."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
