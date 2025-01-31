@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is everything. It is the preview of life's coming attractions."</i>
+<i>"Whether you have a problem in your life or not depends upon your own attitude, your own understanding."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
