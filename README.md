@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is from the inside out. When you shift on the inside, life shifts on the outside."</i>
+<i>"Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
