@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some of us learn from other people's mistakes and the rest of us have to be other people.  "</i>
+<i>"There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
