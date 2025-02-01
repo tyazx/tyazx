@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'"</i>
+<i>"Life is from the inside out. When you shift on the inside, life shifts on the outside."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
