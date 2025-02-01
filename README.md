@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Doubt is an uncomfortable condition, but certainty is a ridiculous one."</i>
+<i>"Those who are enlightened never stop forging themselves."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
