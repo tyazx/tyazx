@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities."</i>
+<i>"Do your duty and a little more and the future will take care of itself."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
