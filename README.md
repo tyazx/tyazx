@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If it is not right, do not do it, if it is not true, do not say it."</i>
+<i>"Even in the grave, all is not lost."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
