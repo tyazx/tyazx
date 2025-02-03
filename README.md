@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is consistency of thinking about what is possible and how to make it possible."</i>
+<i>"Trust in dreams, for in them is the hidden gate to eternity.  "</i>
 <br>
-<b>- John Eliot</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
