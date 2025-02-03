@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every limit is a beginning as well as an ending."</i>
+<i>"The road to success and the road to failure are almost exactly the same."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Colin R. Davis</b>
 </blockquote>
 </p>
 
