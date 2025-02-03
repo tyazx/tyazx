@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The road to success and the road to failure are almost exactly the same."</i>
+<i>"None of us can change our yesterdays but all of us can change our tomorrows."</i>
 <br>
-<b>- Colin R. Davis</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
