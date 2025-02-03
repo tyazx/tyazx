@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"None of us can change our yesterdays but all of us can change our tomorrows."</i>
+<i>"If it is not right, do not do it, if it is not true, do not say it."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
