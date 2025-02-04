@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot have a positive life and a negative mind."</i>
+<i>"Better to have, and not need, than to need, and not have."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
