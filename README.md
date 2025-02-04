@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better to have, and not need, than to need, and not have."</i>
+<i>"Better to light a candle than to curse the darkness. "</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
