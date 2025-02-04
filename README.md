@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better to light a candle than to curse the darkness. "</i>
+<i>"We're responsible for everything that happens to us."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
