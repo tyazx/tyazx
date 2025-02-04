@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Character is destiny."</i>
+<i>"You cannot have a positive life and a negative mind."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
