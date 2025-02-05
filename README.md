@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The one who praises you is a thief. The one who criticizes you is your true friend."</i>
+<i>"Whether you think you can or think you can't – you are right."</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
