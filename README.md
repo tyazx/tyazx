@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Smell the cheese often so you know when it is getting old."</i>
+<i>"Life has more imagination than we carry in our dreams."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Christopher Columbus</b>
 </blockquote>
 </p>
 
