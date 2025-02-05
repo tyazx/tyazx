@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perpetual optimism is a force multiplier."</i>
+<i>"Observe things as they are and don't pay attention to other people."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
