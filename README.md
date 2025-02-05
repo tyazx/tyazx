@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You know you are on the road to success if you would do your job and not be paid for it."</i>
+<i>"Believe in one thing too much and you have no room for new ideas.  "</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
