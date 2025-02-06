@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life must be a constant education; one must learn everything, from speaking to dying."</i>
+<i>"The season of failure is the best time for sowing the seeds of success. "</i>
 <br>
-<b>- Gustave Flaubert</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
