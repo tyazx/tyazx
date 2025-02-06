@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life has more imagination than we carry in our dreams."</i>
+<i>"People think about what they don't want and attract more of the same."</i>
 <br>
-<b>- Christopher Columbus</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
