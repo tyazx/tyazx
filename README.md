@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength."</i>
+<i>"You have a brain and mind of your own. Use it, and reach your own decisions."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
