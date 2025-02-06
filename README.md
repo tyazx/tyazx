@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you like yourself, the less you are like anyone else, which makes you unique."</i>
+<i>"You are free, and that is why you are lost."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
