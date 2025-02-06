@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The season of failure is the best time for sowing the seeds of success. "</i>
+<i>"A man who cannot tolerate small misfortunes can never accomplish great things."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
