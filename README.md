@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Yesterday is but today's memory, tomorrow is today's dream."</i>
+<i>"Find something you love and do it better than everyone else."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
