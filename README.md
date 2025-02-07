@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have a choice everyday regarding the attitude we will embrace for that day."</i>
+<i>"Passion is born deaf and dumb."</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
