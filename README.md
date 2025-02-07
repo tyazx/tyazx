@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship takes time and energy if it's going to work."</i>
+<i>"Yesterday is but today's memory, tomorrow is today's dream."</i>
 <br>
-<b>- Betty White</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
