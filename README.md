@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I try more and more to be myself, caring relatively little whether people approve or disapprove."</i>
+<i>"If you get up one more time than you fall, you will make it through."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
