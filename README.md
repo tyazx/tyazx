@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Find something you love and do it better than everyone else."</i>
+<i>"Confidence is like a dragon where, for every head cut off, two more heads grow back."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
