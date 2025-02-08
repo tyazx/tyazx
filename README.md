@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adventure is worthwhile in itself."</i>
+<i>"A minute's success pays the failure of years."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Robert Browning</b>
 </blockquote>
 </p>
 
