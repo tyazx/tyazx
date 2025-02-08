@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Poverty and hardship are created by false thinking."</i>
+<i>"Adventure is worthwhile in itself."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
