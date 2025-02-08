@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Patience is not the ability to wait but the ability to keep a good attitude while waiting."</i>
+<i>"The nearer a man comes to a calm mind, the closer he is to strength."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
