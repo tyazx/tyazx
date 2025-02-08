@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest discovery of all time is that a person can change their future by merely changing their attitude."</i>
+<i>"All power is from within and therefore under our control."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
