@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"At the end of the day, let there be no excuses, no explanations, no regrets."</i>
+<i>"Patience is not the ability to wait but the ability to keep a good attitude while waiting."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
