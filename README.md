@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Who you are is defined by what you're willing to struggle for."</i>
+<i>"At the end of the day, let there be no excuses, no explanations, no regrets."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
