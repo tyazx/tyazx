@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A minute's success pays the failure of years."</i>
+<i>"The greatest discovery of all time is that a person can change their future by merely changing their attitude."</i>
 <br>
-<b>- Robert Browning</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
