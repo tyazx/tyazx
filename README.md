@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The nearer a man comes to a calm mind, the closer he is to strength."</i>
+<i>"Those who are enlightened never stop forging themselves."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
