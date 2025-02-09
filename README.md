@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to keep your memories, you first have to live them."</i>
+<i>"Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
