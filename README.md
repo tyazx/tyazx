@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work."</i>
+<i>"Choose to be optimistic, it feels better."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
