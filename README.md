@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Greatness comes from living with purpose and passion."</i>
+<i>"Insanity is relative. It depends on who has who locked in what cage.  "</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
