@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can start changing our world for the better daily, no matter how small the action."</i>
+<i>"The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
