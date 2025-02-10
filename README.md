@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Death smiles at us all. All we can do is smile back."</i>
+<i>"Success and failure come and go, but don't let them define you. It's who you are that matters."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
