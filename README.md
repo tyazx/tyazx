@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing endures but change."</i>
+<i>"Imagination is the true magic carpet."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
