@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quality of your commitments will determine the course of your life."</i>
+<i>"There are no mistakes in life, only lessons."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
