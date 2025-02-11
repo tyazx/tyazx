@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Challenge yourself to find the good and beautiful thing inside of everyone."</i>
+<i>"When you are content to be simply yourself and don't compare or compete, everybody will respect you. "</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
