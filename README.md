@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I alone cannot change the world, but I can cast a stone across the waters to create many ripples."</i>
+<i>"The quality of your commitments will determine the course of your life."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
