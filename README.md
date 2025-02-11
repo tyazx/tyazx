@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you genuinely want something, don't wait for it - teach yourself."</i>
+<i>"If there is a book that you want to read, but it hasn't been written yet, then you must write it."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Toni Morrison</b>
 </blockquote>
 </p>
 
