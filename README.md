@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man desires to live long, but no man wishes to be old."</i>
+<i>"Life is really simple, but men insist on making it complicated. "</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
