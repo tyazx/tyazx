@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just try to be the best you can be; never cease trying to be the best you can be. That's in your power."</i>
+<i>"Wealth is the product of man's capacity to think."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
