@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is really simple, but men insist on making it complicated. "</i>
+<i>"Music is like creating an emotional painting. The sounds are the colors."</i>
 <br>
-<b>- Confucius</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
