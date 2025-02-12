@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams have only one owner at a time. That's why dreamers are lonely."</i>
+<i>"It is in changing that we find purpose."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
