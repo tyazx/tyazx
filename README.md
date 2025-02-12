@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Convinced myself, I seek not to convince."</i>
+<i>"Dreams have only one owner at a time. That's why dreamers are lonely."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
