@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I think self-awareness is probably the most important thing towards being a champion. "</i>
+<i>"Convinced myself, I seek not to convince."</i>
 <br>
-<b>- Billie Jean King</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
