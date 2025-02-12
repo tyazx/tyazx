@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Music is like creating an emotional painting. The sounds are the colors."</i>
+<i>"Youth has no age."</i>
 <br>
-<b>- Yanni</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
