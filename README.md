@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Animals don't hate, and we're supposed to be better than them."</i>
+<i>"None but ourselves can free our minds."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
