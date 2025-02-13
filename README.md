@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wise men speak because they have something to say; Fools because they have to say something."</i>
+<i>"What you become is far more important than what you get."</i>
 <br>
-<b>- Plato</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
