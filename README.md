@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever happens always happens on time."</i>
+<i>"When you've got nothing, you've got nothing to lose."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
