@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn to sit back and observe, not everything needs a reaction."</i>
+<i>"Every failure brings with it the seed of an equivalent success."</i>
 <br>
-<b>- Unknown</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
