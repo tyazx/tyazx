@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"So we beat on, boats against the current, borne back ceaselessly into the past."</i>
+<i>"Care about what other people think and you will always be their prisoner."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
