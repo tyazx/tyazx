@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Care about what other people think and you will always be their prisoner."</i>
+<i>"Your dream has to be bigger than your fear."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
