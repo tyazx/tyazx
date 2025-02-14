@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better to die fighting for freedom than be a prisoner all the days of your life."</i>
+<i>"I succeeded by saying what everyone else is thinking."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
