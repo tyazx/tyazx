@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't live the same year 75 times and call it a life."</i>
+<i>"Management is doing things right; leadership is doing the right things."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
