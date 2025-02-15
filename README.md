@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The businessman's tool is value."</i>
+<i>"Love is merely the name for the desire and pursuit of the whole."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
