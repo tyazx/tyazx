@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry."</i>
+<i>"The soul should always stand ajar, ready to welcome the ecstatic experience."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
