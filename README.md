@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True prayer has no set form."</i>
+<i>"Wise people, even though all laws were abolished, would still lead the same life."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
