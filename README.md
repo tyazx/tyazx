@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is merely the name for the desire and pursuit of the whole."</i>
+<i>"Aim for the moon. If you miss, you may hit a star."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- W. Clement Stone</b>
 </blockquote>
 </p>
 
