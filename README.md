@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Continuous effort - not strength or intelligence - is the key to unlocking our potential."</i>
+<i>"Action is the foundational key to all success."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
