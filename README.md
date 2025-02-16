@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Aim for the moon. If you miss, you may hit a star."</i>
+<i>"Continuous effort - not strength or intelligence - is the key to unlocking our potential."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
