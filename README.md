@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Action is the foundational key to all success."</i>
+<i>"What one does is what counts. Not what one had the intention of doing."</i>
 <br>
 <b>- Pablo Picasso</b>
 </blockquote>
