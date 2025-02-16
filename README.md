@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A clear conscience is the sure sign of a bad memory."</i>
+<i>"Creativity is intelligence having fun."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
