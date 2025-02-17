@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot."</i>
+<i>"Catch, then, O catch the transient hour; Improve each moment as it flies! "</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
