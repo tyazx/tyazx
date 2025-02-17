@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Catch, then, O catch the transient hour; Improve each moment as it flies! "</i>
+<i>"Have the fearless attitude of a hero and the loving heart of a child."</i>
 <br>
-<b>- St. Jerome</b>
+<b>- Soyen Shaku</b>
 </blockquote>
 </p>
 
