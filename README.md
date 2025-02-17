@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better late than never."</i>
+<i>"The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
