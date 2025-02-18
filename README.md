@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good."</i>
+<i>"I know not all that may be coming, but be it what it will, I'll go to it laughing."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Herman Melville</b>
 </blockquote>
 </p>
 
