@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not all of us can do great things. But we can do small things with great love."</i>
+<i>"By changing nothing, nothing changes."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
