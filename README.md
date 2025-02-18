@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can have it all. You just can't have it all at once. "</i>
+<i>"Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
