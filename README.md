@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Silence is the great teacher and to learn its lessons you must pay attention to it."</i>
+<i>"Be willing to be a beginner every single morning."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
