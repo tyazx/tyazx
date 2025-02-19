@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is little success where there is little laughter."</i>
+<i>"Your problem isn't the problem. Your reaction is the problem."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
