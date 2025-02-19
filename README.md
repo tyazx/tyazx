@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The mind that turns ever outward Will have no end to craving. Only the mind turned inward Will find a still-point of peace."</i>
+<i>"There are dark shadows on the earth, but its lights are stronger in the contrast."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
