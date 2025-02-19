@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ability is a poor man's wealth."</i>
+<i>"People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
