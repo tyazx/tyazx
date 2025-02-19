@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing more frightful than ignorance in action."</i>
+<i>"I admire those who do good and expect nothing in return."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
