@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I admire those who do good and expect nothing in return."</i>
+<i>"Ability is a poor man's wealth."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
