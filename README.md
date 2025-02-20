@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years."</i>
+<i>"You can't go forward and backwards at the same time."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
