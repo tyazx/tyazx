@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world doesn't always give you want, but it often gives you what you need."</i>
+<i>"Respect was invented to cover the empty place where love should be."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
