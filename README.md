@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Surround yourself only with people who are going to take you higher."</i>
+<i>"We are all born ignorant, but one must work hard to remain stupid."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
