@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Resentment or grudges do no harm to the person against whom you hold these feelings but every day and every night of your life, they are eating at you."</i>
+<i>"It is never too late to be what you might have been."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
