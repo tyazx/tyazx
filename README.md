@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People spend too much time doing and not enough time thinking about what they should be doing."</i>
+<i>"Time heals what reason cannot.  "</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
