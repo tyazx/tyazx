@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As you think, so shall you become. "</i>
+<i>"People spend too much time doing and not enough time thinking about what they should be doing."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
