@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people."</i>
+<i>"Before anything else, preparation is the key to success."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
