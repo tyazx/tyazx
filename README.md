@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have never in my life learned anything from any man who agreed with me."</i>
+<i>"Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people."</i>
 <br>
-<b>- Dudley Field Malone</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
