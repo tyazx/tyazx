@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creative endeavors are by their nature uncertain."</i>
+<i>"The chief cause of failure and unhappiness is trading what you want most for what you want right now."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
