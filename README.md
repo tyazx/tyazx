@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One mistake does not have to rule a person's entire life."</i>
+<i>"I have never in my life learned anything from any man who agreed with me."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Dudley Field Malone</b>
 </blockquote>
 </p>
 
