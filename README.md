@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is never too late to be what you might have been."</i>
+<i>"One mistake does not have to rule a person's entire life."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
