@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fiction is the truth inside the lie."</i>
+<i>"Distant water does not put out a nearby fire."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
