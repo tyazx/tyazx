@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'"</i>
+<i>"If I cannot do great things. I can do small things in a great way."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
