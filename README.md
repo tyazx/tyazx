@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is built sequentially. It's one thing at a time."</i>
+<i>"There is nothing more truly artistic than to love people."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
