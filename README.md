@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Leadership is solving problems"</i>
+<i>"The real meditation is how you live your life."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
