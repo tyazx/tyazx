@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't have time to do it right, when will you have time to do it over?"</i>
+<i>"People who have goals succeed because they know where they're going. It's that simple."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
