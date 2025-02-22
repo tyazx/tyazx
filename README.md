@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The real meditation is how you live your life."</i>
+<i>"Success is built sequentially. It's one thing at a time."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
