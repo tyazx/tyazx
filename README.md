@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't allow your mind to tell your heart what to do. The mind gives up easily."</i>
+<i>"The positive thinker sees the invisible, feels the intangible, and achieves the impossible."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
