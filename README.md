@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always turn a negative situation into a positive situation."</i>
+<i>"Growth is in a series of mistakes. That's the only way you learn."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
