@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do it with passion, or not at all."</i>
+<i>"The greatest of all mistakes is to do nothing because you think you can only do a little.  "</i>
 <br>
-<b>- Rosa Nouchette Carey</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
