@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow. "</i>
+<i>"The best way to find yourself is to lose yourself in the service of others."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
