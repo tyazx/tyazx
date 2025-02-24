@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let someone elses. opinion become your reality."</i>
+<i>"Love and compassion are necessities, not luxuries. Without them, humanity cannot survive."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
