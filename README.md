@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The road to success is always under construction."</i>
+<i>"Each day your life grows a day shorter. Make every move count."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
