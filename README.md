@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each day your life grows a day shorter. Make every move count."</i>
+<i>"Blessed is he who expects nothing, for he shall never be disappointed."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
