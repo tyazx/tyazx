@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There's no coming to consciousness without pain"</i>
+<i>"It is easier to fight for one's principles than to live up to them. "</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
