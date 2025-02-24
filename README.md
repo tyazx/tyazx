@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Relax. Nothing is under control."</i>
+<i>"Adventure is not outside man; it is within."</i>
 <br>
-<b>- Adi Da Samraj</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
