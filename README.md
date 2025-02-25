@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not how long, but how well you have lived is the main thing."</i>
+<i>"Winners never quit and quitters never win."</i>
 <br>
-<b>- Seneca</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
