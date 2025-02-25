@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to find yourself is to lose yourself in the service of others."</i>
+<i>"What kills the creative force is not age or lack of talent, but our own spirit, our own attitude."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
