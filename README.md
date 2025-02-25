@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't change your mind just because people are offended; change your mind if you're wrong."</i>
+<i>"Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
