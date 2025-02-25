@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must have strong minds, ready to accept facts as they are."</i>
+<i>"We turn not older with years but newer every day."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
