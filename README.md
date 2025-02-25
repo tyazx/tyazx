@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good."</i>
+<i>"Either get busy living or get busy dying."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
