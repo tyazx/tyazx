@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is not final, failure is not fatal: it is the courage to continue that counts."</i>
+<i>"If there's a definition of freedom, I think it's this: living life on your terms."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
