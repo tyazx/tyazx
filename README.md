@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If there's a definition of freedom, I think it's this: living life on your terms."</i>
+<i>"Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
