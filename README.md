@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Talent is luck. The important thing in life is courage."</i>
+<i>"Nothing ever goes away until it has taught us what we need to know."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
