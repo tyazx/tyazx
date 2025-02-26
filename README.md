@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most tragic thing in the world is a man of genius who is not a man of honor."</i>
+<i>"Talent is luck. The important thing in life is courage."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
