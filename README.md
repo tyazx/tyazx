@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is amazing what you can accomplish if you do not care who gets the credit."</i>
+<i>"Reading should be a pleasure, not a chore."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
