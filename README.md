@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The power of man has grown in every sphere, except over himself."</i>
+<i>"Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
