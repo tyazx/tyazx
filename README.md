@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people are old at 18 and some are young at 90. Time is a concept that humans created."</i>
+<i>"There are more people who wish to be loved than there are who are willing to love. "</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
