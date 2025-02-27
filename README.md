@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Simple words, repeated daily, can change your life."</i>
+<i>"Falling down is not failure. Failure comes when you stay where you have fallen."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
