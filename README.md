@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of life isn't what happens to you, but what you do with what happens to you."</i>
+<i>"Life is from the inside out. When you shift on the inside, life shifts on the outside."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
