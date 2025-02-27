@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ego wants to go fast. The soul needs to go slow."</i>
+<i>"Your chances of success in any undertaking can always be measured by your belief in yourself."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
