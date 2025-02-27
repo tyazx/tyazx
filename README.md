@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen."</i>
+<i>"Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
