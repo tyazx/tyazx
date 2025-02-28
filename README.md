@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is acceptable. Not trying is a whole different ball park."</i>
+<i>"The only limits in your life are those that you set yourself."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
