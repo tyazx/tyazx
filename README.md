@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only limits in your life are those that you set yourself."</i>
+<i>"Change begets change. Nothing propagates so fast."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
