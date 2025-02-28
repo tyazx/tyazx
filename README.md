@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone must choose one of two pains: The pain of discipline or the pain of regret."</i>
+<i>"If you aren't sure which way to do something, do it both ways and see which works better."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- John Carmack</b>
 </blockquote>
 </p>
 
