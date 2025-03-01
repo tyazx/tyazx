@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water."</i>
+<i>"People spend too much time doing and not enough time thinking about what they should be doing."</i>
 <br>
-<b>- Buddha</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
