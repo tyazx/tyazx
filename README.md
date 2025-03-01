@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have no methods; all I do is accept people as they are."</i>
+<i>"No one has ever become poor by giving."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
