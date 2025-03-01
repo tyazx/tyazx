@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Night is a more quiet time to work. It aids thought."</i>
+<i>"I have no methods; all I do is accept people as they are."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
