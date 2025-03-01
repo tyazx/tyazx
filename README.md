@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Giving is living. If you stop wanting to give, there's nothing more to live for."</i>
+<i>"If you can't argue both sides, you can't argue."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
