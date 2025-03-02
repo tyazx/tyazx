@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What have you done today to make someone else happy?"</i>
+<i>"There is no greater agony than bearing an untold story inside you."</i>
 <br>
-<b>- Deepam Chaterjee</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
