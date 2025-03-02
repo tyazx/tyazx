@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're brave enough to say goodbye, life will reward you with a new hello."</i>
+<i>"Who you are is always right."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
