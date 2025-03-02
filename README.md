@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I try more and more to be myself, caring relatively little whether people approve or disapprove."</i>
+<i>"If you're brave enough to say goodbye, life will reward you with a new hello."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
