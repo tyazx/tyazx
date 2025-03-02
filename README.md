@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A loving heart is the truest wisdom."</i>
+<i>"Don't try to steer the river."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
