@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You'll get more from being a peacemaker than a warrior."</i>
+<i>"My mind seems to have become a kind of machine for grinding general laws out of large collections of facts."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
