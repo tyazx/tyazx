@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't try to steer the river."</i>
+<i>"Public opinion is the worst of all opinions."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
