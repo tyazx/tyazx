@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Public opinion is the worst of all opinions."</i>
+<i>"It is not titles that honour men, but men that honour titles."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Niccolo Machiavelli</b>
 </blockquote>
 </p>
 
