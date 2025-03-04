@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intense love does not measure, it just gives."</i>
+<i>"Thinking will not overcome fear but action will. "</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- W. Clement Stone</b>
 </blockquote>
 </p>
 
