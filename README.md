@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success."</i>
+<i>"Sometimes, the only way to evolve is to open ourselves fully."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
