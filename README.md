@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day."</i>
+<i>"Don't stumble over something that's behind you."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
