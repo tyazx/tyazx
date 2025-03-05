@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone must choose one of two pains: The pain of discipline or the pain of regret."</i>
+<i>"The journey is what brings us happiness not the destination."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
