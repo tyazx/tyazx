@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The soul without imagination is what an observatory would be without a telescope."</i>
+<i>"The very essence of instinct is that it's followed independently of reason."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
