@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The journey is what brings us happiness not the destination."</i>
+<i>"A friend to all is a friend to none."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
