@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never fear quarrels, but seek hazardous adventures."</i>
+<i>"Try not to become a man of success, but rather try to become a man of value."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
