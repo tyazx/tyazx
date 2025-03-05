@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are patient in one moment of anger, you will escape a hundred days of sorrow. "</i>
+<i>"Never fear quarrels, but seek hazardous adventures."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
