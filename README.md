@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As you think, you travel, and as you love, you attract."</i>
+<i>"You are never too old to set another goal or to dream a new dream."</i>
 <br>
-<b>- James Allen</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
