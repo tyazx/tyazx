@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A friend to all is a friend to none."</i>
+<i>"As you think, you travel, and as you love, you attract."</i>
 <br>
-<b>- Aristotle</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
