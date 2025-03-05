@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wise man reads both books and life itself."</i>
+<i>"If you are patient in one moment of anger, you will escape a hundred days of sorrow. "</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
