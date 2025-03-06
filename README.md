@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perseverance and spirit have done wonders in all ages. "</i>
+<i>"Those who seek the easy way do not seek the true way."</i>
 <br>
-<b>- George Washington</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
