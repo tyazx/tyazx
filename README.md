@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them."</i>
+<i>"The world doesn't owe you anything. It was here first."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
