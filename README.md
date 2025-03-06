@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before anything else, preparation is the key to success."</i>
+<i>"A good system shortens the road to the goal. "</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Orison Swett Marden</b>
 </blockquote>
 </p>
 
