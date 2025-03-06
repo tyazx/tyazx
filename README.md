@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good system shortens the road to the goal. "</i>
+<i>"Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
