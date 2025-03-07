@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more something scares you, the more you should do it."</i>
+<i>"The only way to 'find out if it will work out' is to do it."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
