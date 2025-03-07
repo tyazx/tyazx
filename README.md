@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life can be the scariest and most beautiful thing simultaneously."</i>
+<i>"If you've never eaten while crying you don t know what life tastes like."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
