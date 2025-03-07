@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The soul is neither born, and nor does it die."</i>
+<i>"The more something scares you, the more you should do it."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
