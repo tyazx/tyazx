@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I can live without money, but I cannot live without love."</i>
+<i>"In life you need either inspiration or desperation."</i>
 <br>
-<b>- Judy Garland</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
