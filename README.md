@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world doesn't owe you anything. It was here first."</i>
+<i>"Life can be the scariest and most beautiful thing simultaneously."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
