@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enlightenment is intimacy with all things."</i>
+<i>"Most people spend more time and energy going around problems than in trying to solve them. "</i>
 <br>
-<b>- Dogen</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
