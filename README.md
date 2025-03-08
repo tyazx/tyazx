@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unless you change how you are, you will always have what you got."</i>
+<i>"There are no uninteresting things, only uninterested people."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
