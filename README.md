@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no uninteresting things, only uninterested people."</i>
+<i>"Enlightenment is intimacy with all things."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
