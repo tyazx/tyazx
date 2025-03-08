@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The key to immortality is first living a life worth remembering. "</i>
+<i>"You must learn to let go. Release the stress. You were never in control anyway."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
