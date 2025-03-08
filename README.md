@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work harder on yourself than you do on your job."</i>
+<i>"Is it really possible to tell someone else what one feels?"</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
