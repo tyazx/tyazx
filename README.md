@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people spend more time and energy going around problems than in trying to solve them. "</i>
+<i>"Work harder on yourself than you do on your job."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
