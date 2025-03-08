@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're braver than you believe, and stronger than you seem, and smarter than you think."</i>
+<i>"The key to immortality is first living a life worth remembering. "</i>
 <br>
-<b>- A.A. Milne</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
