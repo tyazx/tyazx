@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is an option, fear is not."</i>
+<i>"We can't help everyone, but everyone can help someone."</i>
 <br>
-<b>- James Cameron</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
