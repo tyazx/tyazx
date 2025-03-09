@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is amazing what you can accomplish if you do not care who gets the credit."</i>
+<i>"The best revenge is to be unlike him who performed the injury."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
