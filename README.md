@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best revenge is to be unlike him who performed the injury."</i>
+<i>"Great ones are willing to get burned time and again as they sharpen their swords in the fire."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
