@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have to walk in a way that we only print peace and serenity on the Earth. Walk as if you are kissing the Earth with your feet."</i>
+<i>"You can live a whole life time never being awake."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
