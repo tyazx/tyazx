@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can live a whole life time never being awake."</i>
+<i>"It is amazing what you can accomplish if you do not care who gets the credit."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
