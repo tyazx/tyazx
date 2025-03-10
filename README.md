@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What people say, what people do, and what they say they do are entirely different things. "</i>
+<i>"The finish line is just the beginning of a whole new race."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
