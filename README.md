@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make peace with your inner turmoil."</i>
+<i>"Life is either a daring adventure, or nothing."</i>
 <br>
-<b>- Unknown</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
