@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves."</i>
+<i>"Everything starts with a dream. A particle of our imagination that teases us of what the future could be like, as long as we fight for it."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
