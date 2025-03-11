@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ability to observe without evaluating is the highest form of intelligence."</i>
+<i>"It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
