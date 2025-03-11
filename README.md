@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The goal of an artist is to create the definitive work that cannot be surpassed."</i>
+<i>"Don't give up on your dreams, or your dreams will give up on you."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
