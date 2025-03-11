@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be regular and orderly in your life, so that you may be violent and original in your work."</i>
+<i>"Life is love and love is life."</i>
 <br>
-<b>- Gustave Flaubert</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
