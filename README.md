@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't give up on your dreams, or your dreams will give up on you."</i>
+<i>"People will forget what you said, people will forget what you did, but people will never forget how you made them feel."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
