@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What loneliness is more lonely than distrust?"</i>
+<i>"Wealth is the product of man's capacity to think."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
