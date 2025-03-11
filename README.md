@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to know what God thinks about money just look at the people He gives it to."</i>
+<i>"Wealth is the product of man's capacity to think."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
