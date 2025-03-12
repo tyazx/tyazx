@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to learn late than never."</i>
+<i>"The only limits in our life are those we impose on ourselves."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
