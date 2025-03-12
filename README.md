@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously."</i>
+<i>"It is better to learn late than never."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
