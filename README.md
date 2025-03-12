@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People will forget what you said, people will forget what you did, but people will never forget how you made them feel."</i>
+<i>"Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
