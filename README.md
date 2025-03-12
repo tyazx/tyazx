@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to."</i>
+<i>"Life belongs to the living, and he who lives must be prepared for changes."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
