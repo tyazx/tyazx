@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Loss is nothing else but change and change is nature's delight."</i>
+<i>"Even if you're sure you can win, be careful that you can live with what you lose."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
