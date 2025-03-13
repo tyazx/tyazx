@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. "</i>
+<i>"There is only one thing in the world worse than being talked about, and that is not being talked about. "</i>
 <br>
-<b>- George Washington</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
