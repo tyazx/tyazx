@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words are clothes that thoughts wear"</i>
+<i>"Learn to value yourself, which means: fight for your happiness."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
