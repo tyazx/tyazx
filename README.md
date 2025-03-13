@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I believe that potential is unlimited - success depends on daring to act on dreams.   "</i>
+<i>"It's only after you've stepped outside your comfort zone that you begin to change, grow, and transform."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
