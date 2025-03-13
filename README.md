@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even if you're sure you can win, be careful that you can live with what you lose."</i>
+<i>"Remember to look up at the stars and not down at your feet."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
