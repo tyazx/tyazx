@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our greatest glory is not in never falling but in rising every time we fall."</i>
+<i>"We think too much and feel too little."</i>
 <br>
-<b>- Confucius</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
