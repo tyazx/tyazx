@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never let the things you can't do stop you from doing what you can."</i>
+<i>"Eighty percent of success is showing up. "</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
