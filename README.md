@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one ever said life was fair. Just Eventful."</i>
+<i>"If you take responsibility for yourself you will develop a hunger to accomplish your dream."</i>
 <br>
-<b>- Carol Burnett</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
