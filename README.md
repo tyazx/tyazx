@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order to control myself I must first accept myself by going with and not against my nature."</i>
+<i>"You don't need anybody to tell you who you are or what you are. You are what you are!"</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
