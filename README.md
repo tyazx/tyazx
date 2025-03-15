@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't need anybody to tell you who you are or what you are. You are what you are!"</i>
+<i>"Just get out and do it. You will be very, very glad that you did."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
