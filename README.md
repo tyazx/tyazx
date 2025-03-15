@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just get out and do it. You will be very, very glad that you did."</i>
+<i>"If you want to be successful, you have to jump, there's no way around it."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
