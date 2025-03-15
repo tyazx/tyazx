@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have lived with several Zen masters -- all of them cats."</i>
+<i>"No one ever said life was fair. Just Eventful."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
