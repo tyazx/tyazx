@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems."</i>
+<i>"In order to control myself I must first accept myself by going with and not against my nature."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
