@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quality of your life is the quality of your relationships."</i>
+<i>"Trusting our intuition often saves us from disaster. "</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Anne Wilson Schaef</b>
 </blockquote>
 </p>
 
