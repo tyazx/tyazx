@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must be free not because we claim freedom, but because we practice it."</i>
+<i>"The wisest men follow their own direction."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
