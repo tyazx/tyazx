@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I can stop one heart from breaking, I shall not live in vain."</i>
+<i>"One never does wrong by doing right."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
