@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is one of the most tangible things in a world which offers fewer and fewer supports."</i>
+<i>"You have as much laughter as you have faith."</i>
 <br>
-<b>- Kenneth Branagh</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
