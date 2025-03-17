@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not think you will necessarily be aware of your own enlightenment."</i>
+<i>"The busy man is never wise and the wise man is never busy."</i>
 <br>
-<b>- Dogen</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
