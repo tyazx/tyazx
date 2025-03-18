@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Duty makes us do things well, but love makes us do them beautifully.  "</i>
+<i>"To perceive is to suffer."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
