@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't stop when you're tired. Stop when you're done."</i>
+<i>"The way to change others' minds is with affection, and not anger."</i>
 <br>
-<b>- Marilyn Monroe</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
