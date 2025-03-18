@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To perceive is to suffer."</i>
+<i>"Have the fearless attitude of a hero and the loving heart of a child."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Soyen Shaku</b>
 </blockquote>
 </p>
 
