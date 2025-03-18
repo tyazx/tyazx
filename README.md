@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our deeds determine us, as much as we determine our deeds."</i>
+<i>"When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. "</i>
 <br>
-<b>- George Eliot</b>
+<b>- Charles Swindoll</b>
 </blockquote>
 </p>
 
