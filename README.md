@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you love someone, you love the person as they are, and not as you'd like them to be."</i>
+<i>"Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough. "</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
