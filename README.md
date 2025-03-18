@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Have the fearless attitude of a hero and the loving heart of a child."</i>
+<i>"I wasn't brave, I just didn't have time to be scared."</i>
 <br>
-<b>- Soyen Shaku</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
