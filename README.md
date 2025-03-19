@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you decide to do, make sure it makes you happy."</i>
+<i>"To improve is to change, so to be perfect is to change often."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
