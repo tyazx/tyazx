@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I never dwell on what happened. You can't change it. Move forward."</i>
+<i>"Live your life as an exclamation rather than an explanation."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
