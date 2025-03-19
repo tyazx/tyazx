@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without struggle, no progress and no result. Every breaking of habit produces a change in the machine."</i>
+<i>"I never dwell on what happened. You can't change it. Move forward."</i>
 <br>
-<b>- G.I. Gurdjieff</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
