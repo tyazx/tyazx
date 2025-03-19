@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even if you persuade me, you won't persuade me."</i>
+<i>"My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
