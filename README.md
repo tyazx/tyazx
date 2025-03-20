@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot always control what goes on outside. But you can always control what goes on inside. "</i>
+<i>"You're always free to change your mind and choose a different future, or a different past."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
