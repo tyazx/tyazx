@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We make a living by what we get, but we make a life by what we give."</i>
+<i>"You cannot always control what goes on outside. But you can always control what goes on inside. "</i>
 <br>
-<b>- Unknown</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
