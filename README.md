@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man who dares to waste one hour of time has not discovered the value of life."</i>
+<i>"We make a living by what we get, but we make a life by what we give."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
