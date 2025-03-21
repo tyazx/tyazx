@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people do what unsuccessful people are not willing to do."</i>
+<i>"If you do not get the chills when you set your goal you're not setting big enough goals."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
