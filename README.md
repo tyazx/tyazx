@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one can hurt you without your consent."</i>
+<i>"Successful people do what unsuccessful people are not willing to do."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
