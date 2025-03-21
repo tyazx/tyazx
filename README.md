@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not get the chills when you set your goal you're not setting big enough goals."</i>
+<i>"The mind that turns ever outward Will have no end to craving. Only the mind turned inward Will find a still-point of peace."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
