@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are tempted to give up, your breakthrough is probably just around the corner."</i>
+<i>"You have the potential for greatness."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
