@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't gain the world and lose your soul. Wisdom is better than silver and gold."</i>
+<i>"No one can hurt you without your consent."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
