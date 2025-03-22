@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Expect the best of yourself, and then do what is necessary to make it a reality."</i>
+<i>"Success is not to be pursued, it is to be attracted by the person you become."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
