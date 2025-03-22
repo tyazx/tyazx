@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is not to be pursued, it is to be attracted by the person you become."</i>
+<i>"To forget the whole world is easy; to make the whole world forget you is hard."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
