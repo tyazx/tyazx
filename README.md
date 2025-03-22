@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The meaning of life is to find your gift. The purpose of life is to give it away."</i>
+<i>"Expect the best of yourself, and then do what is necessary to make it a reality."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
