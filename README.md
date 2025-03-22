@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A zen master's life is one continuous mistake."</i>
+<i>"Pleasure in the job puts perfection in the work."</i>
 <br>
-<b>- Dogen</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
