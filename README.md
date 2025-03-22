@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are the only real obstacle in your path to a fulfilling life."</i>
+<i>"The meaning of life is to find your gift. The purpose of life is to give it away."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
