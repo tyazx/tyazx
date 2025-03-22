@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The question isn't who is going to let me; it's who is going to stop me."</i>
+<i>"You are the only real obstacle in your path to a fulfilling life."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
