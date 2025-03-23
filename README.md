@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Motivation is what gets you started. Habit is what keeps you going."</i>
+<i>"When one door closes another door opens. "</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
