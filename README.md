@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The purpose of life is the life of purpose."</i>
+<i>"Resilience is not what happens to you. It's how you react to, respond to, and recover from what happens to you."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Jeffrey Gitomer</b>
 </blockquote>
 </p>
 
