@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take care of your cents: dollars will take care of themselves."</i>
+<i>"You can start changing our world for the better daily, no matter how small the action."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
