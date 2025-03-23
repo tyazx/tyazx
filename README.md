@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A journey of a thousand miles must begin with a single step."</i>
+<i>"Giving back involves a certain amount of giving up."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
