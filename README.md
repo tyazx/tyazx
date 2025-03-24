@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be where your enemy is not."</i>
+<i>"It is during our darkest moments that we must focus to see the light."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
