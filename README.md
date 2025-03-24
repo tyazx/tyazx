@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who bring sunshine into the lives of others cannot keep it from themselves."</i>
+<i>"Only when one allows themself the right to die, do they then give yourself the permission to live."</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- C. Sean McGee</b>
 </blockquote>
 </p>
 
