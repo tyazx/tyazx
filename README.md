@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are more people who wish to be loved than there are who are willing to love. "</i>
+<i>"Art is the signature of civilizations. "</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
