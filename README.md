@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are the only problem you will ever have and you are the only solution."</i>
+<i>"Knowledge is a treasure, but practice is the key to it."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
