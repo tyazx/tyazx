@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Troubles are often the tools by which God fashions us for better things."</i>
+<i>"There is nothing in the world so irresistibly contagious as laughter and good humor."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
