@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is during our darkest moments that we must focus to see the light."</i>
+<i>"Those who bring sunshine into the lives of others cannot keep it from themselves."</i>
 <br>
-<b>- Aristotle</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
