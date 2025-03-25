@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you become is far more important than what you get."</i>
+<i>"Your only obligation in any lifetime is to be true to yourself."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
