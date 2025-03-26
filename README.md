@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done."</i>
+<i>"Do not take life too seriously. You will never get out of it alive."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
