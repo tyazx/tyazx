@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not take life too seriously. You will never get out of it alive."</i>
+<i>"Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
