@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Simplicity is the glory of expression."</i>
+<i>"You cannot have a positive life and a negative mind."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
