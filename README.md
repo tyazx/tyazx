@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for."</i>
+<i>"Thinking is difficult, that's why most people judge."</i>
 <br>
-<b>- Socrates</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
