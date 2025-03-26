@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot have a positive life and a negative mind."</i>
+<i>"Life becomes easier and more beautiful when we can see the good in other people."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
