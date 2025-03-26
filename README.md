@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thinking is difficult, that's why most people judge."</i>
+<i>"When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
