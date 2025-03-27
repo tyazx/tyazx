@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always do your best. What you plant now, you will harvest later."</i>
+<i>"To get angry is like to revenge yourself for the guilt of others."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
