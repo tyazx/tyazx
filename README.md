@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To achieve, you need thought. You have to know what you are doing and that's real power."</i>
+<i>"Go confidently in the direction of your dreams. Live the life you've imagined."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
