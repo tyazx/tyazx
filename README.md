@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live in the sunshine, swim the sea, drink the wild air."</i>
+<i>"Successful people ask better questions, and as a result, they get better answers."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
