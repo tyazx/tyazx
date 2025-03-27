@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All human beings can alter their lives by altering their attitudes."</i>
+<i>"By changing nothing, nothing changes."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
