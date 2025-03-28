@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By words the mind is winged."</i>
+<i>"Everything that irritates us about others."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
