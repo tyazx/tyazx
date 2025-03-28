@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you love life, don't waste time, for time is what life is made up of. "</i>
+<i>"The roots of education are bitter, but the fruit is sweet."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
