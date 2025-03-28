@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The roots of education are bitter, but the fruit is sweet."</i>
+<i>"Beauty is not in the face; beauty is a light in the heart."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
