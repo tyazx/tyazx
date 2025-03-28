@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Definitions belong to the definers, not the defined."</i>
+<i>"By words the mind is winged."</i>
 <br>
-<b>- Toni Morrison</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
