@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It does not do to dwell on dreams and forget to live, remember that."</i>
+<i>"Definitions belong to the definers, not the defined."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Toni Morrison</b>
 </blockquote>
 </p>
 
