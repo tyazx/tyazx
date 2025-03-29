@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good judgment comes from experience, and experience comes from bad judgment."</i>
+<i>"Life is either a daring adventure, or it is nothing."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
