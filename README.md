@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Human happiness and moral duty are inseparably connected. "</i>
+<i>"Good judgment comes from experience, and experience comes from bad judgment."</i>
 <br>
-<b>- George Washington</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
