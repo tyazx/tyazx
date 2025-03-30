@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is not how high you have climbed, but how you make a positive difference to the world."</i>
+<i>"Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
