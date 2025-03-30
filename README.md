@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution."</i>
+<i>"Knowledge is a treasure, but practice is the key to it."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
