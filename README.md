@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adventure is worthwhile in itself."</i>
+<i>"Question everything. Learn something. Answer nothing."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
