@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge is a treasure, but practice is the key to it."</i>
+<i>"The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
