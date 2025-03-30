@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Question everything. Learn something. Answer nothing."</i>
+<i>"Yesterday is gone. Tomorrow has not yet come. We have only today."</i>
 <br>
-<b>- Euripides</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
