@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The eyes of others our prisons; their thoughts our cages."</i>
+<i>"Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
