@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The joy of life comes from our encounters with new experiences."</i>
+<i>"Troubles are often the tools by which God fashions us for better things."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
