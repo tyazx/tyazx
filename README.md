@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Troubles are often the tools by which God fashions us for better things."</i>
+<i>"Every day may not be good, but there's something good in every day."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
