@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What people say, what people do, and what they say they do are entirely different things. "</i>
+<i>"The chief enemy of creativity is good sense."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
