@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the End, we will remember not the words of our enemies, but the silence of our friends."</i>
+<i>"The more one judges, the less one loves."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
