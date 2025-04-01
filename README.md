@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where there's life, there's hope."</i>
+<i>"The key to success is to focus our conscious mind on things we desire not things we fear. "</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
