@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Focus is a matter of deciding what things you're not going to do."</i>
+<i>"Life is about not knowing and then doing something anyway."</i>
 <br>
-<b>- John Carmack</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
