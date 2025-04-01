@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more one judges, the less one loves."</i>
+<i>"an action committed in anger is an action doomed to failure. "</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Genghis Khan</b>
 </blockquote>
 </p>
 
