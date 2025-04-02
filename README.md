@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Vision is the art of seeing things invisible."</i>
+<i>"The older you get the stronger the wind gets - and it's always in your face."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
