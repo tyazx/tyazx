@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. "</i>
+<i>"We can spend our whole lives escaping from the monsters of our minds."</i>
 <br>
-<b>- George Washington</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
