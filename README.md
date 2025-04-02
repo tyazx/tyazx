@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change happens when the pain of holding on becomes greater than the fear of letting go."</i>
+<i>"Don't just sit there. Do something. The answers will follow."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
