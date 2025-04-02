@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't just sit there. Do something. The answers will follow."</i>
+<i>"We can have more than we've got because we can become more than we are."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
