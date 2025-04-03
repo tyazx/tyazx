@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is simply what our feelings do to us."</i>
+<i>"You're always free to change your mind and choose a different future, or a different past."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
