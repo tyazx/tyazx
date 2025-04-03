@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Waste no more time arguing about what a good man should be. Be one."</i>
+<i>"Where we fall are the stepping-stones for our journey."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
