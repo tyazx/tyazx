@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always try to be a little kinder than necessary."</i>
+<i>"Waste no more time arguing about what a good man should be. Be one."</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
