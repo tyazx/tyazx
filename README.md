@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enjoy when you can, and endure when you must."</i>
+<i>"Always try to be a little kinder than necessary."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
