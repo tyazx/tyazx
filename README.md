@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man who cannot tolerate small misfortunes can never accomplish great things."</i>
+<i>"We never know the love of a parent till we become parents ourselves."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
