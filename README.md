@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences "</i>
+<i>"Life is ours to be spent, not to be saved. "</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
