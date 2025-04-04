@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creativity is intelligence having fun."</i>
+<i>"Never confuse a single defeat with a final defeat."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
