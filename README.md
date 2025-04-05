@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Public opinion is the worst of all opinions."</i>
+<i>"When you are tough on yourself, life is going to be infinitely easier on you.  "</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
