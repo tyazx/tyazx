@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Chase your passion, not your pension. "</i>
+<i>"Extraordinary results happen only when you give the best you have to become the best you can be at your most important work."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
