@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life belongs to the living, and he who lives must be prepared for changes."</i>
+<i>"Public opinion is the worst of all opinions."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
