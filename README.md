@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winners are not people who never fail, but people who never quit."</i>
+<i>"Success is getting what you want, happiness is wanting what you get."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- W.P. Kinsella</b>
 </blockquote>
 </p>
 
