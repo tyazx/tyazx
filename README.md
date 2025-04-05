@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quality of your life is the quality of your relationships."</i>
+<i>"Chase your passion, not your pension. "</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
