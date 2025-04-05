@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are tough on yourself, life is going to be infinitely easier on you.  "</i>
+<i>"The quality of your life is the quality of your relationships."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
