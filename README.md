@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perplexity is the beginning of knowledge."</i>
+<i>"We love the things we love for what they are."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
