@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe you can and you will be halfway there."</i>
+<i>"Talk to someone about themselves and they'll listen for hours."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
