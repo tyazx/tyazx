@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Talk to someone about themselves and they'll listen for hours."</i>
+<i>"If you've never eaten while crying you don t know what life tastes like."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
