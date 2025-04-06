@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A leader is one who knows the way, goes the way, and shows the way."</i>
+<i>"Perplexity is the beginning of knowledge."</i>
 <br>
-<b>- Unknown</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
