@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Abundance of knowledge does not teach men to be wise."</i>
+<i>"In order to be irreplaceable one must always be different."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
