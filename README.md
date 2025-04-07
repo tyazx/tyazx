@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If fear is too strong, the genius is suppressed."</i>
+<i>"Start the day with love, spend the day with love, fill the day with love and end the day with love."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
