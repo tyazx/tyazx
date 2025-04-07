@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is often achieved by those who don't know that failure is inevitable."</i>
+<i>"I begin with an idea and then it becomes something else."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
