@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Write to help yourself, publish to help others."</i>
+<i>"If fear is too strong, the genius is suppressed."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
