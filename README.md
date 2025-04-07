@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I begin with an idea and then it becomes something else."</i>
+<i>"Write to help yourself, publish to help others."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
