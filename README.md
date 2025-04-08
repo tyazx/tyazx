@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The person who is his own master cannot tolerate another boss. "</i>
+<i>"Just living is not enough... one must have sunshine, freedom, and a little flower. "</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
