@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In youth we run into difficulties. In old age difficulties run into us. "</i>
+<i>"For the things we have to learn before we can do them, we learn by doing them."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
