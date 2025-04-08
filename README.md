@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can avoid reality, but you cannot avoid the consequences of avoiding reality."</i>
+<i>"To achieve, you need thought. You have to know what you are doing and that's real power."</i>
 <br>
 <b>- Ayn Rand</b>
 </blockquote>
