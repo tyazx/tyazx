@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just living is not enough... one must have sunshine, freedom, and a little flower. "</i>
+<i>"You can avoid reality, but you cannot avoid the consequences of avoiding reality."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
