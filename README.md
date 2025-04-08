@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I know of only one duty, and that is to love."</i>
+<i>"All great truths begin as blasphemies."</i>
 <br>
 <b>- George Bernard Shaw</b>
 </blockquote>
