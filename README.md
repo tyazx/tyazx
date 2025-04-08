@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order to be irreplaceable one must always be different."</i>
+<i>"I know of only one duty, and that is to love."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
