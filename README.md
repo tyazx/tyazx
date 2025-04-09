@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be yourself; everyone else is already taken "</i>
+<i>"You are free, and that is why you are lost."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
