@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy."</i>
+<i>"Disobedience is the true foundation of liberty. The obedient must be slaves."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
