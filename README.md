@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Disobedience is the true foundation of liberty. The obedient must be slaves."</i>
+<i>"Be yourself; everyone else is already taken "</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
