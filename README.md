@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A path is made by walking on it."</i>
+<i>"Receive without pride, let go without attachment."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
