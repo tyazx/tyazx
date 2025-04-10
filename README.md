@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more something scares you, the more you should do it."</i>
+<i>"Conscience is a man's compass. "</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
