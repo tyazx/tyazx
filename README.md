@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't go forward and backwards at the same time."</i>
+<i>"It's not how much money you make, it's how much money you keep."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
