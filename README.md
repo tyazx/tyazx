@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Any fool can turn a blind eye but who knows what the ostrich sees in the sand."</i>
+<i>"The quality of your life is the quality of your relationships."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
