@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Find something you love and do it better than everyone else."</i>
+<i>"A path is made by walking on it."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
