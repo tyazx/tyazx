@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who knows, does not speak. He who speaks, does not know."</i>
+<i>"The more something scares you, the more you should do it."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
