@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Doing the best at this moment puts you in the best place for the next moment."</i>
+<i>"There is no way to happiness - happiness is the way."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
