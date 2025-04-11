@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pleasure can be supported by an illusion; but happiness rests upon truth. "</i>
+<i>"Doing the best at this moment puts you in the best place for the next moment."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
