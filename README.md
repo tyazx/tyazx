@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Troubles are often the tools by which God fashions us for better things."</i>
+<i>"There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- G.I. Gurdjieff</b>
 </blockquote>
 </p>
 
