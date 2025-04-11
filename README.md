@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To some degree, you control your life by controlling your time."</i>
+<i>"I have never let my schooling interfere with my education."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
