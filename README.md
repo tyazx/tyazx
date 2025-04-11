@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have never let my schooling interfere with my education."</i>
+<i>"Against the assault of laughter nothing can stand."</i>
 <br>
 <b>- Mark Twain</b>
 </blockquote>
