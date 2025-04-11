@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One always begins to forgive a place as soon as it's left behind."</i>
+<i>"The person who cannot control his words shows that he cannot control himself."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
