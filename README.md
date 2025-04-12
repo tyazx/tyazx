@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time goes from present to past."</i>
+<i>"Relax. Nothing is under control."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Adi Da Samraj</b>
 </blockquote>
 </p>
 
