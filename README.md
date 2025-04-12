@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The significance of life is living."</i>
+<i>"Remember the entrance to the sanctuary is inside you."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
