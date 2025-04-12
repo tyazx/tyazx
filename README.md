@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is much more successfully looked at from a single window."</i>
+<i>"Life moves on and so should we."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
