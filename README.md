@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The goal is not to be perfect by the end, the goal is to be better today."</i>
+<i>"The important thing is not what one is born with but what use one makes of that equipment."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
