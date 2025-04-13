@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!"</i>
+<i>"Either you choose to stay in the shallow end of the pool or you go out into the ocean."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
