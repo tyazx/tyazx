@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stop comparing yourself to others and focus on your own improvement."</i>
+<i>"Kind words can be short and easy to speak, but their echoes are truly endless."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
