@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes you have to lose all you have to find out who you truly are."</i>
+<i>"You have the ability, now apply yourself."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Benjamin Mays</b>
 </blockquote>
 </p>
 
