@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything."</i>
+<i>"You drown not by falling into a river, but by staying submerged in it."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
