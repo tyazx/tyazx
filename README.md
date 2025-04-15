@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves."</i>
+<i>"Better to die fighting for freedom than be a prisoner all the days of your life."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
