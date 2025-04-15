@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Patience is bitter, but its fruit is sweet."</i>
+<i>"Nothing endures but change."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
