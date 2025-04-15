@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing your own darkness is the best method for dealing with the darknesses of other people."</i>
+<i>"You cannot change your destination overnight but you can change your direction overnight."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
