@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime."</i>
+<i>"Happiness is the absence of the striving for happiness."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
