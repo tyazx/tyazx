@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The older you get, the more you understand how your conscience works."</i>
+<i>"There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
