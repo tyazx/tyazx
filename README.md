@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot change your destination overnight but you can change your direction overnight."</i>
+<i>"The truth is rarely pure and never simple. "</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
