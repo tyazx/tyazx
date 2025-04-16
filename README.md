@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who fails to plan, plans to fail."</i>
+<i>"Care about what other people think and you will always be their prisoner."</i>
 <br>
-<b>- Unknown</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
