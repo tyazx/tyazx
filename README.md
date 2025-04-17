@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment."</i>
+<i>"Many a man has failed because he had his wishbone where his backbone should have been."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
