@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have to live life with a sense of urgency so not a minute is wasted."</i>
+<i>"We meet ourselves time and again in a thousand disguises on the path of life."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
