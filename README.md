@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Character is destiny."</i>
+<i>"First learn the meaning of what you say, and then speak."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
