@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like underwear, should be changed twice a day.  "</i>
+<i>"Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
