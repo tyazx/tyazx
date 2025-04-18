@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man is more cheated than the selfish man."</i>
+<i>"A day without laughter is a day wasted."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
