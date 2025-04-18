@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A day without laughter is a day wasted."</i>
+<i>"Wealth is the product of man's capacity to think."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
