@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace."</i>
+<i>"Man must use what he has, not hope for what is not."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- G.I. Gurdjieff</b>
 </blockquote>
 </p>
 
