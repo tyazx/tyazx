@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man must use what he has, not hope for what is not."</i>
+<i>"Life is like underwear, should be changed twice a day.  "</i>
 <br>
-<b>- G.I. Gurdjieff</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
