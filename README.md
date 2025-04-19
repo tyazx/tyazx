@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything has beauty but not everyone sees it."</i>
+<i>"Learning is a gift, even when pain is your teacher."</i>
 <br>
-<b>- Confucius</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
