@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You win more from losing than winning."</i>
+<i>"Everything has beauty but not everyone sees it."</i>
 <br>
-<b>- Morgan Wootten</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
