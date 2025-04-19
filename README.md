@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Old age is like everything else. To make a success of it, you've got to start young."</i>
+<i>"Failure is the highway to success."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
