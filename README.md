@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learning is a gift, even when pain is your teacher."</i>
+<i>"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
