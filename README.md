@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't concern yourself with the money. Be of service. Build. Work. Dream. Create."</i>
+<i>"It is ignorance that causes most mistakes."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
