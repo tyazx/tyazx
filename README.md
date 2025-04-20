@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is stumbling from failure to failure with no loss of enthusiasm."</i>
+<i>"If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
