@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you done it, it ain't bragging."</i>
+<i>"I never said it would be easy, I only said it would be worth it."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
