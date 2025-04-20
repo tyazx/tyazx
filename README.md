@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wise man reads both books and life itself."</i>
+<i>"Don't concern yourself with the money. Be of service. Build. Work. Dream. Create."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
