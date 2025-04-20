@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere."</i>
+<i>"The wiser you get, the less you care to look like a fool."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
