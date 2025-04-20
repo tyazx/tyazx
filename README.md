@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wiser you get, the less you care to look like a fool."</i>
+<i>"Unless you're ashamed of yourself now and then, you're not honest."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
