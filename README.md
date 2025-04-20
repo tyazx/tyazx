@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you give, the more comes back to you."</i>
+<i>"The wise man reads both books and life itself."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
