@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unless you're ashamed of yourself now and then, you're not honest."</i>
+<i>"For changes to be of any true value, they've got to be lasting and consistent."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
