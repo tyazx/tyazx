@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The attempt to escape from pain, is what creates more pain."</i>
+<i>"The older you get, the more you understand how your conscience works."</i>
 <br>
-<b>- Gabor Mate</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
