@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make each day your masterpiece."</i>
+<i>"Presents are made for the pleasure of who gives them, not the merits of who receives them."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
