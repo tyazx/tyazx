@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The source of a true smile is an awakened mind."</i>
+<i>"Success is a poor teacher."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
