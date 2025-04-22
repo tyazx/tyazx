@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We will outstretch the hand if you unclench your fist."</i>
+<i>"What is a friend? A single soul dwelling in two bodies."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
