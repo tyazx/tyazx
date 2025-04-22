@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right."</i>
+<i>"We will outstretch the hand if you unclench your fist."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
