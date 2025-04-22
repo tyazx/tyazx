@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When at last you are come to the ocean of happiness, do not go back thirsty."</i>
+<i>"He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed. "</i>
 <br>
-<b>- Kabir</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
