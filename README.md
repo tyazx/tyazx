@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Attitude drives actions. Actions drive results. Results drive lifestyles."</i>
+<i>"Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
