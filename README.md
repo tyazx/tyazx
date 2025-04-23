@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words used to attract the dull of wit are not to be relied on."</i>
+<i>"Who you are is defined by what you're willing to struggle for."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
