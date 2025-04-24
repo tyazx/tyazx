@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams are for dreamers. Goals are for achievers."</i>
+<i>"The greatest miracle is to be alive."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
