@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Continuous effort - not strength or intelligence - is the key to unlocking our potential."</i>
+<i>"Dreams are for dreamers. Goals are for achievers."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
