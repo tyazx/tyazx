@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Turn the pain into power."</i>
+<i>"Don't hate the player. Change the game."</i>
 <br>
-<b>- Unknown</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
