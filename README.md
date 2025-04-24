@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't hate the player. Change the game."</i>
+<i>"Tis not too late to seek a newer world."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
