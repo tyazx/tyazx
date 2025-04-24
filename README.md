@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't shortchange yourself when it comes to investing in your own better future."</i>
+<i>"Continuous effort - not strength or intelligence - is the key to unlocking our potential."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
