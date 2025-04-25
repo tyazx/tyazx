@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Things turn out best for the people who make the best of the way things turn out."</i>
+<i>"The greatest gift that you can give to others is the gift of unconditional love and acceptance. "</i>
 <br>
-<b>- John Wooden</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
