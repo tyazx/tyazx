@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The desire for more positive experience is itself a negative experience."</i>
+<i>"You already have every characteristic necessary for success if you recognize, claim, develop and use them."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
