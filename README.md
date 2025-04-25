@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive."</i>
+<i>"The desire for more positive experience is itself a negative experience."</i>
 <br>
-<b>- Anne Wilson Schaef</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
