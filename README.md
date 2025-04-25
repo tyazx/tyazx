@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The person who cannot control his words shows that he cannot control himself."</i>
+<i>"Among the things you can give and still keep are your word, a smile, and a grateful heart."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
