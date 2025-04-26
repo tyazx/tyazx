@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People who say it cannot be done should not interrupt those who are doing it."</i>
+<i>"Action may not always bring happiness, but there is no happiness without action."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
