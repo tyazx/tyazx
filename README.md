@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Action may not always bring happiness, but there is no happiness without action."</i>
+<i>"The measure of who we are is what we do with what we have."</i>
 <br>
-<b>- William James</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
