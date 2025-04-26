@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the expression of one's values."</i>
+<i>"Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
