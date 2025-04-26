@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The sweetest pleasure arises from difficulties overcome."</i>
+<i>"People who say it cannot be done should not interrupt those who are doing it."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
