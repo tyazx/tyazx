@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes you have to lose all you have to find out who you truly are."</i>
+<i>"A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise. "</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
