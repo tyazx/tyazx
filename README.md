@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You will succeed because most people are lazy."</i>
+<i>"Fear does not have any special power unless you empower it by submitting to it."</i>
 <br>
-<b>- Shahir Zag</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
