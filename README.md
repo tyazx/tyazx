@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wealth consists not in having great possessions, but in having few wants."</i>
+<i>"You use a glass mirror to see your face; you use works of art to see your soul."</i>
 <br>
-<b>- Epictetus</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
