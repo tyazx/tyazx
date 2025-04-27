@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many roads lead to the path, but basically there are only two: reason and practice. "</i>
+<i>"You have to accept whatever comes, and the only important thing is that you meet it with the best you have to give."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
