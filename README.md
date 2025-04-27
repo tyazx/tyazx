@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace if possible, truth at all costs."</i>
+<i>"Your world is a living expression of how you are using and have used your mind."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
