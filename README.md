@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear does not have any special power unless you empower it by submitting to it."</i>
+<i>"Peace if possible, truth at all costs."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
