@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a journey, not a destination."</i>
+<i>"Man invented language to satisfy his deep need to complain."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
