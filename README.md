@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Care about what other people think and you will always be their prisoner."</i>
+<i>"Emancipate yourself from mental slavery, none but ourselves can free our mind."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
