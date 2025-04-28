@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do."</i>
+<i>"Reality is nothing but a collective hunch."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
