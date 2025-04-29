@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best mind-altering drug is the truth."</i>
+<i>"Not how long, but how well you have lived is the main thing."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
