@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only way to make sense out of change is to plunge into it, move with it, and join the dance."</i>
+<i>"The less you respond to negative people, the more positive your life will become."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
