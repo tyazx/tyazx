@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We may not be able to stop evil in the world, but how we treat one another is entirely up to us."</i>
+<i>"The only way to make sense out of change is to plunge into it, move with it, and join the dance."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
