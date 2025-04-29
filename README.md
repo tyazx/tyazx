@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not uncommon for people to spend their whole life waiting to start living."</i>
+<i>"Don't think money does everything or you are going to end up doing everything for money."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
