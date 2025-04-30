@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is not about possession. Love is about appreciation."</i>
+<i>"I have no methods; all I do is accept people as they are."</i>
 <br>
-<b>- Osho</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
