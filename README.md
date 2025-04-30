@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have no methods; all I do is accept people as they are."</i>
+<i>"Keep your dreams, you never know when you might need them."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
