@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You may think I'm small, but I have a universe inside my mind."</i>
+<i>"Don't stop when you're tired. Stop when you're done."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Marilyn Monroe</b>
 </blockquote>
 </p>
 
