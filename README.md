@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're afraid - don't do it, - if you're doing it - don't be afraid! "</i>
+<i>"Failure means you've now learned another valuable lesson that pushes you one step closer to success."</i>
 <br>
-<b>- Genghis Khan</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
