@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ego wants to go fast. The soul needs to go slow."</i>
+<i>"Failure is simply the opportunity to begin again, this time more intelligently."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
