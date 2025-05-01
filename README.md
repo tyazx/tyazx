@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is easy to discover what another has discovered before."</i>
+<i>"Opportunity comes when you continually push forward."</i>
 <br>
-<b>- Christopher Columbus</b>
+<b>- Sonia Ricotti</b>
 </blockquote>
 </p>
 
