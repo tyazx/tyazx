@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're not failing every now and again, it's a sign you're not doing anything very innovative."</i>
+<i>"Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Conrad Hilton</b>
 </blockquote>
 </p>
 
