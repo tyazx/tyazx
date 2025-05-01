@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A dream you dream alone is only a dream. A dream you dream together is reality."</i>
+<i>"If anything is worth doing, do it with all your heart."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
