@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The trouble with the rat race is that even if you win, you're still a rat."</i>
+<i>"To be great is to be misunderstood."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
