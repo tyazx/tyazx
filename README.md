@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a long lesson in humility. "</i>
+<i>"Invisible things are the only realities."</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
