@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go confidently in the direction of your dreams! Live the life you've imagined."</i>
+<i>"The trouble with the rat race is that even if you win, you're still a rat."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
