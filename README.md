@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We turn not older with years but newer every day."</i>
+<i>"The difference between impossible and possible is a willing heart."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
