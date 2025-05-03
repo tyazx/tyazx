@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no limitations except those we create for ourselves."</i>
+<i>"Faults are yours to fix, not to curse."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
