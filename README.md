@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Faults are yours to fix, not to curse."</i>
+<i>"We love the things we love for what they are."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
