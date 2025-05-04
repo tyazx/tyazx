@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Find something you love and do it better than everyone else."</i>
+<i>"Living life in style also means living a life of balance."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
