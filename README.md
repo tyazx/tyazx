@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You already have every characteristic necessary for success if you recognize, claim, develop and use them."</i>
+<i>"It's not how much money you make, it's how much money you keep."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
