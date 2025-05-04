@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Try not to become a man of success, but rather try to become a man of value."</i>
+<i>"Life has no limitations except the ones you make."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
