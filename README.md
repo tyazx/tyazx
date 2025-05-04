@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The healthiest response to life is joy."</i>
+<i>"Find something you love and do it better than everyone else."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
