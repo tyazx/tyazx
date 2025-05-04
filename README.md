@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest adventure is what lies ahead."</i>
+<i>"Try not to become a man of success, but rather try to become a man of value."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
