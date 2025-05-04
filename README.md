@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why compare yourself with others? No one in the entire world can do a better job of being you than you."</i>
+<i>"Make peace within, and there will be no one who can overcome you. And no one you will wish to overcome."</i>
 <br>
-<b>- Unknown</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
