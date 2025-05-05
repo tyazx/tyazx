@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quality means doing it right when no one is looking."</i>
+<i>"Life is trying things to see if they work."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
