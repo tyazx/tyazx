@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wrong does not cease to be wrong because the majority share in it."</i>
+<i>"Do good, live in the most positive and joyful way possible every day."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
