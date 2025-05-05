@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quality is not an act, it is a habit."</i>
+<i>"Peace begins with a smile."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
