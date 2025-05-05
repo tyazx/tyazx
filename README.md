@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose."</i>
+<i>"Often in the real world, it's not the smart that get ahead, but the bold."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
