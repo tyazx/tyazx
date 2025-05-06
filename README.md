@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only place where success comes before work is in the dictionary."</i>
+<i>"You may think I'm small, but I have a universe inside my mind."</i>
 <br>
-<b>- Vidal Sassoon</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
