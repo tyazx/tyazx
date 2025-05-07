@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There's no coming to consciousness without pain"</i>
+<i>"Death is not sad; the sad thing is that most people don't really live at all."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
