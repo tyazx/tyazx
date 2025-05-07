@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Death is not sad; the sad thing is that most people don't really live at all."</i>
+<i>"If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. "</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Nikola Tesla</b>
 </blockquote>
 </p>
 
