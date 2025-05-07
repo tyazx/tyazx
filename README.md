@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I live by letting things happen."</i>
+<i>"Abundance of knowledge does not teach men to be wise."</i>
 <br>
-<b>- Dogen</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
