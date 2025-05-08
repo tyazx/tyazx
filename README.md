@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quieter you become, the more you are able to hear."</i>
+<i>"While some of us act without thinking, too many of us think without acting."</i>
 <br>
-<b>- Rumi</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
