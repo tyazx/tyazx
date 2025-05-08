@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no secrets to success. It is the result of preparation, hard work, learning from failure."</i>
+<i>"Love your enemies, for they tell you your faults."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
