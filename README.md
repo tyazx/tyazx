@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only those who dare to fail greatly can ever achieve greatly."</i>
+<i>"Children are our greatest natural resource."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
