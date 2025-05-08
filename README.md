@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing."</i>
+<i>"This is the real secret of life - to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
