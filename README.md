@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love your enemies, for they tell you your faults."</i>
+<i>"Failure is an option, fear is not."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- James Cameron</b>
 </blockquote>
 </p>
 
