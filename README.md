@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. "</i>
+<i>"There are no secrets to success. It is the result of preparation, hard work, learning from failure."</i>
 <br>
-<b>- Jack London</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
