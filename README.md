@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"While some of us act without thinking, too many of us think without acting."</i>
+<i>"There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
