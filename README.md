@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man is affected not by events but by the view he takes of them.  "</i>
+<i>"Knowing your own darkness is the best method for dealing with the darknesses of other people."</i>
 <br>
-<b>- Seneca</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
