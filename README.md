@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"They say love is the best investment; the more you give, the more you get in return."</i>
+<i>"What lies behind us and what lies before us are tiny matters compared to what lies within us."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
