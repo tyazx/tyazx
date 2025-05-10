@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What one does is what counts. Not what one had the intention of doing."</i>
+<i>"Nothing can dim the light which shines from within."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
