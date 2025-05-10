@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing can dim the light which shines from within."</i>
+<i>"Whatever you decide to do, make sure it makes you happy."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
