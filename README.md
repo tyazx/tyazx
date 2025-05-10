@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Facts are the enemy of truth. "</i>
+<i>"Be yourself; everyone else is already taken."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
