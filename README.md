@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I do not exist to impress the world. I exist to live my life in a way that will make me happy."</i>
+<i>"Everyone must choose one of two pains: The pain of discipline or the pain of regret."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
