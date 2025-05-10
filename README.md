@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Greatness comes from living with purpose and passion."</i>
+<i>"What one does is what counts. Not what one had the intention of doing."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
