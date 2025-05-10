@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To love means loving the unlovable."</i>
+<i>"Look to the beauty of this day, miracles are all around you."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
