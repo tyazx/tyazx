@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is acceptable. Not trying is a whole different ball park."</i>
+<i>"Any game becomes important when you know and love the players."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- W.P. Kinsella</b>
 </blockquote>
 </p>
 
