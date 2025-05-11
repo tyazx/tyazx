@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world is open for play, everything and everybody is mockable in a wonderful way."</i>
+<i>"No man is happy who does not think himself so."</i>
 <br>
-<b>- Robin Williams</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
