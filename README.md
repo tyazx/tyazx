@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Find something you love and do it better than everyone else."</i>
+<i>"The world is open for play, everything and everybody is mockable in a wonderful way."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Robin Williams</b>
 </blockquote>
 </p>
 
