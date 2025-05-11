@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Any game becomes important when you know and love the players."</i>
+<i>"Show me a hero, and I'll write you a tragedy."</i>
 <br>
-<b>- W.P. Kinsella</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
