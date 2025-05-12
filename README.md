@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I succeeded by saying what everyone else is thinking."</i>
+<i>"You have as much laughter as you have faith."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
