@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not push the boundaries, you will never know where they are."</i>
+<i>"Truth is like the sun. You can shut it out for a time, but it ain't going away."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
