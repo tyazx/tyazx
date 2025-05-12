@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An investment in knowledge pays the best interest."</i>
+<i>"Only the educated are free."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
