@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life does not get better by chance, it gets better by change."</i>
+<i>"If you do not push the boundaries, you will never know where they are."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
