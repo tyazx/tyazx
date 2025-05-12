@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you're curious, you find lots of interesting things to do."</i>
+<i>"Failure is the highway to success."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
