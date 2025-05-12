@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is the highway to success."</i>
+<i>"An investment in knowledge pays the best interest."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
