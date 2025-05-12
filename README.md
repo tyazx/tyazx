@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The Art of Peace begins with you."</i>
+<i>"When you're curious, you find lots of interesting things to do."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
