@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never let your memories be greater than your dreams."</i>
+<i>"The pursuit of mastery bears gifts. "</i>
 <br>
-<b>- Doug Ivester</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
