@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pursuit of mastery bears gifts. "</i>
+<i>"When you judge another, you do not define them, you define yourself"</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
