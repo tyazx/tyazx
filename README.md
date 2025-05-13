@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What we dwell on is who we become."</i>
+<i>"When you change what you believe, you change what you do."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
