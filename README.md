@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power."</i>
+<i>"No man will make a great leader who wants to do it all himself or to get all the credit for doing it."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
