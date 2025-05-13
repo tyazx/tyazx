@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only the educated are free."</i>
+<i>"Never let your memories be greater than your dreams."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Doug Ivester</b>
 </blockquote>
 </p>
 
