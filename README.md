@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be kind whenever possible. It is always possible."</i>
+<i>"What we dwell on is who we become."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
