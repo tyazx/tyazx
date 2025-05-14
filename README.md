@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. "</i>
+<i>"The birth of the mind is the death of the senses."</i>
 <br>
-<b>- St. Jerome</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
