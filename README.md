@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The final mystery is oneself."</i>
+<i>"Remember the entrance to the sanctuary is inside you."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
