@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only I can change my life. No one can do it for me."</i>
+<i>"All animals except man know that the principal business of life is to enjoy it."</i>
 <br>
-<b>- Carol Burnett</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
