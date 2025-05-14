@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A minute's success pays the failure of years."</i>
+<i>"Words are the clothing of our thoughts."</i>
 <br>
-<b>- Robert Browning</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
