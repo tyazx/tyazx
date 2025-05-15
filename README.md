@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to learn late than never."</i>
+<i>"Wherever there is danger, there lurks opportunity; wherever there is opportunity, there lurks danger. The two are inseparable."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
