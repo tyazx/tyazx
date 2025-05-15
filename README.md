@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wherever there is danger, there lurks opportunity; wherever there is opportunity, there lurks danger. The two are inseparable."</i>
+<i>"Often we pass beside happiness without seeing it, without looking at it, or even if we have seen and looked at it, without recognizing it."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
