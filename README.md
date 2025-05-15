@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing important is learned; it is simply remembered."</i>
+<i>"Wherever you are, it's the place you need to be."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
