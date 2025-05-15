@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is contagious. So is lack of confidence."</i>
+<i>"Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
