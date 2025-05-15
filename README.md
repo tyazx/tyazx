@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good entrepreneurs don't fail because they stay at it."</i>
+<i>"Confidence is contagious. So is lack of confidence."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
