@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sadness is but a wall between two gardens."</i>
+<i>"We can choose to look at whatever we want.  We can look at what's wrong in our life or we can look at what's right."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Sonia Ricotti</b>
 </blockquote>
 </p>
 
