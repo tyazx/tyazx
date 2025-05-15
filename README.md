@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A different result requires doing something different."</i>
+<i>"Nothing important is learned; it is simply remembered."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
