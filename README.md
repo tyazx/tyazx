@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Absorb what is useful, discard what is useless and add what is specifically your own.  "</i>
+<i>"Genius, in truth, means little more than the faculty of perceiving in an unhabitual way."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
