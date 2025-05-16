@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freedom itself demands discomfort."</i>
+<i>"To accomplish big things, I am convinced you must first dream big dreams."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Conrad Hilton</b>
 </blockquote>
 </p>
 
