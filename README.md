@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is more important than knowledge."</i>
+<i>"There is no absolute success in the world, only constant progress."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
