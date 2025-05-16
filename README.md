@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no absolute success in the world, only constant progress."</i>
+<i>"Fools talk, cowards are silent, wise men listen."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
