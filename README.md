@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I didn't get there by wishing for it or hoping for it, but by working for it."</i>
+<i>"Absorb what is useful, discard what is useless and add what is specifically your own.  "</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
