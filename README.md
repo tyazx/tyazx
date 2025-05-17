@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many roads lead to the path, but basically there are only two: reason and practice. "</i>
+<i>"Words without actions are the assassins of idealism."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
