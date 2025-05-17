@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Projecting your mind into a successful situation is the most powerful means to achieve goals.  "</i>
+<i>"The best of us sometimes eat our words.  "</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
