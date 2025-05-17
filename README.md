@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best of us sometimes eat our words.  "</i>
+<i>"You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
