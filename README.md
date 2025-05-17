@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The educated differ from the uneducated as much as the living differ from the dead."</i>
+<i>"Successful people tend to become more successful because they are always thinking about their successes."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
