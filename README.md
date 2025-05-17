@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible."</i>
+<i>"Muddy water is best cleared by leaving it alone."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
