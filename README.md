@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is not the absence of problems, it's the ability to deal with them."</i>
+<i>"A Rolling Stone Gathers No Moss."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
