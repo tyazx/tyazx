@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is not a problem to be solved, but a reality to be experienced."</i>
+<i>"Happiness is not the absence of problems, it's the ability to deal with them."</i>
 <br>
-<b>- Soren Kierkegaard</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
