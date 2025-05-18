@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the expression of one's values."</i>
+<i>"When you have a dream, you've got to grab it and never let go."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
