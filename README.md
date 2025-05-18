@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A Rolling Stone Gathers No Moss."</i>
+<i>"The purpose of life is the expansion of happiness."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
