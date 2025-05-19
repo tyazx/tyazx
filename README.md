@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are shaped and fashioned by what we love."</i>
+<i>"Fear is a natural reaction to moving closer to the truth."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
