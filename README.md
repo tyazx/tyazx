@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take time like the river that never grows stale. Keep going and steady. No hurry, no rush."</i>
+<i>"Freedom from desire leads to inner peace."</i>
 <br>
-<b>- Rumi</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
