@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When a man is penalized for honesty he learns to lie."</i>
+<i>"Take time like the river that never grows stale. Keep going and steady. No hurry, no rush."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
