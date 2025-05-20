@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never say never, because limits, like fears, are often just an illusion."</i>
+<i>"You are not the drop in the ocean, but the ocean in the drop."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
