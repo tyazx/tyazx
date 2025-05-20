@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you know what you want, and you want it bad enough, you will find a way to get it."</i>
+<i>"You are not only responsible for what you say, but also for what you do not say. "</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
