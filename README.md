@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The number one cause of failure is the fear of failure."</i>
+<i>"Look to the beauty of this day, miracles are all around you."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
