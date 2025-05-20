@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man will make a great leader who wants to do it all himself or to get all the credit for doing it."</i>
+<i>"It's not how much money you make, it's how much money you keep."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
