@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In peace, sons bury their fathers. In war, fathers bury their sons. "</i>
+<i>"Begin now to be what you will be hereafter."</i>
 <br>
-<b>- Herodotus</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
