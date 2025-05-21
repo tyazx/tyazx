@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are not only responsible for what you say, but also for what you do not say. "</i>
+<i>"A tiny change today brings a dramatically different tomorrow."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
