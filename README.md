@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't have anything worthwhile without difficulties."</i>
+<i>"Everything is created twice, first in the mind and then in reality."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
