@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything is created twice, first in the mind and then in reality."</i>
+<i>"Winning isn't always championships."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
