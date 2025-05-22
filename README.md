@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is often achieved by those who don't know that failure is inevitable."</i>
+<i>"You can't have anything worthwhile without difficulties."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
