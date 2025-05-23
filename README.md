@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must either modify your dreams or magnify your skills."</i>
+<i>"Change will not come if we wait for some other person, or if we wait for some other time."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
