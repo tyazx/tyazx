@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found."</i>
+<i>"The two most important days in your life are the day you are born and the day you find out why."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
