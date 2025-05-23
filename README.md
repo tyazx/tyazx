@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For your life to be great, your faith must be bigger than your fear."</i>
+<i>"Life is trying things to see if they work."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
