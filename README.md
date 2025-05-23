@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The two most important days in your life are the day you are born and the day you find out why."</i>
+<i>"Confidence breeds beauty.  "</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
