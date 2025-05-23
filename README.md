@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change will not come if we wait for some other person, or if we wait for some other time."</i>
+<i>"Successful people ask better questions, and as a result, they get better answers."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
