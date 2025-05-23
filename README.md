@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence breeds beauty.  "</i>
+<i>"No duty is more urgent than that of returning thanks."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
