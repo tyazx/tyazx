@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What are we doing here, that is the question."</i>
+<i>"Better a diamond with a flaw than a pebble without one."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
