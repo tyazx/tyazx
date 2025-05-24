@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people ask better questions, and as a result, they get better answers."</i>
+<i>"Don't let what you cannot do interfere with what you can do."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
