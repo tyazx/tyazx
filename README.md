@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're afraid to die, you're afraid to live. You can't have one without the other."</i>
+<i>"Walk with those seeking truth... RUN FROM THOSE WHO THINK THEY'VE FOUND IT."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
