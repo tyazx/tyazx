@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The past has no power over the present moment. "</i>
+<i>"What loneliness is more lonely than distrust?"</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
