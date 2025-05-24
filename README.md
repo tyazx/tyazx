@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To avoid criticism, do nothing, say nothing, and be nothing."</i>
+<i>"What are we doing here, that is the question."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
