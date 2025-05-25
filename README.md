@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who fails to plan, plans to fail."</i>
+<i>"If you try, you might get exactly what you want. If you don't, you don't."</i>
 <br>
 <b>- Unknown</b>
 </blockquote>
