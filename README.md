@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A dream you dream alone is only a dream. A dream you dream together is reality."</i>
+<i>"New beginnings are disguised as painful endings."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
