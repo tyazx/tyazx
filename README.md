@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled."</i>
+<i>"Don't try to be young. Just open your mind. Stay interested in stuff."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
