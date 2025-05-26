@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A dream doesn't become reality through magic it takes sweat, determination and hard work."</i>
+<i>"Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
