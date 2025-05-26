@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The outer conditions of a person's life will always be found to reflect their inner beliefs."</i>
+<i>"A dream doesn't become reality through magic it takes sweat, determination and hard work."</i>
 <br>
-<b>- James Allen</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
