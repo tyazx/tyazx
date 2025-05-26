@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat."</i>
+<i>"Don't worry about being successful, but work toward being significant and the success will naturally follow."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
