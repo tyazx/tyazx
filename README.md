@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Looking after my health today gives me a better hope for tomorrow. "</i>
+<i>"When you rise in the morning, form a resolution to make the day a happy one for a fellow creature."</i>
 <br>
-<b>- Anne Wilson Schaef</b>
+<b>- Sydney Smith</b>
 </blockquote>
 </p>
 
