@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.  "</i>
+<i>"Looking after my health today gives me a better hope for tomorrow. "</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Anne Wilson Schaef</b>
 </blockquote>
 </p>
 
