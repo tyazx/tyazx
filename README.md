@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace."</i>
+<i>"Plants grow weak without wind."</i>
 <br>
-<b>- Dogen</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
