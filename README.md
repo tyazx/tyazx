@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We live only now. Everything else is either passed or is unknown."</i>
+<i>"Do not go where the path may lead, go instead where there is no path and leave a trail."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
