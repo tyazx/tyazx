@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The prettiest eyes have cried the most."</i>
+<i>"Nothing external to you has any power over you."</i>
 <br>
-<b>- Unknown</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
