@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The meaning of life is that it stops."</i>
+<i>"Life is a long lesson in humility. "</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
