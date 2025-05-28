@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To do great work one must be very idle as well as very industrious."</i>
+<i>"If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
