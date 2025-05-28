@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ability is a poor man's wealth."</i>
+<i>"Always do what is right. It will gratify half of mankind and astound the other."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
