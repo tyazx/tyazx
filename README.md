@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Care about what other people think and you will always be their prisoner."</i>
+<i>"Ability is a poor man's wealth."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
