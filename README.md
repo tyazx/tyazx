@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way out is in."</i>
+<i>"Attitude, not aptitude, determines altitude.  "</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
