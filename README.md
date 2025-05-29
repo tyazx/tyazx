@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love never keeps a man from pursuing his destiny."</i>
+<i>"It is in your moments of decision that your destiny is shaped."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
