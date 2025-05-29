@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a quality of the soul...not a function of one's material circumstances."</i>
+<i>"For every minute you are angry you lose sixty seconds of happiness."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
