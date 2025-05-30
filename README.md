@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you've got nothing, you've got nothing to lose."</i>
+<i>"It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!"</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
