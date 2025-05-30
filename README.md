@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good character is the best tombstone. Carve your name on hearts, not on marble."</i>
+<i>"One must be deeply aware of the impermanence of the world."</i>
 <br>
-<b>- Charles Spurgeon</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
