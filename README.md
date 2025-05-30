@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no differences but differences of degree between different degrees of difference and no difference."</i>
+<i>"Heart is what separates the good from the great."</i>
 <br>
-<b>- William James</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
