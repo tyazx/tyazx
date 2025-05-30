@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Heart is what separates the good from the great."</i>
+<i>"Life has no limitations except the ones you make."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
