@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Aim for the moon. If you miss, you may hit a star."</i>
+<i>"The fewer the words, the better the prayer."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
