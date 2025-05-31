@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly."</i>
+<i>"The happiest people in the world are those who feel absolutely terrific about themselves."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
