@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window."</i>
+<i>"Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
