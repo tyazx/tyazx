@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Realistic people do not accomplish extraordinary things."</i>
+<i>"The dreamers are the saviors of the worlds."</i>
 <br>
-<b>- John Eliot</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
