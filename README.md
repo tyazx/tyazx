@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only by attracting the best people will you accomplish great deeds."</i>
+<i>"It isn't that they can't see the solution. It is that they can't see the problem."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
