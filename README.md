@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be fully alive, fully human, and completely awake is to be continually thrown out of the nest."</i>
+<i>"Memory is the scribe of the soul."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
