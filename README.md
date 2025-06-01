@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fools resist. The wise embrace."</i>
+<i>"The golden opportunity you are seeking is within yourself."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
