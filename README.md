@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to light a single candle than to curse the darkness."</i>
+<i>"Only by attracting the best people will you accomplish great deeds."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
