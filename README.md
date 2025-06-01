@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Less is more."</i>
+<i>"Fools resist. The wise embrace."</i>
 <br>
-<b>- Robert Browning</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
