@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not as important how we start, but how we finish."</i>
+<i>"I know of only one duty, and that is to love."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
