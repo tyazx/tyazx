@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Longevity is a fleeting moment that lasts forever."</i>
+<i>"All life is a manifestation of the spirit, the manifestation of love."</i>
 <br>
-<b>- Vidal Sassoon</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
