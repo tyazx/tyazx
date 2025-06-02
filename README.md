@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who are possessed by nothing possess everything."</i>
+<i>"It is not as important how we start, but how we finish."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
