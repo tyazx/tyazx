@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Victims recite problems, leaders provide solutions."</i>
+<i>"A Penny Saved is a Penny Earned"</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
