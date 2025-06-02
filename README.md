@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep away from people who try to belittle your ambitions."</i>
+<i>"Most people fail in life not because they aim too high and miss, but because they aim too low and hit."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
