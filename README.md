@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I know of only one duty, and that is to love."</i>
+<i>"Victims recite problems, leaders provide solutions."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
