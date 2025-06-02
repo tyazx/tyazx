@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Laziness may appear attractive, but work gives satisfaction."</i>
+<i>"Those who are possessed by nothing possess everything."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
