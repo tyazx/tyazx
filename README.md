@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A Penny Saved is a Penny Earned"</i>
+<i>"Our stories may be singular, but our destination is shared."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
