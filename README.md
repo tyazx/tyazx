@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no value in anything until it is finished. "</i>
+<i>"The score never interested me, only the game."</i>
 <br>
-<b>- Genghis Khan</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
