@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Patience is not the ability to wait but the ability to keep a good attitude while waiting."</i>
+<i>"The greatest value of a picture is when it forces us to notice what we never expected to see."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- John Tukey</b>
 </blockquote>
 </p>
 
