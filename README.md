@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Exceptional thinkers ignore their critics and go about their business making history."</i>
+<i>"What one does is what counts. Not what one had the intention of doing."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
