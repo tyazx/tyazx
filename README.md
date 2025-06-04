@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great ones are willing to get burned time and again as they sharpen their swords in the fire."</i>
+<i>"Death is not sad; the sad thing is that most people don't really live at all."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
