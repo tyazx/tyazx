@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We need a backbone, not a wishbone."</i>
+<i>"Given the choice between the experience of pain and nothing, I would choose pain."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
