@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To plant a garden is to believe in tomorrow.  "</i>
+<i>"There is only the one reality, neither to be realized nor attained."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
