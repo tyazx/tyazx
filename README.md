@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust, but verify."</i>
+<i>"Success is a poor teacher."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
