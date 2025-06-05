@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each path to knowledge involves different rules and these rules are not interchangeable."</i>
+<i>"We need a backbone, not a wishbone."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
