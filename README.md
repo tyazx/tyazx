@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is a poor teacher."</i>
+<i>"All that a man achieves and all that he fails to achieve is the direct result of his own thoughts."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
