@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In three words I can sum up everything I've learned about life: it goes on."</i>
+<i>"Life reflects your own thoughts back to you."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
