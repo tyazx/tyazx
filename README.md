@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Would you rather live your life according to the approval of others or aligned with your truth and your dreams?"</i>
+<i>"In order to be walked over, you have to be lying down."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
