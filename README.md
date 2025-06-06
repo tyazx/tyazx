@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Educating the mind without educating the heart is no education at all."</i>
+<i>"The pen is the tongue of the mind. "</i>
 <br>
-<b>- Aristotle</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
