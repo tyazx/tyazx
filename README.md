@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time."</i>
+<i>"In three words I can sum up everything I've learned about life: it goes on."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
