@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quality is not an act, it is a habit."</i>
+<i>"Remember, today is the tomorrow you worried about yesterday."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
