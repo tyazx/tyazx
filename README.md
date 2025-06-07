@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Judge your success by what you had to give up in order to get it."</i>
+<i>"If I cannot do great things. I can do small things in a great way."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
