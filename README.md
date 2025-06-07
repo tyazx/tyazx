@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sad thing is, you can still love someone and be wrong for them."</i>
+<i>"Don't look for meaning in the words. Listen to the silences."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
