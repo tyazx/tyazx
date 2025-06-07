@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't program yourself, life will program you."</i>
+<i>"Sad thing is, you can still love someone and be wrong for them."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
