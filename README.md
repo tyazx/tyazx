@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The great use of life is to spend it for something that will outlast it."</i>
+<i>"I cannot make my days longer so I strive to make them better."</i>
 <br>
-<b>- William James</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
