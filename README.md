@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is the price that life exacts for granting peace."</i>
+<i>"The great use of life is to spend it for something that will outlast it."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
