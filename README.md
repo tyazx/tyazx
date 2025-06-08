@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If what you're doing is not your passion, you have nothing to lose."</i>
+<i>"My sun sets to rise again."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Robert Browning</b>
 </blockquote>
 </p>
 
