@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life should be touched, not strangled.  "</i>
+<i>"A life without a cause is a life without effect."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
