@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Passion is born deaf and dumb."</i>
+<i>"Goodness is the only investment that never fails."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
