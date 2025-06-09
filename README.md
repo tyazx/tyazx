@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A life without a cause is a life without effect."</i>
+<i>"We shape clay into a pot, but it is the emptiness inside that holds whatever we want."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
