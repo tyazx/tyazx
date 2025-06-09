@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are willing to believe anything other than the truth."</i>
+<i>"Your home is where your thoughts find peace."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
