@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creativity is intelligence having fun."</i>
+<i>"Life should be touched, not strangled.  "</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
