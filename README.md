@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to predict the future is to create it."</i>
+<i>"Time is a game played beautifully by children."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
