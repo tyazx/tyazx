@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"That some achieve great success is proof to all that others can achieve it as well."</i>
+<i>"The key to success is to focus our conscious mind on things we desire not things we fear. "</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
