@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world is a puzzle; no need to make sense out of it."</i>
+<i>"The best way to predict the future is to create it."</i>
 <br>
-<b>- Socrates</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
