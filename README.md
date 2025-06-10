@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is in the darkness that one finds the light."</i>
+<i>"The only place success comes before work is in the dictionary."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
