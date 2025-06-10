@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The Art of Peace begins with you."</i>
+<i>"The world is a puzzle; no need to make sense out of it."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
