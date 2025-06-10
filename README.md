@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time is a game played beautifully by children."</i>
+<i>"Wherever you are, and whatever you do, be in love."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
