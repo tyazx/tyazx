@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A fool sees himself as another, but a wise man sees others as himself."</i>
+<i>"The Art of Peace begins with you."</i>
 <br>
-<b>- Dogen</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
