@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only place success comes before work is in the dictionary."</i>
+<i>"If you try, you might get exactly what you want. If you don't, you don't."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
