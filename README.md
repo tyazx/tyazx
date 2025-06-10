@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wherever you are, and whatever you do, be in love."</i>
+<i>"Truth is such a rare thing, it is delighted to tell it."</i>
 <br>
-<b>- Rumi</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
