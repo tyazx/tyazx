@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never was anything great achieved without danger."</i>
+<i>"It is in the darkness that one finds the light."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
