@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change the changeable, accept the unchangeable, and remove yourself from the unacceptable. "</i>
+<i>"Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
