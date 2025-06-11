@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is about doing the right thing, not about doing everything right."</i>
+<i>"Any game becomes important when you know and love the players."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- W.P. Kinsella</b>
 </blockquote>
 </p>
 
