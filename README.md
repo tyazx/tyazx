@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you see a get rich quick scheme, that's someone else trying to get rich off of you."</i>
+<i>"You don't know who is important to you until you actually lose them."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
