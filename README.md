@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Bloom where you are planted!"</i>
+<i>"Attitude, not aptitude, determines altitude.  "</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
