@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"However difficult life may seem, there is always something you can do and succeed at."</i>
+<i>"What are we doing here, that is the question."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
