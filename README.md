@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't know who is important to you until you actually lose them."</i>
+<i>"When you know what you want, and want it bad enough, you will find a way to get it."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
