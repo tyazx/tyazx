@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The privilege of a lifetime is to become who you truly are."</i>
+<i>"There are no secrets to success. It is the result of preparation, hard work, and learning from failure."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
