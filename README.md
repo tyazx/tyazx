@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What are we doing here, that is the question."</i>
+<i>"Trust is built and maintained by many small actions over time."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
