@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no secrets to success. It is the result of preparation, hard work, and learning from failure."</i>
+<i>"If you see a get rich quick scheme, that's someone else trying to get rich off of you."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
