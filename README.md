@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why do you stay in prison when the door is so wide open?"</i>
+<i>"Truth is not something outside to be discovered, it is something inside to be realized."</i>
 <br>
-<b>- Rumi</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
