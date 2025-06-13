@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't wait for inspiration. You have to go after it with a club. "</i>
+<i>"You know you are on the road to success if you would do your job and not be paid for it."</i>
 <br>
-<b>- Jack London</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
