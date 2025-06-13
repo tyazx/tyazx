@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pen is the tongue of the mind. "</i>
+<i>"Tragedy is a tool for the living to gain wisdom, not a guide by which to live."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
