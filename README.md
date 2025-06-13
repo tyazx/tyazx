@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You know you are on the road to success if you would do your job and not be paid for it."</i>
+<i>"You give but little when you give of your possessions. It is when you give of yourself that you truly give."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
