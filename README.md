@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each day provides it's own gifts."</i>
+<i>"When I let go of what I am, I become what I might be."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
