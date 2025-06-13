@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts. "</i>
+<i>"Why do you stay in prison when the door is so wide open?"</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
