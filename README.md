@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only when one allows themself the right to die, do they then give yourself the permission to live."</i>
+<i>"I defeat my enemies when I make them my friends."</i>
 <br>
-<b>- C. Sean McGee</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
