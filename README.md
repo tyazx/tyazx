@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is not something outside to be discovered, it is something inside to be realized."</i>
+<i>"Life goes by fast. Enjoy it. Calm down. It's all funny."</i>
 <br>
-<b>- Osho</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
