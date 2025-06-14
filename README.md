@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better."</i>
+<i>"Only when one allows themself the right to die, do they then give yourself the permission to live."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- C. Sean McGee</b>
 </blockquote>
 </p>
 
