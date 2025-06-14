@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no excuse for not trying."</i>
+<i>"Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
