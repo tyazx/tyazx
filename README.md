@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Instead of worrying about what you cannot control, shift your energy to what you can create."</i>
+<i>"The majority of what you want will come from the minority of what you do."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
