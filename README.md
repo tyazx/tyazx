@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Public opinion is the worst of all opinions."</i>
+<i>"We run to win, not just to be in the race.  "</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
