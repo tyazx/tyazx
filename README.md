@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The important thing is not what one is born with but what use one makes of that equipment."</i>
+<i>"Life is about not knowing and then doing something anyway."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
