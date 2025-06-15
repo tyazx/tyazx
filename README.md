@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We run to win, not just to be in the race.  "</i>
+<i>"The most important thing in communication is to hear what isn't being said."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
