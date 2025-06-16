@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is about not knowing and then doing something anyway."</i>
+<i>"People think you're crazy if you talk about things they don't understand."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
