@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have lost friends, some by death...others by sheer inability to cross the street."</i>
+<i>"You are now, and you do become, what you think about."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
