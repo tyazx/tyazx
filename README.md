@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We tend to live up to our expectations."</i>
+<i>"Showing off is the fool's idea of glory. "</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
