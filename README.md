@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is knowing what not to fear."</i>
+<i>"The real meditation is how you live your life."</i>
 <br>
-<b>- Plato</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
