@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are like islands in the sea, separate on the surface but connected in the deep."</i>
+<i>"Words used to attract the dull of wit are not to be relied on."</i>
 <br>
-<b>- William James</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
