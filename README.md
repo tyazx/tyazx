@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words used to attract the dull of wit are not to be relied on."</i>
+<i>"Courage is knowing what not to fear."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
