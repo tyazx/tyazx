@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Choose to be optimistic, it feels better."</i>
+<i>"Pleasure is always derived from something outside you, whereas joy arises from within. "</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
