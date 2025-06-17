@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't give up the fight, Stand up for your rights."</i>
+<i>"The only normal people are the ones you don't know very well."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
