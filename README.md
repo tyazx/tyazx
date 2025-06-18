@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams provide nourishment for the soul, just as a meal does for the body."</i>
+<i>"Follow your instincts. That is where true wisdom manifests itself."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
