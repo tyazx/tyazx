@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have to live life with a sense of urgency so not a minute is wasted."</i>
+<i>"Nothing can dim the light which shines from within."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
