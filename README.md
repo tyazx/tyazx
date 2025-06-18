@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Shoot for the moon, because even if you miss, you'll land among the stars."</i>
+<i>"What you seek is seeking you."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
