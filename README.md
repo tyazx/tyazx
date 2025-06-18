@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Follow your instincts. That is where true wisdom manifests itself."</i>
+<i>"Freedom is the open window through which pours the sunlight of the human spirit and human dignity."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
