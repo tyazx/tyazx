@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We need never be ashamed of our tears."</i>
+<i>"There are two kinds of perfect people: those who are dead, and those who have not been born yet."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
