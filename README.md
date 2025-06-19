@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has."</i>
+<i>"You're never given a dream without also being given the power to make it true."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
