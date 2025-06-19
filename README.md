@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you look for perfection, you'll never be content."</i>
+<i>"Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
