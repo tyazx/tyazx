@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Laziness may appear attractive, but work gives satisfaction."</i>
+<i>"People who have goals succeed because they know where they're going. It's that simple."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
