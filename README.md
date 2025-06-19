@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love never keeps a man from pursuing his destiny."</i>
+<i>"If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
