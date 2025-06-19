@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just because something isn't a lie does not mean that it isn't deceptive."</i>
+<i>"Love never keeps a man from pursuing his destiny."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
