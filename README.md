@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream."</i>
+<i>"The way we feel is the direct result of what we think."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Peter A. Cohen</b>
 </blockquote>
 </p>
 
