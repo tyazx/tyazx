@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We meet ourselves time and again in a thousand disguises on the path of life."</i>
+<i>"Not all those who wander are lost."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
