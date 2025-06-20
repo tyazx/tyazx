@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Money poisons you when you've got it, and starves you when you haven't."</i>
+<i>"It's possible in ways both large or small to make a difference in someone's life."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
