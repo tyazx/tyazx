@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's possible in ways both large or small to make a difference in someone's life."</i>
+<i>"Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have?"</i>
 <br>
-<b>- Yanni</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
