@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember, hope is a good thing, maybe the best of things."</i>
+<i>"A pessimist is one who makes difficulties of his opportunities and an optimist is one who makes opportunities of his difficulties."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
