@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight."</i>
+<i>"Do not follow the ideas of others, but learn to listen to the voice within yourself."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
