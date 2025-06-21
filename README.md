@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream."</i>
+<i>"Life does not get better by chance, it gets better by change."</i>
 <br>
-<b>- Unknown</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
