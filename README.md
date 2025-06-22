@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good teacher opens the door for you, but you must enter the room by yourself."</i>
+<i>"Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
