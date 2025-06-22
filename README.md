@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your spirit is the true shield."</i>
+<i>"To know your Enemy, you must become your Enemy."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
