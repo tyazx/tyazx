@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life happens in the river, not the shore."</i>
+<i>"Our happiness depends on the habit of mind we cultivate."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
