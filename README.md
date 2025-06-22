@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt."</i>
+<i>"A good teacher opens the door for you, but you must enter the room by yourself."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
