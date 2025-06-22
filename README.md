@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is consistency of thinking about what is possible and how to make it possible."</i>
+<i>"Life happens in the river, not the shore."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
