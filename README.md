@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fortunate are those who take the first steps."</i>
+<i>"The four P's to success are pressure, persistence, perseverance, and prayer."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
