@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The impossible can always be broken down into possibilities."</i>
+<i>"The chief danger in life is that you may take too many precautions."</i>
 <br>
-<b>- Unknown</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
