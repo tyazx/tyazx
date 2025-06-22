@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The chief danger in life is that you may take too many precautions."</i>
+<i>"Confidence is consistency of thinking about what is possible and how to make it possible."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
