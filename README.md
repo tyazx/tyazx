@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life does not get better by chance, it gets better by change."</i>
+<i>"Your spirit is the true shield."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
