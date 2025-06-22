@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do."</i>
+<i>"Fortunate are those who take the first steps."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
