@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The four P's to success are pressure, persistence, perseverance, and prayer."</i>
+<i>"We ordinary people must forge our own beauty."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Kenji Miyazawa</b>
 </blockquote>
 </p>
 
