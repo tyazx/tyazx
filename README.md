@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever satisfies the soul is truth."</i>
+<i>"Appear weak when you are strong, and strong when you are weak."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
