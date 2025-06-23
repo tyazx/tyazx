@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no uninteresting things, only uninterested people."</i>
+<i>"Poverty and hardship are created by false thinking."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
