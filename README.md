@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Surrender to what is. Let go of what was. Have faith in what will be."</i>
+<i>"The scariest moment is always just before you start. After that, things can only get better."</i>
 <br>
-<b>- Sonia Ricotti</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
