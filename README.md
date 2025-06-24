@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The scariest moment is always just before you start. After that, things can only get better."</i>
+<i>"The attempt to escape from pain, is what creates more pain."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Gabor Mate</b>
 </blockquote>
 </p>
 
