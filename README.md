@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our happiness depends on the habit of mind we cultivate."</i>
+<i>"Live calmly. The time will come when the flowers bloom by themselves."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
