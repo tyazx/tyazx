@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not whether you get knocked down, its whether you get back up."</i>
+<i>"True knowledge exists in knowing that you know nothing."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
