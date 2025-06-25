@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take away love and our earth is a tomb."</i>
+<i>"Man should fear never beginning to live."</i>
 <br>
-<b>- Robert Browning</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
