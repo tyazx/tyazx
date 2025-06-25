@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people tend to become more successful because they are always thinking about their successes."</i>
+<i>"You must find the place inside yourself where nothing is impossible."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
