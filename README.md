@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perfectionism is simply putting a limit on your future."</i>
+<i>"Sometimes it is harder to deprive oneself of a pain than of a pleasure."</i>
 <br>
-<b>- John Eliot</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
