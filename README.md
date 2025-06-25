@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man should fear never beginning to live."</i>
+<i>"Focused, hard work is the real key to success."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- John Carmack</b>
 </blockquote>
 </p>
 
