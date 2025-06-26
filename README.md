@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one ever said life was fair. Just Eventful."</i>
+<i>"The fewer the words, the better the prayer."</i>
 <br>
-<b>- Carol Burnett</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
