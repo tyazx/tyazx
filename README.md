@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"FOCUS - Follow One Course Until Successful"</i>
+<i>"The truth is rarely pure and never simple. "</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
