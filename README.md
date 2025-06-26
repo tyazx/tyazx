@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a traveling to the edge of knowledge, then a leap taken."</i>
+<i>"One loyal friend is worth ten thousand relatives."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
