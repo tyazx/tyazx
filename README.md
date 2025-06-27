@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One loyal friend is worth ten thousand relatives."</i>
+<i>"Opportunities multiply as they are seized."</i>
 <br>
-<b>- Euripides</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
