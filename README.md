@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't argue both sides, you can't argue."</i>
+<i>"The only way out is through."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
