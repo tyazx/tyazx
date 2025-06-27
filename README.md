@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The person who is his own master cannot tolerate another boss. "</i>
+<i>"The few who do are the envy of the many who only watch."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
