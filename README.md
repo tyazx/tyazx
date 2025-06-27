@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only way out is through."</i>
+<i>"To love means loving the unlovable."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
