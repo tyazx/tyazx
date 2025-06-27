@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is either a daring adventure, or it is nothing."</i>
+<i>"The reward of suffering is experience."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
