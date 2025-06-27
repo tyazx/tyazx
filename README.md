@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To love means loving the unlovable."</i>
+<i>"Life is either a daring adventure, or it is nothing."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
