@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can choose to look at whatever we want.  We can look at what's wrong in our life or we can look at what's right."</i>
+<i>"In a world of change, the learners shall inherit the earth, while the learned shall find themselves perfectly suited for a world that no longer exists."</i>
 <br>
-<b>- Sonia Ricotti</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
