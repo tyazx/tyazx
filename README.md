@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who realize their folly are not true fools."</i>
+<i>"Attitude drives actions. Actions drive results. Results drive lifestyles."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
