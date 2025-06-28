@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is more real than nothing."</i>
+<i>"Those who realize their folly are not true fools."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
