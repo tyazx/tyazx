@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The mind that turns ever outward Will have no end to craving. Only the mind turned inward Will find a still-point of peace."</i>
+<i>"The Truth is realized in an instant; the Act is practiced step by step."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Seungsahn</b>
 </blockquote>
 </p>
 
