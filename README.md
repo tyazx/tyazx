@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tension is who you think you should be. Relaxation is who you are."</i>
+<i>"None are more hopelessly enslaved than those who falsely believe they are free."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
