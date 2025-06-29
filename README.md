@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not ignore the passion that burns in you. Spend time to discover your gift."</i>
+<i>"Tension is who you think you should be. Relaxation is who you are."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
