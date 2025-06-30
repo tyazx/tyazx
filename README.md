@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do what you've always done, you'll get what you've always gotten."</i>
+<i>"The Art of Peace begins with you."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
