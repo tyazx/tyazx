@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We create the world and ourselves;"</i>
+<i>"Adventure is not outside man; it is within."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
