@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Obstacles don't block the path, they are the path."</i>
+<i>"We create the world and ourselves;"</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
