@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who is untrue to his own cause cannot command the respect of others."</i>
+<i>"It's just a bad day, not a bad life."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
