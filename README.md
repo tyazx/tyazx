@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wisdom of life consists in the elimination of the nonessentials."</i>
+<i>"Never take your position for granted and never let any favors you receive go to your head."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
