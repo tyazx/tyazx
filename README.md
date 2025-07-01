@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give more than you think you can, trusting that you are richer than you think."</i>
+<i>"Victims recite problems, leaders provide solutions."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
