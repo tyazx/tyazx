@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is such a rare thing, it is delighted to tell it."</i>
+<i>"Poverty and hardship are created by false thinking."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
