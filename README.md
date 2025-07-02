@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you decide to do, make sure it makes you happy."</i>
+<i>"Truth is such a rare thing, it is delighted to tell it."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
