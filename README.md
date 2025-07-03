@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you believe with feeling becomes your reality. "</i>
+<i>"Great minds discuss ideas. Average minds discuss events. Small minds discuss people."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
