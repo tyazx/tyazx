@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who knows best knows how little he knows."</i>
+<i>"Remember we're all in this alone."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
