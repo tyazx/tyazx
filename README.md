@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is our choices that show what we truly are, far more than our abilities."</i>
+<i>"A man's worth is no greater than his ambitions."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
