@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It isn't what you do, but how you do it."</i>
+<i>"He who knows best knows how little he knows."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
