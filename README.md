@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no fear for one whose mind is not filled with desires."</i>
+<i>"If you don't program yourself, life will program you."</i>
 <br>
-<b>- Buddha</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
