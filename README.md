@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't program yourself, life will program you."</i>
+<i>"Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
