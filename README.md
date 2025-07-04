@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be - don't try to become "</i>
+<i>"Walk slowly but never walk backward."</i>
 <br>
-<b>- Osho</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
