@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Talk to someone about themselves and they'll listen for hours."</i>
+<i>"It's easier to lose than to win.  "</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
