@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you."</i>
+<i>"Great acts are made up of small deeds."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
