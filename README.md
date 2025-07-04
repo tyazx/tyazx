@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To affect the quality of the day, that is the highest of arts."</i>
+<i>"Sometimes good things fall apart so better things can fall together."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Marilyn Monroe</b>
 </blockquote>
 </p>
 
