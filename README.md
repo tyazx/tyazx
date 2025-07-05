@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace is not absence of conflict, it is the ability to handle conflict by peaceful means."</i>
+<i>"Success is within the reach of just about everyone."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
