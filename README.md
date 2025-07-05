@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What have you done today to make someone else happy?"</i>
+<i>"The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly."</i>
 <br>
-<b>- Deepam Chaterjee</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
