@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't live the same year 75 times and call it a life."</i>
+<i>"When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
