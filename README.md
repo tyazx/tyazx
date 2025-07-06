@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The season of failure is the best time for sowing the seeds of success. "</i>
+<i>"If you see someone without a smile give them one of yours."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
