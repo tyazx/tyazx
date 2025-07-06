@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are people who have money and people who are rich."</i>
+<i>"A day wasted on others is not wasted on one's self."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
