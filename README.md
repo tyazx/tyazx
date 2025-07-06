@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nature does not hurry, yet everything is accomplished."</i>
+<i>"There are people who have money and people who are rich."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
