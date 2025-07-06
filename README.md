@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place."</i>
+<i>"The season of failure is the best time for sowing the seeds of success. "</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
