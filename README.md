@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When your intuition is strong, follow it."</i>
+<i>"Change yourself and you have done your part in changing the world."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
