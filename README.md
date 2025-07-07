@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want work well done, select a busy man; the other kind has no time."</i>
+<i>"Often we pass beside happiness without seeing it, without looking at it, or even if we have seen and looked at it, without recognizing it."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
