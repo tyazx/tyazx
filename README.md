@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change yourself and you have done your part in changing the world."</i>
+<i>"One's best success comes after their greatest disappointments."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
