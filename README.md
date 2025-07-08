@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I persist long enough I will win."</i>
+<i>"Remember to look up at the stars and not down at your feet."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
