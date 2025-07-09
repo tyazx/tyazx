@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The road to success and the road to failure are almost exactly the same."</i>
+<i>"Absorb what is useful, discard what is useless and add what is specifically your own.  "</i>
 <br>
-<b>- Colin R. Davis</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
