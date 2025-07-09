@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Force has no place where there is need of skill. "</i>
+<i>"Nature is pleased with simplicity. And nature is no dummy."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
