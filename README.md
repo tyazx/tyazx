@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If your happiness depends on what somebody else does, I guess you do have a problem."</i>
+<i>"Decide what your truth is. Then live it."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
