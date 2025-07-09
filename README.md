@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Decide what your truth is. Then live it."</i>
+<i>"If you want peace, accept. If you want suffering, expect."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
