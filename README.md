@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want peace, accept. If you want suffering, expect."</i>
+<i>"Those who seek the easy way do not seek the true way."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
