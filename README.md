@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to learn late than never."</i>
+<i>"Try all things, hold fast that which is good."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
