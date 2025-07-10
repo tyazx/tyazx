@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who seek the easy way do not seek the true way."</i>
+<i>"A clear conscience never fears midnight knocking."</i>
 <br>
-<b>- Dogen</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
