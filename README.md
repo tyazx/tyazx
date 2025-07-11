@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enthusiasm is a vital element toward the individual success of every man or woman."</i>
+<i>"Anger exceeding limits causes fear and excessive kindness eliminates respect."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
