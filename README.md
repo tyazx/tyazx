@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more something threatens your identity, the more you will avoid it."</i>
+<i>"If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
