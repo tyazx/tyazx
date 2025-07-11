@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you chase two rabbits, you catch none."</i>
+<i>"Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving."</i>
 <br>
-<b>- Confucius</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
