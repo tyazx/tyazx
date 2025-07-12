@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thinking is difficult, that's why most people judge."</i>
+<i>"We live only now. Everything else is either passed or is unknown."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
