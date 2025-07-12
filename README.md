@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Obstacles are those frightful things you see when you take your eyes off your goals."</i>
+<i>"The universe doesn't allow perfection."</i>
 <br>
-<b>- Sydney Smith</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
