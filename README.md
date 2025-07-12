@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you believe in a thing, believe in it all the way, implicitly and unquestionable."</i>
+<i>"When you are tempted to give up, your breakthrough is probably just around the corner."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
