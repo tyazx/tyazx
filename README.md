@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In any moment of decision, the best thing you can do is the right thing. The worst thing you can do is nothing."</i>
+<i>"Obstacles are those frightful things you see when you take your eyes off your goals."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Sydney Smith</b>
 </blockquote>
 </p>
 
