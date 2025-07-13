@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each day your life grows a day shorter. Make every move count."</i>
+<i>"Listen to what you know instead of what you fear."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
