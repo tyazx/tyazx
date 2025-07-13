@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a journey, not a destination."</i>
+<i>"We win by helping each other win."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
