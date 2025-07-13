@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit."</i>
+<i>"Change yourself and you have done your part in changing the world."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
