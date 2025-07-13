@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change yourself and you have done your part in changing the world."</i>
+<i>"Each day your life grows a day shorter. Make every move count."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
