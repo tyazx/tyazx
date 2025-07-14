@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before you embark on a journey of revenge, dig two graves. "</i>
+<i>"You just can't beat the person who never gives up. "</i>
 <br>
-<b>- Confucius</b>
+<b>- Babe Ruth</b>
 </blockquote>
 </p>
 
