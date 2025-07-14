@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order to control myself I must first accept myself by going with and not against my nature."</i>
+<i>"How people treat you is their karma; how you react is yours. "</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
