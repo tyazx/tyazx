@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are two kinds of perfect people: those who are dead, and those who have not been born yet."</i>
+<i>"Don't stop when you're tired. Stop when you're done."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Marilyn Monroe</b>
 </blockquote>
 </p>
 
