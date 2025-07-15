@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your setback is just a setup for a comeback."</i>
+<i>"Difficult roads often lead to beautiful destinations."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
