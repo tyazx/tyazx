@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I believe that potential is unlimited - success depends on daring to act on dreams.   "</i>
+<i>"Death walks faster than the wind and never returns what he has taken."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
