@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's the possibility of having a dream come true that makes life interesting."</i>
+<i>"Faults are yours to fix, not to curse."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
