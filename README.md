@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Death walks faster than the wind and never returns what he has taken."</i>
+<i>"Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
