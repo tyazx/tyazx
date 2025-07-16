@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The universe doesn't allow perfection."</i>
+<i>"Enlightenment is intimacy with all things."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
