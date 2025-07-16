@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't live the same year 75 times and call it a life."</i>
+<i>"Failure means you've now learned another valuable lesson that pushes you one step closer to success."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
