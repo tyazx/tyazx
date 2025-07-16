@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Acknowledging the good that you already have in your life is the foundation for all abundance."</i>
+<i>"Go for it now. The future is promised to no one. "</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
