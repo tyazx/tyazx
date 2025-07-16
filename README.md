@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A person hears only what they understand."</i>
+<i>"The Truth is realized in an instant; the Act is practiced step by step."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Seungsahn</b>
 </blockquote>
 </p>
 
