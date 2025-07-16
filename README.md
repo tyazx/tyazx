@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The Truth is realized in an instant; the Act is practiced step by step."</i>
+<i>"Receive without complaint, Work with fate."</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
