@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When reading, only read. When eating, only eat. When thinking, only think."</i>
+<i>"Acknowledging the good that you already have in your life is the foundation for all abundance."</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
