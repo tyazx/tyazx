@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear does not have any special power unless you empower it by submitting to it."</i>
+<i>"If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
