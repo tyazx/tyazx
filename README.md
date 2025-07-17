@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live as if you were to die tomorrow. Learn as if you were to live forever."</i>
+<i>"Every strike brings me closer to the next home run. "</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Babe Ruth</b>
 </blockquote>
 </p>
 
