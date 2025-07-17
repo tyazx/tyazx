@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People don't care how much you know until they know how much you care."</i>
+<i>"Once you learn to quit, it becomes a habit."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
