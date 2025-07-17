@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more knowledge you have, the more you're free to rely on your instincts."</i>
+<i>"Just try to be the best you can be; never cease trying to be the best you can be. That's in your power."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
