@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man is happy unless he believes he is."</i>
+<i>"People don't care how much you know until they know how much you care."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
