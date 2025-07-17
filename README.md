@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form."</i>
+<i>"No man is happy unless he believes he is."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
