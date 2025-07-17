@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Excellence is not an exception, it is a prevailing attitude."</i>
+<i>"Fear does not have any special power unless you empower it by submitting to it."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
