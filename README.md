@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You know the more one does the more one can do."</i>
+<i>"Don't stop when you're tired. Stop when you're done."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Marilyn Monroe</b>
 </blockquote>
 </p>
 
