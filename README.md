@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't stop when you're tired. Stop when you're done."</i>
+<i>"You are never too old to become younger."</i>
 <br>
-<b>- Marilyn Monroe</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
