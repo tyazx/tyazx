@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men are equal; it is not birth but virtue that makes the difference."</i>
+<i>"The heart that gives, gathers."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
