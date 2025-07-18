@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.  "</i>
+<i>"You know the more one does the more one can do."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
