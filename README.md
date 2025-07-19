@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are always your own best guru, your own best teacher, the answers are always inside you."</i>
+<i>"Stay away from people who makes you feel like you are wasting their time."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
