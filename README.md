@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing you do is going to matter that much in the long run. Don't take yourself so seriously."</i>
+<i>"Work is always an antidote to depression."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
