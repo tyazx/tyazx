@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is only depth of character that determines the profundity with which we face life."</i>
+<i>"People have the illusion that all over the world, all the time, all kinds of fantastic things are happening."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- David Brinkley</b>
 </blockquote>
 </p>
 
