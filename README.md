@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Behind every cloud is another cloud."</i>
+<i>"You are always your own best guru, your own best teacher, the answers are always inside you."</i>
 <br>
-<b>- Judy Garland</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
