@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do."</i>
+<i>"Don't let someone elses. opinion become your reality."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
