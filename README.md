@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends."</i>
+<i>"There is no absolute success in the world, only constant progress."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
