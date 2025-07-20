@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To belittle, you have to be little."</i>
+<i>"Life can be wonderful if you're not afraid of it."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
