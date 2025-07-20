@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life can be wonderful if you're not afraid of it."</i>
+<i>"If you want more luck, take more chances."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
