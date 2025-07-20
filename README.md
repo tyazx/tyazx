@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want more luck, take more chances."</i>
+<i>"Success is about creating value."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Candice Carpenter</b>
 </blockquote>
 </p>
 
