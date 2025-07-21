@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best mind-altering drug is the truth."</i>
+<i>"Keep away from people who try to belittle your ambitions."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
