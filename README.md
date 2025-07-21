@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is growth. If we stop growing, technically and spiritually, we are as good as dead."</i>
+<i>"Never feel shame for trying and failing, for he who has never failed is he who has never tried."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
