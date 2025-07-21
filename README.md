@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To forget the whole world is easy; to make the whole world forget you is hard."</i>
+<i>"He who is untrue to his own cause cannot command the respect of others."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
