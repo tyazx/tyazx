@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It doesn't matter where you are coming from. All that matters is where you are going. "</i>
+<i>"Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.  "</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
