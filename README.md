@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What worries you, masters you."</i>
+<i>"The best mind-altering drug is the truth."</i>
 <br>
-<b>- John Locke</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
