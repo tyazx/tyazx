@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never feel shame for trying and failing, for he who has never failed is he who has never tried."</i>
+<i>"What worries you, masters you."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
