@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let your mind stop you."</i>
+<i>"There's no coming to consciousness without pain"</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
