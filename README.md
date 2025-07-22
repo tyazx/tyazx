@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be fully alive is to feel that everything is possible."</i>
+<i>"Memory is the scribe of the soul."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
