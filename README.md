@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you see a get rich quick scheme, that's someone else trying to get rich off of you."</i>
+<i>"To be fully alive is to feel that everything is possible."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
