@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear is stupid. So are regrets."</i>
+<i>"Don't let your mind stop you."</i>
 <br>
-<b>- Marilyn Monroe</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
