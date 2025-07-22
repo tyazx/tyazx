@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When asked, how do you write? I invariably answer, one word at a time."</i>
+<i>"Perpetual optimism is a force multiplier."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
