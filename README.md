@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Integrity is telling myself the truth. And honesty is telling the truth to other people."</i>
+<i>"Life is about not knowing and then doing something anyway."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
