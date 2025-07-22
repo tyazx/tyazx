@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing yourself is the beginning of all wisdom."</i>
+<i>"Integrity is telling myself the truth. And honesty is telling the truth to other people."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
