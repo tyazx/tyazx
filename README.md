@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Big people don't make people feel small."</i>
+<i>"In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
