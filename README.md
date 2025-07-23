@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone you meet is fighting a battle you know nothing about. Be kind. Always."</i>
+<i>"Your business is not to 'get somewhere' - it is to be here."</i>
 <br>
-<b>- Robin Williams</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
