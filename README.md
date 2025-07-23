@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Like it or not, this moment is all we really have to work with."</i>
+<i>"You don't need anybody to tell you who you are or what you are. You are what you are!"</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
