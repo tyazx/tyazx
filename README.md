@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What the mind can conceive, it can achieve."</i>
+<i>"Everyone you meet is fighting a battle you know nothing about. Be kind. Always."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Robin Williams</b>
 </blockquote>
 </p>
 
