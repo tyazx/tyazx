@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An un-examined life is not worth living."</i>
+<i>"When you've got nothing, you've got nothing to lose."</i>
 <br>
-<b>- Socrates</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
