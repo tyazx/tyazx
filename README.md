@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I will not walk backward in life."</i>
+<i>"Rewards and punishment is the lowest form of education."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
