@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be brave enough to suck at something new."</i>
+<i>"Nothing is more real than nothing."</i>
 <br>
-<b>- Unknown</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
