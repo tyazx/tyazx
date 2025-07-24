@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is more real than nothing."</i>
+<i>"Remember we're all in this alone."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
