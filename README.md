@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To lead an orchestra, you must turn your back on the crowd."</i>
+<i>"An un-examined life is not worth living."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
