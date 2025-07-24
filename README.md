@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A hopeless man is a very desperate and dangerous man, almost a dead man."</i>
+<i>"Be brave enough to suck at something new."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
