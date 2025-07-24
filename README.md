@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember we're all in this alone."</i>
+<i>"Beware of false knowledge, it is more dangerous than ignorance."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
