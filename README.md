@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We become brave by doing brave acts."</i>
+<i>"Goals are the fuel in the furnace of achievement."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
