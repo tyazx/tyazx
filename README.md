@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you stop questioning, you stop learning."</i>
+<i>"Talk sense to a fool and he calls you foolish."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
