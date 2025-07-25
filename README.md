@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Talk sense to a fool and he calls you foolish."</i>
+<i>"Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some."</i>
 <br>
-<b>- Euripides</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
