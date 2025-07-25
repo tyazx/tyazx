@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wake up and smile! Wake up and be grateful!"</i>
+<i>"Don't let someone elses. opinion become your reality."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
