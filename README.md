@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Plants grow weak without wind."</i>
+<i>"We are like islands in the sea, separate on the surface but connected in the deep."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
