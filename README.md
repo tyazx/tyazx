@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everybody needs a passion. That's what keeps life interesting."</i>
+<i>"Love is the energy of life."</i>
 <br>
-<b>- Betty White</b>
+<b>- Robert Browning</b>
 </blockquote>
 </p>
 
