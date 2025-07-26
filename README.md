@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Goals are the fuel in the furnace of achievement."</i>
+<i>"Everybody needs a passion. That's what keeps life interesting."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
