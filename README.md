@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great ones are willing to get burned time and again as they sharpen their swords in the fire."</i>
+<i>"What you are afraid of is never as bad as what you imagine. The fear you let build up in your mind is worse than the situation that actually exists."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
