@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember the entrance to the sanctuary is inside you."</i>
+<i>"Time is a game played beautifully by children."</i>
 <br>
-<b>- Rumi</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
