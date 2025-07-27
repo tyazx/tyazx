@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reality is the leading cause of stress among those in touch with it."</i>
+<i>"Still your waters."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
