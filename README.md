@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To seek greatness is the only righteous vengeance."</i>
+<i>"Remember the entrance to the sanctuary is inside you."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
