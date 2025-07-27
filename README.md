@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Growing up is losing some illusions, in order to acquire others."</i>
+<i>"To seek greatness is the only righteous vengeance."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
