@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not about what it is, it's about what it can become."</i>
+<i>"Nothing is hopeless; we must hope for everything."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
