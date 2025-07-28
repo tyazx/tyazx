@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Prefer to be defeated in the presence of the wise than to excel among fools."</i>
+<i>"Everything you look at can become a fairy tale and you can get a story from everything you touch."</i>
 <br>
-<b>- Dogen</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
