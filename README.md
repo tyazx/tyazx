@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you quit once it becomes a habit."</i>
+<i>"Who you are is always right."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
