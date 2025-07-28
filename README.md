@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love the life you live, live the life you love."</i>
+<i>"Prefer to be defeated in the presence of the wise than to excel among fools."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
