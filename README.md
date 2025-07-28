@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves."</i>
+<i>"It's not about what it is, it's about what it can become."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
