@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything you look at can become a fairy tale and you can get a story from everything you touch."</i>
+<i>"Don't let someone elses. opinion become your reality."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
