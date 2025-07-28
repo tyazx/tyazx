@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Who you are is always right."</i>
+<i>"Fears are nothing more than a state of mind."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
