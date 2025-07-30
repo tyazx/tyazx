@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is during our darkest moments that we must focus to see the light."</i>
+<i>"Life can only be understood backwards; but it must be lived forwards."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Soren Kierkegaard</b>
 </blockquote>
 </p>
 
