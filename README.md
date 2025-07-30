@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't imagine it, you can't have it."</i>
+<i>"It is never too late to be what you might have been."</i>
 <br>
-<b>- Toni Morrison</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
