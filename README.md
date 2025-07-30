@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man's worth is no greater than his ambitions."</i>
+<i>"If you can't imagine it, you can't have it."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Toni Morrison</b>
 </blockquote>
 </p>
 
