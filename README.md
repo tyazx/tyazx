@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life can only be understood backwards; but it must be lived forwards."</i>
+<i>"You don't have to be great to start, but you have to start to be great.  "</i>
 <br>
-<b>- Soren Kierkegaard</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
