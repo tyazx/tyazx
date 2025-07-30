@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It ain't where you start in life, it's where you end up, and what you did along the way."</i>
+<i>"Difficult roads often lead to beautiful destinations."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
