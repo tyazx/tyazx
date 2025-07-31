@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The journey is what brings us happiness not the destination."</i>
+<i>"If you pray for rain, be prepared to deal with some mud."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
