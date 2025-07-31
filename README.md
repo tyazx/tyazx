@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every hour of every day is an unspeakably perfect miracle."</i>
+<i>"Your mind will make you rich or poor, depending on the use you put to it."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
