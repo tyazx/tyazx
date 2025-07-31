@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your mind will make you rich or poor, depending on the use you put to it."</i>
+<i>"Think and wonder, wonder and think."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
