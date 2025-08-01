@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you become is far more important than what you get."</i>
+<i>"The greatest deception men suffer is from their own opinions."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
