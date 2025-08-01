@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest deception men suffer is from their own opinions."</i>
+<i>"If your mind is empty, it is always ready for anything, it is open to everything."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
