@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We've got to live, no matter how many skies have fallen."</i>
+<i>"What you become is far more important than what you get."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
