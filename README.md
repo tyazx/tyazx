@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work."</i>
+<i>"When it is dark enough, you can see the stars."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
