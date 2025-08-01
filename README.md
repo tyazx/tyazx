@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Far more crucial than what we know or do not know is what we do not want to know."</i>
+<i>"Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
