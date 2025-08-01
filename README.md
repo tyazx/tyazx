@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quality of your life is the quality of your relationships."</i>
+<i>"Far more crucial than what we know or do not know is what we do not want to know."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
