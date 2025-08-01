@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change the changeable, accept the unchangeable, and remove yourself from the unacceptable. "</i>
+<i>"Everything that is done in the world is done by hope."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
