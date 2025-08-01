@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything that is done in the world is done by hope."</i>
+<i>"The quality of your life is the quality of your relationships."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
