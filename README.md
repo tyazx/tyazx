@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Forgive those who have hurt you."</i>
+<i>"There is no sadder sight than a young pessimist."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
