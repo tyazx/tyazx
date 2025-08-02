@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"While we may not be able to control all that happens to us, we can control what happens inside us."</i>
+<i>"Normality is a paved road: It's comfortable to walk, but no flowers grow on it."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
