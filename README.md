@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work as though you would live forever, and live as though you would die today. Go another mile."</i>
+<i>"Show me a hero, and I'll write you a tragedy."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
