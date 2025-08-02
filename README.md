@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A gentleman is one who puts more into the world than he takes out."</i>
+<i>"While we may not be able to control all that happens to us, we can control what happens inside us."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
