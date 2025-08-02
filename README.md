@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A very little key will open a very heavy door."</i>
+<i>"You are the sky. Everything else - it's just the weather."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
