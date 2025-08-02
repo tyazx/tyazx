@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The busy man is never wise and the wise man is never busy."</i>
+<i>"A very little key will open a very heavy door."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
