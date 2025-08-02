@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When it is dark enough, you can see the stars."</i>
+<i>"A gentleman is one who puts more into the world than he takes out."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
