@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Normality is a paved road: It's comfortable to walk, but no flowers grow on it."</i>
+<i>"Even though you are on the right track - you will get run over if you just sit there."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
