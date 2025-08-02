@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even when you think you have your life all mapped out, things happen that shape your destiny in ways you might never have imagined."</i>
+<i>"The busy man is never wise and the wise man is never busy."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
