@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream."</i>
+<i>"The best answer to anger is silence."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
