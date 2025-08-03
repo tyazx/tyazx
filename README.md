@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't explain it simply, you don't understand it well enough."</i>
+<i>"Quiet people have the loudest minds."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
