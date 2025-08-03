@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pleasure is always derived from something outside you, whereas joy arises from within. "</i>
+<i>"Is it really possible to tell someone else what one feels?"</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
