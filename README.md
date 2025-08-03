@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you try to micromanage yourself all you're going to do is make yourself miserable."</i>
+<i>"A man is literally what he thinks."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
