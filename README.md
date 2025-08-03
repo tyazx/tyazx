@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best answer to anger is silence."</i>
+<i>"There's no next time. It's now or never."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
