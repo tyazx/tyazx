@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There's no next time. It's now or never."</i>
+<i>"If you can't explain it simply, you don't understand it well enough."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
