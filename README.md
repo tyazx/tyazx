@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Strive for excellence, not perfection, because we don't live in a perfect world."</i>
+<i>"A golden cage is still just a cage."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
