@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace."</i>
+<i>"Acknowledging the good that you already have in your life is the foundation for all abundance."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
