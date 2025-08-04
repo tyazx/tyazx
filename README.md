@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest deception men suffer is from their own opinions."</i>
+<i>"We think too much and feel too little."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
