@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Walking with a friend in the dark is better than walking alone in the light."</i>
+<i>"Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
