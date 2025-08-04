@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Boldness makes even the smallest animal dangerous."</i>
+<i>"The greatest deception men suffer is from their own opinions."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
