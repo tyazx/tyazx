@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit."</i>
+<i>"Strive for excellence, not perfection, because we don't live in a perfect world."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
