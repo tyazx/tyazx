@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A golden cage is still just a cage."</i>
+<i>"To do two things at once is to do neither."</i>
 <br>
-<b>- Anita Krizzan</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
