@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything eaten is killed. Every meal is a sacrifice."</i>
+<i>"Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace."</i>
 <br>
-<b>- Adi Da Samraj</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
