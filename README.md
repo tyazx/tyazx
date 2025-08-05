@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thinking will not overcome fear but action will. "</i>
+<i>"The successful warrior is the average man, with laser-like focus."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
