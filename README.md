@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perplexity is the beginning of knowledge."</i>
+<i>"Simple words, repeated daily, can change your life."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
