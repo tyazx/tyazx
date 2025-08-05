@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every day is an opportunity to a make a new happy ending."</i>
+<i>"Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
