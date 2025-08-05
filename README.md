@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The successful warrior is the average man, with laser-like focus."</i>
+<i>"You can't wait for inspiration. You have to go after it with a club. "</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
