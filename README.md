@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you are afraid of is never as bad as what you imagine. The fear you let build up in your mind is worse than the situation that actually exists."</i>
+<i>"Thinking will not overcome fear but action will. "</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- W. Clement Stone</b>
 </blockquote>
 </p>
 
