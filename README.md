@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you realize you've made a mistake, take immediate steps to correct it."</i>
+<i>"You are the only problem you will ever have and you are the only solution."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
