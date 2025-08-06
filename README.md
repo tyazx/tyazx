@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To improve is to change, so to be perfect is to change often."</i>
+<i>"The only difference between success and failure is the ability to take action."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
