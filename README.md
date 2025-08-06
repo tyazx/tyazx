@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver."</i>
+<i>"The quality of your commitments will determine the course of your life."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
