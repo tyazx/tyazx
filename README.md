@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Too many of us are not living our dreams because we are living our fears."</i>
+<i>"When you realize you've made a mistake, take immediate steps to correct it."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
