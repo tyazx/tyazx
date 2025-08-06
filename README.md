@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are the only problem you will ever have and you are the only solution."</i>
+<i>"To improve is to change, so to be perfect is to change often."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
