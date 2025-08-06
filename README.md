@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only difference between success and failure is the ability to take action."</i>
+<i>"Constantly seek criticism. A well thought out critique of whatever you're doing is as valuable as gold."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
