@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If your mind is empty, it is always ready for anything, it is open to everything."</i>
+<i>"If we did all the things we are capable of, we would literally astound ourselves."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
