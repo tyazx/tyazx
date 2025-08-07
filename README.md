@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be brave. Take risks. Nothing can substitute experience."</i>
+<i>"If you see a get rich quick scheme, that's someone else trying to get rich off of you."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
