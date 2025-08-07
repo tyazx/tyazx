@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Persistence is very important. You should not give up unless you are forced to give up."</i>
+<i>"There is nothing quite so tragic as a young cynic."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
