@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever your heart clings to and confides in, that is really your God."</i>
+<i>"Man invented language to satisfy his deep need to complain."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
