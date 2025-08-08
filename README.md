@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man invented language to satisfy his deep need to complain."</i>
+<i>"Faults are yours to fix, not to curse."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
