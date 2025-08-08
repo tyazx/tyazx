@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People are not disturbed by things, but by the views they take of them."</i>
+<i>"Friendship takes time and energy if it's going to work."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
