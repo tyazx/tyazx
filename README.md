@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to see things just as they are, then you yourself must practice just as you are."</i>
+<i>"I have not failed. I've just found 10,000 ways that won't work."</i>
 <br>
-<b>- Dogen</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
