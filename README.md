@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship takes time and energy if it's going to work."</i>
+<i>"If you don't make things happen then things will happen to you."</i>
 <br>
-<b>- Betty White</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
