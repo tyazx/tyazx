@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted."</i>
+<i>"You can't build a reputation on what you are going to do. "</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
