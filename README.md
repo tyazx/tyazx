@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adventure is not outside man; it is within."</i>
+<i>"What the eye doesn't see and the mind doesn't know, doesn't exist."</i>
 <br>
-<b>- George Eliot</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
