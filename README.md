@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The soul is neither born, and nor does it die."</i>
+<i>"All wealth is the product of labor."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
