@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all."</i>
+<i>"Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
