@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't make things happen then things will happen to you."</i>
+<i>"Fear of death is fear of the Unknown."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Adi Da Samraj</b>
 </blockquote>
 </p>
 
