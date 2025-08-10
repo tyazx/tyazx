@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"None but ourselves can free our minds."</i>
+<i>"The time is always right to do what is right."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
