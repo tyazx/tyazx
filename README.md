@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The time is always right to do what is right."</i>
+<i>"Most people dabble their way through life, never deciding to master anything in particular."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
