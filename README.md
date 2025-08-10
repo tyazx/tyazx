@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people dabble their way through life, never deciding to master anything in particular."</i>
+<i>"The past has no power over the present moment. "</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
