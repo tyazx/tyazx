@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear of death is fear of the Unknown."</i>
+<i>"If we know how to adapt, we end up being superior."</i>
 <br>
-<b>- Adi Da Samraj</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
