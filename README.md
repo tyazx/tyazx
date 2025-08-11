@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have more possibilities available in each moment than we realize."</i>
+<i>"Man invented language to satisfy his deep need to complain."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
