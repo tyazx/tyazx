@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To succeed takes more than the desire to win. It also takes the acceptance that we could fail."</i>
+<i>"To live is the rarest thing in the world. Most people exist, that is all. "</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
