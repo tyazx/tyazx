@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wit is educated insolence."</i>
+<i>"At first dreams seem impossible, then improbable, then inevitable."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
