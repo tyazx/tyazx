@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only limits in your life are those that you set yourself."</i>
+<i>"Change will not come if we wait for some other person, or if we wait for some other time."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
