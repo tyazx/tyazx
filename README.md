@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change will not come if we wait for some other person, or if we wait for some other time."</i>
+<i>"Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
