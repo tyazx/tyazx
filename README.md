@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ladder of success is best climbed by stepping on the rungs of opportunity."</i>
+<i>"If you want more luck, take more chances."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
