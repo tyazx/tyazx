@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every experience is a lesson. Every loss is a gain."</i>
+<i>"Life is like underwear, should be changed twice a day.  "</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
