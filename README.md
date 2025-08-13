@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Growth is in a series of mistakes. That's the only way you learn."</i>
+<i>"The wise speak only of what they know."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
