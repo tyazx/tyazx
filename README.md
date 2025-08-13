@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your spirit is the true shield."</i>
+<i>"Every experience is a lesson. Every loss is a gain."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
