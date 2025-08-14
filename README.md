@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quiet people have the loudest minds."</i>
+<i>"Anger exceeding limits causes fear and excessive kindness eliminates respect."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
