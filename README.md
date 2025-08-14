@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tradition is the illusion of permanence. "</i>
+<i>"Your gift is something that you can do innately better than anything else."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
