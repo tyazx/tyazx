@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thinking is difficult, that's why most people judge."</i>
+<i>"Out of suffering have emerged the strongest souls; the most massive characters are seared with scars."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
