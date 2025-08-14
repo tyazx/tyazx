@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Absorb what is useful, discard what is useless and add what is specifically your own.  "</i>
+<i>"Convinced myself, I seek not to convince."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
