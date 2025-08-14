@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Convinced myself, I seek not to convince."</i>
+<i>"Tradition is the illusion of permanence. "</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
