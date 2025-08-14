@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The educated differ from the uneducated as much as the living differ from the dead."</i>
+<i>"Learn to sit back and observe, not everything needs a reaction."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
