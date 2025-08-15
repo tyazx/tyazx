@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions."</i>
+<i>"Progress is impossible without change, and those who cannot change their minds cannot change anything."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
