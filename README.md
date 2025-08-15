@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less you talk about your shame, the more of it you have."</i>
+<i>"Growth comes at the point of resistance."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
