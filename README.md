@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only in the agony of parting do we look into the depths of love."</i>
+<i>"Don't wish it were easier, wish you were better."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
