@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make no small plans for they have no power to stir the soul."</i>
+<i>"Only in the agony of parting do we look into the depths of love."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
