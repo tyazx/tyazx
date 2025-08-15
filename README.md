@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Decide what your truth is. Then live it."</i>
+<i>"Without the confidence, nothing can be accomplished."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
