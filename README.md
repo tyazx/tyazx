@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If your happiness depends on what somebody else does, I guess you do have a problem."</i>
+<i>"Work for something because it is good, not just because it stands a chance to succeed."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
