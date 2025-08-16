@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't need anybody to tell you who you are or what you are. You are what you are!"</i>
+<i>"When at last you are come to the ocean of happiness, do not go back thirsty."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
