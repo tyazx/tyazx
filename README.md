@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can spend our whole lives escaping from the monsters of our minds."</i>
+<i>"If your happiness depends on what somebody else does, I guess you do have a problem."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
