@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work for something because it is good, not just because it stands a chance to succeed."</i>
+<i>"The truth is not for all men, but for those who seek it."</i>
 <br>
-<b>- Vaclav Havel</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
