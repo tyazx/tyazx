@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone thinks of changing the world, but no one thinks of changing himself."</i>
+<i>"In youth we run into difficulties. In old age difficulties run into us. "</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
