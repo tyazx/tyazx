@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There can be no deep disappointment where there is not deep love."</i>
+<i>"Be yourself; everyone else is already taken "</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
