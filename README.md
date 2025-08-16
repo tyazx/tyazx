@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you decide to do, make sure it makes you happy."</i>
+<i>"Everyone thinks of changing the world, but no one thinks of changing himself."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
