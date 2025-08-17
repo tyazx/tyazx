@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The happiest people in the world are those who feel absolutely terrific about themselves."</i>
+<i>"Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
