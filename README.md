@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Talk to someone about themselves and they'll listen for hours."</i>
+<i>"To know your Enemy, you must become your Enemy."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
