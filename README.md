@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To know your Enemy, you must become your Enemy."</i>
+<i>"The older you get, the more you understand how your conscience works."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
