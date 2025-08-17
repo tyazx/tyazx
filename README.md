@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't feed a hundred people, then feed just one."</i>
+<i>"Success is nothing more than a few simple disciplines practiced every day."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
