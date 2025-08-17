@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We need a backbone, not a wishbone."</i>
+<i>"Nothing important is learned; it is simply remembered."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
