@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing important is learned; it is simply remembered."</i>
+<i>"The quality, not the longevity, of one's life is what is important."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
