@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more."</i>
+<i>"A little impatience will spoil great plans."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
