@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't tell big dreams to small minded people."</i>
+<i>"If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
