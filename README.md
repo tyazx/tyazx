@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A little impatience will spoil great plans."</i>
+<i>"Remember, hope is a good thing, maybe the best of things."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
