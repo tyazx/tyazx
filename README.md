@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tragedy is a tool for the living to gain wisdom, not a guide by which to live."</i>
+<i>"Remain calm. Be kind."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
