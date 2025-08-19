@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"However difficult life may seem, there is always something you can do and succeed at."</i>
+<i>"Men go to far greater lengths to avoid what they fear than to obtain what they desire."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
