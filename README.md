@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am thankful to all who said no to me. It is because of them that I'm doing it myself."</i>
+<i>"Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
