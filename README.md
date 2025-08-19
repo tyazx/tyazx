@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wise people, even though all laws were abolished, would still lead the same life."</i>
+<i>"I am thankful to all who said no to me. It is because of them that I'm doing it myself."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
