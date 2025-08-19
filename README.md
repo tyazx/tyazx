@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When I let go of what I am, I become what I might be."</i>
+<i>"The eye with which I see God is the same eye with which God sees me."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
