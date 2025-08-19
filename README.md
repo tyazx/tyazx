@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rich people have small TVs and big libraries, and poor people have small libraries and big TVs."</i>
+<i>"When I let go of what I am, I become what I might be."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
