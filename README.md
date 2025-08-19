@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better to light a candle than to curse the darkness. "</i>
+<i>"The most important thing in communication is to hear what isn't being said."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
