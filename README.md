@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When one door closes another door opens. "</i>
+<i>"Nothing can bring you peace but yourself."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
