@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How you think when you lose determines how long it will be until you win."</i>
+<i>"Believe that life is worth living and your belief will help create the fact."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
