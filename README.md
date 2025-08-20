@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The weak can never forgive. Forgiveness is the attribute of the strong."</i>
+<i>"Optimism, when applied to your life, develops strength and peace within you."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
