@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn from the mistakes of others. You can't live long enough to make them all yourself."</i>
+<i>"When one door closes another door opens. "</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
