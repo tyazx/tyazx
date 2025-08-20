@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing can bring you peace but yourself."</i>
+<i>"Even the smallest person can change the course of the future."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
