@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One always begins to forgive a place as soon as it's left behind."</i>
+<i>"If you chase two rabbits, you catch none."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
