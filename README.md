@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True it is, we only hate those whom we do not know."</i>
+<i>"If I can pay the bills, I'm happy."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Morgan Wootten</b>
 </blockquote>
 </p>
 
