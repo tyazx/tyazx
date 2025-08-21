@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You miss 100% of the shots you don't take."</i>
+<i>"You are your best thing."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Toni Morrison</b>
 </blockquote>
 </p>
 
