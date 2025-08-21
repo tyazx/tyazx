@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine."</i>
+<i>"Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
