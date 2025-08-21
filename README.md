@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more acquaintances you have, the less you know them."</i>
+<i>"One always begins to forgive a place as soon as it's left behind."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
