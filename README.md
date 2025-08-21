@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are your best thing."</i>
+<i>"Far more crucial than what we know or do not know is what we do not want to know."</i>
 <br>
-<b>- Toni Morrison</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
