@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you chase two rabbits, you catch none."</i>
+<i>"You miss 100% of the shots you don't take."</i>
 <br>
-<b>- Confucius</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
