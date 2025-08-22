@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The Only Thing That Is Constant Is Change"</i>
+<i>"Your business is not to 'get somewhere' - it is to be here."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
