@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If a thing is worth doing, it is worth doing badly."</i>
+<i>"All problems are interpersonal relationship problems."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
