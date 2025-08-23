@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't go forward and backwards at the same time."</i>
+<i>"You have the freedom to be yourself, your true self, here and now, and nothing can stand in your way."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
