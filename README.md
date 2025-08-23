@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In peace, sons bury their fathers. In war, fathers bury their sons. "</i>
+<i>"Goals are the fuel in the furnace of achievement."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
