@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every saint has a past, and every sinner has a future."</i>
+<i>"If a thing is worth doing, it is worth doing badly."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
