@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Character is doing what you don't want to do but know you should do."</i>
+<i>"Stop being a prisoner of your past. Become the architect of your future."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
