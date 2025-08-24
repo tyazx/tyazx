@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more."</i>
+<i>"Sometimes you have to shut your eyes, so you can see the real beauty."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Kilian Jornet</b>
 </blockquote>
 </p>
 
