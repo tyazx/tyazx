@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence comes not from always being right but not fearing to be wrong."</i>
+<i>"Everything is possible. The impossible just takes longer."</i>
 <br>
-<b>- Unknown</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
