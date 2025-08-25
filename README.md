@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes you have to shut your eyes, so you can see the real beauty."</i>
+<i>"The real measure of your wealth is how much you'd be worth if you lost all your money."</i>
 <br>
-<b>- Kilian Jornet</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
