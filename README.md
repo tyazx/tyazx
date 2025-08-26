@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If they wrote it to make money, don't read it."</i>
+<i>"Everything you've ever wanted is on the other side of fear."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- George Addair</b>
 </blockquote>
 </p>
 
