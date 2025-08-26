@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is the highway to success."</i>
+<i>"If they wrote it to make money, don't read it."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
