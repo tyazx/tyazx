@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the middle of difficulty lies opportunity."</i>
+<i>"Failure is the highway to success."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
