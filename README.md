@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is a prerequisite for great success. If you want success faster, double your rate of failure."</i>
+<i>"Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
