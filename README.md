@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where you are right now doesn't have to determine where you'll end up."</i>
+<i>"Because a thing seems difficult for you, do not think it impossible."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
