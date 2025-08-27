@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are always complaining that our days are few, and acting as though there would be no end of them.  "</i>
+<i>"Where you are right now doesn't have to determine where you'll end up."</i>
 <br>
-<b>- Seneca</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
