@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"This is the most simple and basic component of life: our struggles determine our successes."</i>
+<i>"Sometimes out of your biggest misery, comes your greatest gain."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
