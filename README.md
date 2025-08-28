@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many roads lead to the path, but basically there are only two: reason and practice. "</i>
+<i>"To be great is to be misunderstood."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
