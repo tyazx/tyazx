@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is those who concentrate on but one thing at a time who advance in this world."</i>
+<i>"Play your part in life, but never forget that it is only a role."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
