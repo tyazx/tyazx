@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be great is to be misunderstood."</i>
+<i>"Everything is in your own heart."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
