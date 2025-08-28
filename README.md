@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything is in your own heart."</i>
+<i>"You will succeed because most people are lazy."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Shahir Zag</b>
 </blockquote>
 </p>
 
