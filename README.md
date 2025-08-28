@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes things become possible if we want them bad enough."</i>
+<i>"You will have bad times, but they will always wake you up to the stuff you weren't paying attention to."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Robin Williams</b>
 </blockquote>
 </p>
 
