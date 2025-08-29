@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A wise man can learn more from a foolish question than a fool can learn from a wise answer.  "</i>
+<i>"We've got to live, no matter how many skies have fallen."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
