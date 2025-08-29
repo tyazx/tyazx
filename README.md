@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only real mistake is the one from which we learn nothing. "</i>
+<i>"Be like a postage stamp. Stick to it until you get there."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
