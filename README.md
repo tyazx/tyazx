@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reality is the leading cause of stress among those in touch with it."</i>
+<i>"He who knows how to wait need make no concessions."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
