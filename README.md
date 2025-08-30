@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life becomes easier and more beautiful when we can see the good in other people."</i>
+<i>"Correct what you can. Learn from what you can't."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Toni Morrison</b>
 </blockquote>
 </p>
 
