@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is a poor teacher."</i>
+<i>"Reality is the leading cause of stress among those in touch with it."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
