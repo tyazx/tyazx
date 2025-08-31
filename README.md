@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe and you're halfway there."</i>
+<i>"Live the moment for the moment."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
