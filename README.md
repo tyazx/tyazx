@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is always risk, so learn to manage risk instead of avoiding it."</i>
+<i>"To be great is to be misunderstood."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
