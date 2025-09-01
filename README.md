@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Convinced myself, I seek not to convince."</i>
+<i>"Everything you've ever wanted is on the other side of fear."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- George Addair</b>
 </blockquote>
 </p>
 
