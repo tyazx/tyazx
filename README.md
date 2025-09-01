@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the practice of tolerance, one's enemy is the best teacher."</i>
+<i>"Convinced myself, I seek not to convince."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
