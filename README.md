@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man with outward courage dares to die: a man with inner courage dares to live."</i>
+<i>"There are no ordinary moments."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
