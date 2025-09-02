@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where focus goes, energy flows."</i>
+<i>"If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
