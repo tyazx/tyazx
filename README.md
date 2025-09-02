@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Death walks faster than the wind and never returns what he has taken."</i>
+<i>"It is better to disappoint people with the truth than to appease them with a lie."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
