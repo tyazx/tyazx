@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others."</i>
+<i>"Imagination is the beginning of creation."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
