@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge."</i>
+<i>"Time you enjoy wasting, was not wasted."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
