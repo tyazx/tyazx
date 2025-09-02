@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A flower falls, even though we love it; and a weed grows, even though we do not love it."</i>
+<i>"Death walks faster than the wind and never returns what he has taken."</i>
 <br>
-<b>- Dogen</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
