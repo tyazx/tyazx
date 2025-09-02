@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Think and wonder, wonder and think."</i>
+<i>"Anyone who has ever made anything of importance was disciplined."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Andrew Hendrixson</b>
 </blockquote>
 </p>
 
