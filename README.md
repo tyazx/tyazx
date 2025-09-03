@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Become the kind of leader that people would follow voluntarily, even if you had no title or position."</i>
+<i>"An intelligent person hires people who are more intelligent than he is."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
