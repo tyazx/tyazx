@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What loneliness is more lonely than distrust?"</i>
+<i>"It is easy to discover what another has discovered before."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Christopher Columbus</b>
 </blockquote>
 </p>
 
