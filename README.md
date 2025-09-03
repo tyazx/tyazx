@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't concern yourself with the money. Be of service. Build. Work. Dream. Create."</i>
+<i>"Fool me once, shame on you; fool me twice, shame on me. "</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
