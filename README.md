@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself."</i>
+<i>"The spirit is beyond destruction. No one can bring an end to spirit which is everlasting."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
