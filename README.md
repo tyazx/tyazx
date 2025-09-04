@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is always risk, so learn to manage risk instead of avoiding it."</i>
+<i>"The moment you doubt whether you can fly, you cease for ever to be able to do it."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
