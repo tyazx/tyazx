@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The moment you doubt whether you can fly, you cease for ever to be able to do it."</i>
+<i>"The merit of all things lies in their difficulty."</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
