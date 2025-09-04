@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart. "</i>
+<i>"Memory is the scribe of the soul."</i>
 <br>
-<b>- St. Jerome</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
