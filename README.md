@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let your mind stop you."</i>
+<i>"There are no shortcuts to any place worth going. "</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
