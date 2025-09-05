@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you truly expect something to be difficult, it will be."</i>
+<i>"The destiny of man is in his own soul. "</i>
 <br>
-<b>- Peter A. Cohen</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
