@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who knows, does not speak. He who speaks, does not know."</i>
+<i>"Anything you may hold firmly in your imagination can be yours."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
