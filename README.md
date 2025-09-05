@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creativity is intelligence having fun."</i>
+<i>"If you truly expect something to be difficult, it will be."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Peter A. Cohen</b>
 </blockquote>
 </p>
 
