@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"May you find grace as you surrender to life. May you find happiness, as you stop seeking it."</i>
+<i>"Be a good animal, true to your instincts."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
