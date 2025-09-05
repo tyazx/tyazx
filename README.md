@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anything you may hold firmly in your imagination can be yours."</i>
+<i>"You must learn to let go. Release the stress. You were never in control anyway."</i>
 <br>
-<b>- William James</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
