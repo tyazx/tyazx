@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The thing about smart people is that they seem like crazy people to dumb people."</i>
+<i>"There is no path to Happiness. Happiness is the path."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
