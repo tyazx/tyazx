@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you stop questioning, you stop learning."</i>
+<i>"Only those who dare to fail greatly can ever achieve greatly."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
