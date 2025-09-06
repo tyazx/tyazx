@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no path to Happiness. Happiness is the path."</i>
+<i>"Cleverness is not wisdom."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
