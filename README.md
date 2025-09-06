@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everybody's life is either rewarding or an example."</i>
+<i>"People think about what they don't want and attract more of the same."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
