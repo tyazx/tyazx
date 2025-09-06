@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't try to be young. Just open your mind. Stay interested in stuff."</i>
+<i>"When you stop questioning, you stop learning."</i>
 <br>
-<b>- Betty White</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
