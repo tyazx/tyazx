@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People think about what they don't want and attract more of the same."</i>
+<i>"Don't try to be young. Just open your mind. Stay interested in stuff."</i>
 <br>
-<b>- Unknown</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
