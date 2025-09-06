@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only those who dare to fail greatly can ever achieve greatly."</i>
+<i>"A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
