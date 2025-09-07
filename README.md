@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The two most important days in your life are the day you are born and the day you find out why."</i>
+<i>"True wealth is of the heart, not of the purse."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
