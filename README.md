@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Embody what you teach, and teach only what you have embodied."</i>
+<i>"It's better to stand by someone's side than by yourself."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
