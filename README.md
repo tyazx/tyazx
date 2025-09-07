@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is found in unlikely places."</i>
+<i>"Embody what you teach, and teach only what you have embodied."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
