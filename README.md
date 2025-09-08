@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The highest form of ignorance is when you reject something you don't know anything about. "</i>
+<i>"Give out what you most want to come back."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
