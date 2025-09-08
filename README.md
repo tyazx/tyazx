@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all self-made, but only the successful will admit it."</i>
+<i>"We cannot always do great things in life, but we can do small things with great love."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
