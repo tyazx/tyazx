@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be royal in your own fashion: act like a king to be treated like one."</i>
+<i>"Duty makes us do things well, but love makes us do them beautifully.  "</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
