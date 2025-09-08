@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We cannot always do great things in life, but we can do small things with great love."</i>
+<i>"Live calmly. The time will come when the flowers bloom by themselves."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
