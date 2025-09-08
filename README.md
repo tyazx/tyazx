@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is found in unlikely places."</i>
+<i>"The highest form of ignorance is when you reject something you don't know anything about. "</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
