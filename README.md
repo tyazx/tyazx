@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never do things others can do and will do if there are things others cannot do or will not do."</i>
+<i>"Wealth is the product of man's capacity to think."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
