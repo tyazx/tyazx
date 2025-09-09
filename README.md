@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fiction is the truth inside the lie."</i>
+<i>"Those who are easily shocked should be shocked more often."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
