@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who are easily shocked should be shocked more often."</i>
+<i>"Everyone wants to go to Heaven, but no one wants to die."</i>
 <br>
-<b>- Mae West</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
