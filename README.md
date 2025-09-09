@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you reach the top of the mountain, keep climbing. "</i>
+<i>"Art, like morality, consists of drawing the line somewhere."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
