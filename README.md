@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone wants to go to Heaven, but no one wants to die."</i>
+<i>"All religions, arts and sciences are branches of the same tree. "</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
