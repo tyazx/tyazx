@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tall oaks grow from little acorns."</i>
+<i>"Comedy = tragedy + time."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
