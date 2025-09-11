@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being."</i>
+<i>"Preoccupied with a single leaf you won't see the tree."</i>
 <br>
-<b>- Anita Krizzan</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
