@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Comedy = tragedy + time."</i>
+<i>"The less people know, the more stubbornly they know it."</i>
 <br>
-<b>- Carol Burnett</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
