@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for."</i>
+<i>"Do not be so open-minded that your brains fall out."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
