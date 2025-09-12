@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We build too many walls and not enough bridges."</i>
+<i>"If you aim at nothing, you will hit it every time.  "</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
