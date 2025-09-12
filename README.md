@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like a wheel. Sooner or later, it always comes around to where you started again."</i>
+<i>"Life is love and love is life."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
