@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man is happy who does not think himself so."</i>
+<i>"The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
