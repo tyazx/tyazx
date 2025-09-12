@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I never said it would be easy, I only said it would be worth it."</i>
+<i>"Life is like a wheel. Sooner or later, it always comes around to where you started again."</i>
 <br>
-<b>- Mae West</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
