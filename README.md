@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't try to steer the river."</i>
+<i>"He is richest who is content with the least, for content is the wealth of nature."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
