@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He is richest who is content with the least, for content is the wealth of nature."</i>
+<i>"Make failure your teacher, not your undertaker.  "</i>
 <br>
-<b>- Socrates</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
