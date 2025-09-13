@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better to die fighting for freedom than be a prisoner all the days of your life."</i>
+<i>"Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
