@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our greatest glory is not in never falling but in rising every time we fall."</i>
+<i>"It is never too late to be what you might have been."</i>
 <br>
-<b>- Confucius</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
