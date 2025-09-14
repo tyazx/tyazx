@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stop wasting time looking at someone else's reality while doing nothing about yours."</i>
+<i>"Nothing is more real than nothing."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
