@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A diamond is a piece of charcoal that handled stress exceptionally well."</i>
+<i>"Your purpose will be clear only when you listen to your heart."</i>
 <br>
-<b>- Unknown</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
