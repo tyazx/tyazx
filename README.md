@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Making your mark on the world is hard. If it were easy, everybody would do it."</i>
+<i>"Life goes by fast. Enjoy it. Calm down. It's all funny."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
