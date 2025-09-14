@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are two things a person should never be angry at, what they can help, and what they cannot."</i>
+<i>"I'd rather welcome change than cling to the past."</i>
 <br>
-<b>- Plato</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
