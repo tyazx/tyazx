@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People do not decide their futures, they decide their habits and their habits decide their futures."</i>
+<i>"We are all self-made, but only the successful will admit it."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
