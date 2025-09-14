@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'd rather welcome change than cling to the past."</i>
+<i>"Don't wait for the right opportunity: create it."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
