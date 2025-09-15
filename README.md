@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is more real than nothing."</i>
+<i>"Let us always meet each other with smile, for the smile is the beginning of love."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
