@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let us always meet each other with smile, for the smile is the beginning of love."</i>
+<i>"The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
