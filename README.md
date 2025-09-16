@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest discovery of all time is that a person can change their future by merely changing their attitude."</i>
+<i>"Stop acting so small. You are the universe in ecstatic motion."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
