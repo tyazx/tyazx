@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Genius is patience."</i>
+<i>"The greatest discovery of all time is that a person can change their future by merely changing their attitude."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
