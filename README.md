@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is acceptable. Not trying is a whole different ball park."</i>
+<i>"A journey of a thousand miles must begin with a single step."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
