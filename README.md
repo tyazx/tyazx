@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has."</i>
+<i>"My mind seems to have become a kind of machine for grinding general laws out of large collections of facts."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
