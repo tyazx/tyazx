@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is a great teacher. If you're open to it every mistake has a lesson to offer."</i>
+<i>"He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
