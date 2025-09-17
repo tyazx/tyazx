@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep true. Never be ashamed of doing right. Decide what you think is right and stick to it."</i>
+<i>"The happiest people in the world are those who feel absolutely terrific about themselves."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
