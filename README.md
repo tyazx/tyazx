@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who has ever made anything of importance was disciplined."</i>
+<i>"The more I want to get something done, the less I call it work."</i>
 <br>
-<b>- Andrew Hendrixson</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
