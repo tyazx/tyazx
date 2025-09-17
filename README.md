@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The golden opportunity you are seeking is in yourself. It is not in your environment; it is not in luck or chance, or the help of others; it is in yourself alone. "</i>
+<i>"The eye with which I see God is the same eye with which God sees me."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
