@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The happiest people in the world are those who feel absolutely terrific about themselves."</i>
+<i>"Life is either a daring adventure, or it is nothing."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
