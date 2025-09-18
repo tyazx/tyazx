@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The dream is free, but the hustle is sold separately."</i>
+<i>"Whatever satisfies the soul is truth."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
