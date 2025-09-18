@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is either a daring adventure, or it is nothing."</i>
+<i>"The less people know, the more stubbornly they know it."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
