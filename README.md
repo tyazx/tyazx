@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less people know, the more stubbornly they know it."</i>
+<i>"True life is lived when tiny changes occur."</i>
 <br>
-<b>- Osho</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
