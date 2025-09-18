@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fool me once, shame on you; fool me twice, shame on me. "</i>
+<i>"The dream is free, but the hustle is sold separately."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
