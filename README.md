@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough. "</i>
+<i>"What most people need to learn in life is how to love people and use things instead of using people and loving things."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
