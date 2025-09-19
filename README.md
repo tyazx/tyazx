@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear."</i>
+<i>"The weak can never forgive. Forgiveness is the attribute of the strong."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
