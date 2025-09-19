@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter how tall the mountain is, it cannot block the sun."</i>
+<i>"Intense love does not measure, it just gives."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
