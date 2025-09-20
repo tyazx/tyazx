@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed. "</i>
+<i>"If I persist long enough I will win."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
