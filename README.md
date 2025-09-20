@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you see someone without a smile give them one of yours."</i>
+<i>"What you do today can improve all your tomorrows."</i>
 <br>
-<b>- Unknown</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
