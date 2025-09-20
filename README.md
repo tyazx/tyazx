@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Yesterday is but today's memory, tomorrow is today's dream."</i>
+<i>"Although the world is full of suffering, it is also full of the overcoming of it."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
