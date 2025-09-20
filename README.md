@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you."</i>
+<i>"I'm an optimist by choice not by stupidity."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
