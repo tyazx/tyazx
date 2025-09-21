@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He suffers more than necessary, who suffers before it is necessary.  "</i>
+<i>"If everyone is moving forward together, then success takes care of itself."</i>
 <br>
-<b>- Seneca</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
