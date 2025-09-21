@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Conscience is a man's compass. "</i>
+<i>"The only limits in our life are those we impose on ourselves."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
