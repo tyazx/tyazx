@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is the true magic carpet."</i>
+<i>"Curiosity is the most powerful thing you own."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- James Cameron</b>
 </blockquote>
 </p>
 
