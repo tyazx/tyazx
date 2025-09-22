@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Discipline is the bridge between goals and accomplishment."</i>
+<i>"The reward of suffering is experience."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
