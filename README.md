@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The strongest and sweetest songs yet remain to be sung."</i>
+<i>"It is far easier to start something than it is to finish it."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
