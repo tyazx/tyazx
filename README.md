@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every defeat, every heartbreak every loss, contains its own seed, its own lesson on how to improve your performance the next time."</i>
+<i>"Discipline is the bridge between goals and accomplishment."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
