@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is far easier to start something than it is to finish it."</i>
+<i>"My guiding principle is this: Guilt is never to be doubted. "</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
