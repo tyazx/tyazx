@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The reward of suffering is experience."</i>
+<i>"Life is like playing the violin in public and learning the instrument as one goes on."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
