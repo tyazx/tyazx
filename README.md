@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Curiosity is the most powerful thing you own."</i>
+<i>"All I can do is be me, whoever that is."</i>
 <br>
-<b>- James Cameron</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
