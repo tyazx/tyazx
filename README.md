@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your neighbor is the man who needs you."</i>
+<i>"The way out is in."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
