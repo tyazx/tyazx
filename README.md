@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is what we make out of what we have, not what we are given, that separates one person from another."</i>
+<i>"Failure is acceptable. Not trying is a whole different ball park."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
