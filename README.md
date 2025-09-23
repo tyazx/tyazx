@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even when a friend does something you do not like, he continues to be your friend. "</i>
+<i>"The wise man reads both books and life itself."</i>
 <br>
-<b>- Genghis Khan</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
