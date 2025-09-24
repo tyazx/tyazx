@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you do,strive to do it so well that no man living and no man dead and no man yet to be born could do it any better."</i>
+<i>"To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace."</i>
 <br>
-<b>- Benjamin Mays</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
