@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's much better to do good in a way that no one knows anything about it."</i>
+<i>"Sometimes you have to travel a long way to find what is near."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
