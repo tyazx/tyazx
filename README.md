@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If the plan doesn't work, change the plan, but never the goal."</i>
+<i>"You can avoid reality, but you cannot avoid the consequences of avoiding reality."</i>
 <br>
-<b>- Unknown</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
