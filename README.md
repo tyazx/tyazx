@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn to use your emotions to think, not think with your emotions."</i>
+<i>"The glow of one warm thought is to me worth more than money."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
