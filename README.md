@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When one does not have what one wants, one must want what one has."</i>
+<i>"Never let the fear of striking out keep you from playing the game."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Babe Ruth</b>
 </blockquote>
 </p>
 
