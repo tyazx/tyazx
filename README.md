@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One must be poor to know the luxury of giving."</i>
+<i>"Winners don't Quit. That's why they Win."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
