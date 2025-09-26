@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A strong man overcomes an obstacle, a wise man goes the whole way."</i>
+<i>"Just get out and do it. You will be very, very glad that you did."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
