@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just get out and do it. You will be very, very glad that you did."</i>
+<i>"Live life as though nobody is watching, and express yourself as though everyone is listening."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
