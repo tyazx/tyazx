@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A successful man is one who can lay a firm foundation with the bricks others have thrown at him.  "</i>
+<i>"Fear is stupid. So are regrets."</i>
 <br>
-<b>- David Brinkley</b>
+<b>- Marilyn Monroe</b>
 </blockquote>
 </p>
 
