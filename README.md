@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creativity is the greatest rebellion in existence."</i>
+<i>"No matter what happens in life, never lose sight of who you are."</i>
 <br>
-<b>- Osho</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
