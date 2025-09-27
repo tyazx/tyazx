@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves."</i>
+<i>"You know you are on the road to success if you would do your job and not be paid for it."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
