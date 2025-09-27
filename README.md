@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wise men speak because they have something to say; Fools because they have to say something."</i>
+<i>"The great use of life is to spend it for something that will outlast it."</i>
 <br>
-<b>- Plato</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
