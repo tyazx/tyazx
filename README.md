@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let your mind stop you."</i>
+<i>"Don't let them drag you down by rumors. Just go with what you believe in."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
