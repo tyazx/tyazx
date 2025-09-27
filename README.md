@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Education breeds confidence. Confidence breeds hope. Hope breeds peace."</i>
+<i>"Fear is what stops you. Courage is what keeps you going."</i>
 <br>
-<b>- Confucius</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
