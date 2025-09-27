@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you do in life, surround yourself with smart people who'll argue with you."</i>
+<i>"Don't let your mind stop you."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
