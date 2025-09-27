@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear is what stops you. Courage is what keeps you going."</i>
+<i>"Whatever you do in life, surround yourself with smart people who'll argue with you."</i>
 <br>
-<b>- Unknown</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
