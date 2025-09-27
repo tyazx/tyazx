@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way."</i>
+<i>"We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves."</i>
 <br>
 <b>- Kamal Ravikant</b>
 </blockquote>
