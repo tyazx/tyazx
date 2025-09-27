@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let them drag you down by rumors. Just go with what you believe in."</i>
+<i>"One of the most difficult things is not to change society - but to change yourself."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
