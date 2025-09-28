@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't let your failures define you. You have to let your failures teach you."</i>
+<i>"We can't help everyone, but everyone can help someone."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
