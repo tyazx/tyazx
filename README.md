@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first step toward getting somewhere is to decide that you are not going to stay where you are."</i>
+<i>"Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive."</i>
 <br>
-<b>- Unknown</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
