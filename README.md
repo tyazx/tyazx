@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure will never overtake me if my determination to succeed is strong enough."</i>
+<i>"You can't let your failures define you. You have to let your failures teach you."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
