@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing you do is going to matter that much in the long run. Don't take yourself so seriously."</i>
+<i>"A man that flies from his fear may find that he has only taken a short cut to meet it."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
