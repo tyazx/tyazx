@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board."</i>
+<i>"The first step toward getting somewhere is to decide that you are not going to stay where you are."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
