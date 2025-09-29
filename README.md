@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be not glad at the misfortune of another, though he may be your enemy. "</i>
+<i>"The people who succeed are irrationally passionate about something."</i>
 <br>
-<b>- George Washington</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
