@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first step toward getting somewhere is to decide that you are not going to stay where you are."</i>
+<i>"Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat."</i>
 <br>
-<b>- Unknown</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
