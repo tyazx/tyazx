@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We create the world and ourselves;"</i>
+<i>"Be not glad at the misfortune of another, though he may be your enemy. "</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
