@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is nothing more than a few simple disciplines practiced every day."</i>
+<i>"There's a very deep connection among human beings. All we have to do is open our minds to it."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
