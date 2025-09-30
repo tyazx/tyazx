@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only person you should try to be better than is the person you were yesterday."</i>
+<i>"Man's character is his fate."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
