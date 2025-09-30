@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all like the bright moon, we still have our darker side.  "</i>
+<i>"The only person you should try to be better than is the person you were yesterday."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
