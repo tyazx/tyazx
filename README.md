@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most creative act you will ever undertake is the act of creating yourself."</i>
+<i>"You don't get in life what you want; you get in life what you are."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
