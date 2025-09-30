@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some of us learn from other people's mistakes and the rest of us have to be other people.  "</i>
+<i>"Life needs to be more than just solving problems every day. You need to wake up and be excited about the future."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
