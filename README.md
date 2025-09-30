@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Arise, slay thy enemies, enjoy a prosperous kingdom."</i>
+<i>"Love never keeps a man from pursuing his destiny."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
