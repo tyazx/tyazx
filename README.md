@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life needs to be more than just solving problems every day. You need to wake up and be excited about the future."</i>
+<i>"Reversing your treatment of the man you have wronged is better than asking his forgiveness."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
