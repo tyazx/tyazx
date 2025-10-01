@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot."</i>
+<i>"In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
