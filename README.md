@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only person you should try to be better than is the person you were yesterday."</i>
+<i>"The scariest moment is always just before you start. After that, things can only get better."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
