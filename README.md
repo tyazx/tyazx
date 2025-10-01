@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Exceptional thinkers ignore their critics and go about their business making history."</i>
+<i>"No man becomes rich unless he enriches others."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
