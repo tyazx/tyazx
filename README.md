@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life needs to be more than just solving problems every day. You need to wake up and be excited about the future."</i>
+<i>"You can, you should, and if you're brave enough to start, you will."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
