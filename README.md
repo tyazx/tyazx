@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us."</i>
+<i>"If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present."</i>
 <br>
-<b>- Socrates</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
