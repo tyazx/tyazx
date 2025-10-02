@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have within you right now, everything you need to deal with whatever the world can throw at you."</i>
+<i>"A random act of kindness, no matter how small, can make a tremendous impact on someone else's life."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
