@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you praise and celebrate your life, the more there is in life to celebrate. "</i>
+<i>"Our deeds determine us, as much as we determine our deeds."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
