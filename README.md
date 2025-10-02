@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can, you should, and if you're brave enough to start, you will."</i>
+<i>"Make peace with your inner turmoil."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
