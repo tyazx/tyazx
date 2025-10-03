@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Argue for your limitations and sure enough, they're yours."</i>
+<i>"There is a difference between giving directions and giving direction."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
