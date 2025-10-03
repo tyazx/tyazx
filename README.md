@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Maybe you are searching among the branches, for what only appears in the roots."</i>
+<i>"If you look for perfection, you'll never be content."</i>
 <br>
-<b>- Rumi</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
