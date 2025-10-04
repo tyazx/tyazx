@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is hopeless; we must hope for everything."</i>
+<i>"Time flies whether you are having fun or not."</i>
 <br>
-<b>- Euripides</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
