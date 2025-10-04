@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're not failing every now and again, it's a sign you're not doing anything very innovative."</i>
+<i>"If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
