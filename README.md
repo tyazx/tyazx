@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time flies whether you are having fun or not."</i>
+<i>"Progress comes to those who train and train; reliance on secret techniques will get you nowhere."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
