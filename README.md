@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A single dream is more powerful than a thousand realities."</i>
+<i>"Nothing is hopeless; we must hope for everything."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
