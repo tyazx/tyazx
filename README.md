@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't go forward and backwards at the same time."</i>
+<i>"We run to win, not just to be in the race.  "</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
