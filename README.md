@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order to carry a positive action, we must develop here a positive vision."</i>
+<i>"Life comes at us in waves. We can't predict or control those waves, but we can learn to surf."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
