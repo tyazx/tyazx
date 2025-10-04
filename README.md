@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is truth that liberates, not your effort to be free."</i>
+<i>"A single dream is more powerful than a thousand realities."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
