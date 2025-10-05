@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is those who concentrate on but one thing at a time who advance in this world."</i>
+<i>"A heart is not judged by how much you love, but by how much you are loved by others."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
