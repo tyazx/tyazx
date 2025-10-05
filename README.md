@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life needs to be more than just solving problems every day. You need to wake up and be excited about the future."</i>
+<i>"The idea of ourselves is our escape from the fact of what we really are."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
