@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember that sometimes not getting what you want is a wonderful stroke of luck."</i>
+<i>"The wisdom of life consists in the elimination of the nonessentials."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
