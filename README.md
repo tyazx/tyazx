@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future depends on what you do today. "</i>
+<i>"Observe things as they are and don't pay attention to other people."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
