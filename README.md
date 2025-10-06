@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fool me once, shame on you; fool me twice, shame on me. "</i>
+<i>"We win by helping each other win."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
