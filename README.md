@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Progress comes to those who train and train; reliance on secret techniques will get you nowhere."</i>
+<i>"Elegance does not consist in putting on a new dress."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
