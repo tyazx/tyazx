@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail."</i>
+<i>"It doesn't matter what you do, only how well you do it."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
