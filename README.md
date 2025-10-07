@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts."</i>
+<i>"Embrace the life you have and stop wishing that you could be someone else."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
