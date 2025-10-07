@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"See what you're doing wrong, laugh at it, change and do better."</i>
+<i>"If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
