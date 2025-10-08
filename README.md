@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest work that kindness does to others is that it makes them kind themselves."</i>
+<i>"The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
