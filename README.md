@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time."</i>
+<i>"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. "</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
