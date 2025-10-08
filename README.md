@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Against the assault of laughter nothing can stand."</i>
+<i>"The great use of life is to spend it for something that will outlast it."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
