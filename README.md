@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The mind is the limit."</i>
+<i>"The greatest work that kindness does to others is that it makes them kind themselves."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
