@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams have only one owner at a time. That's why dreamers are lonely."</i>
+<i>"A day wasted on others is not wasted on one's self."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
