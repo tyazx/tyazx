@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some."</i>
+<i>"Don't wish it were easier, wish you were better."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
