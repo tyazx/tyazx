@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quality of your life is the quality of your relationships."</i>
+<i>"Be the change that you want to see in the world."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
