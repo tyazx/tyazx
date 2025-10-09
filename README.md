@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be the change that you want to see in the world."</i>
+<i>"Everyone wants to go to Heaven, but no one wants to die."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
