@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The soul without imagination is what an observatory would be without a telescope."</i>
+<i>"Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
