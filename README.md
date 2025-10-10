@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't make someone feel good about themselves until you feel good about yourself."</i>
+<i>"Many a man has failed because he had his wishbone where his backbone should have been."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
