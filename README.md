@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life has more imagination than we carry in our dreams."</i>
+<i>"Tradition is the illusion of permanence. "</i>
 <br>
-<b>- Christopher Columbus</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
