@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A hero is an ordinary person doing things in an extra ordinary way."</i>
+<i>"What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!"</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
