@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Paths are made by walking."</i>
+<i>"Life has more imagination than we carry in our dreams."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Christopher Columbus</b>
 </blockquote>
 </p>
 
