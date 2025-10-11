@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy."</i>
+<i>"Everything that is made beautiful and fair and lovely is made for the eye of one who sees."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
