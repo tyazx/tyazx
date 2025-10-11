@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is useless to attempt to reason a man out of a thing he was never reasoned into."</i>
+<i>"People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
