@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I can stop one heart from breaking, I shall not live in vain."</i>
+<i>"A needle is not sharp at both ends. "</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
