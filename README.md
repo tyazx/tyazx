@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the middle of chaos lies opportunity.  "</i>
+<i>"If you want others to be happy, practice compassion. If you want to be happy, practice compassion."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
