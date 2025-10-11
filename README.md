@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want others to be happy, practice compassion. If you want to be happy, practice compassion."</i>
+<i>"Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
