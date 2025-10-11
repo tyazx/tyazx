@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Manifest plainness, embrace simplicity, reduce selfishness, have few desires."</i>
+<i>"The farther backward you can look, the farther forward you are likely to see."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
