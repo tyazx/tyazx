@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!"</i>
+<i>"Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
