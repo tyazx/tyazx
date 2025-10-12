@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything has its beauty, but not everyone sees it. "</i>
+<i>"The enemy is a very good teacher."</i>
 <br>
-<b>- Confucius</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
