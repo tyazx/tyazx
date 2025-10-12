@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You change the world by being yourself."</i>
+<i>"Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
