@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The idea of ourselves is our escape from the fact of what we really are."</i>
+<i>"Everything has its beauty, but not everyone sees it. "</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
