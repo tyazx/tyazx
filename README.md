@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An ounce of performance is worth pounds of promises."</i>
+<i>"The trouble with the rat race is that even if you win, you're still a rat."</i>
 <br>
-<b>- Mae West</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
