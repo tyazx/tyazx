@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing brings down walls as surely as acceptance."</i>
+<i>"By perseverance the snail reached the ark."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Charles Spurgeon</b>
 </blockquote>
 </p>
 
