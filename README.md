@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The trouble with the rat race is that even if you win, you're still a rat."</i>
+<i>"Make no small plans for they have no power to stir the soul."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Niccolo Machiavelli</b>
 </blockquote>
 </p>
 
