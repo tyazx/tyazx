@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be truly ignorant, be content with your own knowledge."</i>
+<i>"I like the dreams of the future better than the history of the past."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
