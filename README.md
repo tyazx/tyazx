@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you build the guts to do something, anything, then you better save enough to face the consequences."</i>
+<i>"Do you want to know who you are? Don't ask. Act! Action will delineate and define you."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
