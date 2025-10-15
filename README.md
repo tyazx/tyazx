@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are not what you think you are, You are not what others think you are, You are what you think others think you are."</i>
+<i>"You must either modify your dreams or magnify your skills."</i>
 <br>
-<b>- Unknown</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
