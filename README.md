@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freedom itself demands discomfort."</i>
+<i>"The friendship that can cease has never been real. "</i>
 <br>
-<b>- Mark Manson</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
