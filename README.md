@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Constantly seek criticism. A well thought out critique of whatever you're doing is as valuable as gold."</i>
+<i>"Failure is simply the opportunity to begin again, this time more intelligently."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
