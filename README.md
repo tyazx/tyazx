@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be pushed around by the fears in your mind. Be led by the dreams in your heart."</i>
+<i>"20 percent of your activities will account for 80 percent of your results."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
