@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is simply the opportunity to begin again, this time more intelligently."</i>
+<i>"To be totally at leisure for one day is to be immortal for one day. "</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
