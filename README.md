@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not stop thinking of life as an adventure."</i>
+<i>"Don't be pushed around by the fears in your mind. Be led by the dreams in your heart."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
