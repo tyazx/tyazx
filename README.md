@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be totally at leisure for one day is to be immortal for one day. "</i>
+<i>"Do not stop thinking of life as an adventure."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
