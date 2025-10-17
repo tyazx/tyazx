@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is about doing the right thing, not about doing everything right."</i>
+<i>"The only real security that a man can have in this world is a reserve of knowledge, experience and ability. "</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
