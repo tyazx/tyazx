@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"20 percent of your activities will account for 80 percent of your results."</i>
+<i>"Nothing is particularly hard if you divide it into small jobs. "</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
