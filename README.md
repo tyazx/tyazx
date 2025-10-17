@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are not only responsible for what you say, but also for what you do not say. "</i>
+<i>"Our view of the world is truly shaped by what we decide to hear."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
