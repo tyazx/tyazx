@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rudeness is the weak man's imitation of strength."</i>
+<i>"Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
