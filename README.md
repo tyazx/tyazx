@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity."</i>
+<i>"It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable."</i>
 <br>
-<b>- Charles Spurgeon</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
