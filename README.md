@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whether you have a problem in your life or not depends upon your own attitude, your own understanding."</i>
+<i>"Desire for the fruits of work must never be your motive in working."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
