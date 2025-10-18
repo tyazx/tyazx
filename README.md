@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Desire for the fruits of work must never be your motive in working."</i>
+<i>"A good teacher opens the door for you, but you must enter the room by yourself."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
