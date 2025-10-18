@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good teacher opens the door for you, but you must enter the room by yourself."</i>
+<i>"For changes to be of any true value, they've got to be lasting and consistent."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
