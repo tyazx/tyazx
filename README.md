@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must be free not because we claim freedom, but because we practice it."</i>
+<i>"Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
