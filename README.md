@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For changes to be of any true value, they've got to be lasting and consistent."</i>
+<i>"There is only the one reality, neither to be realized nor attained."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
