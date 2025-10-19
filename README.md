@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future doesn't belong to the faint-hearted; it belongs to the brave."</i>
+<i>"Work is always an antidote to depression."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
