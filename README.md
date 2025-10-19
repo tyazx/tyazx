@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never put off to tomorrow what you can do to-day."</i>
+<i>"Everything you've ever wanted is on the other side of fear."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- George Addair</b>
 </blockquote>
 </p>
 
