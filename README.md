@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You will face many defeats in life, but never let yourself be defeated."</i>
+<i>"Remember to look up at the stars and not down at your feet."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
