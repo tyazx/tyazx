@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Turn the pain into power."</i>
+<i>"Cease striving. Then there will be transformation."</i>
 <br>
-<b>- Unknown</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
