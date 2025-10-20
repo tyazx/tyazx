@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is much more successfully looked at from a single window."</i>
+<i>"Don't listen to the person who has the answers; listen to the person who has the questions."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
