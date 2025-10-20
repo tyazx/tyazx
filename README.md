@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head."</i>
+<i>"It does not matter how slowly you go so long as you do not stop."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
