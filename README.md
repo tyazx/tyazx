@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot control the behavior of others, but you can always choose how you respond to it."</i>
+<i>"It isn't that they can't see the solution. It is that they can't see the problem."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
