@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The true soldier fights not because he hates what is in front of him, but because he loves what is behind him."</i>
+<i>"You cannot control the behavior of others, but you can always choose how you respond to it."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
