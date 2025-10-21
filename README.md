@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Guilt is perhaps the most painful companion of death."</i>
+<i>"You become a worrier by practicing worry. You become free of worry by practicing the opposite."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
