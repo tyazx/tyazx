@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all born ignorant, but one must work hard to remain stupid."</i>
+<i>"If you don't make things happen then things will happen to you."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
