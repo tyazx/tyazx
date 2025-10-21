@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let your mind stop you."</i>
+<i>"Guilt is perhaps the most painful companion of death."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
