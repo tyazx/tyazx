@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our greatest fears lie in anticipation."</i>
+<i>"It is in your moments of decision that your destiny is shaped."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
