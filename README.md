@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Create each day anew."</i>
+<i>"Nothing can survive without food. Everything we consume acts either to heal us or to poison us."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
