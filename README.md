@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime."</i>
+<i>"The important thing is not to stop questioning. Curiosity has its own reason for existing."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
