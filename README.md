@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Heal the past, live the present, dream the future."</i>
+<i>"One small positive thought can change your whole day."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
