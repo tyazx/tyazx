@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As soon as you trust yourself, you will know how to live."</i>
+<i>"Without education, we are in a horrible and deadly danger of taking educated people seriously."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
