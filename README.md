@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The important thing is not to stop questioning. Curiosity has its own reason for existing."</i>
+<i>"As soon as you trust yourself, you will know how to live."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
