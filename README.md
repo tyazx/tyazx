@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no significance in life without struggle."</i>
+<i>"Heal the past, live the present, dream the future."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
