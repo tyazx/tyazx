@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough. "</i>
+<i>"Force has no place where there is need of skill. "</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
