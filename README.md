@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Force has no place where there is need of skill. "</i>
+<i>"The real meditation is how you live your life."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
