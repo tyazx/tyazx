@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad."</i>
+<i>"Quality means doing it right when no one is looking."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
