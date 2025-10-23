@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enlightenment is intimacy with all things."</i>
+<i>"A moving door hinge never corrodes. Flowing water never grows stagnant."</i>
 <br>
-<b>- Dogen</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
