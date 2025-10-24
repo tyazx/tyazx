@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you think the world is withholding from you, you are withholding from the world."</i>
+<i>"Just do the best you can. No one can do more than that."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
