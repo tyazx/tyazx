@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Have the fearless attitude of a hero and the loving heart of a child."</i>
+<i>"The dream is free, but the hustle is sold separately."</i>
 <br>
-<b>- Soyen Shaku</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
