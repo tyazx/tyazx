@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter how tall the mountain is, it cannot block the sun."</i>
+<i>"Fear can hold you prisoner. Hope can set you free."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
