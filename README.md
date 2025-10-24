@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The dream is free, but the hustle is sold separately."</i>
+<i>"No matter how tall the mountain is, it cannot block the sun."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
