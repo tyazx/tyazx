@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Decide whether or not the goal is worth the risks involved. If it is, stop worrying."</i>
+<i>"He who leaves the game wins it."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
