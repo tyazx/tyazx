@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make each day a new horizon."</i>
+<i>"Be happy now, without reason - or you never will be at all."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
