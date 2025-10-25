@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be happy now, without reason - or you never will be at all."</i>
+<i>"Courage is the price that life exacts for granting peace."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
