@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Experience is simply the name we give our mistakes. "</i>
+<i>"Make each day a new horizon."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
