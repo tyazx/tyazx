@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is merely the name for the desire and pursuit of the whole."</i>
+<i>"Successful people appreciate where they have come from, but they don't let their past set the tone for their future."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
