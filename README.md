@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wise speak only of what they know."</i>
+<i>"She who loves roses must be patient and not cry out when she is pierced by thorns."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Kenji Miyazawa</b>
 </blockquote>
 </p>
 
