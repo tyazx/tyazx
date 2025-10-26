@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not conquer self, you will be conquered by self."</i>
+<i>"The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
