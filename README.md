@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you read a lot of books, you're considered well-read. But if you watch a lot of TV, you're not considered well-viewed."</i>
+<i>"Great things are not done by impulse, but by a series of small things brought together."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
