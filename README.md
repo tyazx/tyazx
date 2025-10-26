@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"She who loves roses must be patient and not cry out when she is pierced by thorns."</i>
+<i>"Love is merely the name for the desire and pursuit of the whole."</i>
 <br>
-<b>- Kenji Miyazawa</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
