@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great things are not done by impulse, but by a series of small things brought together."</i>
+<i>"Never settle for the crumbs of life."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
