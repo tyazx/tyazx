@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It still holds true that man is most uniquely human when he turns obstacles into opportunities."</i>
+<i>"Patience is a bitter plant, but its fruit is sweet."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
