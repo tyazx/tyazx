@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything will be ok in the end. If it's not ok, it's not the end."</i>
+<i>"To handle yourself, use your head; to handle others, use your heart."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
