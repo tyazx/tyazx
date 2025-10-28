@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the end, it's not the years in your life that count. It's the life in your years."</i>
+<i>"No valid plans for the future can be made by those who have no capacity for living now."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
