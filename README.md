@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not enough to win a war; it is more important to organize the peace."</i>
+<i>"I have never let my schooling interfere with my education."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
