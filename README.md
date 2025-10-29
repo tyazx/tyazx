@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mind is the creator of everything. You should therefore guide it to create only good."</i>
+<i>"An intelligence test sometimes shows a man how smart he would have been not to have taken it."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
