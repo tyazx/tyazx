@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always focus on the front windshield and not the rear view mirror."</i>
+<i>"I want the fishing rod, not the fish."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
