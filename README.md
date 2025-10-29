@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An intelligence test sometimes shows a man how smart he would have been not to have taken it."</i>
+<i>"The more one judges, the less one loves."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
