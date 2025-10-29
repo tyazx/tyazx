@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only lost cause is one we give up on before we enter the struggle."</i>
+<i>"The future depends on what you do today. "</i>
 <br>
-<b>- Vaclav Havel</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
