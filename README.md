@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I want the fishing rod, not the fish."</i>
+<i>"When one does not have what one wants, one must want what one has."</i>
 <br>
-<b>- Yanni</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
