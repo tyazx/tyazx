@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Human happiness and moral duty are inseparably connected. "</i>
+<i>"Always focus on the front windshield and not the rear view mirror."</i>
 <br>
-<b>- George Washington</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
