@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more one judges, the less one loves."</i>
+<i>"Life is trying things to see if they work."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
