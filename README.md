@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Integrity is telling myself the truth. And honesty is telling the truth to other people."</i>
+<i>"Life has no limitations except the ones you make."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
