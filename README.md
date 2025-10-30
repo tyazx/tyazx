@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Absorb what is useful, discard what is useless and add what is specifically your own.  "</i>
+<i>"Every moment of happiness requires a great amount of Ignorance"</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
