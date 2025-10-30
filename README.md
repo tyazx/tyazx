@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember we're all in this alone."</i>
+<i>"Fools read fast. Geniuses reread."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
