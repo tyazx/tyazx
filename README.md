@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I wasn't brave, I just didn't have time to be scared."</i>
+<i>"This is such a short and precious life that it's really important that you don't spend it being unhappy."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
