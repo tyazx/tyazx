@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Have a heart that never hardens, and a temper that never tires, and a touch that never hurts."</i>
+<i>"By failing to prepare, you are preparing to fail."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
