@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best thing to hold onto in life is each other."</i>
+<i>"If you're really truthful with yourself, it's a wonderful guidance.  "</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
