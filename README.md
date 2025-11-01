@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We cannot expect to be happy always... by experiencing evil as well as good we become wise."</i>
+<i>"Some people are old at 18 and some are young at 90. Time is a concept that humans created."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
