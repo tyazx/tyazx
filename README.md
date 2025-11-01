@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Comedy = tragedy + time."</i>
+<i>"Have a heart that never hardens, and a temper that never tires, and a touch that never hurts."</i>
 <br>
-<b>- Carol Burnett</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
