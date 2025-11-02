@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Over time, loneliness gets inside you and doesn't go away."</i>
+<i>"The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Benjamin Mays</b>
 </blockquote>
 </p>
 
