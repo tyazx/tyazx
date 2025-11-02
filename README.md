@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Very little is needed to make a happy life; it is all within yourself, in your way of thinking."</i>
+<i>"Over time, loneliness gets inside you and doesn't go away."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
