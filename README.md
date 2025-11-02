@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you're curious, you find lots of interesting things to do."</i>
+<i>"We cannot always do great things in life, but we can do small things with great love."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
