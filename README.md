@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Cleverness is not wisdom."</i>
+<i>"How to get more opportunity: Create more opportunity for others."</i>
 <br>
-<b>- Euripides</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
