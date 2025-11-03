@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wheresoever you go, go with all your heart."</i>
+<i>"If you need inspiration, don't do it."</i>
 <br>
-<b>- Confucius</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
