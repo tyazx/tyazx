@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life does not get better by chance, it gets better by change."</i>
+<i>"Learn to use your emotions to think, not think with your emotions."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
