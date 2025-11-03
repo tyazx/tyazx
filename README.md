@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Big people don't make people feel small."</i>
+<i>"Life does not get better by chance, it gets better by change."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
