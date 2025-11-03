@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn to use your emotions to think, not think with your emotions."</i>
+<i>"Never whine, never complain, never try to justify yourself."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
