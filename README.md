@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing good ever comes of violence."</i>
+<i>"Let not your mind run on what you lack as much as on what you have already."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
