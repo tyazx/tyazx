@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What do we live for, if it is not to make life less difficult for each other?"</i>
+<i>"True it is, we only hate those whom we do not know."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
