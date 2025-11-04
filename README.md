@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True it is, we only hate those whom we do not know."</i>
+<i>"Nothing good ever comes of violence."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
