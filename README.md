@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He that can have patience can have what he will."</i>
+<i>"Leave the beaten track behind occasionally and dive into the woods. Every time you do you will be certain to find something you have never seen before."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
