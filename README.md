@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your next step is simple. You are the first domino."</i>
+<i>"You are now, and you do become, what you think about."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
