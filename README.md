@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are now, and you do become, what you think about."</i>
+<i>"Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
