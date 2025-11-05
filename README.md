@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No great mind has ever existed without a touch of madness."</i>
+<i>"When you move beyond your fear, you feel free."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
