@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it."</i>
+<i>"A day wasted on others is not wasted on one's self."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
