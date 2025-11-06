@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The farther backward you can look, the farther forward you are likely to see."</i>
+<i>"Nothing can bring you peace but yourself."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
