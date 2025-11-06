@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is during our darkest moments that we must focus to see the light."</i>
+<i>"You'll never find rainbows if you're looking down.  "</i>
 <br>
-<b>- Aristotle</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
