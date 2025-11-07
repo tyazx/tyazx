@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is either a daring adventure, or it is nothing."</i>
+<i>"Progress is impossible without change, and those who cannot change their minds cannot change anything."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
