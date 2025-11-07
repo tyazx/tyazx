@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The journey is what brings us happiness not the destination."</i>
+<i>"Life is either a daring adventure, or it is nothing."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
