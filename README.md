@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want something you've never had you must be willing to do something you've never done."</i>
+<i>"Winners are not people who never fail, but people who never quit."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
