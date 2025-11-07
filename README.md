@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winners are not people who never fail, but people who never quit."</i>
+<i>"The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
