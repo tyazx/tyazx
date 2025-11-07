@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are two kinds of perfect people: those who are dead, and those who have not been born yet."</i>
+<i>"No amount of regretting can change the past, and no amount of worrying can change the future."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
