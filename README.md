@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Out of suffering have emerged the strongest souls; the most massive characters are seared with scars."</i>
+<i>"In the midst of chaos, there is also opportunity."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
