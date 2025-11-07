@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Generosity is giving more than you can, and pride is taking less than you need."</i>
+<i>"The more you trust yourself, the less you compare yourself to others."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
