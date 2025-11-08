@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Any game becomes important when you know and love the players."</i>
+<i>"Not doing it is certainly the best way to not getting it.  "</i>
 <br>
-<b>- W.P. Kinsella</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
