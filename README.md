@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love and compassion are necessities, not luxuries. Without them, humanity cannot survive."</i>
+<i>"Any game becomes important when you know and love the players."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- W.P. Kinsella</b>
 </blockquote>
 </p>
 
