@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You gain strength, courage and confidence by every experience in which you really stop to look fear in the face."</i>
+<i>"It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
