@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine."</i>
+<i>"Everything begins with an idea."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
