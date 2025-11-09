@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only real security that a man can have in this world is a reserve of knowledge, experience and ability. "</i>
+<i>"The wiser you get, the less you care to look like a fool."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
