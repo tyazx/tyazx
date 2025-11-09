@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey."</i>
+<i>"Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
