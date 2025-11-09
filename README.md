@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is those who concentrate on but one thing at a time who advance in this world."</i>
+<i>"The more people you help become successful the more successful you become."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
