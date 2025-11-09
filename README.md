@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Find your Light; They can't love you if they can't see you."</i>
+<i>"It is those who concentrate on but one thing at a time who advance in this world."</i>
 <br>
-<b>- Bette Midler</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
