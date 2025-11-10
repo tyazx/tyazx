@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quality of your life is determined by the quality of questions you ask."</i>
+<i>"Worry is a waste of emotional reserve."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
