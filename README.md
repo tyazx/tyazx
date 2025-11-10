@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are not one person, but three: The one you think you are; The one others think you are; The one you really are."</i>
+<i>"We must not sit down and wait for miracles. Up and be going!"</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
