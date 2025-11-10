@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If there is a book that you want to read, but it hasn't been written yet, then you must write it."</i>
+<i>"A loving heart is the truest wisdom."</i>
 <br>
-<b>- Toni Morrison</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
