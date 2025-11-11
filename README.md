@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way out is in."</i>
+<i>"Our happiness depends on the habit of mind we cultivate."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
