@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are not one person, but three: The one you think you are; The one others think you are; The one you really are."</i>
+<i>"Many of life's failures are people who did not realize how close they were to success when they gave up."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
