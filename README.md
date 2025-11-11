@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Expect the best of yourself, and then do what is necessary to make it a reality."</i>
+<i>"Love and compassion are necessities, not luxuries. Without them, humanity cannot survive."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
