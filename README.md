@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stop comparing yourself to others and focus on your own improvement."</i>
+<i>"Either write something worth reading or do something worth writing."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
