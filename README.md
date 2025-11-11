@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is knowing what not to fear."</i>
+<i>"Inspire yourself to be great. Being good isn't good enough."</i>
 <br>
-<b>- Plato</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
