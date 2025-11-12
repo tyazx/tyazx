@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest weariness comes from work not done."</i>
+<i>"The person who cannot control his words shows that he cannot control himself."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
