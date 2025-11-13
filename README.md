@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people achieved their greatest success one step beyond what looked like their greatest failure."</i>
+<i>"Everything is created twice, first in the mind and then in reality."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
