@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Lack of emotion causes lack of progress and lack of motivation."</i>
+<i>"What do we live for, if it is not to make life less difficult for each other?"</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
