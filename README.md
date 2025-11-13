@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man suffers only because he takes seriously what the gods made for fun."</i>
+<i>"We must not be afraid of dreaming the seemingly impossible if we want the seemingly impossible to become a reality."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
