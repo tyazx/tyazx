@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything is created twice, first in the mind and then in reality."</i>
+<i>"Man suffers only because he takes seriously what the gods made for fun."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
