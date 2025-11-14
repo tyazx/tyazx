@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If everyone is moving forward together, then success takes care of itself."</i>
+<i>"Everybody by your side ain't on your side."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
