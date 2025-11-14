@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When people are free to do as they please, they usually imitate each other."</i>
+<i>"There is no self-discovery without pain and loss."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
