@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The spirit is beyond destruction. No one can bring an end to spirit which is everlasting."</i>
+<i>"Not all those who wander are lost."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
