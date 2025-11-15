@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not all those who wander are lost."</i>
+<i>"Nothing you do is going to matter that much in the long run. Don't take yourself so seriously."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
