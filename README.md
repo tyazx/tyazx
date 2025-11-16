@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of life is to fall seven times and to get up eight times."</i>
+<i>"We are all faced with a series of great opportunities brilliantly disguised as impossible situations. "</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Charles Swindoll</b>
 </blockquote>
 </p>
 
