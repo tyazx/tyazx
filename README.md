@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Living life in style also means living a life of balance."</i>
+<i>"The secret of life is to fall seven times and to get up eight times."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
