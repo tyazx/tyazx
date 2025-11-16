@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enjoy life. There's plenty of time to be dead."</i>
+<i>"Peaceful is the one who expects nothing."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
