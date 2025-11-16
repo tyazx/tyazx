@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tension is who you think you should be. Relaxation is who you are."</i>
+<i>"He who is not contented with what he has, would not be contented with what he would like to have."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
