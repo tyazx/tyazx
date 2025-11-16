@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you realize you've made a mistake, take immediate steps to correct it."</i>
+<i>"Living life in style also means living a life of balance."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
