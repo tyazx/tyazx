@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who is not contented with what he has, would not be contented with what he would like to have."</i>
+<i>"There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will."</i>
 <br>
-<b>- Socrates</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
