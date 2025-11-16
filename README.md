@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peaceful is the one who expects nothing."</i>
+<i>"Never was anything great achieved without danger."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Niccolo Machiavelli</b>
 </blockquote>
 </p>
 
