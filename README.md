@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let the past steal your present."</i>
+<i>"Enjoy life. There's plenty of time to be dead."</i>
 <br>
-<b>- Cherralea Morgen</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
