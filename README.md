@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Supreme excellence consists of breaking the enemy's resistance without fighting."</i>
+<i>"Great things are not accomplished by those who yield to trends and fads and popular opinion."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Jack Kerouac</b>
 </blockquote>
 </p>
 
