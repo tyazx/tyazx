@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not bite at the bait of pleasure, till you know there is no hook beneath it."</i>
+<i>"The wise speak only of what they know."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
