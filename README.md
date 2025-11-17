@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great things are not accomplished by those who yield to trends and fads and popular opinion."</i>
+<i>"It's not what you pay a man, but what he costs you that counts."</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
