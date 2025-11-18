@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence."</i>
+<i>"It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
