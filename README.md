@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As soon as you truly commit to making something happen, the 'how' will reveal itself."</i>
+<i>"There are no secrets to success. It is the result of preparation, hard work, and learning from failure."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
