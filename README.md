@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Growth comes at the point of resistance."</i>
+<i>"As soon as you truly commit to making something happen, the 'how' will reveal itself."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
