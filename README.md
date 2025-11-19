@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The number one cause of failure is the fear of failure."</i>
+<i>"The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
