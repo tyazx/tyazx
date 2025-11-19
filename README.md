@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality."</i>
+<i>"Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
