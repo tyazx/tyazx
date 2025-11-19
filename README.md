@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you become is far more important than what you get."</i>
+<i>"Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
