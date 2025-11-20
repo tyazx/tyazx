@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes letting things go is an act of far greater power than defending or hanging on."</i>
+<i>"Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
