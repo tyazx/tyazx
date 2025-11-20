@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ability is a poor man's wealth."</i>
+<i>"Find your Light; They can't love you if they can't see you."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Bette Midler</b>
 </blockquote>
 </p>
 
