@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Decide whether or not the goal is worth the risks involved. If it is, stop worrying."</i>
+<i>"Just as true humor is laughter at oneself, true humanity is knowledge of oneself."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
