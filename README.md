@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new."</i>
+<i>"Decide whether or not the goal is worth the risks involved. If it is, stop worrying."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
