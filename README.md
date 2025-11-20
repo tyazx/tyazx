@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not regret the past. Look to the future."</i>
+<i>"Sometimes letting things go is an act of far greater power than defending or hanging on."</i>
 <br>
-<b>- Soyen Shaku</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
