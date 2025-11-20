@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just as true humor is laughter at oneself, true humanity is knowledge of oneself."</i>
+<i>"The degree of responsibility you take for your life determines how much change you can create in it."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
