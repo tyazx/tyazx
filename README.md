@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Argue for your limitations and sure enough, they're yours."</i>
+<i>"A change is brought about because ordinary people do extraordinary things."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
