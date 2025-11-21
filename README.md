@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A change is brought about because ordinary people do extraordinary things."</i>
+<i>"Nothing like a health problem to turn up the contrast dial for the rest of life."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
