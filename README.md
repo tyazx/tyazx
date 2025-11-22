@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Action is the foundational key to all success."</i>
+<i>"Nothing important is learned; it is simply remembered."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
