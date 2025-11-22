@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even when you think you have your life all mapped out, things happen that shape your destiny in ways you might never have imagined."</i>
+<i>"I can live without money, but I cannot live without love."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
