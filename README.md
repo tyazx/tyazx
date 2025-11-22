@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest value of a picture is when it forces us to notice what we never expected to see."</i>
+<i>"Action is the foundational key to all success."</i>
 <br>
-<b>- John Tukey</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
