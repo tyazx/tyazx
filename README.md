@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If there were no God, there would be no atheists."</i>
+<i>"Genius is patience."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
