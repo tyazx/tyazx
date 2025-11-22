@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time is a game played beautifully by children."</i>
+<i>"If there were no God, there would be no atheists."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
