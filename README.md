@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I can live without money, but I cannot live without love."</i>
+<i>"Success is never final; failure is never fatal."</i>
 <br>
-<b>- Judy Garland</b>
+<b>- Conrad Hilton</b>
 </blockquote>
 </p>
 
