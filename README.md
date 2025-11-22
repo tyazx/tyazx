@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is never final; failure is never fatal."</i>
+<i>"The greatest value of a picture is when it forces us to notice what we never expected to see."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- John Tukey</b>
 </blockquote>
 </p>
 
