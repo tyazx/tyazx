@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For all evils there are two remedies - time and silence."</i>
+<i>"Courage is knowing what not to fear."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
