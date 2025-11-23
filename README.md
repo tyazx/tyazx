@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It doesn't matter how much you want. What really matters is how much you want it."</i>
+<i>"There is no self-discovery without pain and loss."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
