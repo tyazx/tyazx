@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Things do not have meaning. We assign meaning to everything."</i>
+<i>"To create more positive results in your life, replace 'if only' with 'next time'."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
