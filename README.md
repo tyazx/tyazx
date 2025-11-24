@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Today you are you, that is truer than true. There is no one alive who is you-er than you."</i>
+<i>"Honesty is the first chapter in the book of wisdom."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
