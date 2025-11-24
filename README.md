@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you believe with feeling becomes your reality. "</i>
+<i>"Your greatest asset is your earning ability. Your greatest resource is your time."</i>
 <br>
 <b>- Brian Tracy</b>
 </blockquote>
