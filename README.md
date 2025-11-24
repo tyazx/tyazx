@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you do in life, surround yourself with smart people who'll argue with you."</i>
+<i>"As you think, you travel, and as you love, you attract."</i>
 <br>
-<b>- John Wooden</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
