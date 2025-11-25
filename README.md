@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No kind action ever stops with itself. One kind action leads to another. Good example is followed."</i>
+<i>"It is better to offer no excuse than a bad one. "</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
