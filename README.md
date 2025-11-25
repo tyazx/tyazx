@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to offer no excuse than a bad one. "</i>
+<i>"The worst part of success is trying to find someone who is happy for you."</i>
 <br>
-<b>- George Washington</b>
+<b>- Bette Midler</b>
 </blockquote>
 </p>
 
