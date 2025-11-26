@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is going from failure to failure without losing your enthusiasm"</i>
+<i>"Wisdom is the oneness of mind that guides and permeates all things."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
