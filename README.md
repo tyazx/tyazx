@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom is the oneness of mind that guides and permeates all things."</i>
+<i>"We must learn to live together as brothers or perish together as fools."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
