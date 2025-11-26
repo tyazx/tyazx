@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If everyone is moving forward together, then success takes care of itself."</i>
+<i>"The sun is new each day."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
