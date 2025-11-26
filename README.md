@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can spend our whole lives escaping from the monsters of our minds."</i>
+<i>"Success is going from failure to failure without losing your enthusiasm"</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
