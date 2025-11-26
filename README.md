@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order to be irreplaceable one must always be different."</i>
+<i>"The person who never made a mistake never tried anything new."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
