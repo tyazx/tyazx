@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A wise man can learn more from a foolish question than a fool can learn from a wise answer.  "</i>
+<i>"In order to be irreplaceable one must always be different."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
