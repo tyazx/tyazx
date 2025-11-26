@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Prefer to be defeated in the presence of the wise than to excel among fools."</i>
+<i>"If everyone is moving forward together, then success takes care of itself."</i>
 <br>
-<b>- Dogen</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
