@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Shoot for the moon, because even if you miss, you'll land among the stars."</i>
+<i>"Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Jeffrey Gitomer</b>
 </blockquote>
 </p>
 
