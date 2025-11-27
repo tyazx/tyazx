@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Either you run the day or the day runs you."</i>
+<i>"The highest level of wisdom is when you not only accept but love adversity."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
