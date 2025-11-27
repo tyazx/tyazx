@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The highest level of wisdom is when you not only accept but love adversity."</i>
+<i>"Maybe you are searching among the branches, for what only appears in the roots."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
