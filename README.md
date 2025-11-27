@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no shortcuts to any place worth going."</i>
+<i>"Self-knowledge is the beginning of self-correction."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
