@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The destiny of man is in his own soul. "</i>
+<i>"Invisible things are the only realities."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
