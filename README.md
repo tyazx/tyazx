@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Act as if what you do makes a difference. It does."</i>
+<i>"Only those who dare to fail greatly can ever achieve greatly."</i>
 <br>
-<b>- William James</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
