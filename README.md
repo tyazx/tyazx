@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only those who dare to fail greatly can ever achieve greatly."</i>
+<i>"The destiny of man is in his own soul. "</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
