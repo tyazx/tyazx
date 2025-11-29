@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like playing the violin in public and learning the instrument as one goes on."</i>
+<i>"Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
