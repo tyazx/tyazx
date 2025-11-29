@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more."</i>
+<i>"Your business is not to 'get somewhere' - it is to be here."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
