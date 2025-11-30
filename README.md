@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throughout this life, you can never be certain of living long enough to take another breath."</i>
+<i>"An intelligent person hires people who are more intelligent than he is."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
