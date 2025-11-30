@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is a prerequisite for great success. If you want success faster, double your rate of failure."</i>
+<i>"Once you choose hope, anything's possible."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
