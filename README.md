@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What's the point in being smart enough to read, if everything you read makes you dumb?"</i>
+<i>"If you've never eaten while crying you don t know what life tastes like."</i>
 <br>
-<b>- C. Sean McGee</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
