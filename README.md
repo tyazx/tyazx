@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An intelligent person hires people who are more intelligent than he is."</i>
+<i>"Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
