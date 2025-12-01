@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"At first dreams seem impossible, then improbable, then inevitable."</i>
+<i>"Always do what is right. It will gratify half of mankind and astound the other."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
