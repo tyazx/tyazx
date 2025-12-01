@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you done it, it ain't bragging."</i>
+<i>"The roots of education are bitter, but the fruit is sweet."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
