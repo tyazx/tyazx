@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has."</i>
+<i>"Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
