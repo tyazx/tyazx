@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is a consequence and must not be a goal."</i>
+<i>"Simplicity is the glory of expression."</i>
 <br>
-<b>- Gustave Flaubert</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
