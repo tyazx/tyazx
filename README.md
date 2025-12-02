@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Normality is a paved road: It's comfortable to walk, but no flowers grow on it."</i>
+<i>"He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
