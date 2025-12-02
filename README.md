@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot have a positive life and a negative mind."</i>
+<i>"The whole is greater than the sum of its parts."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
