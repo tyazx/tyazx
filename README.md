@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some of your greatest lessons come from your darkest moments."</i>
+<i>"You'll never find rainbows if you're looking down.  "</i>
 <br>
-<b>- Roger Lee</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
