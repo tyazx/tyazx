@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The attempt to escape from pain, is what creates more pain."</i>
+<i>"Failure is the key to success; each mistake teaches us something."</i>
 <br>
-<b>- Gabor Mate</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
