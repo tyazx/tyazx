@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You'll never find rainbows if you're looking down.  "</i>
+<i>"The hard path is often the right one. The river teaches more than the shore."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
