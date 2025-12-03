@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like a beautiful melody, only the lyrics are messed up."</i>
+<i>"Go and do the things you can't. That is how you get to do them."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
