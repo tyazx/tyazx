@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you get by achieving your goals is not as important as what you become by achieving your goals."</i>
+<i>"It takes a very long time to become young."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
