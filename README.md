@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What we dwell on is who we become."</i>
+<i>"If you aren't sure which way to do something, do it both ways and see which works better."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- John Carmack</b>
 </blockquote>
 </p>
 
