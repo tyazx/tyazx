@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you aren't sure which way to do something, do it both ways and see which works better."</i>
+<i>"I would rather be hated for who I am than loved for who I'm not.  "</i>
 <br>
-<b>- John Carmack</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
