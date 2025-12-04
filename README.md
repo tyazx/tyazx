@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The fastest way to change is to laugh at your own folly."</i>
+<i>"Amateurs sit and wait for inspiration, the rest of us just get up and got to work."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
