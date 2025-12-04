@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I would rather be hated for who I am than loved for who I'm not.  "</i>
+<i>"The fastest way to change is to laugh at your own folly."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
