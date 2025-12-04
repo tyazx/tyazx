@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not fair to ask of others what you are not willing to do yourself."</i>
+<i>"In order to be irreplaceable one must always be different."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
