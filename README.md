@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We think too much and feel too little."</i>
+<i>"Do Something. If it works, do more of it. If it doesn't, do something else."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
