@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is merely the name for the desire and pursuit of the whole."</i>
+<i>"Every man desires to live long, but no man wishes to be old."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
