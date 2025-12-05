@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A needle is not sharp at both ends. "</i>
+<i>"Always remember that you are absolutely unique. Just like everyone else. "</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
