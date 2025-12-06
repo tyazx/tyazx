@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One never does wrong by doing right."</i>
+<i>"Only in the agony of parting do we look into the depths of love."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
