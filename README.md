@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances."</i>
+<i>"Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
