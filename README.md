@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing can bring you peace but yourself."</i>
+<i>"Nothing makes a man broad-minded like adversity."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
