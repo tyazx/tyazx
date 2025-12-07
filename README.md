@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people do what unsuccessful people are not willing to do."</i>
+<i>"It is not what we get. But who we become, what we contribute... that gives meaning to our lives."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
