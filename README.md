@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing makes a man broad-minded like adversity."</i>
+<i>"Making your mark on the world is hard. If it were easy, everybody would do it."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
