@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not what we get. But who we become, what we contribute... that gives meaning to our lives."</i>
+<i>"There is little success where there is little laughter."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
