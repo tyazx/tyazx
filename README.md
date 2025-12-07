@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every day may not be good, but there's something good in every day."</i>
+<i>"Nothing can bring you peace but yourself."</i>
 <br>
-<b>- Unknown</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
