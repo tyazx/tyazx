@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking."</i>
+<i>"Greatness lies not in being strong, but in the right use of strength."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
