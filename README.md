@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To lose your temper is only useful once a year."</i>
+<i>"Ask no questions, and you'll be told no lies."</i>
 <br>
-<b>- Colin R. Davis</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
