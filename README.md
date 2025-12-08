@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ask no questions, and you'll be told no lies."</i>
+<i>"Failure is the key to success; each mistake teaches us something."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
