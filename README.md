@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way."</i>
+<i>"Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. "</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
