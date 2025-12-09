@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Falling down is not failure. Failure comes when you stay where you have fallen."</i>
+<i>"Whatever happens always happens on time."</i>
 <br>
-<b>- Socrates</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
