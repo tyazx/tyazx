@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give so much away people insist on paying you."</i>
+<i>"Don't be afraid to see what you see."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
