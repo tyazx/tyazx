@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Treat every moment as your last. It is not preparation for something else."</i>
+<i>"Victims recite problems, leaders provide solutions."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
