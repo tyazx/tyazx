@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even if you're sure you can win, be careful that you can live with what you lose."</i>
+<i>"Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Conrad Hilton</b>
 </blockquote>
 </p>
 
