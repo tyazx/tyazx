@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid to see what you see."</i>
+<i>"Falling down is not failure. Failure comes when you stay where you have fallen."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
