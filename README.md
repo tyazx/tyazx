@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily."</i>
+<i>"Give so much away people insist on paying you."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
