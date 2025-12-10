@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Looking after my health today gives me a better hope for tomorrow. "</i>
+<i>"Don't let the noise of others' opinions drown out your own inner voice."</i>
 <br>
-<b>- Anne Wilson Schaef</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
