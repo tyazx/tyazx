@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If they wrote it to make money, don't read it."</i>
+<i>"If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
