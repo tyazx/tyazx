@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The purpose of life is the expansion of happiness."</i>
+<i>"Work for something because it is good, not just because it stands a chance to succeed."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
