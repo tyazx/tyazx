@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful.  "</i>
+<i>"Life is like playing the violin in public and learning the instrument as one goes on."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
