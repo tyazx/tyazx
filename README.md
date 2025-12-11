@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You may delay, but time will not."</i>
+<i>"The purpose of life is the expansion of happiness."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
