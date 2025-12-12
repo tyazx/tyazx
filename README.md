@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You'll see it when you believe it. "</i>
+<i>"Give so much away people insist on paying you."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
