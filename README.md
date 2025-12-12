@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only by attracting the best people will you accomplish great deeds."</i>
+<i>"Respect other people's feelings. It might mean nothing to you, but it could mean everything to them."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
