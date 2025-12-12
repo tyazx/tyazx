@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give so much away people insist on paying you."</i>
+<i>"Only by attracting the best people will you accomplish great deeds."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
