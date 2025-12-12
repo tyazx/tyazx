@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less people know, the more stubbornly they know it."</i>
+<i>"The salvation of the world lies in the human heart."</i>
 <br>
-<b>- Osho</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
