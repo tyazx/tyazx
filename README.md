@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The measure of wisdom is how calm you are when facing any given situation."</i>
+<i>"When one door closes another door opens. "</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
