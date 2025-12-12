@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep others in suspense, cultivate an air of unpredictability."</i>
+<i>"The less people know, the more stubbornly they know it."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
