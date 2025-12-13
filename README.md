@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth will always be truth, regardless of lack of understanding, disbelief or ignorance. "</i>
+<i>"Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- Sydney Smith</b>
 </blockquote>
 </p>
 
