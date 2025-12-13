@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The measure of who we are is what we do with what we have."</i>
+<i>"Unhappiness enters through a door that has been left open."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
