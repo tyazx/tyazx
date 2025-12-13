@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not as important how we start, but how we finish."</i>
+<i>"Eighty percent of success is showing up. "</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
