@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We will outstretch the hand if you unclench your fist."</i>
+<i>"The measure of who we are is what we do with what we have."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
