@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything."</i>
+<i>"You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being."</i>
 <br>
-<b>- Sydney Smith</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
