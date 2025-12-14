@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Art is the signature of civilizations. "</i>
+<i>"If anything is worth doing, do it with all your heart."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
