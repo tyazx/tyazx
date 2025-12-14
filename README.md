@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All that we see or seem is but a dream within a dream."</i>
+<i>"Keep others in suspense, cultivate an air of unpredictability."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
