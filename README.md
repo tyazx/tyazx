@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Real learning comes about when the competitive spirit has ceased."</i>
+<i>"Laziness may appear attractive, but work gives satisfaction."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
