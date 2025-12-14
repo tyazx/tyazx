@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You live by what you thrill to, and there's the end of it."</i>
+<i>"It's not what happens to you, but how you react to it that matters."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
