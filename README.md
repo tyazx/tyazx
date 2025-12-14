@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some men see things as they are and ask why. Others dream things that never were and ask why not."</i>
+<i>"It is not fair to ask of others what you are not willing to do yourself."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
