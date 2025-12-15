@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never do to others what you would not like them to do to you. "</i>
+<i>"You can often change your circumstances by changing your attitude."</i>
 <br>
-<b>- Confucius</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
