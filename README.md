@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live your life as an exclamation rather than an explanation."</i>
+<i>"Never say never, because limits, like fears, are often just an illusion."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
