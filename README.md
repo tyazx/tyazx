@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness can be found, even in the darkest of times, if one only remembers to turn on the light."</i>
+<i>"Quiet people have the loudest minds."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
