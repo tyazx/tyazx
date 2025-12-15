@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no limit to the amount of good you can do if you don't care who gets the credit."</i>
+<i>"Never do to others what you would not like them to do to you. "</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
