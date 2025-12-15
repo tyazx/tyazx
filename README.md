@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you reach the end of your rope, tie a knot in it and hang on."</i>
+<i>"Well done is better than well said."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
