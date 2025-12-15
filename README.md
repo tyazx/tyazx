@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You use a glass mirror to see your face; you use works of art to see your soul."</i>
+<i>"Live your life as an exclamation rather than an explanation."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
