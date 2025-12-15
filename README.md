@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy."</i>
+<i>"There is no limit to the amount of good you can do if you don't care who gets the credit."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
