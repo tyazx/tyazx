@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be royal in your own fashion: act like a king to be treated like one."</i>
+<i>"From error to error one discovers the entire truth."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
