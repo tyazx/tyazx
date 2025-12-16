@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't let your failures define you. You have to let your failures teach you."</i>
+<i>"Be royal in your own fashion: act like a king to be treated like one."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
