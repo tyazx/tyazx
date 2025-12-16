@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe you can and you're halfway there."</i>
+<i>"The meaning of life is to find your gift. The purpose of life is to give it away."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
