@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The weak can never forgive. Forgiveness is the attribute of the strong."</i>
+<i>"What do we live for if not to make life less difficult for each other?"</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
