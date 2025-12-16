@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He suffers more than necessary, who suffers before it is necessary.  "</i>
+<i>"Do not take life too seriously. You will never get out of it alive."</i>
 <br>
-<b>- Seneca</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
