@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no path to Happiness. Happiness is the path."</i>
+<i>"You are the only problem you will ever have and you are the only solution."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
