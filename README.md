@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A Penny Saved is a Penny Earned"</i>
+<i>"The only limits in your life are those that you set yourself."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
