@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who bring sunshine into the lives of others cannot keep it from themselves."</i>
+<i>"Being in a good frame of mind helps keep one in the picture of health."</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
