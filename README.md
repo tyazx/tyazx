@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only limits in your life are those that you set yourself."</i>
+<i>"Life is a question and how we live it is our answer."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
