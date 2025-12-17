@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be yourself; everyone else is already taken."</i>
+<i>"There is no path to Happiness. Happiness is the path."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
