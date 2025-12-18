@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You play the hand you're dealt. I think the game's worthwhile.  "</i>
+<i>"The more we have the less we own."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
