@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes."</i>
+<i>"He who laughs at himself never runs out of things to laugh at."</i>
 <br>
-<b>- A.A. Milne</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
