@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more we have the less we own."</i>
+<i>"Preoccupied with a single leaf you won't see the tree."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
