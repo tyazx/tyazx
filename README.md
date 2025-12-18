@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Find the game where you can win, and then commit your life to playing it; and play to win."</i>
+<i>"You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- A.A. Milne</b>
 </blockquote>
 </p>
 
