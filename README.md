@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you try to micromanage yourself all you're going to do is make yourself miserable."</i>
+<i>"You play the hand you're dealt. I think the game's worthwhile.  "</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
