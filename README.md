@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You already have every characteristic necessary for success if you recognize, claim, develop and use them."</i>
+<i>"Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
