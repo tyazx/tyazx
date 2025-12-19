@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest room in the world is the room for improvement."</i>
+<i>"I dream my painting and I paint my dream."</i>
 <br>
-<b>- Unknown</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
