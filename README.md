@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Try to be a rainbow in someone's cloud."</i>
+<i>"Enjoy every minute of life. Never second-guess life."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
