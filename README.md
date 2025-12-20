@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A poet should be so crafty with words that he is envied even for his pains."</i>
+<i>"A good character is the best tombstone. Carve your name on hearts, not on marble."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Charles Spurgeon</b>
 </blockquote>
 </p>
 
