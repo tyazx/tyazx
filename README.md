@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't just sit there. Do something. The answers will follow."</i>
+<i>"True prayer has no set form."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
