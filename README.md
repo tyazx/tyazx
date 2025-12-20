@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you extend kindness to yourself, the more it will become your automatic response to others."</i>
+<i>"You are free, and that is why you are lost."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
