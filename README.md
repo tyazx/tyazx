@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Show me a hero, and I'll write you a tragedy."</i>
+<i>"All men are equal before fish."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
