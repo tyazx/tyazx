@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good character is the best tombstone. Carve your name on hearts, not on marble."</i>
+<i>"The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time."</i>
 <br>
-<b>- Charles Spurgeon</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
