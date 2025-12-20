@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enjoy every minute of life. Never second-guess life."</i>
+<i>"The more you extend kindness to yourself, the more it will become your automatic response to others."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
