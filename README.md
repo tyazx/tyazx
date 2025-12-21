@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Raise your words, not voice. It is rain that grows flowers, not thunder."</i>
+<i>"Knowing yourself is the beginning of all wisdom."</i>
 <br>
-<b>- Rumi</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
