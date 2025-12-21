@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For the things we have to learn before we can do them, we learn by doing them."</i>
+<i>"I was wise enough to never grow up while fooling most people into believing I had. "</i>
 <br>
-<b>- Aristotle</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
