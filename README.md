@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I was wise enough to never grow up while fooling most people into believing I had. "</i>
+<i>"It is better to change an opinion than to persist in a wrong one."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
