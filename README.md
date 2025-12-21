@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing yourself is the beginning of all wisdom."</i>
+<i>"The more you like yourself, the less you are like anyone else, which makes you unique."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
