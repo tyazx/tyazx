@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you like yourself, the less you are like anyone else, which makes you unique."</i>
+<i>"For the things we have to learn before we can do them, we learn by doing them."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
