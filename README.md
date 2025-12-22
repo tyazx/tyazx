@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We never know the love of a parent till we become parents ourselves."</i>
+<i>"At every moment where language can't go, that's your mind."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
