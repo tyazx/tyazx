@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Is it really possible to tell someone else what one feels?"</i>
+<i>"I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
