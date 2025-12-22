@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My mind seems to have become a kind of machine for grinding general laws out of large collections of facts."</i>
+<i>"Those who are enlightened never stop forging themselves."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
