@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The educated differ from the uneducated as much as the living differ from the dead."</i>
+<i>"Whenever people agree with me I always feel I must be wrong."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
