@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The decisions of our past are the architects of our present."</i>
+<i>"An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
