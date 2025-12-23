@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only those who dare to fail greatly can ever achieve greatly."</i>
+<i>"Life should be touched, not strangled.  "</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
