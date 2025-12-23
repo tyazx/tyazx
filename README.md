@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward."</i>
+<i>"Only those who dare to fail greatly can ever achieve greatly."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
