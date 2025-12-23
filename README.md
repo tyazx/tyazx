@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life should be touched, not strangled.  "</i>
+<i>"The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
