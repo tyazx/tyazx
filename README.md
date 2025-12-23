@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe you can and you will be halfway there."</i>
+<i>"Our stories may be singular, but our destination is shared."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
