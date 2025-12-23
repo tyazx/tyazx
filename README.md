@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible."</i>
+<i>"If your mind is empty, it is always ready for anything, it is open to everything."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
