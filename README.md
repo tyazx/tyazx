@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our stories may be singular, but our destination is shared."</i>
+<i>"Success is going from failure to failure without losing your enthusiasm"</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
