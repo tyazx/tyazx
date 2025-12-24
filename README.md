@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Leaders think and talk about solutions. Followers think and talk about the problems."</i>
+<i>"Don't let the silly little dramas of each day get you down. For you are here to do great things."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
