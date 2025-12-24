@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fools resist. The wise embrace."</i>
+<i>"Behind every cloud is another cloud."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
