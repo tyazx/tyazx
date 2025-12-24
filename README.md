@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever your mind can conceive and believe, it can achieve."</i>
+<i>"The heart wants what it wants - or else it does not care."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
