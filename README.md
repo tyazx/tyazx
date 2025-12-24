@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Behind every cloud is another cloud."</i>
+<i>"To be angry is to revenge the faults of others on ourselves."</i>
 <br>
-<b>- Judy Garland</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
