@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be angry is to revenge the faults of others on ourselves."</i>
+<i>"There is no limitations except those we create for ourselves."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
