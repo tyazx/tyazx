@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Study logic and math, because once you've mastered them, you won't fear any book."</i>
+<i>"Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
