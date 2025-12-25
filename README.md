@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When something comes from within, when it is a part of you, you have no choice but to live it, to express it."</i>
+<i>"Distant water does not put out a nearby fire."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
