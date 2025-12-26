@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is too short to waste your time on people who don't respect, appreciate, and value you."</i>
+<i>"Those who know, do. Those that understand, teach."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
