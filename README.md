@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tis not too late to seek a newer world."</i>
+<i>"Don't just sit there. Do something. The answers will follow."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
