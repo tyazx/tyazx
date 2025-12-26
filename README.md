@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't just sit there. Do something. The answers will follow."</i>
+<i>"A day wasted on others is not wasted on one's self."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
