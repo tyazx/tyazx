@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't like something change it. If you can't change it, change your attitude about it. Don't complain."</i>
+<i>"There is a difference between giving directions and giving direction."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
