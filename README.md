@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let your learning lead to knowledge. Let your learning lead to action."</i>
+<i>"If ever you feel like an animal among men, be a lion."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
