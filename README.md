@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is a difference between giving directions and giving direction."</i>
+<i>"A hopeless man is a very desperate and dangerous man, almost a dead man."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
