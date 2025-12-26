@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A hopeless man is a very desperate and dangerous man, almost a dead man."</i>
+<i>"Life is too short to waste your time on people who don't respect, appreciate, and value you."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
