@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime."</i>
+<i>"You can't have anything worthwhile without difficulties."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
