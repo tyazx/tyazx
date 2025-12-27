@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Aim for the moon. If you miss, you may hit a star."</i>
+<i>"Know yourself and you will win all battles."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
