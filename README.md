@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't have anything worthwhile without difficulties."</i>
+<i>"When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
