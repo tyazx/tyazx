@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know yourself and you will win all battles."</i>
+<i>"You can discover what your enemy fears most by observing the means he uses to frighten you."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
