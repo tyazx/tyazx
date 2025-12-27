@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"While some of us act without thinking, too many of us think without acting."</i>
+<i>"If you want to be sad, no one in the world can make you happy. But if you make up your mind to be happy, no one and nothing on earth can take that happiness from you."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
