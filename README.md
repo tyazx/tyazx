@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man who dares to waste one hour of time has not discovered the value of life."</i>
+<i>"To avoid criticism, do nothing, say nothing, and be nothing."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
