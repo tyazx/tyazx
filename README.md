@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like stepping onto a boat which is about to sail out to sea and sink."</i>
+<i>"One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
