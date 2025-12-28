@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine."</i>
+<i>"Life is like stepping onto a boat which is about to sail out to sea and sink."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
