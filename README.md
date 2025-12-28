@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enjoy life. There's plenty of time to be dead."</i>
+<i>"Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
