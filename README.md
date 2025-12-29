@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The danger of an adventure is worth a thousand days of ease and comfort."</i>
+<i>"Truth is like the sun. You can shut it out for a time, but it ain't going away."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
