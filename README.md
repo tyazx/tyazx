@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest discovery of all time is that a person can change their future by merely changing their attitude."</i>
+<i>"We cannot always do great things in life, but we can do small things with great love."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
