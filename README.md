@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To avoid criticism, do nothing, say nothing, and be nothing."</i>
+<i>"You may be disappointed if you fail, but you are doomed if you don't try."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
