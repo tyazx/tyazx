@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who knows best knows how little he knows."</i>
+<i>"To judge a man by his weakest link or deed is like judging the power of the ocean by one wave."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
