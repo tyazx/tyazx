@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ponder and deliberate before you make a move."</i>
+<i>"Tomorrow is only found in the calendar of fools."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
