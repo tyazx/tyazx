@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tomorrow is only found in the calendar of fools."</i>
+<i>"Believe you can and you will be halfway there."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
