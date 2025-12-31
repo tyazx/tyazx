@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"That some achieve great success is proof to all that others can achieve it as well."</i>
+<i>"Life would be tragic if it weren't funny."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
