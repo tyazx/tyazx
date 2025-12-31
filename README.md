@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man that flies from his fear may find that he has only taken a short cut to meet it."</i>
+<i>"Determine never to be idle. No person will have occasion to complain of the want of time who never loses any."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
