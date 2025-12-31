@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result."</i>
+<i>"If you don't like something change it; if you can't change it, change the way you think about it."</i>
 <br>
-<b>- James Allen</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
