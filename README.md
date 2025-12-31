@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The sun is new each day."</i>
+<i>"The road to success and the road to failure are almost exactly the same."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Colin R. Davis</b>
 </blockquote>
 </p>
 
