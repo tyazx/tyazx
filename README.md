@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A bird does not sing because it has an answer. It sings because it has a song."</i>
+<i>"If you're brave enough to say goodbye, life will reward you with a new hello."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
