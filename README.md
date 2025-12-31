@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The road to success and the road to failure are almost exactly the same."</i>
+<i>"Your dream has to be bigger than your fear."</i>
 <br>
-<b>- Colin R. Davis</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
