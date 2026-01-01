@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do it with passion, or not at all."</i>
+<i>"Turn your face to the sun, as flowers know how to do."</i>
 <br>
-<b>- Rosa Nouchette Carey</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
