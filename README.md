@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is essentially an endless series of problems. The solution to one problem is merely the creation of another."</i>
+<i>"Do it with passion, or not at all."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Rosa Nouchette Carey</b>
 </blockquote>
 </p>
 
