@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is the art of drawing sufficient conclusions from insufficient premises."</i>
+<i>"Some people dream of success, while others wake up and work hard at it."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
