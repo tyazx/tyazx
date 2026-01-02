@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One must be deeply aware of the impermanence of the world."</i>
+<i>"Stop being a prisoner of your past. Become the architect of your future."</i>
 <br>
-<b>- Dogen</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
