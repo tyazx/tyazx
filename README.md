@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every limit is a beginning as well as an ending."</i>
+<i>"Success is nothing more than a few simple disciplines practiced every day."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
