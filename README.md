@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stop being a prisoner of your past. Become the architect of your future."</i>
+<i>"If you love life, don't waste time, for time is what life is made up of. "</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
