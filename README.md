@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you love life, don't waste time, for time is what life is made up of. "</i>
+<i>"I admire those who do good and expect nothing in return."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
