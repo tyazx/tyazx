@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome."</i>
+<i>"Do good, live in the most positive and joyful way possible every day."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
