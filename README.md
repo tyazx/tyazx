@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always remember that you are absolutely unique. Just like everyone else. "</i>
+<i>"One always begins to forgive a place as soon as it's left behind."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
