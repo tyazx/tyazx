@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One always begins to forgive a place as soon as it's left behind."</i>
+<i>"The reward of suffering is experience."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
