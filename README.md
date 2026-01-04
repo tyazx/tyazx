@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The one who praises you is a thief. The one who criticizes you is your true friend."</i>
+<i>"The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts."</i>
 <br>
-<b>- Seungsahn</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
