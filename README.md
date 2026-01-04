@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A little impatience will spoil great plans."</i>
+<i>"Fishing is much more than fish."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
