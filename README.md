@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The right thing to do and the hard thing to do are usually the same."</i>
+<i>"Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
