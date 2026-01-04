@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your heart is the size of an ocean. Go find yourself in its hidden depths."</i>
+<i>"Confidence comes from crossing thresholds."</i>
 <br>
-<b>- Rumi</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
