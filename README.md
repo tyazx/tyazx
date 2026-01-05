@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every blessing ignored becomes a curse."</i>
+<i>"Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
