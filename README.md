@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is pretty simple: someone to love, something to do, something to look forward to."</i>
+<i>"When you judge others, you do not define them, you define yourself."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
