@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We don't stop playing because we grow old; we grow old because we stop playing."</i>
+<i>"Every blessing ignored becomes a curse."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
