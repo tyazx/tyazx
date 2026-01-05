@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you judge others, you do not define them, you define yourself."</i>
+<i>"If it is not right, do not do it, if it is not true, do not say it."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
