@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In peace, sons bury their fathers. In war, fathers bury their sons. "</i>
+<i>"To be prepared is half the victory. "</i>
 <br>
-<b>- Herodotus</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
