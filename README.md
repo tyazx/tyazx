@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wisdom of life consists in the elimination of the nonessentials."</i>
+<i>"The consequences of today are determined by the actions of the past. To change your future, alter your decisions today."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
