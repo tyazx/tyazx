@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't look for meaning in the words. Listen to the silences."</i>
+<i>"Take interest and even delight in doing the small things well."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
