@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The real meditation is how you live your life."</i>
+<i>"When I let go of what I am, I become what I might be."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
