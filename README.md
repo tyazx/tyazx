@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be a good animal, true to your instincts."</i>
+<i>"The wisdom of life consists in the elimination of the nonessentials."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
