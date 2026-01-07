@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trying to define yourself is like trying to bite your own teeth."</i>
+<i>"Change will not come if we wait for some other person, or if we wait for some other time."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
