@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be prepared is half the victory. "</i>
+<i>"Better to die fighting for freedom than be a prisoner all the days of your life."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
