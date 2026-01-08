@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing has any power over me other than that which I give it through my conscious thoughts."</i>
+<i>"Each day provides it's own gifts."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
