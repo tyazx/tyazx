@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You win more from losing than winning."</i>
+<i>"Opportunity comes when you continually push forward."</i>
 <br>
-<b>- Morgan Wootten</b>
+<b>- Sonia Ricotti</b>
 </blockquote>
 </p>
 
