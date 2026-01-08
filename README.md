@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The goal of an artist is to create the definitive work that cannot be surpassed."</i>
+<i>"Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
