@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only place success comes before work is in the dictionary."</i>
+<i>"You win more from losing than winning."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Morgan Wootten</b>
 </blockquote>
 </p>
 
