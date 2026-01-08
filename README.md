@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When things go wrong, don't go with them."</i>
+<i>"If what you're doing is not your passion, you have nothing to lose."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
