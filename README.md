@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each day provides it's own gifts."</i>
+<i>"Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. "</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
