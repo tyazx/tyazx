@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is permanent in this wicked world - not even our troubles."</i>
+<i>"Just as true humor is laughter at oneself, true humanity is knowledge of oneself."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
