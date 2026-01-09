@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just as true humor is laughter at oneself, true humanity is knowledge of oneself."</i>
+<i>"You are what you believe in. You become that which you believe you can become."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
