@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No snowflake ever falls in the wrong place."</i>
+<i>"If you want peace, accept. If you want suffering, expect."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
