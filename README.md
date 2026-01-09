@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Death is not an ending. It is a transformation."</i>
+<i>"Nothing is permanent in this wicked world - not even our troubles."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
