@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Absorb what is useful, discard what is useless and add what is specifically your own.  "</i>
+<i>"No snowflake ever falls in the wrong place."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
