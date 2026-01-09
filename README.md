@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Saying nothing sometimes says the most."</i>
+<i>"Don't let anyone define you. You define yourself."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Billie Jean King</b>
 </blockquote>
 </p>
 
