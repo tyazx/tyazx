@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's your road, and yours alone, others may walk it with you, but no one can walk it for you."</i>
+<i>"I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves."</i>
 <br>
-<b>- Rumi</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
