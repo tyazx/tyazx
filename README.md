@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The least deviation from truth will be multiplied later."</i>
+<i>"Never allow someone to be your priority while allowing yourself to be their option."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
