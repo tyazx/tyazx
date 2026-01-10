@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have to walk in a way that we only print peace and serenity on the Earth. Walk as if you are kissing the Earth with your feet."</i>
+<i>"A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
