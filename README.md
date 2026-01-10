@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never allow someone to be your priority while allowing yourself to be their option."</i>
+<i>"A day wasted on others is not wasted on one's self."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
