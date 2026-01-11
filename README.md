@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is the meaning and the purpose of life, the whole aim and end of human existence."</i>
+<i>"Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
