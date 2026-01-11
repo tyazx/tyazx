@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes good things fall apart so better things can fall together."</i>
+<i>"Happiness is the meaning and the purpose of life, the whole aim and end of human existence."</i>
 <br>
-<b>- Marilyn Monroe</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
