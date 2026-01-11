@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Difficulties strengthen the mind, as labor does the body.  "</i>
+<i>"There are only encounters in history. There are no accidents."</i>
 <br>
-<b>- Seneca</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
