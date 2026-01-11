@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are not stuck where you are unless you decide to be.  "</i>
+<i>"Good luck is opportunity meeting preparedness."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
