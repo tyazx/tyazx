@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you aren't sure which way to do something, do it both ways and see which works better."</i>
+<i>"What's the point in being smart enough to read, if everything you read makes you dumb?"</i>
 <br>
-<b>- John Carmack</b>
+<b>- C. Sean McGee</b>
 </blockquote>
 </p>
 
