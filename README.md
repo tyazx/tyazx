@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A path is made by walking on it."</i>
+<i>"Where you are right now doesn't have to determine where you'll end up."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
