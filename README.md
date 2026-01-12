@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Difficulties strengthen the mind, as labor does the body.  "</i>
+<i>"None are more hopelessly enslaved than those who falsely believe they are free."</i>
 <br>
-<b>- Seneca</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
