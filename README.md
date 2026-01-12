@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never whine, never complain, never try to justify yourself."</i>
+<i>"Good entrepreneurs don't fail because they stay at it."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
