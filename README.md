@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Follow the man who seeks the truth; run from the man who has found it."</i>
+<i>"A warrior does not give up what he loves, he finds the love in what he does."</i>
 <br>
-<b>- Vaclav Havel</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
