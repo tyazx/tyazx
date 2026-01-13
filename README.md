@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good entrepreneurs don't fail because they stay at it."</i>
+<i>"It is never too late to be what you might have been."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
