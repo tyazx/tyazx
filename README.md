@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be strong. Be confident. Be the star of your own life."</i>
+<i>"One always begins to forgive a place as soon as it's left behind."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
