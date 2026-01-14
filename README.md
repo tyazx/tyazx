@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is impossible for a man to learn what he thinks he already knows."</i>
+<i>"Trust your instincts: my first reaction is almost invariably the right one.  "</i>
 <br>
-<b>- Epictetus</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
