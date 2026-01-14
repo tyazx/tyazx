@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no ordinary moments."</i>
+<i>"We are all self-made, but only the successful will admit it."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
