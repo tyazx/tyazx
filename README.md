@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always do your best. What you plant now, you will harvest later."</i>
+<i>"Be strong. Be confident. Be the star of your own life."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
