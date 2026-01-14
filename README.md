@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust your instincts: my first reaction is almost invariably the right one.  "</i>
+<i>"Some people are old at 18 and some are young at 90. Time is a concept that humans created."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
