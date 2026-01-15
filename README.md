@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We're kept from our goal not by obstacles, but by a clear path to a lesser goal."</i>
+<i>"You miss 100% of the shots you don't take."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
