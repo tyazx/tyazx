@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is simply what our feelings do to us."</i>
+<i>"We're kept from our goal not by obstacles, but by a clear path to a lesser goal."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
