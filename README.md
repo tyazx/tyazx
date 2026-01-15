@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trying to define yourself is like trying to bite your own teeth."</i>
+<i>"Life is simply what our feelings do to us."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
