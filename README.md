@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be patient and calm; no one can catch fish in anger."</i>
+<i>"Over time, loneliness gets inside you and doesn't go away."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
