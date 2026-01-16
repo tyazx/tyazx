@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before you can see the Light, you have to deal with the darkness."</i>
+<i>"If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Seungsahn</b>
 </blockquote>
 </p>
 
