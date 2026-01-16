@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Circumstances do not make the man, they reveal him."</i>
+<i>"The future depends on what you do today. "</i>
 <br>
-<b>- James Allen</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
