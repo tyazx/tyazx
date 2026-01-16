@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Instead of thinking outside the box, get rid of the box."</i>
+<i>"Talk does not cook rice."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
