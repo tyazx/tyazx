@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time you enjoy wasting, was not wasted."</i>
+<i>"Before you can see the Light, you have to deal with the darkness."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
