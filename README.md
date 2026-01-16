@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dance first. Think later. It's the natural order."</i>
+<i>"Instead of thinking outside the box, get rid of the box."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
