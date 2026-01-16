@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future depends on what you do today. "</i>
+<i>"Don't look back - you're not going that way."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
