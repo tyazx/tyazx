@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The farther backward you can look, the farther forward you are likely to see."</i>
+<i>"Nothing you do is going to matter that much in the long run. Don't take yourself so seriously."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
