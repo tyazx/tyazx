@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing you do is going to matter that much in the long run. Don't take yourself so seriously."</i>
+<i>"A life without a cause is a life without effect."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
