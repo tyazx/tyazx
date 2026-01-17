@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is the dancer and you are the dance."</i>
+<i>"If you want peace, you won't get it with violence."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
