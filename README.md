@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to achieve greatness stop asking for permission."</i>
+<i>"You must learn to let go. Release the stress. You were never in control anyway."</i>
 <br>
-<b>- Unknown</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
