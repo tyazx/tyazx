@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In all chaos there is a cosmos, in all disorder a secret order."</i>
+<i>"Faults are yours to fix, not to curse."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
