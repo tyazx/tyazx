@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to."</i>
+<i>"Success is the sum of small efforts, repeated day in and day out."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
