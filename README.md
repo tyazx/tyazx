@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no uninteresting things, only uninterested people."</i>
+<i>"There's a very deep connection among human beings. All we have to do is open our minds to it."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
