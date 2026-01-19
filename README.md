@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Silence is a source of great strength."</i>
+<i>"There are no uninteresting things, only uninterested people."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
