@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is what happens to you while you're busy making other plans."</i>
+<i>"All cruelty springs from weakness.  "</i>
 <br>
-<b>- John Lennon</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
