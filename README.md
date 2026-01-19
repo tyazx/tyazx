@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only place success comes before work is in the dictionary."</i>
+<i>"Silence is a source of great strength."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
