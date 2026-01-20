@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The eyes of others our prisons; their thoughts our cages."</i>
+<i>"What the mind can conceive and believe, and the heart desire, you can achieve."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
