@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't criticize what you can't understand. "</i>
+<i>"Looking after my health today gives me a better hope for tomorrow. "</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Anne Wilson Schaef</b>
 </blockquote>
 </p>
 
