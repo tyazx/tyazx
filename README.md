@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All cruelty springs from weakness.  "</i>
+<i>"If you think adventure is dangerous, try routine; it is lethal."</i>
 <br>
-<b>- Seneca</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
