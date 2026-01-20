@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What the mind can conceive and believe, and the heart desire, you can achieve."</i>
+<i>"The future belongs to those who learn more skills and combine them in creative ways."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
