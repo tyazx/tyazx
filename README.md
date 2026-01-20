@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you think adventure is dangerous, try routine; it is lethal."</i>
+<i>"Nothing that results in human progress is achieved with unanimous consent."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Christopher Columbus</b>
 </blockquote>
 </p>
 
