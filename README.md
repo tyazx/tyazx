@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are going to achieve excellence in big things, you develop the habit in little matters."</i>
+<i>"Your worth consists in what you are and not in what you have."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
