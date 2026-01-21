@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Once a decision was made, I didn't worry about it afterward."</i>
+<i>"Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it!"</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
