@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good system shortens the road to the goal. "</i>
+<i>"The fewer the words, the better the prayer."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
