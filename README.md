@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Judge a man by his questions rather than his answers."</i>
+<i>"Being entirely honest with oneself is a good exercise."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
