@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your worth consists in what you are and not in what you have."</i>
+<i>"The goal is not to show how great you are to others, but how vulnerable you are to yourself."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
