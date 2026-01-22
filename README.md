@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good things aren't supposed to just fall into your lap."</i>
+<i>"He who is untrue to his own cause cannot command the respect of others."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
