@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you judge another, you do not define them, you define yourself"</i>
+<i>"As you think, you travel, and as you love, you attract."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
