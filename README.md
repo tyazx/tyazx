@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A path is made by walking on it."</i>
+<i>"When you judge another, you do not define them, you define yourself"</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
