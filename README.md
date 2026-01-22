@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is merely the name for the desire and pursuit of the whole."</i>
+<i>"Tomorrow is only found in the calendar of fools."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
