@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only those who dare to fail greatly can ever achieve greatly."</i>
+<i>"If you can handle rejection, you'll learn to get everything you want."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
