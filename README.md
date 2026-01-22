@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being entirely honest with oneself is a good exercise."</i>
+<i>"Good things aren't supposed to just fall into your lap."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
