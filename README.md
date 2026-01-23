@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't allow your mind to tell your heart what to do. The mind gives up easily."</i>
+<i>"Deeds will not be less valiant because they are upraised."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
