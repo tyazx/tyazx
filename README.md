@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only when one allows themself the right to die, do they then give yourself the permission to live."</i>
+<i>"Stop being tormented by everyone else's reaction to you."</i>
 <br>
-<b>- C. Sean McGee</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
