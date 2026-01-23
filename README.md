@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only those who dare to fail greatly can ever achieve greatly."</i>
+<i>"True life is lived when tiny changes occur."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
