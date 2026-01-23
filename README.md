@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stop being tormented by everyone else's reaction to you."</i>
+<i>"Unless you change how you are, you will always have what you got."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
