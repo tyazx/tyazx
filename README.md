@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"None but ourselves can free our minds."</i>
+<i>"People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
