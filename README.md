@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Deeds will not be less valiant because they are upraised."</i>
+<i>"Man is affected not by events but by the view he takes of them.  "</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
