@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only man who never makes mistakes is the man who never does anything."</i>
+<i>"You have to make time, even for something as universal as staring at the stars."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- W.P. Kinsella</b>
 </blockquote>
 </p>
 
