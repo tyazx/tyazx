@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you do in life, surround yourself with smart people who'll argue with you."</i>
+<i>"Until we can manage time, we can manage nothing else."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
