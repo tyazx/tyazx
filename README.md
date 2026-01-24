@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I believe that one of life's greatest risks is never daring to risk."</i>
+<i>"The most important thing in life is to stop saying 'I wish' and start saying 'I will'. Consider nothing impossible, then treat possibilities as probabilities."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
