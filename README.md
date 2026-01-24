@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything eaten is killed. Every meal is a sacrifice."</i>
+<i>"It takes a very long time to become young."</i>
 <br>
-<b>- Adi Da Samraj</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
