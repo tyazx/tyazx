@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The moment you doubt whether you can fly, you cease for ever to be able to do it."</i>
+<i>"The best mind-altering drug is the truth."</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
