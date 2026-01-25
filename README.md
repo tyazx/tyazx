@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man should do his job so well that the living, the dead, and the unborn could do it no better."</i>
+<i>"Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
