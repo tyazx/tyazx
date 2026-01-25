@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat."</i>
+<i>"There are people who have money and people who are rich."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
