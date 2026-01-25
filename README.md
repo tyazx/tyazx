@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why live an ordinary life, when you can live an extraordinary one."</i>
+<i>"Don't cry because it's over. Smile because it happened."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
