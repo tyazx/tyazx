@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The heart that gives, gathers."</i>
+<i>"Your spirit is the true shield."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
