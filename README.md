@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you pray for rain, be prepared to deal with some mud."</i>
+<i>"Never argue with ignorance. It only leads to frustration."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
