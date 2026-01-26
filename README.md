@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace if possible, truth at all costs."</i>
+<i>"Keep away from people who try to belittle your ambitions."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
