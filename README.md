@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes you will never know the value of something, until it becomes a memory."</i>
+<i>"Peace if possible, truth at all costs."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
