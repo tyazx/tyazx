@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If everyone is moving forward together, then success takes care of itself."</i>
+<i>"The world doesn't always give you want, but it often gives you what you need."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
