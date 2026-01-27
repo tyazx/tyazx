@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It doesn't matter how slow you go, as long as you don't stop."</i>
+<i>"Words are clothes that thoughts wear"</i>
 <br>
-<b>- Confucius</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
