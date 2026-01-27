@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is nothing more than a few simple disciplines practiced every day."</i>
+<i>"Develop success from failures. Discouragement and failure are two of the surest stepping stones to success."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
