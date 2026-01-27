@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We meet ourselves time and again in a thousand disguises on the path of life."</i>
+<i>"Failure is the key to success; each mistake teaches us something."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
