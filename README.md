@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For your life to be great, your faith must be bigger than your fear."</i>
+<i>"Nothing good ever comes of violence."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
