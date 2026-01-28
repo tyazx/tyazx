@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The essence of the Way is detachment."</i>
+<i>"Whoever is happy will make others happy too."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
