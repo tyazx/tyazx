@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It doesn't matter how much you want. What really matters is how much you want it."</i>
+<i>"Even if you stumble and fall down, it doesn't mean you've chosen the wrong path."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
