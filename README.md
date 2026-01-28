@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be patient and calm; no one can catch fish in anger."</i>
+<i>"Formal education will make you a living, self-education will make you a fortune."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
