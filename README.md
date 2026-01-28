@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even if you stumble and fall down, it doesn't mean you've chosen the wrong path."</i>
+<i>"Friendship is one of the most tangible things in a world which offers fewer and fewer supports."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Kenneth Branagh</b>
 </blockquote>
 </p>
 
