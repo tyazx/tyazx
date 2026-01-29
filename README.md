@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Start the day with love, spend the day with love, fill the day with love and end the day with love."</i>
+<i>"To live is the rarest thing in the world. Most people exist, that is all. "</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
