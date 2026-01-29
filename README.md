@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What is planted in each person's soul will sprout.  "</i>
+<i>"The meaning of life is that it stops."</i>
 <br>
-<b>- Rumi</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
