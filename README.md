@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid to stand for what you believe in, even if that means standing alone."</i>
+<i>"What is planted in each person's soul will sprout.  "</i>
 <br>
-<b>- Unknown</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
