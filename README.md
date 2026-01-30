@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When it comes to mastering a skill, time is the magic ingredient."</i>
+<i>"When you move beyond your fear, you feel free."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
