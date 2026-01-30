@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be curious, not judgmental."</i>
+<i>"Lost Time is never found again."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
