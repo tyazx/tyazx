@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life may be full of pain but that's not an excuse to give up."</i>
+<i>"You can't climb the ladder of success with your hands in your pockets."</i>
 <br>
 <b>- Arnold Schwarzenegger</b>
 </blockquote>
