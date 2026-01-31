@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Integrity is the ability to stand by an idea."</i>
+<i>"Good judgment comes from experience, and experience comes from bad judgment."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
