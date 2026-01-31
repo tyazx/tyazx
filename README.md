@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good judgment comes from experience, and experience comes from bad judgment."</i>
+<i>"If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
