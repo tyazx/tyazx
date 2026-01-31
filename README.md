@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long."</i>
+<i>"The man who removes a mountain begins by carrying away small stones."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
