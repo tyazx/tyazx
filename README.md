@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throughout this life, you can never be certain of living long enough to take another breath."</i>
+<i>"The present moment is filled with joy and happiness. If you are attentive, you will see it."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
