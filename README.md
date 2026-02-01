@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The present moment is filled with joy and happiness. If you are attentive, you will see it."</i>
+<i>"Everything great that has ever happened to humanity has begun as a single thought in someone's mind."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
