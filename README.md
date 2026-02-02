@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I do not exist to impress the world. I exist to live my life in a way that will make me happy."</i>
+<i>"Nothing that results in human progress is achieved with unanimous consent."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Christopher Columbus</b>
 </blockquote>
 </p>
 
