@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If what you're doing is not your passion, you have nothing to lose."</i>
+<i>"We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Gabor Mate</b>
 </blockquote>
 </p>
 
