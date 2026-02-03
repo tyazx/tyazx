@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more one judges, the less one loves."</i>
+<i>"We take care of the future best by taking care of the present now."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
