@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task."</i>
+<i>"There is no greater agony than bearing an untold story inside you."</i>
 <br>
-<b>- William James</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
