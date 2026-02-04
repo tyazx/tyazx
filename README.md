@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who can, does."</i>
+<i>"Cultivate the merry heart, develop the happiness habit, and life will become a continual feast."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
