@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest doer must also be a great dreamer."</i>
+<i>"Management is doing things right; leadership is doing the right things."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
