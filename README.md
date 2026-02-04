@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many a man has failed because he had his wishbone where his backbone should have been."</i>
+<i>"How much pain they have cost us, the evils which have never happened."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
