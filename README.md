@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's your life-but only if you make it so."</i>
+<i>"A vital part of the happiness formula is self-discipline. Whoever conquers himself knows deep happiness that fills the heart with joy."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
