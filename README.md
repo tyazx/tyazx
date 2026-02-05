@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be a good animal, true to your instincts."</i>
+<i>"Success is about creating value."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Candice Carpenter</b>
 </blockquote>
 </p>
 
