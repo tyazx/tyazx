@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes adversity is what you need to face in order to become successful."</i>
+<i>"Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
