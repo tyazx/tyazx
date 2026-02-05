@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself."</i>
+<i>"Be a good animal, true to your instincts."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
