@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned."</i>
+<i>"Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
