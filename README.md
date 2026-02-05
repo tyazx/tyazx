@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task."</i>
+<i>"Tis not too late to seek a newer world."</i>
 <br>
-<b>- William James</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
