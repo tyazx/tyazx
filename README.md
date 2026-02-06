@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wake up and smile! Wake up and be grateful!"</i>
+<i>"Faith is taking the first step even when you don't see the whole staircase."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
