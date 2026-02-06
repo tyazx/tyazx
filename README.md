@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Focus on how far you have come in life rather than looking at the accomplishments of others."</i>
+<i>"Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
