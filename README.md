@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where ever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything."</i>
+<i>"You don't earn loyalty in a day. You earn loyalty day-by-day."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Jeffrey Gitomer</b>
 </blockquote>
 </p>
 
