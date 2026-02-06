@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tis not too late to seek a newer world."</i>
+<i>"A man with outward courage dares to die: a man with inner courage dares to live."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
