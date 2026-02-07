@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A different result requires doing something different."</i>
+<i>"When it comes to mastering a skill, time is the magic ingredient."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
