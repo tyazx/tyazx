@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future depends on what you do today. "</i>
+<i>"You purchase pain with all that joy can give and die of nothing but a rage to live."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
