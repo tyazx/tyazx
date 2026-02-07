@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't need to be better than anyone else, you just need to be better than you used to be."</i>
+<i>"The measure of wisdom is how calm you are when facing any given situation."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
