@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intelligence is the ability to adapt to change."</i>
+<i>"Whether you think you can or think you can't – you are right."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
