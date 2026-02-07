@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You purchase pain with all that joy can give and die of nothing but a rage to live."</i>
+<i>"You don't need to be better than anyone else, you just need to be better than you used to be."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
