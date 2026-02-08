@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To know even one life has breathed easier because you have lived. This is to have succeeded."</i>
+<i>"Don't let what you cannot do interfere with what you can do."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
