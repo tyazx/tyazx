@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hold yourself responsible for a higher standard than anybody else expects of you."</i>
+<i>"Choose to be optimistic, it feels better."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
