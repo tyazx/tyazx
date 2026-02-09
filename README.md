@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you take responsibility for your past and present, the more you are able to create the future you seek."</i>
+<i>"Hold yourself responsible for a higher standard than anybody else expects of you."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
