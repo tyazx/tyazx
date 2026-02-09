@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"First say to yourself what you would be; and then do what you have to do."</i>
+<i>"Nothing is easier than fault finding."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
