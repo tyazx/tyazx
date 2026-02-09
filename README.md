@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Choose to be optimistic, it feels better."</i>
+<i>"First say to yourself what you would be; and then do what you have to do."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
