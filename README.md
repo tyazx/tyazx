@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything that is made beautiful and fair and lovely is made for the eye of one who sees."</i>
+<i>"Be yourself; everyone else is already taken "</i>
 <br>
-<b>- Rumi</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
