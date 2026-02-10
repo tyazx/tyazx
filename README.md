@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What most people need to learn in life is how to love people and use things instead of using people and loving things."</i>
+<i>"Stop comparing yourself to others and focus on your own improvement."</i>
 <br>
-<b>- Unknown</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
