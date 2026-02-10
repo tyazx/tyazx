@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future will be shaped by those willing to commit their minds and their bodies to the task."</i>
+<i>"Do not regret the past. Look to the future."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Soyen Shaku</b>
 </blockquote>
 </p>
 
