@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first rule of business; treat others like they want to treat you."</i>
+<i>"No man can get rich himself unless he enriches others."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
