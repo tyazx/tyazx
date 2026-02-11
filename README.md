@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The art of being happy lies in the power of extracting happiness from common things."</i>
+<i>"It is not uncommon for people to spend their whole life waiting to start living."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
