@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are not one person, but three: The one you think you are; The one others think you are; The one you really are."</i>
+<i>"Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
