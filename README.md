@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No need to hurry. No need to sparkle. No need to be anybody but oneself."</i>
+<i>"Expect the best, plan for the worst, and prepare to be surprised. "</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
