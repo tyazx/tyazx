@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Expect the best, plan for the worst, and prepare to be surprised. "</i>
+<i>"What people say, what people do, and what they say they do are entirely different things. "</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
