@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Realize deeply that the present moment is all you ever have. "</i>
+<i>"The art of being happy lies in the power of extracting happiness from common things."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
