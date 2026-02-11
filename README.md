@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every saint has a past, and every sinner has a future."</i>
+<i>"We take care of the future best by taking care of the present now."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
