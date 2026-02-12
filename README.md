@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit."</i>
+<i>"Great things happen to those who don't stop believing, trying, learning, and being grateful."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
