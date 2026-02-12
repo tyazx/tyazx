@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment."</i>
+<i>"The friend is the man who knows all about you, and still likes you."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
