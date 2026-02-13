@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Greatness comes from living with purpose and passion."</i>
+<i>"Change begets change. Nothing propagates so fast."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
