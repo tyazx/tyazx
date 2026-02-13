@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where your talents and the needs of the world cross, there lies your vocation."</i>
+<i>"Imagination means nothing without doing.  "</i>
 <br>
-<b>- Aristotle</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
