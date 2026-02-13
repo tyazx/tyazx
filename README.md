@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not believe that you will reach your destination without leaving the shore. "</i>
+<i>"In a world of change, the learners shall inherit the earth, while the learned shall find themselves perfectly suited for a world that no longer exists."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
