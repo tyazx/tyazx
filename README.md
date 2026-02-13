@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination means nothing without doing.  "</i>
+<i>"Take care of your cents: dollars will take care of themselves."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
