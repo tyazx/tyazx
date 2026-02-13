@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is difficult to free fools from the chains they revere. "</i>
+<i>"Your business is not to 'get somewhere' - it is to be here."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
