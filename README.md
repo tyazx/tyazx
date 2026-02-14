@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot have a positive life and a negative mind."</i>
+<i>"Love never keeps a man from pursuing his destiny."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
