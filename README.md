@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ego wants comfort and certainty. The soul wants to live fully."</i>
+<i>"You cannot have a positive life and a negative mind."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
