@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your success and happiness lie in you."</i>
+<i>"Confuse them with your silence and amaze them with your actions."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
