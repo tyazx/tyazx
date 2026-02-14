@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love never keeps a man from pursuing his destiny."</i>
+<i>"Duty makes us do things well, but love makes us do them beautifully.  "</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
