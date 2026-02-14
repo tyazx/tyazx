@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take responsibility of your own happiness, never put it in other people's hands."</i>
+<i>"Your success and happiness lie in you."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
