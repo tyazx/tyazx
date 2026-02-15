@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The question is not what you look at, but what you see."</i>
+<i>"Give me six hours to chop down a tree and I will spend the first four sharpening the axe."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
