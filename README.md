@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is found in unlikely places."</i>
+<i>"I think self-awareness is probably the most important thing towards being a champion. "</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Billie Jean King</b>
 </blockquote>
 </p>
 
