@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a quality of the soul...not a function of one's material circumstances."</i>
+<i>"Do not believe that you will reach your destination without leaving the shore. "</i>
 <br>
-<b>- Aristotle</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
