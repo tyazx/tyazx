@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wherever you are, and whatever you do, be in love."</i>
+<i>"The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one."</i>
 <br>
-<b>- Rumi</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
