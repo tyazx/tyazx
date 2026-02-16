@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The significance of life is living."</i>
+<i>"If you don't program yourself, life will program you."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
