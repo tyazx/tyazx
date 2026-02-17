@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Motivation gets you going and habit gets you there.  "</i>
+<i>"It is difficult to free fools from the chains they revere. "</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
