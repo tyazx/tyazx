@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Night is a more quiet time to work. It aids thought."</i>
+<i>"The only real mistake is the one from which we learn nothing. "</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
