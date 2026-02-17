@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only real mistake is the one from which we learn nothing. "</i>
+<i>"Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
