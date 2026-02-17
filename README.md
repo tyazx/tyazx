@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't program yourself, life will program you."</i>
+<i>"Night is a more quiet time to work. It aids thought."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
