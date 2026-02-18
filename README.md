@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learning is a gift, even when pain is your teacher."</i>
+<i>"When you move beyond your fear, you feel free."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
