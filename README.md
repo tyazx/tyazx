@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is truth that liberates, not your effort to be free."</i>
+<i>"Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
