@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People spend too much time doing and not enough time thinking about what they should be doing."</i>
+<i>"Look to the beauty of this day, miracles are all around you."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
