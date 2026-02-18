@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is never too late to be what you might have been."</i>
+<i>"One of the oldest human needs is having someone to wonder where you are when you don't come home at night. "</i>
 <br>
-<b>- George Eliot</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
