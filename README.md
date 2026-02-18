@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances."</i>
+<i>"Learning is a gift, even when pain is your teacher."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
