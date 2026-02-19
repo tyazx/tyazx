@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime."</i>
+<i>"Do not look upon this world with fear and loathing. Bravely face whatever the gods offer."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
