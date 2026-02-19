@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The eyes of others our prisons; their thoughts our cages."</i>
+<i>"It is startling to realize how much unbelief is necessary to make belief possible."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
