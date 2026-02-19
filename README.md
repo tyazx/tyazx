@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled."</i>
+<i>"Against the assault of laughter nothing can stand."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
