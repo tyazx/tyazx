@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Look to the beauty of this day, miracles are all around you."</i>
+<i>"You become stronger with every problem you face and every obstacle you overcome."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
