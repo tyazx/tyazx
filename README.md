@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Because a thing seems difficult for you, do not think it impossible."</i>
+<i>"Your imagination is your preview of life's coming attractions."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
