@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing important is learned; it is simply remembered."</i>
+<i>"Make yourself so useful to other people, that they think you are irreplaceable."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
