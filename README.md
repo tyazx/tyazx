@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all different. Don't judge, understand instead."</i>
+<i>"If you want work well done, select a busy man; the other kind has no time."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
