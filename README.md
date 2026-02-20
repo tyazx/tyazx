@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your imagination is your preview of life's coming attractions."</i>
+<i>"Absorb what is useful, discard what is not, add what is uniquely your own."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
