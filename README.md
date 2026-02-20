@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is going from failure to failure without losing your enthusiasm"</i>
+<i>"To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
