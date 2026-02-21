@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are only encounters in history. There are no accidents."</i>
+<i>"The number one cause of failure is the fear of failure."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
