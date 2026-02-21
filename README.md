@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Inner peace is when you realize that, in the end, nothing matters."</i>
+<i>"There are only encounters in history. There are no accidents."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
