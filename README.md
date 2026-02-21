@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing is not enough, we must apply. Willing is not enough, we must do.  "</i>
+<i>"Make each day a new horizon."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
