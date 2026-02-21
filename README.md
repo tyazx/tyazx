@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make each day a new horizon."</i>
+<i>"Failing is another stepping stone to greatness."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
