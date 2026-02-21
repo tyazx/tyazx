@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freedom itself demands discomfort."</i>
+<i>"Lust, anger and greed are the three gates to self-destructive hell."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
