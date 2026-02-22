@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just as true humor is laughter at oneself, true humanity is knowledge of oneself."</i>
+<i>"All human beings can alter their lives by altering their attitudes."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
