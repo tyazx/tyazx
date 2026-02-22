@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunities don't often come along. So, when they do, you have to grab them."</i>
+<i>"With the new day comes new strength and new thoughts."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
