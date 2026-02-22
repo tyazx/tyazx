@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A hopeless man is a very desperate and dangerous man, almost a dead man."</i>
+<i>"It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
