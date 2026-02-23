@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The glow of one warm thought is to me worth more than money."</i>
+<i>"All has not been said and never will be."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
