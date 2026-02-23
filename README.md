@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There will always be suffering. But we must not suffer over the suffering."</i>
+<i>"Greatness lies not in being strong, but in the right use of strength."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
