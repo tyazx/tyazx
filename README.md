@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Greatness lies not in being strong, but in the right use of strength."</i>
+<i>"The more you take responsibility for your past and present, the more you are able to create the future you seek."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
