@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Until we can manage time, we can manage nothing else."</i>
+<i>"The glow of one warm thought is to me worth more than money."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
