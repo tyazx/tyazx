@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My mind seems to have become a kind of machine for grinding general laws out of large collections of facts."</i>
+<i>"Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
