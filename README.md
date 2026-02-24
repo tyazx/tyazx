@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is not how high you have climbed, but how you make a positive difference to the world."</i>
+<i>"Never take your position for granted and never let any favors you receive go to your head."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
