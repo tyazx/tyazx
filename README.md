@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Character is destiny."</i>
+<i>"Life has the name of life, but in reality it is death."</i>
 <br>
 <b>- Heraclitus</b>
 </blockquote>
