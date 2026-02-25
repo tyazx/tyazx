@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you do today can improve all your tomorrows."</i>
+<i>"Believe that life is worth living and your belief will help create the fact."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
