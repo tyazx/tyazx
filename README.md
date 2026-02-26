@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are what you believe in. You become that which you believe you can become."</i>
+<i>"Never settle for the crumbs of life."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
