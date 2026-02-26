@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every poem should remind the reader that they are going to die."</i>
+<i>"Life can only be understood backwards; but it must be lived forwards."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Soren Kierkegaard</b>
 </blockquote>
 </p>
 
