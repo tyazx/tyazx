@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Smell the cheese often so you know when it is getting old."</i>
+<i>"When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.  "</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
