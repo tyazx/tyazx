@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Storms don't last forever."</i>
+<i>"Every poem should remind the reader that they are going to die."</i>
 <br>
-<b>- Unknown</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
