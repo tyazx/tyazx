@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can see through others only when we can see through ourselves."</i>
+<i>"You are what you believe in. You become that which you believe you can become."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
