@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To raise your consciousness, surround yourself with people of higher consciousness."</i>
+<i>"It's your life-but only if you make it so."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
