@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Animals don't hate, and we're supposed to be better than them."</i>
+<i>"I must also have a dark side if I am to be whole."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
