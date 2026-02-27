@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The strongest and sweetest songs yet remain to be sung."</i>
+<i>"Time doesn't heal emotional pain, you need to learn how to let go."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
