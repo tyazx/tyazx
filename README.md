@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I must also have a dark side if I am to be whole."</i>
+<i>"It doesn't matter where you are, you are nowhere compared to where you can go."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
