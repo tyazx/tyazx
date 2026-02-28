@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By the practice of meditation, you will find that you are carrying within your heart a portable paradise."</i>
+<i>"The greatest weariness comes from work not done."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
