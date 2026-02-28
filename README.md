@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do the difficult things while they are easy and do the great things while they are small."</i>
+<i>"The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
