@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A bird does not sing because it has an answer. It sings because it has a song."</i>
+<i>"Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
