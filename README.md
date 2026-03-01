@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let the beauty of what you love be what you do."</i>
+<i>"As you think, you travel, and as you love, you attract."</i>
 <br>
-<b>- Rumi</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
