@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The Art of Peace begins with you."</i>
+<i>"Those who bring sunshine into the lives of others cannot keep it from themselves."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
