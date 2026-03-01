@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who bring sunshine into the lives of others cannot keep it from themselves."</i>
+<i>"Let the beauty of what you love be what you do."</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
