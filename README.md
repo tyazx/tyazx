@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As you think, you travel, and as you love, you attract."</i>
+<i>"A bird does not sing because it has an answer. It sings because it has a song."</i>
 <br>
-<b>- James Allen</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
