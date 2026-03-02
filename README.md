@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When one door closes another door opens. "</i>
+<i>"Some people want it to happen, some wish it would happen, others make it happen."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
