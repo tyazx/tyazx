@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are able to employ your will always for constructive purposes, you become the controller of your destiny."</i>
+<i>"Waste not fresh tears over old griefs."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
