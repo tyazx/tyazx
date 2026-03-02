@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are tough on yourself, life is going to be infinitely easier on you.  "</i>
+<i>"It is what we make out of what we have, not what we are given, that separates one person from another."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
