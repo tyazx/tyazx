@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is what we make out of what we have, not what we are given, that separates one person from another."</i>
+<i>"Everything that is done in the world is done by hope."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
