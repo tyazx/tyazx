@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Misfortune shows those who are not really friends."</i>
+<i>"Remember, hope is a good thing, maybe the best of things."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
