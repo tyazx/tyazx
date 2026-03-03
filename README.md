@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What is planted in each person's soul will sprout.  "</i>
+<i>"If you don't program yourself, life will program you."</i>
 <br>
-<b>- Rumi</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
