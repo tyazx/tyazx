@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There's no next time. It's now or never."</i>
+<i>"Productize your perspective."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
