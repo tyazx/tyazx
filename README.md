@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The river that flows in you also flows in me."</i>
+<i>"What is planted in each person's soul will sprout.  "</i>
 <br>
-<b>- Kabir</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
