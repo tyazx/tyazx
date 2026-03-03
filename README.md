@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Surround yourself with only people who are going to lift you higher. "</i>
+<i>"There's no next time. It's now or never."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
