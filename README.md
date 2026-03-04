@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only one thing in the world worse than being talked about, and that is not being talked about. "</i>
+<i>"Stress happens when the mind resists what is."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
