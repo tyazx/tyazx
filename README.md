@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination."</i>
+<i>"Your best life will not be found in comfort. It will be found in fighting for what you believe in."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
