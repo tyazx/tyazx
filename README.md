@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let the past steal your present."</i>
+<i>"Words without actions are the assassins of idealism."</i>
 <br>
-<b>- Cherralea Morgen</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
