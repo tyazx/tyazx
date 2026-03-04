@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You'll get more from being a peacemaker than a warrior."</i>
+<i>"Don't let the past steal your present."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Cherralea Morgen</b>
 </blockquote>
 </p>
 
