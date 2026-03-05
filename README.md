@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have within you right now, everything you need to deal with whatever the world can throw at you."</i>
+<i>"Absorb what is useful, discard what is useless and add what is specifically your own.  "</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
