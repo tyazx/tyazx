@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Darkness is the absence of light."</i>
+<i>"Failure is the key to success; each mistake teaches us something."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
