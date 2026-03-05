@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is the key to success; each mistake teaches us something."</i>
+<i>"Men are equal; it is not birth but virtue that makes the difference."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
