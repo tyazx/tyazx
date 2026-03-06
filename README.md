@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't stop when you're tired. Stop when you're done."</i>
+<i>"Character is destiny."</i>
 <br>
-<b>- Marilyn Monroe</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
