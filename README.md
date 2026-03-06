@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is the key to success; each mistake teaches us something."</i>
+<i>"When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
