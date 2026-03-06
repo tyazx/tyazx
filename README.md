@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just throw away all thoughts of imaginary things, and stand firm in that which you are."</i>
+<i>"In order for you to be the BEST you can be for others, first you must be BEST for yourself."</i>
 <br>
-<b>- Kabir</b>
+<b>- Jeffrey Gitomer</b>
 </blockquote>
 </p>
 
