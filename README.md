@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Far more crucial than what we know or do not know is what we do not want to know."</i>
+<i>"We are shaped and fashioned by what we love."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
