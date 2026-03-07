@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words, once they are printed, have a life of their own."</i>
+<i>"He who leaves the game wins it."</i>
 <br>
-<b>- Carol Burnett</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
