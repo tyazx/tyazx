@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no path to Happiness. Happiness is the path."</i>
+<i>"A leader is one who knows the way, goes the way, and shows the way."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
