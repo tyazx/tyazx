@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your purpose will be clear only when you listen to your heart."</i>
+<i>"Friendship is like money, easier made than kept."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
