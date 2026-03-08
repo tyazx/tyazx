@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Seek not the good in external things;seek it in yourselves."</i>
+<i>"Your purpose will be clear only when you listen to your heart."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
