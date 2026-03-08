@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men do not attract which they want but that which they are."</i>
+<i>"All power is from within and therefore under our control."</i>
 <br>
-<b>- James Allen</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
