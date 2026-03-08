@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't give up on your dreams, or your dreams will give up on you."</i>
+<i>"All animals except man know that the principal business of life is to enjoy it."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
