@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who leaves the game wins it."</i>
+<i>"What you become is far more important than what you get."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
