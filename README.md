@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain."</i>
+<i>"There is no path to Happiness. Happiness is the path."</i>
 <br>
-<b>- Kabir</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
