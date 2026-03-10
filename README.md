@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Judgments prevent us from seeing the good that lies beyond appearances.  "</i>
+<i>"Happiness cannot be traveled to, owned, earned, worn or consumed."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
