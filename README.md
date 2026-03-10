@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed."</i>
+<i>"Every act of creation is first an act of destruction."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
