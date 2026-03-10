@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unless someone truly has the power to say no, they never truly have the power to say yes."</i>
+<i>"We must embrace pain and burn it as fuel for our journey."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Kenji Miyazawa</b>
 </blockquote>
 </p>
 
