@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every day may not be good, but there's something good in every day."</i>
+<i>"The biggest challenge after success is shutting up about it."</i>
 <br>
-<b>- Unknown</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
