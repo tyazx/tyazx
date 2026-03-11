@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A loving heart is the truest wisdom."</i>
+<i>"With the new day comes new strength and new thoughts."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
