@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many people spend more time looking at their failures than focusing on their successes."</i>
+<i>"If ever you feel like an animal among men, be a lion."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
