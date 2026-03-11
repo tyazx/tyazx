@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great minds are always feared by lesser minds."</i>
+<i>"Every day may not be good, but there's something good in every day."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
