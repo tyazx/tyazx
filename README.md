@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The single biggest problem in communication is the illusion that it has taken place."</i>
+<i>"Great minds are always feared by lesser minds."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
