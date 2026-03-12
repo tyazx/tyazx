@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I will not walk backward in life."</i>
+<i>"Great deeds are usually wrought at great risks."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
