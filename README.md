@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enthusiasm is a vital element toward the individual success of every man or woman."</i>
+<i>"Your time is limited, so don't waste it living someone elses. life."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
