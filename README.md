@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great deeds are usually wrought at great risks."</i>
+<i>"Do not bite at the bait of pleasure, till you know there is no hook beneath it."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
