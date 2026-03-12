@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Identification with our mind causes thought to become compulsive."</i>
+<i>"I will not walk backward in life."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
