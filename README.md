@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not bite at the bait of pleasure, till you know there is no hook beneath it."</i>
+<i>"If we will be quiet and ready enough, we shall find compensation in every disappointment."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
