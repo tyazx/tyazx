@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you care about someone enough, you'll always be there for them no matter what."</i>
+<i>"Be kind whenever possible. It is always possible."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
