@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A lot of people have gone further than they thought they could because someone else thought they could."</i>
+<i>"I've always tried to go a step past wherever people expected me to end up."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
