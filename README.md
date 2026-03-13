@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wise speak only of what they know."</i>
+<i>"Small men think they are small; great men never know they are great. "</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
