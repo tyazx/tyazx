@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life isn't about finding yourself. Life is about creating yourself."</i>
+<i>"If you care about someone enough, you'll always be there for them no matter what."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
