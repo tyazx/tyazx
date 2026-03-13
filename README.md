@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be kind whenever possible. It is always possible."</i>
+<i>"It always seems impossible until it's done."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
