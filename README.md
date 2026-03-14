@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less you respond to negative people, the more positive your life will become."</i>
+<i>"We are like islands in the sea, separate on the surface but connected in the deep."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
