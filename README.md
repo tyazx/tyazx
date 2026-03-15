@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world doesn't owe you anything. It was here first."</i>
+<i>"There's more to life than being a passenger."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
