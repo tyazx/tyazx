@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Champions keep playing until they get it right."</i>
+<i>"Never argue with stupid people, they will drag you down to their level and then beat you with experience."</i>
 <br>
-<b>- Billie Jean King</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
