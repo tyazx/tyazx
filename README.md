@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never argue with stupid people, they will drag you down to their level and then beat you with experience."</i>
+<i>"Heaven is right where you are standing."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
