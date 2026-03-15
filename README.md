@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Heaven is right where you are standing."</i>
+<i>"The world doesn't owe you anything. It was here first."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
