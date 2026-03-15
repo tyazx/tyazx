@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is what we make out of what we have, not what we are given, that separates one person from another."</i>
+<i>"If you're not failing every now and again, it's a sign you're not doing anything very innovative."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
