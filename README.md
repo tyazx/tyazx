@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your conscience is the measure of the honesty of your selfishness. Listen to it carefully."</i>
+<i>"To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
