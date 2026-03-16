@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hope is a waking dream."</i>
+<i>"Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
