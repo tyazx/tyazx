@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to."</i>
+<i>"It's better to stand by someone's side than by yourself."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
