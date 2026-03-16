@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trusting our intuition often saves us from disaster. "</i>
+<i>"Those who can make you believe absurdities can make you commit atrocities. "</i>
 <br>
-<b>- Anne Wilson Schaef</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
