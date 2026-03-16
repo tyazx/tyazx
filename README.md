@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Emancipate yourself from mental slavery, none but ourselves can free our mind."</i>
+<i>"I pay attention to every minute of the day."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
