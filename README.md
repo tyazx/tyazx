@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control."</i>
+<i>"It is the mark of an educated mind to be able to entertain a thought without accepting it."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
