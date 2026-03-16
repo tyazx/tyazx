@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I pay attention to every minute of the day."</i>
+<i>"Hope is a waking dream."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
