@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world doesn't owe you anything. It was here first."</i>
+<i>"Reading should be a pleasure, not a chore."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
