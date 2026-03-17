@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where the willingness is great, the difficulties cannot be great."</i>
+<i>"The world doesn't owe you anything. It was here first."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
