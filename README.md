@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Write to help yourself, publish to help others."</i>
+<i>"Not all those who wander are lost."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
