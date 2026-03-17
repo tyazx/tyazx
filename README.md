@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reading should be a pleasure, not a chore."</i>
+<i>"When things go wrong, don't go with them."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
