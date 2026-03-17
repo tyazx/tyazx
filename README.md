@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every day passes whether you participate or not."</i>
+<i>"Where the willingness is great, the difficulties cannot be great."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Niccolo Machiavelli</b>
 </blockquote>
 </p>
 
