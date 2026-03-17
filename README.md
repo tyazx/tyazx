@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you make a choice, you change the future."</i>
+<i>"It's very strange that the people you love are often the people you're most cruel to."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Kenneth Branagh</b>
 </blockquote>
 </p>
 
