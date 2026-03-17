@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A very little key will open a very heavy door."</i>
+<i>"When you make a choice, you change the future."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
