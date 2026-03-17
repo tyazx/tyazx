@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When things go wrong, don't go with them."</i>
+<i>"Write to help yourself, publish to help others."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
