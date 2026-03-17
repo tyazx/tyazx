@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not all those who wander are lost."</i>
+<i>"A very little key will open a very heavy door."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
