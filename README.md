@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't stop when you're tired. Stop when you're done."</i>
+<i>"All problems are illusions of the mind."</i>
 <br>
-<b>- Marilyn Monroe</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
