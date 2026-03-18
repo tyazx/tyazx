@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to be sad, no one in the world can make you happy. But if you make up your mind to be happy, no one and nothing on earth can take that happiness from you."</i>
+<i>"The secret of success lies not in doing your own work, but in recognizing the right man to do it."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
