@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't cry because it's over. Smile because it happened."</i>
+<i>"Don't stop when you're tired. Stop when you're done."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Marilyn Monroe</b>
 </blockquote>
 </p>
 
