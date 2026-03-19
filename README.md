@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Worry is a waste of emotional reserve."</i>
+<i>"Meditate. It won't be fun but it will surface what you need to deal with."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
