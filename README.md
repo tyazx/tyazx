@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Meditate. It won't be fun but it will surface what you need to deal with."</i>
+<i>"Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
