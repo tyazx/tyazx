@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can never get enough of what you don't need to make you happy."</i>
+<i>"The more one judges, the less one loves."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
