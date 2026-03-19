@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A single act of kindness throws out roots in all directions, and the roots spring up and make new trees."</i>
+<i>"It is our choices that show what we truly are, far more than our abilities."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
