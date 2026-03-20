@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people spend more time and energy going around problems than in trying to solve them. "</i>
+<i>"Don't waste time on excuses. Just get it done."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
