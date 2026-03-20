@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The deeper the truth in a creative work, the longer it will live.  "</i>
+<i>"Most people spend more time and energy going around problems than in trying to solve them. "</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
