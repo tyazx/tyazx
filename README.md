@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To handle yourself, use your head; to handle others, use your heart."</i>
+<i>"The price of inaction is far greater than the cost of making a mistake."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
