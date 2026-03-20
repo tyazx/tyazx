@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The price of inaction is far greater than the cost of making a mistake."</i>
+<i>"If you are going to achieve excellence in big things, you develop the habit in little matters."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
