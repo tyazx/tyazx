@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't waste time on excuses. Just get it done."</i>
+<i>"To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
