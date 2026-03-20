@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are going to achieve excellence in big things, you develop the habit in little matters."</i>
+<i>"Words are clothes that thoughts wear"</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
