@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A needle is not sharp at both ends. "</i>
+<i>"Turn the pain into power."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
