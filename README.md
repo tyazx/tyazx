@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have to keep breaking your heart until it opens."</i>
+<i>"Some of your greatest lessons come from your darkest moments."</i>
 <br>
-<b>- Rumi</b>
+<b>- Roger Lee</b>
 </blockquote>
 </p>
 
