@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience."</i>
+<i>"Some men see things as they are and ask why. Others dream things that never were and ask why not."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
