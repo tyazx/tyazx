@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Goals are the fuel in the furnace of achievement."</i>
+<i>"It is in changing that we find purpose."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
