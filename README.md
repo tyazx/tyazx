@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is in changing that we find purpose."</i>
+<i>"Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
