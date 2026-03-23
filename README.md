@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life can only be understood backwards; but it must be lived forwards."</i>
+<i>"The greatest deception men suffer is from their own opinions."</i>
 <br>
-<b>- Soren Kierkegaard</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
