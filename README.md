@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make failure your teacher, not your undertaker.  "</i>
+<i>"You must learn to let go. Release the stress. You were never in control anyway."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
