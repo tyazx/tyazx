@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If your mind is empty, it is always ready for anything, it is open to everything."</i>
+<i>"Kindness is a language which the deaf can hear and the blind can see."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
