@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Identification with our mind causes thought to become compulsive."</i>
+<i>"Exceptional thinkers ignore their critics and go about their business making history."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
