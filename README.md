@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best mind-altering drug is the truth."</i>
+<i>"Throw your heart over the fence and the rest will follow"</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
