@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must learn to let go. Release the stress. You were never in control anyway."</i>
+<i>"The most effective way to do it, is to do it."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
