@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throw your heart over the fence and the rest will follow"</i>
+<i>"You cannot have a positive life and a negative mind."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
