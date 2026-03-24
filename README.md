@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not go where the path may lead, go instead where there is no path and leave a trail."</i>
+<i>"Everyone you admire was once a beginner."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
