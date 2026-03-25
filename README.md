@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths."</i>
+<i>"It is the mark of an educated mind to be able to entertain a thought without accepting it."</i>
 <br>
-<b>- Charles Spurgeon</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
