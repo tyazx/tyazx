@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The law of harvest is to reap more than you sow. Sow an act, and you reap a habit. Sow a habit and you reap a character. Sow a character and you reap a destiny."</i>
+<i>"The way to change others' minds is with affection, and not anger."</i>
 <br>
-<b>- James Allen</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
