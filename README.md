@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The two most powerful warriors are patience and time."</i>
+<i>"Look to the beauty of this day, miracles are all around you."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
