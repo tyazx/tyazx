@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Silence is a source of great strength."</i>
+<i>"Stop wasting time defending your problems and work on addressing them instead."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
