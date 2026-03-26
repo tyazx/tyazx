@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is useless to attempt to reason a man out of a thing he was never reasoned into."</i>
+<i>"If no one ever broke the rules, then we'd never advance."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
