@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must accept finite disappointment, but never lose infinite hope."</i>
+<i>"If you genuinely want something, don't wait for it - teach yourself."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
