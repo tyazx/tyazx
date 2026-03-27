@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am thankful to all those who said no. It's because of them, I did it myself.  "</i>
+<i>"To lose your temper is only useful once a year."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Colin R. Davis</b>
 </blockquote>
 </p>
 
