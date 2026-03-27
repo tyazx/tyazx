@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you genuinely want something, don't wait for it - teach yourself."</i>
+<i>"The destiny of man is in his own soul. "</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
