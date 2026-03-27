@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Look to the beauty of this day, miracles are all around you."</i>
+<i>"Take care of your body. It's the only place you have to live."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
