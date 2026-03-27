@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The destiny of man is in his own soul. "</i>
+<i>"To be happy we need something to solve. Happiness is therefore a form of action."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
