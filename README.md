@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be happy we need something to solve. Happiness is therefore a form of action."</i>
+<i>"I am thankful to all those who said no. It's because of them, I did it myself.  "</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
