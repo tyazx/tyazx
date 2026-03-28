@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Help others achieve their dreams and you will achieve yours."</i>
+<i>"Circumstances do not make the man, they reveal him."</i>
 <br>
-<b>- Les Brown</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
