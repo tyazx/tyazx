@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Circumstances do not make the man, they reveal him."</i>
+<i>"If you let your head get too big, it'll break your neck."</i>
 <br>
-<b>- James Allen</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
