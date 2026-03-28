@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain."</i>
+<i>"It is never too late to be what you might have been."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
