@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear is your worst enemy. Risk is your best friend."</i>
+<i>"Nothing can bring you peace but yourself."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
