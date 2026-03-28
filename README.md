@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear is stupid. So are regrets."</i>
+<i>"Fear is your worst enemy. Risk is your best friend."</i>
 <br>
-<b>- Marilyn Monroe</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
