@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The outer conditions of a person's life will always be found to reflect their inner beliefs."</i>
+<i>"The only normal people are the ones you don't know very well."</i>
 <br>
-<b>- James Allen</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
