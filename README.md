@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The measure of wisdom is how calm you are when facing any given situation."</i>
+<i>"Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
