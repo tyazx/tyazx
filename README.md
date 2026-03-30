@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Force has no place where there is need of skill. "</i>
+<i>"Your purpose will be clear only when you listen to your heart."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
