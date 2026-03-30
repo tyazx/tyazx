@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future is the worst thing about the present."</i>
+<i>"Embody what you teach, and teach only what you have embodied."</i>
 <br>
-<b>- Gustave Flaubert</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
