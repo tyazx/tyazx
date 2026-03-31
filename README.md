@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes good things fall apart so better things can fall together."</i>
+<i>"A diamond is a piece of charcoal that handled stress exceptionally well."</i>
 <br>
-<b>- Marilyn Monroe</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
