@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Listen to the secret sound, the real sound, which is inside you."</i>
+<i>"Sometimes good things fall apart so better things can fall together."</i>
 <br>
-<b>- Kabir</b>
+<b>- Marilyn Monroe</b>
 </blockquote>
 </p>
 
