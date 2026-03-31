@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Embody what you teach, and teach only what you have embodied."</i>
+<i>"Listen to the secret sound, the real sound, which is inside you."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
