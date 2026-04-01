@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Decide whether or not the goal is worth the risks involved. If it is, stop worrying."</i>
+<i>"The quality of your commitments will determine the course of your life."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
