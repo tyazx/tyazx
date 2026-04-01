@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"FOCUS - Follow One Course Until Successful"</i>
+<i>"You make your own luck if you stay at it long enough."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
