@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You make your own luck if you stay at it long enough."</i>
+<i>"Constantly think about how you could be doing things better."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
