@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quality of your commitments will determine the course of your life."</i>
+<i>"Always do your best. What you plant now, you will harvest later."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
