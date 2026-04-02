@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enjoy when you can, and endure when you must."</i>
+<i>"Walk slowly but never walk backward."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
