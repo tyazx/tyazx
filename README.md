@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking."</i>
+<i>"People think about what they don't want and attract more of the same."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
