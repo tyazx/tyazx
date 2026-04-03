@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The eye with which I see God is the same eye with which God sees me."</i>
+<i>"To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
