@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A scientific man ought to have no wishes, no affections, - a mere heart of stone."</i>
+<i>"Successful people are not without problems. They're simply people who've learned to solve their problems."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
