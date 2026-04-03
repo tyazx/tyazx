@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For things to change, you have to change."</i>
+<i>"The eye with which I see God is the same eye with which God sees me."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
