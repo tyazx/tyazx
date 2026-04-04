@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything flows, nothing stands still."</i>
+<i>"It is in changing that we find purpose."</i>
 <br>
 <b>- Heraclitus</b>
 </blockquote>
