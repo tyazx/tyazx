@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Gratitude is the fairest blossom which springs from the soul."</i>
+<i>"You only live once, but if you do it right, once is enough."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
