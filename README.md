@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is everything. It is the preview of life's coming attractions."</i>
+<i>"It's better to stand by someone's side than by yourself."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
