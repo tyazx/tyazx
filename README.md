@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not pray for an easy life, pray for the strength to endure a difficult one.  "</i>
+<i>"Gratitude is the fairest blossom which springs from the soul."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
