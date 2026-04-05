@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to find yourself is to lose yourself in the service of others."</i>
+<i>"Our joy does not have to be based on our circumstances."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
