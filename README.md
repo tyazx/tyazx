@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our joy does not have to be based on our circumstances."</i>
+<i>"Life is and will ever remain an equation incapable of solution, but it contains certain known factors. "</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Nikola Tesla</b>
 </blockquote>
 </p>
 
