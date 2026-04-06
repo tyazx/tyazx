@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn from the mistakes of others. You can't live long enough to make them all yourself."</i>
+<i>"Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
