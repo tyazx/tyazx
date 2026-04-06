@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The very essence of instinct is that it's followed independently of reason."</i>
+<i>"Either you choose to stay in the shallow end of the pool or you go out into the ocean."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
