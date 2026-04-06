@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners."</i>
+<i>"No matter how qualified or deserving we are, we will never reach a better life until we can imagine it for ourselves and allow ourselves to have it."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
