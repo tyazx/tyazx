@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Old age is like everything else. To make a success of it, you've got to start young."</i>
+<i>"The greatest discovery of all time is that a person can change their future by merely changing their attitude."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
