@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is hopeless; we must hope for everything."</i>
+<i>"Old age is like everything else. To make a success of it, you've got to start young."</i>
 <br>
-<b>- Euripides</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
