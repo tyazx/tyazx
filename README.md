@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man must use what he has, not hope for what is not."</i>
+<i>"The greater the impact you want to make, the greater your influence needs to be."</i>
 <br>
-<b>- G.I. Gurdjieff</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
