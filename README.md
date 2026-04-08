@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all self-made, but only the successful will admit it."</i>
+<i>"You are what you believe in. You become that which you believe you can become."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
