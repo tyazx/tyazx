@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is easy to discover what another has discovered before."</i>
+<i>"We cannot change anything unless we accept it."</i>
 <br>
-<b>- Christopher Columbus</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
