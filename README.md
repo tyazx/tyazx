@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only by attracting the best people will you accomplish great deeds."</i>
+<i>"Always do your best. What you plant now, you will harvest later."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
