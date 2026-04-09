@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have never in my life learned anything from any man who agreed with me."</i>
+<i>"Remember, today is the tomorrow you worried about yesterday."</i>
 <br>
-<b>- Dudley Field Malone</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
