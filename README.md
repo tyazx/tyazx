@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A leader leads by example, not by force."</i>
+<i>"No man becomes rich unless he enriches others."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
