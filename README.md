@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unless you're ashamed of yourself now and then, you're not honest."</i>
+<i>"Faults are yours to fix, not to curse."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
