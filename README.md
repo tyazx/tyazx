@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is indeed a radical act of love just to sit down and be quiet for a time by yourself."</i>
+<i>"Just because something isn't a lie does not mean that it isn't deceptive."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
