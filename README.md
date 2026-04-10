@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It isn't that they can't see the solution. It is that they can't see the problem."</i>
+<i>"Do good by stealth, and blush to find it fame."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
