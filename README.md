@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Faults are yours to fix, not to curse."</i>
+<i>"Leaders think and talk about solutions. Followers think and talk about the problems."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
