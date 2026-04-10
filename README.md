@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just because something isn't a lie does not mean that it isn't deceptive."</i>
+<i>"The person who never made a mistake never tried anything new."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
