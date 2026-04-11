@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a journey, not a destination."</i>
+<i>"It's what you do in the present that will redeem the past and thereby change the future."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
