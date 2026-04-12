@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People seldom do what they believe in. They do what is convenient, then repent."</i>
+<i>"Do good, live in the most positive and joyful way possible every day."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
