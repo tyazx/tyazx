@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wise people, even though all laws were abolished, would still lead the same life."</i>
+<i>"All has not been said and never will be."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
