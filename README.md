@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of getting ahead is getting started."</i>
+<i>"Within every desire is the mechanics of its fulfillment."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
