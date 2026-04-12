@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life belongs to the living, and he who lives must be prepared for changes."</i>
+<i>"The secret of getting ahead is getting started."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
