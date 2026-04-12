@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have?"</i>
+<i>"Life belongs to the living, and he who lives must be prepared for changes."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
