@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be calm is the highest achievement of the self."</i>
+<i>"No man is happy who does not think himself so."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
