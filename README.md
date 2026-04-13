@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He is richest who is content with the least, for content is the wealth of nature."</i>
+<i>"Investing in yourself is the best investment you will ever make."</i>
 <br>
-<b>- Socrates</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
