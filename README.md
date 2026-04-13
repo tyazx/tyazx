@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be a good animal, true to your instincts."</i>
+<i>"To be calm is the highest achievement of the self."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
