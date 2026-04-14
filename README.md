@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Leadership is solving problems"</i>
+<i>"Your greatest asset is your earning ability. Your greatest resource is your time."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
