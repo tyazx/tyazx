@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything you can imagine is real."</i>
+<i>"Leadership is solving problems"</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
