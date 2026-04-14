@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is stumbling from failure to failure with no loss of enthusiasm."</i>
+<i>"You talk when you cease to be at peace with your thoughts."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
