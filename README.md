@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners."</i>
+<i>"Your mind is infinite, it's your doubts that are limiting."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
