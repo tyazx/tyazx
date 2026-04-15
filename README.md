@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your mind is infinite, it's your doubts that are limiting."</i>
+<i>"No kind action ever stops with itself. One kind action leads to another. Good example is followed."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
