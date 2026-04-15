@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Bloom where you are planted!"</i>
+<i>"I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
