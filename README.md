@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the power of the mind to be unconquerable."</i>
+<i>"It is never too late to be what you might have been."</i>
 <br>
-<b>- Seneca</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
