@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Human behavior flows from three main sources: desire, emotion, and knowledge."</i>
+<i>"In spite of everything, I shall rise again."</i>
 <br>
-<b>- Plato</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
