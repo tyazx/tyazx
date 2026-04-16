@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ability to observe without evaluating is the highest form of intelligence."</i>
+<i>"Leadership is solving problems"</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
