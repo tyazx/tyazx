@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Develop success from failures. Discouragement and failure are two of the surest stepping stones to success."</i>
+<i>"A wise person should have money in their head, but not in their heart."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
