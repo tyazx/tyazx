@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A wise person should have money in their head, but not in their heart."</i>
+<i>"Great acts are made up of small deeds."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
