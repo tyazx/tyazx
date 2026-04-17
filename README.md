@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I skate to where the puck is going to be, not where it has been."</i>
+<i>"No one can hurt you without your consent."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
