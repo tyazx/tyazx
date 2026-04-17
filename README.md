@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one can hurt you without your consent."</i>
+<i>"A different result requires doing something different."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
