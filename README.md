@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who look for the bad in people will surely find it."</i>
+<i>"Giving back involves a certain amount of giving up."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
