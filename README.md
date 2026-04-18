@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who realize their folly are not true fools."</i>
+<i>"Great acts are made up of small deeds."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
