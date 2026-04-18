@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have a choice everyday regarding the attitude we will embrace for that day."</i>
+<i>"What one does is what counts. Not what one had the intention of doing."</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
