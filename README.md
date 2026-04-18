@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad."</i>
+<i>"Only those who do nothing at all make no mistakes."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
