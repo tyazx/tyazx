@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only those who do nothing at all make no mistakes."</i>
+<i>"It's easier to go down a hill than up it but the view is much better at the top."</i>
 <br>
-<b>- Unknown</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
