@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What one does is what counts. Not what one had the intention of doing."</i>
+<i>"Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
