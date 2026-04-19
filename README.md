@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great acts are made up of small deeds."</i>
+<i>"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. "</i>
 <br>
 <b>- Lao Tzu</b>
 </blockquote>
