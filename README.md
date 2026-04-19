@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. "</i>
+<i>"Don't blame others. it won't make you a better person."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
