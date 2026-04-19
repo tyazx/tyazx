@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The dream is free, but the hustle is sold separately."</i>
+<i>"Anything you may hold firmly in your imagination can be yours."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
