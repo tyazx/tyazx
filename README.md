@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To bear trials with a calm mind robs misfortune of its strength and burden."</i>
+<i>"All things come into being by conflict of opposites."</i>
 <br>
-<b>- Seneca</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
