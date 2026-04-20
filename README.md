@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There's more to life than being a passenger."</i>
+<i>"Those who bring sunshine into the lives of others cannot keep it from themselves."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
