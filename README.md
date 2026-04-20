@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A moving door hinge never corrodes. Flowing water never grows stagnant."</i>
+<i>"There's more to life than being a passenger."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
