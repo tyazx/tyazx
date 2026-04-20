@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Small men think they are small; great men never know they are great. "</i>
+<i>"Be strong. Be confident. Be the star of your own life."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
