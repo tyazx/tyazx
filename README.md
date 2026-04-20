@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adults are just children who earn money."</i>
+<i>"From morning till night, we should never rely on a single thing."</i>
 <br>
-<b>- Kenneth Branagh</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
