@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be happy we need something to solve. Happiness is therefore a form of action."</i>
+<i>"Wake up and smile! Wake up and be grateful!"</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
