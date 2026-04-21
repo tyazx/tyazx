@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Leadership starts at the top."</i>
+<i>"One never does wrong by doing right."</i>
 <br>
-<b>- Morgan Wootten</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
