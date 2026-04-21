@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never spend your money before you have earned it."</i>
+<i>"We are all in the gutter, but some of us are looking at the stars. "</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
