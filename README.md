@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Cultivate the merry heart, develop the happiness habit, and life will become a continual feast."</i>
+<i>"The happiest people in the world are those who feel absolutely terrific about themselves."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
