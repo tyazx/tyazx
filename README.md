@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One never does wrong by doing right."</i>
+<i>"To be happy we need something to solve. Happiness is therefore a form of action."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
