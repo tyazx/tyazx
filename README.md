@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"From morning till night, we should never rely on a single thing."</i>
+<i>"Never spend your money before you have earned it."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
