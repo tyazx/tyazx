@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest value of a picture is when it forces us to notice what we never expected to see."</i>
+<i>"Some of us learn from other people's mistakes and the rest of us have to be other people.  "</i>
 <br>
-<b>- John Tukey</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
