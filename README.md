@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I do not seek. I find."</i>
+<i>"If you do not tell the truth about yourself you cannot tell it about other people."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
