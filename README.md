@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is our choices that show what we truly are, far more than our abilities."</i>
+<i>"Fears are nothing more than a state of mind."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
