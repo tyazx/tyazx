@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To find yourself, think for yourself."</i>
+<i>"Goodness is the only investment that never fails."</i>
 <br>
-<b>- Socrates</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
