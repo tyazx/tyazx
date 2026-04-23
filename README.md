@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your heart is full of fertile seeds, waiting to sprout."</i>
+<i>"The opposite of courage in our society is not cowardice... it is conformity."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
