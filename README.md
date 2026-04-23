@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life must be a constant education; one must learn everything, from speaking to dying."</i>
+<i>"No matter how tall the mountain is, it cannot block the sun."</i>
 <br>
-<b>- Gustave Flaubert</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
