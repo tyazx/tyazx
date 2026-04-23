@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always render more and better service than is expected of you, no matter what your task may be."</i>
+<i>"To handle yourself, use your head; to handle others, use your heart."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
