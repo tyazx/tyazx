@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trusting our intuition often saves us from disaster. "</i>
+<i>"Always render more and better service than is expected of you, no matter what your task may be."</i>
 <br>
-<b>- Anne Wilson Schaef</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
