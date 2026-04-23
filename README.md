@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The opposite of courage in our society is not cowardice... it is conformity."</i>
+<i>"At every moment where language can't go, that's your mind."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
