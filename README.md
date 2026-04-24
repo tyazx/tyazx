@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True life is lived when tiny changes occur."</i>
+<i>"Time stays long enough for anyone who will use it."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
