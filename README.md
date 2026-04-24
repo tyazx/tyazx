@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The hard path is often the right one. The river teaches more than the shore."</i>
+<i>"You can have it all. You just can't have it all at once. "</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
