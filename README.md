@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who has ever made anything of importance was disciplined."</i>
+<i>"The hard path is often the right one. The river teaches more than the shore."</i>
 <br>
-<b>- Andrew Hendrixson</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
