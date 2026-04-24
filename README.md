@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let the behavior of others destroy your inner peace."</i>
+<i>"If you read a lot of books, you're considered well-read. But if you watch a lot of TV, you're not considered well-viewed."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
