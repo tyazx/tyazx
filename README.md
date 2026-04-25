@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is exact correspondence with reality. "</i>
+<i>"Until you make the unconscious conscious, it will direct your life and you will call it fate."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
