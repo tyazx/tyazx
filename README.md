@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Memory is the scribe of the soul."</i>
+<i>"Be willing to be a beginner every single morning."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
