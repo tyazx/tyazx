@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What most people need to learn in life is how to love people and use things instead of using people and loving things."</i>
+<i>"Happiness is only real when shared."</i>
 <br>
-<b>- Unknown</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
