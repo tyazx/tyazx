@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is only real when shared."</i>
+<i>"The best thing to hold onto in life is each other."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
