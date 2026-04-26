@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The man who does not value himself, cannot value anything or anyone."</i>
+<i>"Your time is limited, so don't waste it living someone elses. life."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
