@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not believe that you will reach your destination without leaving the shore. "</i>
+<i>"Keep smiling, because life is a beautiful thing and there's so much to smile about."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Marilyn Monroe</b>
 </blockquote>
 </p>
 
