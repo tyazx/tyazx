@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I will not walk backward in life."</i>
+<i>"Nothing brings down walls as surely as acceptance."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
