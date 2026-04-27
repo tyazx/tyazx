@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's better to stand by someone's side than by yourself."</i>
+<i>"There is nothing more truly artistic than to love people."</i>
 <br>
-<b>- Jack London</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
