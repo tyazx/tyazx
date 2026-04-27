@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important things are the hardest to say."</i>
+<i>"Nothing has any power over me other than that which I give it through my conscious thoughts."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
