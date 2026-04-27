@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing more truly artistic than to love people."</i>
+<i>"To love means loving the unlovable."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
