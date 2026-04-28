@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have as much laughter as you have faith."</i>
+<i>"Do the difficult things while they are easy and do the great things while they are small."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
