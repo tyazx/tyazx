@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time."</i>
+<i>"Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
