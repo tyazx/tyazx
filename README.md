@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do good, live in the most positive and joyful way possible every day."</i>
+<i>"Perfectionism is simply putting a limit on your future."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
