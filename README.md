@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man who dares to waste one hour of time has not discovered the value of life."</i>
+<i>"If you are lucky enough to find love, remember it is there and don't throw it away."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
