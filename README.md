@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be royal in your own fashion: act like a king to be treated like one."</i>
+<i>"When you are tempted to give up, your breakthrough is probably just around the corner."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
