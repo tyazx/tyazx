@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tis not too late to seek a newer world."</i>
+<i>"Whatever you believe with feeling becomes your reality. "</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
