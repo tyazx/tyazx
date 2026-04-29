@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are tempted to give up, your breakthrough is probably just around the corner."</i>
+<i>"It's not the size of the dog in the fight, it's the size of the fight in the dog."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
