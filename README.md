@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What's right is what's left if you do everything else wrong."</i>
+<i>"People inspire you, or they drain you. Pick them wisely."</i>
 <br>
-<b>- Robin Williams</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
