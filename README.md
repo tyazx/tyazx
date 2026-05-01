@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is during our darkest moments that we must focus to see the light."</i>
+<i>"Even if you persuade me, you won't persuade me."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
