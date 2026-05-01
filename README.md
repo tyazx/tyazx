@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Open your eyes and look within. Are you satisfied with the life you're living?"</i>
+<i>"Take time like the river that never grows stale. Keep going and steady. No hurry, no rush."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
