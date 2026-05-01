@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"This is the most simple and basic component of life: our struggles determine our successes."</i>
+<i>"It is the power of thought that gives man power over nature."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
