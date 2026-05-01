@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first rule of handling conflict is don't hang around people who are constantly engaging in conflict."</i>
+<i>"Open your eyes and look within. Are you satisfied with the life you're living?"</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
