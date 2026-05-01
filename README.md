@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the power of thought that gives man power over nature."</i>
+<i>"The majority of what you want will come from the minority of what you do."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
