@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who wishes to be obeyed must know how to command."</i>
+<i>"The first rule of handling conflict is don't hang around people who are constantly engaging in conflict."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
