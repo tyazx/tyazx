@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great minds discuss ideas. Average minds discuss events. Small minds discuss people."</i>
+<i>"We need never be ashamed of our tears."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
