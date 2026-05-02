@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't waste time on excuses. Just get it done."</i>
+<i>"Closing your eyes and listening to silence is self-care."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
