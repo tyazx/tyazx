@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words are the clothes thoughts wear."</i>
+<i>"For all evils there are two remedies - time and silence."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
