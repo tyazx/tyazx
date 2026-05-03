@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We would accomplish many more things if we did not think of them as impossible."</i>
+<i>"You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
