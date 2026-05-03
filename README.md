@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change yourself - you are in control."</i>
+<i>"Unless someone truly has the power to say no, they never truly have the power to say yes."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
