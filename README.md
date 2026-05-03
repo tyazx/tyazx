@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes."</i>
+<i>"At every moment where language can't go, that's your mind."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
