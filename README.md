@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you think you can do a thing or think you can't do a thing, you're right."</i>
+<i>"Life should be touched, not strangled.  "</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
