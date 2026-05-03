@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunities don't often come along. So, when they do, you have to grab them."</i>
+<i>"It is better to be looked over than overlooked."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
