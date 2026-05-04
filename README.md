@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words are the clothes thoughts wear."</i>
+<i>"Success on the outside means nothing unless you also have success within."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
