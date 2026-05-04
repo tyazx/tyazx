@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We don't stop playing because we grow old; we grow old because we stop playing."</i>
+<i>"Before preparing to improve the world, first look around your own home three times. "</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
