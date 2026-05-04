@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before preparing to improve the world, first look around your own home three times. "</i>
+<i>"Not engaging in ignorance is wisdom. "</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
