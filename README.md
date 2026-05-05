@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never allow someone to be your priority while allowing yourself to be their option."</i>
+<i>"Words are clothes that thoughts wear"</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
