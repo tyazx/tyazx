@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words are clothes that thoughts wear"</i>
+<i>"Being a good example is the best form of service."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
