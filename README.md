@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A moving door hinge never corrodes. Flowing water never grows stagnant."</i>
+<i>"If someone betrays you once, it's their fault; if they betray you twice, it's your fault."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
