@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every moment of happiness requires a great amount of Ignorance"</i>
+<i>"If no one ever broke the rules, then we'd never advance."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
