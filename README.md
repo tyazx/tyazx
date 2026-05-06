@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot always control what goes on outside. But you can always control what goes on inside. "</i>
+<i>"A moving door hinge never corrodes. Flowing water never grows stagnant."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
