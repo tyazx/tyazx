@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freedom itself demands discomfort."</i>
+<i>"If you want to be successful, you have to jump, there's no way around it."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
