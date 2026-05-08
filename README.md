@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We're kept from our goal not by obstacles, but by a clear path to a lesser goal."</i>
+<i>"Someday death will take us to another star."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
