@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How you think is as important as as what you think."</i>
+<i>"Faithless is he that says farewell when the road darkens."</i>
 <br>
-<b>- Unknown</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
