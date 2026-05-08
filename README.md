@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only the educated are free."</i>
+<i>"We're kept from our goal not by obstacles, but by a clear path to a lesser goal."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
