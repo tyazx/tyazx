@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first man gets the oyster, the second man gets the shell."</i>
+<i>"Wherever you are, and whatever you do, be in love."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
