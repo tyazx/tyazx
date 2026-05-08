@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles."</i>
+<i>"Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
