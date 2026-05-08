@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When at last you are come to the ocean of happiness, do not go back thirsty."</i>
+<i>"A Hero is an ordinary individual who finds the strength to persevere and endure in spite of overwhelming obstacles."</i>
 <br>
-<b>- Kabir</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
