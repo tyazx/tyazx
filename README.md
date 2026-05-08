@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Someday death will take us to another star."</i>
+<i>"Every man is guilty of all the good he did not do. "</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
