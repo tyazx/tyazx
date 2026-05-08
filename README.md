@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man is guilty of all the good he did not do. "</i>
+<i>"There is no self-discovery without pain and loss."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
