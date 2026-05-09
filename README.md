@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no self-discovery without pain and loss."</i>
+<i>"The greatest miracle is to be alive."</i>
 <br>
-<b>- Anita Krizzan</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
