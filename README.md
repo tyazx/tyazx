@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only one thing that makes a dream impossible to achieve: the fear of failure."</i>
+<i>"Love your enemies, for they tell you your faults."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
