@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest miracle is to be alive."</i>
+<i>"Closing your eyes and listening to silence is self-care."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
