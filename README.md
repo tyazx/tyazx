@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace is not absence of conflict, it is the ability to handle conflict by peaceful means."</i>
+<i>"There is only one thing that makes a dream impossible to achieve: the fear of failure."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
