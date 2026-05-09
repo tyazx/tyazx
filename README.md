@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be fascinated instead of frustrated."</i>
+<i>"Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Charles Spurgeon</b>
 </blockquote>
 </p>
 
