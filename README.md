@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do something worth remembering."</i>
+<i>"In the middle of difficulty lies opportunity."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
