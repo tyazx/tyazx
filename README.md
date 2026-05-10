@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creativity is intelligence having fun."</i>
+<i>"Muddy water is best cleared by leaving it alone."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
