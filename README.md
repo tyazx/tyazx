@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the middle of difficulty lies opportunity."</i>
+<i>"If you cannot understand something, then you have understood it incorrectly."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
