@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you cannot understand something, then you have understood it incorrectly."</i>
+<i>"Sadness is but a wall between two gardens."</i>
 <br>
-<b>- Kabir</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
