@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember that the best relationship is one in which your love for each other exceeds your need for each other."</i>
+<i>"Never be bored, and you will never be boring."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
