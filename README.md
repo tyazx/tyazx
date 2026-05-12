@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Genius is one percent inspiration and ninety-nine percent perspiration."</i>
+<i>"Life is like stepping onto a boat which is about to sail out to sea and sink."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
