@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I cannot do great things. I can do small things in a great way."</i>
+<i>"It's the job that's never started that takes the longest to finish."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
