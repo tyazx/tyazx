@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not whether you get knocked down, its whether you get back up."</i>
+<i>"Animals don't hate, and we're supposed to be better than them."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
