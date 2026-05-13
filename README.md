@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Animals don't hate, and we're supposed to be better than them."</i>
+<i>"Life comes at us in waves. We can't predict or control those waves, but we can learn to surf."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
