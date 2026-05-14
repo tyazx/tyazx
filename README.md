@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn from the rejection and turn it into an opportunity!"</i>
+<i>"Why live an ordinary life, when you can live an extraordinary one."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
