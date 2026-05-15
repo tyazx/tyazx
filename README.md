@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thinking is difficult, that's why most people judge."</i>
+<i>"The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
