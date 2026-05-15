@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Progress comes to those who train and train; reliance on secret techniques will get you nowhere."</i>
+<i>"Thinking is difficult, that's why most people judge."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
