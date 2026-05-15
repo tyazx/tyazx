@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where violence reigns, reason is weak."</i>
+<i>"Worry is a waste of emotional reserve."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
