@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perhaps the most tragic thing about mankind is that we are all dreaming about some magical garden over the horizon, instead of enjoying the roses that are right outside today."</i>
+<i>"We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
