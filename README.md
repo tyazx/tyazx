@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It all depends on what you choose to believe."</i>
+<i>"Being ignorant is not so much a shame, as being unwilling to learn."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
