@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Progress comes to those who train and train; reliance on secret techniques will get you nowhere."</i>
+<i>"We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
