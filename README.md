@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The attempt to escape from pain, is what creates more pain."</i>
+<i>"Worry is a waste of emotional reserve."</i>
 <br>
-<b>- Gabor Mate</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
