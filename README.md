@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies."</i>
+<i>"The search for happiness is one of the chief sources of unhappiness."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
