@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One loyal friend is worth ten thousand relatives."</i>
+<i>"A zen master's life is one continuous mistake."</i>
 <br>
-<b>- Euripides</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
