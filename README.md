@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to see things just as they are, then you yourself must practice just as you are."</i>
+<i>"Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has."</i>
 <br>
-<b>- Dogen</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
