@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The search for happiness is one of the chief sources of unhappiness."</i>
+<i>"If you want to see things just as they are, then you yourself must practice just as you are."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
