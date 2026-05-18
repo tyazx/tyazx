@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not whether you get knocked down, its whether you get back up."</i>
+<i>"One loyal friend is worth ten thousand relatives."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
