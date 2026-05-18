@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One loyal friend is worth ten thousand relatives."</i>
+<i>"Common sense is not so common. "</i>
 <br>
-<b>- Euripides</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
