@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be the silent watcher of your thoughts and behavior. You are beneath the thinker."</i>
+<i>"You don't have to control your thoughts; you just have to stop letting them control you."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
