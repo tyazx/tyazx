@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important battle is one to conquer yourself."</i>
+<i>"We don't stop playing because we grow old; we grow old because we stop playing."</i>
 <br>
-<b>- Yanni</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
