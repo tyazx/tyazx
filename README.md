@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A minute's success pays the failure of years."</i>
+<i>"Be brave enough to suck at something new."</i>
 <br>
-<b>- Robert Browning</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
