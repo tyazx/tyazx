@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Yesterday is gone. Tomorrow has not yet come. We have only today."</i>
+<i>"Receive without complaint, Work with fate."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
