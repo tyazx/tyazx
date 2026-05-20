@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way of success is the way of continuous pursuit of knowledge."</i>
+<i>"Don't let what you cannot do interfere with what you can do."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
