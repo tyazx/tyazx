@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One day, in retrospect, the years of struggle will strike you as the most beautiful."</i>
+<i>"Yesterday is gone. Tomorrow has not yet come. We have only today."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
