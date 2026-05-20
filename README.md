@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Growth comes at the point of resistance."</i>
+<i>"The way of success is the way of continuous pursuit of knowledge."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
