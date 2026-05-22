@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're afraid to die, you're afraid to live. You can't have one without the other."</i>
+<i>"The future depends on what you do today. "</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
