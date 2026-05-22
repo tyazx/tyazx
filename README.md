@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throughout this life, you can never be certain of living long enough to take another breath."</i>
+<i>"One day, in retrospect, the years of struggle will strike you as the most beautiful."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
