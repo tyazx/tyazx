@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no uninteresting things, only uninterested people."</i>
+<i>"Everything is in your own heart."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
