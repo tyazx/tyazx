@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I defeat my enemies when I make them my friends."</i>
+<i>"Be the change that you want to see in the world."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
