@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are two things a person should never be angry at, what they can help, and what they cannot."</i>
+<i>"I defeat my enemies when I make them my friends."</i>
 <br>
-<b>- Plato</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
