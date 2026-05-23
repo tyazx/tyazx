@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything is in your own heart."</i>
+<i>"On the other side of the clouds is a bright blue sky."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
