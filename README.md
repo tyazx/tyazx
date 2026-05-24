@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your face always toward the sunshine -  shadows will fall behind you."</i>
+<i>"If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
