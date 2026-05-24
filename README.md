@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else."</i>
+<i>"It's not whether you get knocked down, its whether you get back up."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
