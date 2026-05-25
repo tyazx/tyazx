@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"That some achieve great success is proof to all that others can achieve it as well."</i>
+<i>"How people treat you is their karma; how you react is yours."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
