@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A pessimist is one who makes difficulties of his opportunities and an optimist is one who makes opportunities of his difficulties."</i>
+<i>"Don't allow your mind to tell your heart what to do. The mind gives up easily."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
