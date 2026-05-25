@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As soon as you trust yourself, you will know how to live."</i>
+<i>"To be fully alive is to feel that everything is possible."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
