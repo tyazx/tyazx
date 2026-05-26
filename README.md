@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace if possible, truth at all costs."</i>
+<i>"You have the potential for greatness."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
