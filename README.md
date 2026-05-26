@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man that flies from his fear may find that he has only taken a short cut to meet it."</i>
+<i>"Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
