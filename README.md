@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A fool sees himself as another, but a wise man sees others as himself."</i>
+<i>"When you're at the end of your rope, tie a knot and hold on."</i>
 <br>
-<b>- Dogen</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
