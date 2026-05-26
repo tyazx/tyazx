@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you're at the end of your rope, tie a knot and hold on."</i>
+<i>"Peace if possible, truth at all costs."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
