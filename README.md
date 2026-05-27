@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you win, say nothing, when you lose say less."</i>
+<i>"Believe in one thing too much and you have no room for new ideas."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
