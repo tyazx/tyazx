@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe in one thing too much and you have no room for new ideas."</i>
+<i>"Because a thing seems difficult for you, do not think it impossible."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
