@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is easier than fault finding."</i>
+<i>"When you win, say nothing, when you lose say less."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
