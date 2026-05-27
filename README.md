@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creative endeavors are by their nature uncertain."</i>
+<i>"Nothing is easier than fault finding."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
