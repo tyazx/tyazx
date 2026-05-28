@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't imagine it, you can't have it."</i>
+<i>"It takes half your life before you discover life is a do-it-yourself project."</i>
 <br>
-<b>- Toni Morrison</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
