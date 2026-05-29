@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is found in unlikely places."</i>
+<i>"No one ever is defeated until defeat has been accepted as a reality."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
