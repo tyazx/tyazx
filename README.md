@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Note that this journey is uniquely yours, no one elses. So the path has to be your own."</i>
+<i>"The more knowledge you have, the more you're free to rely on your instincts."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
