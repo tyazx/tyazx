@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one ever is defeated until defeat has been accepted as a reality."</i>
+<i>"I dream my painting and I paint my dream."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
