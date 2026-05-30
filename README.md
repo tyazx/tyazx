@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more knowledge you have, the more you're free to rely on your instincts."</i>
+<i>"I alone cannot change the world, but I can cast a stone across the waters to create many ripples."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
