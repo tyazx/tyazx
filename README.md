@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I alone cannot change the world, but I can cast a stone across the waters to create many ripples."</i>
+<i>"All men who have achieved great things have been great dreamers."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Orison Swett Marden</b>
 </blockquote>
 </p>
 
