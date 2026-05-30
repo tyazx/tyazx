@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unlike the stomach, the brain doesn't alert you when it's empty."</i>
+<i>"Rest and be kind, you don't have to prove anything."</i>
 <br>
-<b>- Arabic Proverb</b>
+<b>- Jack Kerouac</b>
 </blockquote>
 </p>
 
