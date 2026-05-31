@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throughout this life, you can never be certain of living long enough to take another breath."</i>
+<i>"I have lived with several Zen masters -- all of them cats."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
