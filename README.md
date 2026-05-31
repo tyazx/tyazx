@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Use your smile to change the world but don't let the world change your smile."</i>
+<i>"Trust, like the soul, never returns once it is gone."</i>
 <br>
-<b>- Unknown</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
