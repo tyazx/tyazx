@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change the changeable, accept the unchangeable, and remove yourself from the unacceptable."</i>
+<i>"Use your smile to change the world but don't let the world change your smile."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
