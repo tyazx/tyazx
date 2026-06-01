@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to change an opinion than to persist in a wrong one."</i>
+<i>"If you let your head get too big, it'll break your neck."</i>
 <br>
-<b>- Socrates</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
