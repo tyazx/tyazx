@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have lived with several Zen masters -- all of them cats."</i>
+<i>"Your dream has to be bigger than your fear."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
