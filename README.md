@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you let your head get too big, it'll break your neck."</i>
+<i>"Someone is sitting in the shade today because someone planted a tree a long time ago."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Warren Buffett</b>
 </blockquote>
 </p>
 
