@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Someone is sitting in the shade today because someone planted a tree a long time ago."</i>
+<i>"Be fascinated instead of frustrated."</i>
 <br>
-<b>- Warren Buffett</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
