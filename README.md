@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wisest men follow their own direction."</i>
+<i>"Only those who do nothing at all make no mistakes."</i>
 <br>
-<b>- Euripides</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
