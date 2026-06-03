@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't wait for the right opportunity: create it."</i>
+<i>"The wisest men follow their own direction."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
