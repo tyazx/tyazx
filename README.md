@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change is inevitable but personal growth is a choice."</i>
+<i>"To know your Enemy, you must become your Enemy."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
