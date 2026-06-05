@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit."</i>
+<i>"Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
