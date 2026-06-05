@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Beware of false knowledge, it is more dangerous than ignorance."</i>
+<i>"The future is not a gift. It is an achievement."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
