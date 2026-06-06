@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Bloom where you are planted!"</i>
+<i>"Rest in reason; move in passion."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
