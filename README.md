@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rest in reason; move in passion."</i>
+<i>"Heaven is right where you are standing."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
