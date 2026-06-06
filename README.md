@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The spirit is beyond destruction. No one can bring an end to spirit which is everlasting."</i>
+<i>"To find yourself, think for yourself."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
