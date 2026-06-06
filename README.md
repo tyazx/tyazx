@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're never given a dream without also being given the power to make it true."</i>
+<i>"Imagination is more important than knowledge."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
