@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The farther backward you can look, the farther forward you are likely to see."</i>
+<i>"Do not be so open-minded that your brains fall out."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
