@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not enough to win a war; it is more important to organize the peace."</i>
+<i>"Not all of us can do great things. But we can do small things with great love."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
