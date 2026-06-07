@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is walking from failure to failure with no loss of enthusiasm."</i>
+<i>"The farther backward you can look, the farther forward you are likely to see."</i>
 <br>
-<b>- Colin R. Davis</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
