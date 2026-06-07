@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A leader is one who knows the way, goes the way, and shows the way."</i>
+<i>"Success is walking from failure to failure with no loss of enthusiasm."</i>
 <br>
-<b>- Unknown</b>
+<b>- Colin R. Davis</b>
 </blockquote>
 </p>
 
