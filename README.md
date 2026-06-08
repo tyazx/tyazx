@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way we feel is the direct result of what we think."</i>
+<i>"Enjoy every minute of life. Never second-guess life."</i>
 <br>
-<b>- Peter A. Cohen</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
