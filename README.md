@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not change direction, you may end up where you are heading."</i>
+<i>"It's not how much we give but how much love we put into giving."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
