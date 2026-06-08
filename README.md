@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enjoy every minute of life. Never second-guess life."</i>
+<i>"Perseverance and spirit have done wonders in all ages."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
