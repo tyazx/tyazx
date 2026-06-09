@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment."</i>
+<i>"The strength of a wall is neither greater nor less than the courage of the men who defend it."</i>
 <br>
-<b>- Buddha</b>
+<b>- Genghis Khan</b>
 </blockquote>
 </p>
 
