@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The universe doesn't allow perfection."</i>
+<i>"The obstacle in the path becomes the path."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Ryan Holiday</b>
 </blockquote>
 </p>
 
