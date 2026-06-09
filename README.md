@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your chances of success in any undertaking can always be measured by your belief in yourself."</i>
+<i>"Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
