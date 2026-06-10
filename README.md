@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace begins with a smile."</i>
+<i>"Art is to console those who are broken by life."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
