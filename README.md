@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"However difficult life may seem, there is always something you can do and succeed at."</i>
+<i>"Remember the entrance to the sanctuary is inside you."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
