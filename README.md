@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The obstacle in the path becomes the path."</i>
+<i>"However difficult life may seem, there is always something you can do and succeed at."</i>
 <br>
-<b>- Ryan Holiday</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
