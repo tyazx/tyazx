@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Behind every beautiful thing, there's some kind of pain."</i>
+<i>"It's better to stand by someone's side than by yourself."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
