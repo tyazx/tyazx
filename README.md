@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're never too old for anything."</i>
+<i>"Do not look for approval except for the consciousness of doing your best."</i>
 <br>
-<b>- Betty White</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
