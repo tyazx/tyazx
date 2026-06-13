@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one returns from a long journey the same person they were before."</i>
+<i>"Time is more valuable than money. You can get more money, but you cannot get more time."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
