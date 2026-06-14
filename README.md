@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every act of creation is first an act of destruction."</i>
+<i>"A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
