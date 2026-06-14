@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Riches don't make a man rich, they only make him busier."</i>
+<i>"The future will be shaped by those willing to commit their minds and their bodies to the task."</i>
 <br>
-<b>- Christopher Columbus</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
