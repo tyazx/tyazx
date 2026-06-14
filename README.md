@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The difference between impossible and possible is a willing heart."</i>
+<i>"Riches don't make a man rich, they only make him busier."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Christopher Columbus</b>
 </blockquote>
 </p>
 
