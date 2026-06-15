@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only when you can be extremely pliable and soft can you be extremely hard and strong."</i>
+<i>"Happiness depends on your mindset and attitude."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
