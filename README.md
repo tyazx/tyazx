@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have more possibilities available in each moment than we realize."</i>
+<i>"Fear not the path of Truth for the lack of People walking on it."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
