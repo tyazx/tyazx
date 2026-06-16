@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to predict your future is to create it."</i>
+<i>"You cannot change your destination overnight but you can change your direction overnight."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
