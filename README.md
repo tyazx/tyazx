@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whoever is happy will make others happy too."</i>
+<i>"Changing minds is harder than finding people who already agree."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
