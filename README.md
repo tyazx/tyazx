@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wise people, even though all laws were abolished, would still lead the same life."</i>
+<i>"The difference between treason and patriotism is only a matter of dates."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
