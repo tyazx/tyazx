@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep others in suspense, cultivate an air of unpredictability."</i>
+<i>"Wise people, even though all laws were abolished, would still lead the same life."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
