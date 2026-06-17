@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The difference between treason and patriotism is only a matter of dates."</i>
+<i>"You cannot have a positive life and a negative mind."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
