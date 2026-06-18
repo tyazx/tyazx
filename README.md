@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Either get busy living or get busy dying."</i>
+<i>"Wisdom is doing now what you are going to be happy with later on."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
