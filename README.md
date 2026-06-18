@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom is doing now what you are going to be happy with later on."</i>
+<i>"See what you're doing wrong, laugh at it, change and do better."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
