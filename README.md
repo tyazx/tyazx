@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To judge a man by his weakest link or deed is like judging the power of the ocean by one wave."</i>
+<i>"Fear of death is fear of the Unknown."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Adi Da Samraj</b>
 </blockquote>
 </p>
 
