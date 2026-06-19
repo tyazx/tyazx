@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest challenge after success is shutting up about it."</i>
+<i>"To judge a man by his weakest link or deed is like judging the power of the ocean by one wave."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
