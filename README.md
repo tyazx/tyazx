@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Invest in as much of yourself as you can, you are your own biggest asset by far."</i>
+<i>"Every experience is a lesson. Every loss is a gain."</i>
 <br>
-<b>- Warren Buffett</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
