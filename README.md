@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If no one ever broke the rules, then we'd never advance."</i>
+<i>"Be strong. Be confident. Be the star of your own life."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
