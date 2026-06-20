@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As you think, you travel, and as you love, you attract."</i>
+<i>"The health of nations is more important than the wealth of nations."</i>
 <br>
-<b>- James Allen</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
