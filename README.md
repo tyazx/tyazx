@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't look back - you're not going that way."</i>
+<i>"If you do what you've always done, you'll get what you've always gotten."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
