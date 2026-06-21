@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To judge a man by his weakest link or deed is like judging the power of the ocean by one wave."</i>
+<i>"No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
