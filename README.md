@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do what you've always done, you'll get what you've always gotten."</i>
+<i>"To judge a man by his weakest link or deed is like judging the power of the ocean by one wave."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
