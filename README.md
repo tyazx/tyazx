@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future is not a gift. It is an achievement."</i>
+<i>"Every man desires to live long, but no man wishes to be old."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
