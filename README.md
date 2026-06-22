@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hope and fear come from feeling that we lack something; they come from a sense of poverty."</i>
+<i>"Life comes at us in waves. We can't predict or control those waves, but we can learn to surf."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
