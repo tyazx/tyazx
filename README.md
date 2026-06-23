@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter what happens in life, never lose sight of who you are."</i>
+<i>"It doesn't matter where you are coming from. All that matters is where you are going."</i>
 <br>
-<b>- Yanni</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
