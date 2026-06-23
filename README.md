@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As soon as you trust yourself, you will know how to live."</i>
+<i>"You can not live your life just based on what everyone else thinks."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
