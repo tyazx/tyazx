@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is impossible for a man to learn what he thinks he already knows."</i>
+<i>"No man is happy unless he believes he is."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
