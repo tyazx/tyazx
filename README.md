@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man is happy unless he believes he is."</i>
+<i>"Focus is a matter of deciding what things you're not going to do."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- John Carmack</b>
 </blockquote>
 </p>
 
