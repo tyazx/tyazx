@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is getting what you want, happiness is wanting what you get."</i>
+<i>"Everything has beauty but not everyone sees it."</i>
 <br>
-<b>- W.P. Kinsella</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
