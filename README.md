@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only way to entertain some folks is to listen to them."</i>
+<i>"Success is getting what you want, happiness is wanting what you get."</i>
 <br>
-<b>- David Brinkley</b>
+<b>- W.P. Kinsella</b>
 </blockquote>
 </p>
 
