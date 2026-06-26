@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't know where you're going, you will probably end up somewhere else."</i>
+<i>"The very essence of instinct is that it's followed independently of reason."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
