@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The very essence of instinct is that it's followed independently of reason."</i>
+<i>"If you can handle rejection, you'll learn to get everything you want."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
