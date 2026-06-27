@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"At every moment where language can't go, that's your mind."</i>
+<i>"Success is not to be pursued, it is to be attracted by the person you become."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
