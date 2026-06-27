@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All that we see or seem is but a dream within a dream."</i>
+<i>"Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
