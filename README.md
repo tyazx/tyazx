@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make yourself so useful to other people, that they think you are irreplaceable."</i>
+<i>"When a man is penalized for honesty he learns to lie."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
