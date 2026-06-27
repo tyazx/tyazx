@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When a man is penalized for honesty he learns to lie."</i>
+<i>"No duty is more urgent than that of returning thanks."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
