@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Respect other people's feelings. It might mean nothing to you, but it could mean everything to them."</i>
+<i>"A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
