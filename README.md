@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The farther backward you can look, the farther forward you are likely to see."</i>
+<i>"The soul is neither born, and nor does it die."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
