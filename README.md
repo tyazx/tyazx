@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We forge the chains we wear in life."</i>
+<i>"Dreams are the touchstones of our characters."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
