@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone has oceans to fly, if they have the heart to do it. Is it reckless? Maybe. But what do dreams know of boundaries."</i>
+<i>"We forge the chains we wear in life."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
