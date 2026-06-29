@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not go within, you go without."</i>
+<i>"It is better to offer no excuse than a bad one."</i>
 <br>
-<b>- Neale Donald Walsch</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
