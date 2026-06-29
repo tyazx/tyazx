@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is exact correspondence with reality."</i>
+<i>"If you do not go within, you go without."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Neale Donald Walsch</b>
 </blockquote>
 </p>
 
