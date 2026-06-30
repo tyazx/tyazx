@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let your learning lead to knowledge. Let your learning lead to action."</i>
+<i>"Be royal in your own fashion: act like a king to be treated like one."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
