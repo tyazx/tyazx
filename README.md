@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I can't change the direction of the wind, but I can adjust my sails to always reach my destination."</i>
+<i>"What most people need to learn in life is how to love people and use things instead of using people and loving things."</i>
 <br>
-<b>- Colin R. Davis</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
