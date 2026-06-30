@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It takes 20 years to build a reputation and five minutes to ruin it."</i>
+<i>"I can't change the direction of the wind, but I can adjust my sails to always reach my destination."</i>
 <br>
-<b>- Warren Buffett</b>
+<b>- Colin R. Davis</b>
 </blockquote>
 </p>
 
