@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You get in life what you have the courage to ask for."</i>
+<i>"Your worth consists in what you are and not in what you have."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
