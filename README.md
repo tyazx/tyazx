@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is an effect of doing what you love, not an end goal to be achieved."</i>
+<i>"Attitude, not aptitude, determines altitude."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
