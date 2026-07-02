@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What's right is what's left if you do everything else wrong."</i>
+<i>"Be happy now, without reason - or you never will be at all."</i>
 <br>
-<b>- Robin Williams</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
