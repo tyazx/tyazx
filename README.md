@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is an essence of when you are fearless, you become more creative."</i>
+<i>"What's right is what's left if you do everything else wrong."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Robin Williams</b>
 </blockquote>
 </p>
 
