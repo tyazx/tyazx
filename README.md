@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Someday death will take us to another star."</i>
+<i>"You get in life what you have the courage to ask for."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
