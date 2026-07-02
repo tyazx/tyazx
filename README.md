@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your worth consists in what you are and not in what you have."</i>
+<i>"Happiness is an effect of doing what you love, not an end goal to be achieved."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
