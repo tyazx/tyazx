@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who cheats the earth will be cheated by the earth."</i>
+<i>"Someday death will take us to another star."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
