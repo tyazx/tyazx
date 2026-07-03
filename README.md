@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work harder on yourself than you do on your job."</i>
+<i>"You can't make someone feel good about themselves until you feel good about yourself."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
