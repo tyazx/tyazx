@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"So we beat on, boats against the current, borne back ceaselessly into the past."</i>
+<i>"Many a man has failed because he had his wishbone where his backbone should have been."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
