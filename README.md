@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many a man has failed because he had his wishbone where his backbone should have been."</i>
+<i>"If you want something you've never had you must be willing to do something you've never done."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
