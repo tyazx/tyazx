@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Attitude, not aptitude, determines altitude."</i>
+<i>"Work harder on yourself than you do on your job."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
