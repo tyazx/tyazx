@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't make someone feel good about themselves until you feel good about yourself."</i>
+<i>"You're never too old for anything."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
