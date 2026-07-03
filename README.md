@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're never too old for anything."</i>
+<i>"Knowing is not enough, we must apply. Willing is not enough, we must do."</i>
 <br>
-<b>- Betty White</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
