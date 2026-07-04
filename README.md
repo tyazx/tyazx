@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why change? Everyone has his own style. When you have found it, you should stick to it."</i>
+<i>"We must learn to live together as brothers or perish together as fools."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
