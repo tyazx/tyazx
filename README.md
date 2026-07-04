@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tomorrow is only found in the calendar of fools."</i>
+<i>"A Penny Saved is a Penny Earned"</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
