@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"This is such a short and precious life that it's really important that you don't spend it being unhappy."</i>
+<i>"Many people spend more time looking at their failures than focusing on their successes."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
