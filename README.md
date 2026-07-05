@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A single thread doesn't make a cloth, a single tree doesn't make a forest."</i>
+<i>"It isn't what you do, but how you do it."</i>
 <br>
-<b>- Tibetan Proverb</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
