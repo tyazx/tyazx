@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is in your moments of decision that your destiny is shaped."</i>
+<i>"The dreamers are the saviors of the worlds."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
