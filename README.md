@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many people spend more time looking at their failures than focusing on their successes."</i>
+<i>"To succeed takes more than the desire to win. It also takes the acceptance that we could fail."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
