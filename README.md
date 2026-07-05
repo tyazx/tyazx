@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The dreamers are the saviors of the worlds."</i>
+<i>"A single thread doesn't make a cloth, a single tree doesn't make a forest."</i>
 <br>
-<b>- James Allen</b>
+<b>- Tibetan Proverb</b>
 </blockquote>
 </p>
 
