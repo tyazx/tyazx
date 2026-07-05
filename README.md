@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To succeed takes more than the desire to win. It also takes the acceptance that we could fail."</i>
+<i>"The more you take responsibility for your past and present, the more you are able to create the future you seek."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
