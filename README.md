@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You've got to get up every morning with determination if you're going to go to bed with satisfaction."</i>
+<i>"If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated."</i>
 <br>
-<b>- George Lorimer</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
