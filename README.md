@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winning isn't always championships."</i>
+<i>"To the mind that is still, the whole universe surrenders."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
