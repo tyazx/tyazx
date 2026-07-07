@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Difficult roads often lead to beautiful destinations."</i>
+<i>"No great mind has ever existed without a touch of madness."</i>
 <br>
-<b>- Unknown</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
