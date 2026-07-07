@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Here and now...breathe and relax...in battle and in life."</i>
+<i>"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
