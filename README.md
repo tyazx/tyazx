@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world is changed by your example, not by your opinion."</i>
+<i>"You are what you do, not what you say you'll do."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
