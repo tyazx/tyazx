@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't build a reputation on what you are going to do."</i>
+<i>"Leave the beaten track behind occasionally and dive into the woods. Every time you do you will be certain to find something you have never seen before."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
