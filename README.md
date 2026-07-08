@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A wise man can learn more from a foolish question than a fool can learn from a wise answer."</i>
+<i>"Always do your best. What you plant now, you will harvest later."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
