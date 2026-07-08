@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live as if you were to die tomorrow. Learn as if you were to live forever."</i>
+<i>"A wise man can learn more from a foolish question than a fool can learn from a wise answer."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
