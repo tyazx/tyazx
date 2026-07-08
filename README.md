@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always do your best. What you plant now, you will harvest later."</i>
+<i>"You can't build a reputation on what you are going to do."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
