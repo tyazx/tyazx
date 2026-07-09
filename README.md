@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time."</i>
+<i>"If I persist long enough I will win."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
