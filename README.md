@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I persist long enough I will win."</i>
+<i>"Most people fail in life because they major in minor things."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
