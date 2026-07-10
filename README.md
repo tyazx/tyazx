@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some of your greatest lessons come from your darkest moments."</i>
+<i>"I'm an optimist by choice not by stupidity."</i>
 <br>
-<b>- Roger Lee</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
