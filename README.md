@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results."</i>
+<i>"When you are tempted to give up, your breakthrough is probably just around the corner."</i>
 <br>
-<b>- James Allen</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
