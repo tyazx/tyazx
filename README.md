@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'm an optimist by choice not by stupidity."</i>
+<i>"We suffer more often in imagination than in reality."</i>
 <br>
-<b>- Yanni</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
