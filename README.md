@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no path to Love. Love is the path."</i>
+<i>"Even the finest sword plunged into salt water will eventually rust."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
