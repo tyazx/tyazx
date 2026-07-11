@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one can confidently say that he will still be living tomorrow."</i>
+<i>"There is no path to Love. Love is the path."</i>
 <br>
-<b>- Euripides</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
