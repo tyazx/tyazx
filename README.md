@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have a brain and mind of your own. Use it, and reach your own decisions."</i>
+<i>"Failure is a great teacher. If you're open to it every mistake has a lesson to offer."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
