@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A self that goes on changing is a self that goes on living."</i>
+<i>"Weeds are flowers too, once you get to know them."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- A.A. Milne</b>
 </blockquote>
 </p>
 
