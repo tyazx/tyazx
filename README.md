@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Weeds are flowers too, once you get to know them."</i>
+<i>"The way to love anything is to realize that it may be lost."</i>
 <br>
-<b>- A.A. Milne</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
