@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is too short to waste your time on people who don't respect, appreciate, and value you."</i>
+<i>"If you aren't sure which way to do something, do it both ways and see which works better."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- John Carmack</b>
 </blockquote>
 </p>
 
