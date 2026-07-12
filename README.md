@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of success lies not in doing your own work, but in recognizing the right man to do it."</i>
+<i>"You have a brain and mind of your own. Use it, and reach your own decisions."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
