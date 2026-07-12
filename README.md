@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is a great teacher. If you're open to it every mistake has a lesson to offer."</i>
+<i>"A self that goes on changing is a self that goes on living."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
