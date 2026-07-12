@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you aren't sure which way to do something, do it both ways and see which works better."</i>
+<i>"Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results."</i>
 <br>
-<b>- John Carmack</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
