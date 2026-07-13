@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live calmly. The time will come when the flowers bloom by themselves."</i>
+<i>"Never spend your money before you have earned it."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
