@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is like a dragon where, for every head cut off, two more heads grow back."</i>
+<i>"Everything is created twice, first in the mind and then in reality."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
