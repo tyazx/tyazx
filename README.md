@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's very important to like the people you work with, otherwise life and your job is gonna be quite miserable."</i>
+<i>"Your imagination is your preview of life's coming attractions."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
