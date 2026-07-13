@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your imagination is your preview of life's coming attractions."</i>
+<i>"Live calmly. The time will come when the flowers bloom by themselves."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
