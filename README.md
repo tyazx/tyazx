@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Have a vision. Be demanding."</i>
+<i>"Instead of being intimidated by the limitations, be inspired to find new ways around them."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
