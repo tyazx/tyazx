@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you rise in the morning, form a resolution to make the day a happy one for a fellow creature."</i>
+<i>"Show up even when you don't want to show up."</i>
 <br>
-<b>- Sydney Smith</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
