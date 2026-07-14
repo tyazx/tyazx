@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every second you have on this planet is very precious and it's your responsibility that you're happy."</i>
+<i>"It is in changing that we find purpose."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
