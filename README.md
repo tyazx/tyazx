@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An ounce of performance is worth pounds of promises."</i>
+<i>"Have a vision. Be demanding."</i>
 <br>
-<b>- Mae West</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
