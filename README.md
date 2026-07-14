@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good judgment comes from experience, and experience comes from bad judgment."</i>
+<i>"An ounce of performance is worth pounds of promises."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
