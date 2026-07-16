@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When something comes from within, when it is a part of you, you have no choice but to live it, to express it."</i>
+<i>"Not all of us can do great things. But we can do small things with great love."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
