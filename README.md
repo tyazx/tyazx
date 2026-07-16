@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty."</i>
+<i>"Things turn out best for the people who make the best of the way things turn out."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
