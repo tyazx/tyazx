@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Things turn out best for the people who make the best of the way things turn out."</i>
+<i>"Before you can see the Light, you have to deal with the darkness."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
