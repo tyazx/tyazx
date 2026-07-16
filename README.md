@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am always doing that which I can not do, in order that I may learn how to do it."</i>
+<i>"When something comes from within, when it is a part of you, you have no choice but to live it, to express it."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
