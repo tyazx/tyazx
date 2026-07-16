@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence comes not from always being right but not fearing to be wrong."</i>
+<i>"Nothing in this universe occurs by accident."</i>
 <br>
-<b>- Unknown</b>
+<b>- Neale Donald Walsch</b>
 </blockquote>
 </p>
 
