@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What do we live for, if it is not to make life less difficult for each other?"</i>
+<i>"The big thing is to make a winning effort. I'm not obsessed with wins."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Morgan Wootten</b>
 </blockquote>
 </p>
 
