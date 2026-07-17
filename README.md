@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Aim for the moon. If you miss, you may hit a star."</i>
+<i>"Open your eyes and look within. Are you satisfied with the life you're living?"</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
