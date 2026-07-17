@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not look for approval except for the consciousness of doing your best."</i>
+<i>"You do not read a book for the book's sake, but for your own."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
