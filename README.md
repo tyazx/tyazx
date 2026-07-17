@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never argue with stupid people, they will drag you down to their level and then beat you with experience."</i>
+<i>"Life is one long process of getting tired."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
