@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wealth is the product of man's capacity to think."</i>
+<i>"Do one thing every day that scares you."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
