@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before you can see the Light, you have to deal with the darkness."</i>
+<i>"There is no way to happiness - happiness is the way."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
