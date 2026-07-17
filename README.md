@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Open your eyes and look within. Are you satisfied with the life you're living?"</i>
+<i>"Wealth is the product of man's capacity to think."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
