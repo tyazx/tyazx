@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is the price that life exacts for granting peace."</i>
+<i>"Sometimes good things fall apart so better things can fall together."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Marilyn Monroe</b>
 </blockquote>
 </p>
 
