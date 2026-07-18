@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people dabble their way through life, never deciding to master anything in particular."</i>
+<i>"Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
