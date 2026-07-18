@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace of mind is that mental condition in which you have accepted the worst."</i>
+<i>"You can only lose something that you have, but you cannot lose something that you are."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
