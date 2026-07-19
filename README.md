@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Generosity is giving more than you can, and pride is taking less than you need."</i>
+<i>"One beam, no matter how big, cannot support an entire house on its own."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
