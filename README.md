@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why fit in when you were born to stand out?"</i>
+<i>"Riches don't make a man rich, they only make him busier."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Christopher Columbus</b>
 </blockquote>
 </p>
 
