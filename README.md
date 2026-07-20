@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Either get busy living or get busy dying."</i>
+<i>"Take the high road; it's far less crowded."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Warren Buffett</b>
 </blockquote>
 </p>
 
