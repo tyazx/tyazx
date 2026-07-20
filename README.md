@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin."</i>
+<i>"Ponder and deliberate before you make a move."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
