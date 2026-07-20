@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ponder and deliberate before you make a move."</i>
+<i>"A leader leads by example, not by force."</i>
 <br>
 <b>- Sun Tzu</b>
 </blockquote>
