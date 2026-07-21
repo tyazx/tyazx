@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is very obvious that we are not influenced by 'facts' but by our interpretation of the facts."</i>
+<i>"A mistake is only an error, it becomes a mistake when you fail to correct it."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
