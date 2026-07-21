@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never trust he who trusts everyone."</i>
+<i>"He who possesses most must be most afraid of loss."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
