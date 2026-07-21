@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your very silence shows you agree."</i>
+<i>"Never trust he who trusts everyone."</i>
 <br>
-<b>- Euripides</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
