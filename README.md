@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It takes 20 years to build a reputation and five minutes to ruin it."</i>
+<i>"I wasn't brave, I just didn't have time to be scared."</i>
 <br>
-<b>- Warren Buffett</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
