@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hope means hoping when everything seems hopeless."</i>
+<i>"Your very silence shows you agree."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
