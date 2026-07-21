@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Judge your success by what you had to give up in order to get it."</i>
+<i>"One beam, no matter how big, cannot support an entire house on its own."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
