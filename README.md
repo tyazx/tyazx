@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who possesses most must be most afraid of loss."</i>
+<i>"The worst part of success is trying to find someone who is happy for you."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Bette Midler</b>
 </blockquote>
 </p>
 
