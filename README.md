@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A mistake is only an error, it becomes a mistake when you fail to correct it."</i>
+<i>"It takes 20 years to build a reputation and five minutes to ruin it."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Warren Buffett</b>
 </blockquote>
 </p>
 
