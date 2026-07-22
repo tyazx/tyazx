@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most wasted day of all is that on which we have not laughed."</i>
+<i>"Beware of false knowledge, it is more dangerous than ignorance."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
