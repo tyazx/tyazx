@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter how qualified or deserving we are, we will never reach a better life until we can imagine it for ourselves and allow ourselves to have it."</i>
+<i>"Always focus on the front windshield and not the rear view mirror."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
