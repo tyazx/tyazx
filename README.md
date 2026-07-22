@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always focus on the front windshield and not the rear view mirror."</i>
+<i>"The people who succeed are irrationally passionate about something."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
