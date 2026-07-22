@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Falling down is not failure. Failure comes when you stay where you have fallen."</i>
+<i>"The most wasted day of all is that on which we have not laughed."</i>
 <br>
-<b>- Socrates</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
