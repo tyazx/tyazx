@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust in dreams, for in them is the hidden gate to eternity."</i>
+<i>"Never lose hope. Storms make people stronger and never last forever."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
