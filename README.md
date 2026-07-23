@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be - don't try to become"</i>
+<i>"Faithless is he that says farewell when the road darkens."</i>
 <br>
-<b>- Osho</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
