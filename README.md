@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Someday death will take us to another star."</i>
+<i>"Every man gotta right to decide his own destiny."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
