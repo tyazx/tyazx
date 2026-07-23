@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world is changed by your example, not by your opinion."</i>
+<i>"Trust in dreams, for in them is the hidden gate to eternity."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
