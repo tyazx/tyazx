@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never lose hope. Storms make people stronger and never last forever."</i>
+<i>"Someday death will take us to another star."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
