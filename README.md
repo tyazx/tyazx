@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give a girl the right shoes, and she can conquer the world."</i>
+<i>"Everything is created twice, first in the mind and then in reality."</i>
 <br>
-<b>- Bette Midler</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
