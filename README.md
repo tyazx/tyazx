@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people dabble their way through life, never deciding to master anything in particular."</i>
+<i>"What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!"</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
