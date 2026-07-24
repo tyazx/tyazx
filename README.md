@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Use your smile to change the world but don't let the world change your smile."</i>
+<i>"Most people dabble their way through life, never deciding to master anything in particular."</i>
 <br>
-<b>- Unknown</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
