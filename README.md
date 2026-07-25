@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want more luck, take more chances."</i>
+<i>"Lost Time is never found again."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
