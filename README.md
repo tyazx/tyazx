@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Lost Time is never found again."</i>
+<i>"Great minds discuss ideas. Average minds discuss events. Small minds discuss people."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
