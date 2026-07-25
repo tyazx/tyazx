@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Like it or not, this moment is all we really have to work with."</i>
+<i>"The cost of leadership is self-interest."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
