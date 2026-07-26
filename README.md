@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throughout this life, you can never be certain of living long enough to take another breath."</i>
+<i>"Even if you persuade me, you won't persuade me."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
