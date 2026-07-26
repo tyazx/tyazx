@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a balance of holding on and letting go."</i>
+<i>"Simple words, repeated daily, can change your life."</i>
 <br>
-<b>- Rumi</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
