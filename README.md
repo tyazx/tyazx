@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even if you persuade me, you won't persuade me."</i>
+<i>"What we learn from history is that people don't learn from history."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Warren Buffett</b>
 </blockquote>
 </p>
 
