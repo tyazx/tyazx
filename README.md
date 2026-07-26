@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"From a certain point onward there is no longer any turning back. That is the point that must be reached."</i>
+<i>"If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
