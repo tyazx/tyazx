@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know."</i>
+<i>"Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
