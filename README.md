@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Simple words, repeated daily, can change your life."</i>
+<i>"To be prepared is half the victory."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
