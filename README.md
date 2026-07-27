@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change is hardest at the beginning, messiest in the middle and best at the end."</i>
+<i>"Why fit in when you were born to stand out?"</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
