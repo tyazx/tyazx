@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Faith means believing the unbelievable."</i>
+<i>"Your life does not get better by chance, it gets better by change."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
