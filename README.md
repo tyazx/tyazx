@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others."</i>
+<i>"Confidence is consistency of thinking about what is possible and how to make it possible."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
