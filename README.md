@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your life does not get better by chance, it gets better by change."</i>
+<i>"You cannot change your destination overnight but you can change your direction overnight."</i>
 <br>
 <b>- Jim Rohn</b>
 </blockquote>
