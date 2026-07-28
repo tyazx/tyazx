@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is consistency of thinking about what is possible and how to make it possible."</i>
+<i>"Do it with passion, or not at all."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Rosa Nouchette Carey</b>
 </blockquote>
 </p>
 
