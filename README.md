@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tis not too late to seek a newer world."</i>
+<i>"Never put off to tomorrow what you can do to-day."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
