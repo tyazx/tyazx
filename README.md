@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your gift is something that you can do innately better than anything else."</i>
+<i>"The world doesn't always give you want, but it often gives you what you need."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
