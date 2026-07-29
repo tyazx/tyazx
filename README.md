@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you consider things like the stars, our affairs don't seem to matter very much, do they?"</i>
+<i>"You must welcome change as the rule but not as your ruler."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
