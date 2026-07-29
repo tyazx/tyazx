@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have to walk in a way that we only print peace and serenity on the Earth. Walk as if you are kissing the Earth with your feet."</i>
+<i>"It's what you do in the present that will redeem the past and thereby change the future."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
