@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be happy in the moment, that's enough. Each moment is all we need, not more."</i>
+<i>"Never put off to tomorrow what you can do to-day."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
