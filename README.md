@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do good, live in the most positive and joyful way possible every day."</i>
+<i>"Sad thing is, you can still love someone and be wrong for them."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
