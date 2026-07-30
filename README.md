@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no value in anything until it is finished."</i>
+<i>"We suffer more often in imagination than in reality."</i>
 <br>
-<b>- Genghis Khan</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
