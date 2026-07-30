@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment."</i>
+<i>"The only time you run out of chances is when you stop taking them."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
