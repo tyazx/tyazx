@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success."</i>
+<i>"You are not one person, but three: The one you think you are; The one others think you are; The one you really are."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
