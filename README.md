@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The question isn't who is going to let me; it's who is going to stop me."</i>
+<i>"Be polite to all, but intimate with few."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
