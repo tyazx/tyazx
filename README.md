@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are not one person, but three: The one you think you are; The one others think you are; The one you really are."</i>
+<i>"Peace of mind is that mental condition in which you have accepted the worst."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
