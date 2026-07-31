@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you."</i>
+<i>"Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success."</i>
 <br>
-<b>- Jeffrey Gitomer</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
