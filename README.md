@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Superstars think like superstars long before the fans or the press anoint them."</i>
+<i>"Failure is a great teacher. If you're open to it every mistake has a lesson to offer."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
