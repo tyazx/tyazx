@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True wealth is of the heart, not of the purse."</i>
+<i>"It is far easier to start something than it is to finish it."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
