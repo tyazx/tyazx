@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing better than the encouragement of a good friend."</i>
+<i>"Inspire yourself to be great. Being good isn't good enough."</i>
 <br>
-<b>- David Brinkley</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
