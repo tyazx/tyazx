@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is far easier to start something than it is to finish it."</i>
+<i>"The final mystery is oneself."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
