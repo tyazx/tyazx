@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who cannot change their minds cannot change anything."</i>
+<i>"Don't be afraid to see what you see."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
