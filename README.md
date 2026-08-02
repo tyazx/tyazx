@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where you are right now doesn't have to determine where you'll end up."</i>
+<i>"I don't ever give up. I'd have to be dead or completely incapacitated."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
