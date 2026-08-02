@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like riding a bicycle. To keep your balance you must keep moving."</i>
+<i>"Wishing to be friends is quick work, but friendship is a slow ripening fruit."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
