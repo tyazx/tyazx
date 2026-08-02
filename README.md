@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The scariest moment is always just before you start. After that, things can only get better."</i>
+<i>"Whether you think you can or think you can't – you are right."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
