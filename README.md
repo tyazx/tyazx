@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom is the oneness of mind that guides and permeates all things."</i>
+<i>"Life is like riding a bicycle. To keep your balance you must keep moving."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
