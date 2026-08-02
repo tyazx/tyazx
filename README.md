@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I don't ever give up. I'd have to be dead or completely incapacitated."</i>
+<i>"Wisdom is the oneness of mind that guides and permeates all things."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
