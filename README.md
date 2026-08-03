@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is the spiritual experience of living every minute with love, grace and gratitude."</i>
+<i>"Most people dabble their way through life, never deciding to master anything in particular."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
