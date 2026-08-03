@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even when a friend does something you do not like, he continues to be your friend."</i>
+<i>"The more you lose yourself in something bigger than yourself, the more energy you will have."</i>
 <br>
-<b>- Genghis Khan</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
