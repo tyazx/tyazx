@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The cost of leadership is self-interest."</i>
+<i>"There can be no deep disappointment where there is not deep love."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
