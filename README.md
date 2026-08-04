@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There can be no deep disappointment where there is not deep love."</i>
+<i>"The man who removes a mountain begins by carrying away small stones."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
