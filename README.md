@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The man who removes a mountain begins by carrying away small stones."</i>
+<i>"The world makes way for the man who knows where he is going."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
