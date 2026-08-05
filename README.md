@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right."</i>
+<i>"Even if you're sure you can win, be careful that you can live with what you lose."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
