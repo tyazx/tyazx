@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man with outward courage dares to die: a man with inner courage dares to live."</i>
+<i>"It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
