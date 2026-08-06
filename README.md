@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of happiness is not in doing what you like but in liking what you have to do."</i>
+<i>"You are the only problem you will ever have and you are the only solution."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
