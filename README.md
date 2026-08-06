@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only place where success comes before work is in the dictionary."</i>
+<i>"Do not stop thinking of life as an adventure."</i>
 <br>
-<b>- Vidal Sassoon</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
