@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Lack of emotion causes lack of progress and lack of motivation."</i>
+<i>"The road to success is always under construction.."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
