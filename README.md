@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're never given a dream without also being given the power to make it true."</i>
+<i>"Lack of emotion causes lack of progress and lack of motivation."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
