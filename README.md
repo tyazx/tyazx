@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What we desire makes us vulnerable."</i>
+<i>"In order to control myself I must first accept myself by going with and not against my nature."</i>
 <br>
-<b>- Ryan Holiday</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
