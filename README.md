@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The danger of an adventure is worth a thousand days of ease and comfort."</i>
+<i>"Boldness makes even the smallest animal dangerous."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
