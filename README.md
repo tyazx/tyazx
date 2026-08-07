@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Chop your own wood and it will warm you twice."</i>
+<i>"The danger of an adventure is worth a thousand days of ease and comfort."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
