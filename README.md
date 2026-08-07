@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Boldness makes even the smallest animal dangerous."</i>
+<i>"We turn not older with years but newer every day."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
