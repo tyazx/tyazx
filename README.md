@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man's character is his fate."</i>
+<i>"We must accept finite disappointment, but never lose infinite hope."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
