@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life comes at us in waves. We can't predict or control those waves, but we can learn to surf."</i>
+<i>"The only thing we have to fear is fear itself."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
