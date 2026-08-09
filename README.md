@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True friendship ought never to conceal what it thinks."</i>
+<i>"There are no ordinary moments."</i>
 <br>
-<b>- St. Jerome</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
