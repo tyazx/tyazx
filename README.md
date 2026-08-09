@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy."</i>
+<i>"The highest level of wisdom is when you not only accept but love adversity."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
