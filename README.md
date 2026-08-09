@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Forever is composed of now's."</i>
+<i>"Always forgive your enemies - nothing annoys them so much."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
