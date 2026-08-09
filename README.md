@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A leader is one who knows the way, goes the way, and shows the way."</i>
+<i>"Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy."</i>
 <br>
-<b>- Unknown</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
