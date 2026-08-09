@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The highest level of wisdom is when you not only accept but love adversity."</i>
+<i>"If life were predictable it would cease to be life, and be without flavor."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
