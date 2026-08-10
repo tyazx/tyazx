@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The trouble with most of us is that we'd rather be ruined by praise than saved by criticism."</i>
+<i>"To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
