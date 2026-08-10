@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Someone is sitting in the shade today because someone planted a tree a long time ago."</i>
+<i>"The Art of Peace begins with you."</i>
 <br>
-<b>- Warren Buffett</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
