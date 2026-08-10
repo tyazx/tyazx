@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt."</i>
+<i>"The happiest people in the world are those who feel absolutely terrific about themselves."</i>
 <br>
-<b>- Jack London</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
