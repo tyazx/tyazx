@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little."</i>
+<i>"Someone is sitting in the shade today because someone planted a tree a long time ago."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Warren Buffett</b>
 </blockquote>
 </p>
 
