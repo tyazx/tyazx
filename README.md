@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams are for dreamers. Goals are for achievers."</i>
+<i>"Sometimes you have to shut your eyes, so you can see the real beauty."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Kilian Jornet</b>
 </blockquote>
 </p>
 
