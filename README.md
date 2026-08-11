@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing yourself is the beginning of all wisdom."</i>
+<i>"Only in the agony of parting do we look into the depths of love."</i>
 <br>
-<b>- Aristotle</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
