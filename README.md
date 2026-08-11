@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Convinced myself, I seek not to convince."</i>
+<i>"Knowing yourself is the beginning of all wisdom."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
