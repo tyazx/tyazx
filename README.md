@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Death smiles at us all. All we can do is smile back."</i>
+<i>"If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
