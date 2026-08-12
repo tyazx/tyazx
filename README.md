@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Absorb what is useful, discard what is not, add what is uniquely your own."</i>
+<i>"Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
