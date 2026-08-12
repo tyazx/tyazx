@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One must be deeply aware of the impermanence of the world."</i>
+<i>"Death smiles at us all. All we can do is smile back."</i>
 <br>
-<b>- Dogen</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
