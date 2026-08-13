@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There's no coming to consciousness without pain"</i>
+<i>"Winners don't Quit. That's why they Win."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
