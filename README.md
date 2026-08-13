@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winners don't Quit. That's why they Win."</i>
+<i>"You came empty handed, and you will leave empty handed."</i>
 <br>
-<b>- Unknown</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
