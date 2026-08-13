@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The person who cannot control his words shows that he cannot control himself."</i>
+<i>"No tree, it is said, can grow to heaven unless its roots reach down to hell."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
