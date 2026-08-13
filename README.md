@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being wrong opens us up to the possibility of change."</i>
+<i>"Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- John D. Rockefeller</b>
 </blockquote>
 </p>
 
