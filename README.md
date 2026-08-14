@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To live is to be willing to die over and over again."</i>
+<i>"The most tragic thing in the world is a man of genius who is not a man of honor."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
