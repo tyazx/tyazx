@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wake up and smile! Wake up and be grateful!"</i>
+<i>"To live is to be willing to die over and over again."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
