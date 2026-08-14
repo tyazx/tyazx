@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe and you're halfway there."</i>
+<i>"Cultivate the merry heart, develop the happiness habit, and life will become a continual feast."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
