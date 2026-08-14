@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hope means hoping when everything seems hopeless."</i>
+<i>"The best leaders are constantly learning, curious about where they made mistakes and actively looking for areas where they might have it wrong."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Jeff Booth</b>
 </blockquote>
 </p>
 
