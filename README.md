@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To lead the people, walk behind them."</i>
+<i>"Confidence breeds beauty."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
