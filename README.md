@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An intelligent person hires people who are more intelligent than he is."</i>
+<i>"Hope means hoping when everything seems hopeless."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
