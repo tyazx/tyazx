@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not what happens to you, but how you react to it that matters."</i>
+<i>"To do great work one must be very idle as well as very industrious."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
