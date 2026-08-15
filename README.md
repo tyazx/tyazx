@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To do great work one must be very idle as well as very industrious."</i>
+<i>"Man must use what he has, not hope for what is not."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- G.I. Gurdjieff</b>
 </blockquote>
 </p>
 
