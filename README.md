@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now."</i>
+<i>"The ability to observe without evaluating is the highest form of intelligence."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
