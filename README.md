@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anything worth doing is worth doing slowly."</i>
+<i>"Each day your life grows a day shorter. Make every move count."</i>
 <br>
-<b>- Mae West</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
