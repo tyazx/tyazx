@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ability to observe without evaluating is the highest form of intelligence."</i>
+<i>"To do great work one must be very idle as well as very industrious."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
