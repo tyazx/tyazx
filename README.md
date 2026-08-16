@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is pretty simple: someone to love, something to do, something to look forward to."</i>
+<i>"Every poem should remind the reader that they are going to die."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
