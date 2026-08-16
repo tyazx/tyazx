@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every poem should remind the reader that they are going to die."</i>
+<i>"Others can stop you temporarily - you are the only one who can do it permanently."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
