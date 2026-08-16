@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whenever you do a thing, act as if all the world were watching."</i>
+<i>"Public opinion is the worst of all opinions."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
