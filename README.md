@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A tiny change today brings a dramatically different tomorrow."</i>
+<i>"We cannot change anything unless we accept it."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
