@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man must use what he has, not hope for what is not."</i>
+<i>"The only limit to our realization of tomorrow will be our doubts of today."</i>
 <br>
-<b>- G.I. Gurdjieff</b>
+<b>- Colin R. Davis</b>
 </blockquote>
 </p>
 
