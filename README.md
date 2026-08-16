@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every second you have on this planet is very precious and it's your responsibility that you're happy."</i>
+<i>"A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
