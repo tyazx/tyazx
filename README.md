@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board."</i>
+<i>"A tiny change today brings a dramatically different tomorrow."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
