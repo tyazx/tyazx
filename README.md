@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only way out is through."</i>
+<i>"Character is the result of two things: mental attitude and the way we spend our time."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
