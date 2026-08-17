@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be happy in the moment, that's enough. Each moment is all we need, not more."</i>
+<i>"Do not think you will necessarily be aware of your own enlightenment."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
