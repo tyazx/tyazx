@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not think you will necessarily be aware of your own enlightenment."</i>
+<i>"Money poisons you when you've got it, and starves you when you haven't."</i>
 <br>
-<b>- Dogen</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
