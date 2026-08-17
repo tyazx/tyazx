@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ability to observe without evaluating is the highest form of intelligence."</i>
+<i>"Observe things as they are and don't pay attention to other people."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
