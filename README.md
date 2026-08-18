@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be truly ignorant, be content with your own knowledge."</i>
+<i>"Opportunities multiply as they are seized."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
