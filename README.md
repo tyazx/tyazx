@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunities multiply as they are seized."</i>
+<i>"Whatever happens always happens on time."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
