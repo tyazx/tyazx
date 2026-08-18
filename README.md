@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next."</i>
+<i>"No idea, no matter how good, will work if it doesn't get used."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Peter A. Cohen</b>
 </blockquote>
 </p>
 
