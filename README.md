@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Observe things as they are and don't pay attention to other people."</i>
+<i>"Nothing is particularly hard if you divide it into small jobs."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
