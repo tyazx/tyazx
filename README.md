@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People seldom do what they believe in. They do what is convenient, then repent."</i>
+<i>"Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
