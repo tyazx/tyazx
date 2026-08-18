@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever happens always happens on time."</i>
+<i>"The dream is free, but the hustle is sold separately."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
