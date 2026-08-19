@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Forgive yourself for your faults and your mistakes and move on."</i>
+<i>"The danger of an adventure is worth a thousand days of ease and comfort."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
