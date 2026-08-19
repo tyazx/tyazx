@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you do today can improve all your tomorrows."</i>
+<i>"The more you lose yourself in something bigger than yourself, the more energy you will have."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
