@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Superstars think like superstars long before the fans or the press anoint them."</i>
+<i>"If you always do what you've always done, you'll always get what you've always got."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
