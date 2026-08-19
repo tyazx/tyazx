@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The dream is free, but the hustle is sold separately."</i>
+<i>"What you do today can improve all your tomorrows."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
