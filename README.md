@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The danger of an adventure is worth a thousand days of ease and comfort."</i>
+<i>"In matters of style, swim with the current; in matters of principle, stand like a rock."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
