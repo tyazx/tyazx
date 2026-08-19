@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know."</i>
+<i>"Forgive yourself for your faults and your mistakes and move on."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
