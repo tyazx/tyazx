@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In matters of style, swim with the current; in matters of principle, stand like a rock."</i>
+<i>"The wise pursue wisdom, the dull follow in blind faith."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Tibetan Proverb</b>
 </blockquote>
 </p>
 
