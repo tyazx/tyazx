@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wise pursue wisdom, the dull follow in blind faith."</i>
+<i>"Superstars think like superstars long before the fans or the press anoint them."</i>
 <br>
-<b>- Tibetan Proverb</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
