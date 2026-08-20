@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It takes real work to grasp what is invisible to just about everyone else."</i>
+<i>"You get paid in direct proportion to the difficulty of problems you solve."</i>
 <br>
-<b>- Ryan Holiday</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
