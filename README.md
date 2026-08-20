@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do the difficult things while they are easy and do the great things while they are small."</i>
+<i>"There's a very deep connection among human beings. All we have to do is open our minds to it."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
