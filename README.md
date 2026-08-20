@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work out your own salvation. Do not depend on others."</i>
+<i>"Never argue with ignorance. It only leads to frustration."</i>
 <br>
-<b>- Buddha</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
