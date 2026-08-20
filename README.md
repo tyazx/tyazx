@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's just a bad day, not a bad life."</i>
+<i>"Conscience is a dog that does not stop us from passing but that we cannot prevent from barking."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
