@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never argue with ignorance. It only leads to frustration."</i>
+<i>"It takes real work to grasp what is invisible to just about everyone else."</i>
 <br>
-<b>- Unknown</b>
+<b>- Ryan Holiday</b>
 </blockquote>
 </p>
 
