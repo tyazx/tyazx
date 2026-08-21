@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you always do what you've always done, you'll always get what you've always got."</i>
+<i>"The less people know, the more stubbornly they know it."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
