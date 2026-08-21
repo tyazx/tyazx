@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By failing to prepare, you are preparing to fail."</i>
+<i>"If you always do what you've always done, you'll always get what you've always got."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
