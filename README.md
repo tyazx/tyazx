@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do."</i>
+<i>"The older you get, the more you understand how your conscience works."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
