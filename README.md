@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Listen to the secret sound, the real sound, which is inside you."</i>
+<i>"Every failure brings with it the seed of an equivalent success."</i>
 <br>
-<b>- Kabir</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
