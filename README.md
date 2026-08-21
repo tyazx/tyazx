@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I know not all that may be coming, but be it what it will, I'll go to it laughing."</i>
+<i>"By failing to prepare, you are preparing to fail."</i>
 <br>
-<b>- Herman Melville</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
