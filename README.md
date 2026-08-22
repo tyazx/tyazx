@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You Create Your Own Present By What You Give Your Attention To Today."</i>
+<i>"My powers are ordinary. Only my application brings me success."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
