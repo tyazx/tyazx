@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Very little is needed to make a happy life; it is all within yourself, in your way of thinking."</i>
+<i>"Where your talents and the needs of the world cross, there lies your vocation."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
