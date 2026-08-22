@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is all about mistakes. It is constant change and growth."</i>
+<i>"Every one of us is the sum total of his own thoughts."</i>
 <br>
-<b>- Neale Donald Walsch</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
