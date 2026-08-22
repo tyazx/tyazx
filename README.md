@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The people who are crazy enough to think they can change the world are the ones who do."</i>
+<i>"Successful people appreciate where they have come from, but they don't let their past set the tone for their future."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
