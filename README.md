@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Obstacles don't block the path, they are the path."</i>
+<i>"The destiny of man is in his own soul."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
