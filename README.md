@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where your talents and the needs of the world cross, there lies your vocation."</i>
+<i>"You Create Your Own Present By What You Give Your Attention To Today."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
