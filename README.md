@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Outstanding people have one thing in common: an absolute sense of mission."</i>
+<i>"To be able to forget means sanity."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
