@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Repetition does not transform a lie into a truth."</i>
+<i>"Life may be full of pain but that's not an excuse to give up."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
