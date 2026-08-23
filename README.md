@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't spend time beating on a wall, hoping to transform it into a door."</i>
+<i>"Repetition does not transform a lie into a truth."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
