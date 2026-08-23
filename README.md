@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not follow the ideas of others, but learn to listen to the voice within yourself."</i>
+<i>"Outstanding people have one thing in common: an absolute sense of mission."</i>
 <br>
-<b>- Dogen</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
