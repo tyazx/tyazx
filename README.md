@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain."</i>
+<i>"A single dream is more powerful than a thousand realities."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
