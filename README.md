@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The worst part of success is trying to find someone who is happy for you."</i>
+<i>"Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young."</i>
 <br>
-<b>- Bette Midler</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
