@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We shape clay into a pot, but it is the emptiness inside that holds whatever we want."</i>
+<i>"Never waste a minute of your precious life thinking about people you don't like."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
