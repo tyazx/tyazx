@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be able to forget means sanity."</i>
+<i>"No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain."</i>
 <br>
-<b>- Jack London</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
