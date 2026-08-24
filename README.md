@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes a change of perspective is all it takes to see the light."</i>
+<i>"The worst part of success is trying to find someone who is happy for you."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Bette Midler</b>
 </blockquote>
 </p>
 
