@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe in one thing too much and you have no room for new ideas."</i>
+<i>"Absorb what is useful, discard what is not, add what is uniquely your own."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
