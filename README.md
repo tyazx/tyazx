@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no path to Love. Love is the path."</i>
+<i>"You'll never find rainbows if you're looking down."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
