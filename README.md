@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People have the illusion that all over the world, all the time, all kinds of fantastic things are happening."</i>
+<i>"I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars."</i>
 <br>
-<b>- David Brinkley</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
