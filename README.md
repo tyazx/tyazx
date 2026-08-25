@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our life isn't how much we can take out, but how much we can put in."</i>
+<i>"Make peace with your inner turmoil."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
