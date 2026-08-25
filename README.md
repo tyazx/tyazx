@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tension is who you think you should be. Relaxation is who you are."</i>
+<i>"Our life isn't how much we can take out, but how much we can put in."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
