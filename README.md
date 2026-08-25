@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is passion that makes man live; wisdom makes one only last."</i>
+<i>"There is no path to Love. Love is the path."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
