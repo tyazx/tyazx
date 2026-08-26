@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For every effect there is a root cause. Find and address the root cause rather than try to fix the effect, as there is no end to the latter."</i>
+<i>"Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
