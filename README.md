@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others."</i>
+<i>"We are always complaining that our days are few, and acting as though there would be no end of them."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
