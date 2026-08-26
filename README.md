@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Study logic and math, because once you've mastered them, you won't fear any book."</i>
+<i>"Strive not to be a success, but rather to be of value."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Colin R. Davis</b>
 </blockquote>
 </p>
 
