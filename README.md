@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I love myself I love you. If I love you I love myself."</i>
+<i>"For every effect there is a root cause. Find and address the root cause rather than try to fix the effect, as there is no end to the latter."</i>
 <br>
-<b>- Rumi</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
