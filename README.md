@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Invest in as much of yourself as you can, you are your own biggest asset by far."</i>
+<i>"Study logic and math, because once you've mastered them, you won't fear any book."</i>
 <br>
-<b>- Warren Buffett</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
