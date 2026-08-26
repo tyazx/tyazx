@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Absorb what is useful, discard what is not, add what is uniquely your own."</i>
+<i>"If I love myself I love you. If I love you I love myself."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
