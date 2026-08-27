@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"With the new day comes new strength and new thoughts."</i>
+<i>"Make your stand today. On this spot. On this day."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
