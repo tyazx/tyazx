@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best dreams happen when you're awake."</i>
+<i>"You may be disappointed if you fail, but you are doomed if you don't try."</i>
 <br>
-<b>- Cherie Gilderbloom</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
