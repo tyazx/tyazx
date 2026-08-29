@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You may be disappointed if you fail, but you are doomed if you don't try."</i>
+<i>"Heart is what separates the good from the great."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
