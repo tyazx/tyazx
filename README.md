@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fill your mind with various competing thoughts and decide which make sense."</i>
+<i>"The journey is what brings us happiness not the destination."</i>
 <br>
-<b>- Warren Buffett</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
