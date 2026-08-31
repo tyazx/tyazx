@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The journey is what brings us happiness not the destination."</i>
+<i>"Stop being tormented by everyone else's reaction to you."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
