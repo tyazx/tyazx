@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stop being tormented by everyone else's reaction to you."</i>
+<i>"A clear conscience never fears midnight knocking."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
