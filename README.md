@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our greatest glory is not in never falling but in rising every time we fall."</i>
+<i>"Fill your mind with various competing thoughts and decide which make sense."</i>
 <br>
-<b>- Confucius</b>
+<b>- Warren Buffett</b>
 </blockquote>
 </p>
 
