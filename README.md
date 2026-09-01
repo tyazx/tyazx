@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever your mind can conceive and believe, it can achieve."</i>
+<i>"Knowledge isn't power until it is applied."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
