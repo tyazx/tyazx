@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have the ability, now apply yourself."</i>
+<i>"Only by acceptance of the past, can you alter it."</i>
 <br>
-<b>- Benjamin Mays</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
