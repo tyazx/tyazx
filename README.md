@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must learn to live together as brothers or perish together as fools."</i>
+<i>"Even though you are on the right track - you will get run over if you just sit there."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
