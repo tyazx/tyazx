@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Leave the beaten track behind occasionally and dive into the woods. Every time you do you will be certain to find something you have never seen before."</i>
+<i>"We must learn to live together as brothers or perish together as fools."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
