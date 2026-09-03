@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If your happiness depends on what somebody else does, I guess you do have a problem."</i>
+<i>"Success comes from knowing that you did your best to become the best that you are capable of becoming."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
