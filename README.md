@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you judge others, you do not define them, you define yourself."</i>
+<i>"If your happiness depends on what somebody else does, I guess you do have a problem."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
