@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not fair to ask of others what you are not willing to do yourself."</i>
+<i>"When you have a dream, you've got to grab it and never let go."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
