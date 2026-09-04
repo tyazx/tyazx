@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You will not do incredible things without an incredible dream."</i>
+<i>"A little impatience will spoil great plans."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
