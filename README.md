@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you have a dream, you've got to grab it and never let go."</i>
+<i>"Every man desires to live long, but no man wishes to be old."</i>
 <br>
-<b>- Carol Burnett</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
