@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who can, does."</i>
+<i>"Better a diamond with a flaw than a pebble without one."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
