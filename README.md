@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What one does is what counts. Not what one had the intention of doing."</i>
+<i>"Imagination means nothing without doing."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
