@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As soon as you trust yourself, you will know how to live."</i>
+<i>"Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
