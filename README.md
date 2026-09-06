@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The prettiest eyes have cried the most."</i>
+<i>"As soon as you trust yourself, you will know how to live."</i>
 <br>
-<b>- Unknown</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
