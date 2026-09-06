@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments."</i>
+<i>"Not everything that weighs you down is yours to carry."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
