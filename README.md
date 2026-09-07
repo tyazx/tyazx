@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you lose yourself in something bigger than yourself, the more energy you will have."</i>
+<i>"Nothing can survive without food. Everything we consume acts either to heal us or to poison us."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
