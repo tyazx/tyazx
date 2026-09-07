@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing can survive without food. Everything we consume acts either to heal us or to poison us."</i>
+<i>"Choose a job you love, and you will never have to work a day in your life."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
