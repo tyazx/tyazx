@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is ten percent what you experience and ninety percent how you respond to it."</i>
+<i>"Loyalty and friendship are the most precious possessions a man can have."</i>
 <br>
-<b>- Unknown</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
