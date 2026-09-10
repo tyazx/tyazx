@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A successful man is one who can lay a firm foundation with the bricks others have thrown at him."</i>
+<i>"Only the educated are free."</i>
 <br>
-<b>- David Brinkley</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
