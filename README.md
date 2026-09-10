@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Loyalty and friendship are the most precious possessions a man can have."</i>
+<i>"An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
