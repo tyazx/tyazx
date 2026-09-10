@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only the educated are free."</i>
+<i>"To find yourself, think for yourself."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
