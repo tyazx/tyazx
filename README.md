@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot."</i>
+<i>"Do something to move yourself toward your major goal every day."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
