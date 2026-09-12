@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only man who never makes mistakes is the man who never does anything."</i>
+<i>"How to get more opportunity: Create more opportunity for others."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
