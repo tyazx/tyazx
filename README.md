@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more."</i>
+<i>"Don't set your own goals by what other people make important."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
