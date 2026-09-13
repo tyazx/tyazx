@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't set your own goals by what other people make important."</i>
+<i>"You get paid in direct proportion to the difficulty of problems you solve."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
