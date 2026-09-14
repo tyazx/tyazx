@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Riches don't make a man rich, they only make him busier."</i>
+<i>"Waste not fresh tears over old griefs."</i>
 <br>
-<b>- Christopher Columbus</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
