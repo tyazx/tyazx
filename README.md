@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results."</i>
+<i>"The quieter you become, the more you are able to hear."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
