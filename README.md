@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing in this universe occurs by accident."</i>
+<i>"Thinking is the hardest work there is. That is why so few people engage in it."</i>
 <br>
-<b>- Neale Donald Walsch</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
