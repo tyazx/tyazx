@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give a girl the right shoes, and she can conquer the world."</i>
+<i>"There are no uninteresting things, only uninterested people."</i>
 <br>
-<b>- Bette Midler</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
