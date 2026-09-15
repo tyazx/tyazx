@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The privilege of a lifetime is to become who you truly are."</i>
+<i>"Nothing in this universe occurs by accident."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Neale Donald Walsch</b>
 </blockquote>
 </p>
 
