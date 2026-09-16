@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every time we liberate a woman, we liberate a man."</i>
+<i>"There are people who have money and people who are rich."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
