@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Elegance does not consist in putting on a new dress."</i>
+<i>"He who hesitates is a damned fool."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
