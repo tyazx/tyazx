@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever happens always happens on time."</i>
+<i>"The scariest monsters are the ones that lurk within our souls."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
