@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be alive - is Power."</i>
+<i>"Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
