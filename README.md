@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pain doesn't last. And when it's gone, we have something to show for it. Growth."</i>
+<i>"To be alive - is Power."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
