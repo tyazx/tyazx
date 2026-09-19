@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is more creative...nor destructive...than a brilliant mind with a purpose."</i>
+<i>"To be truly ignorant, be content with your own knowledge."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
