@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your conscience is the measure of the honesty of your selfishness. Listen to it carefully."</i>
+<i>"To be of use to the world is the only way to be happy."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
