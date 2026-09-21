@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"None of us can change our yesterdays but all of us can change our tomorrows."</i>
+<i>"The way to get started is to quit talking and begin doing."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
