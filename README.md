@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Misfortune shows those who are not really friends."</i>
+<i>"None of us can change our yesterdays but all of us can change our tomorrows."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
