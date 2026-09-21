@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is a poor teacher."</i>
+<i>"Fear does not have any special power unless you empower it by submitting to it."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
