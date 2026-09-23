@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you see someone without a smile give them one of yours."</i>
+<i>"Fool me once, shame on you; fool me twice, shame on me."</i>
 <br>
-<b>- Unknown</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
