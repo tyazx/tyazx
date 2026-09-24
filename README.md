@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is growth. If we stop growing, technically and spiritually, we are as good as dead."</i>
+<i>"No one has ever become poor by giving."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
