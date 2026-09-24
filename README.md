@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take into account that great love and great achievements involve great risk."</i>
+<i>"Life is growth. If we stop growing, technically and spiritually, we are as good as dead."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
