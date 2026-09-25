@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live your life and forget your age."</i>
+<i>"Whatever happens always happens on time."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
