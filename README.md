@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The Only Thing That Is Constant Is Change"</i>
+<i>"Great deeds are usually wrought at great risks."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
