@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is like reaching an important birthday and finding you're exactly the same."</i>
+<i>"If you want more luck, take more chances."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
