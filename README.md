@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The important thing is not what one is born with but what use one makes of that equipment."</i>
+<i>"There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
