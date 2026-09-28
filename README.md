@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone telling you it's pointless to share your perspective is sharing their perspective."</i>
+<i>"Optimism is the one quality more associated with success and happiness than any other."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
