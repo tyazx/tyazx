@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing like a health problem to turn up the contrast dial for the rest of life."</i>
+<i>"I know of only one duty, and that is to love."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
