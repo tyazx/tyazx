@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Optimism is the one quality more associated with success and happiness than any other."</i>
+<i>"Nothing like a health problem to turn up the contrast dial for the rest of life."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
