@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything that irritates us about others."</i>
+<i>"Just living is not enough... one must have sunshine, freedom, and a little flower."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
