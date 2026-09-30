@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the power of thought that gives man power over nature."</i>
+<i>"Live your life as an exclamation rather than an explanation."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
