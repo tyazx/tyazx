@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Darkness is the absence of light."</i>
+<i>"Confidence breeds beauty."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
