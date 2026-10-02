@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's the unknown we fear when we look upon death and darkness, nothing more."</i>
+<i>"Loyalty and friendship are the most precious possessions a man can have."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Herbert Hoover</b>
 </blockquote>
 </p>
 
