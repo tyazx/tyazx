@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are born from a quiet sleep, and we die to a calm awakening"</i>
+<i>"Confidence is consistency of thinking about what is possible and how to make it possible."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
