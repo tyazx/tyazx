@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is consistency of thinking about what is possible and how to make it possible."</i>
+<i>"Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
