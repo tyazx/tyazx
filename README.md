@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus."</i>
+<i>"Education breeds confidence. Confidence breeds hope. Hope breeds peace."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
