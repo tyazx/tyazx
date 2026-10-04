@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Education breeds confidence. Confidence breeds hope. Hope breeds peace."</i>
+<i>"Who can say for sure that one will live to see tomorrow."</i>
 <br>
-<b>- Confucius</b>
+<b>- Tibetan Proverb</b>
 </blockquote>
 </p>
 
