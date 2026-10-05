@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Charms strike the sight, but merit wins the soul."</i>
+<i>"In all chaos there is a cosmos, in all disorder a secret order."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
