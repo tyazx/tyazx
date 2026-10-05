@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The big thing is to make a winning effort. I'm not obsessed with wins."</i>
+<i>"Charms strike the sight, but merit wins the soul."</i>
 <br>
-<b>- Morgan Wootten</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
