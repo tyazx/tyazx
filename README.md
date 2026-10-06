@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only place success comes before work is in the dictionary."</i>
+<i>"Life is not meant to be easy my child, but take courage: it can be delightful."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
