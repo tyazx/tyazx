@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is not meant to be easy my child, but take courage: it can be delightful."</i>
+<i>"The only person you should try to be better than is the person you were yesterday."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
