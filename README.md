@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe in one thing too much and you have no room for new ideas."</i>
+<i>"When we have our body and mind in order, everything else will exist in the right place, in the right way."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
