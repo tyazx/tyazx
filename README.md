@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't tell big dreams to small minded people."</i>
+<i>"There is nothing better than the encouragement of a good friend."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- David Brinkley</b>
 </blockquote>
 </p>
 
