@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quiet people have the loudest minds."</i>
+<i>"Whatever you do, strive to do it so well that no man living and no man dead and no man yet to be born could do it any better."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Benjamin Mays</b>
 </blockquote>
 </p>
 
