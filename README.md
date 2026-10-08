@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you do, strive to do it so well that no man living and no man dead and no man yet to be born could do it any better."</i>
+<i>"If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you."</i>
 <br>
-<b>- Benjamin Mays</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
