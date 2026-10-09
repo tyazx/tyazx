@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have a choice everyday regarding the attitude we will embrace for that day."</i>
+<i>"Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with."</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
