@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours."</i>
+<i>"It is better to fail in originality than to succeed in imitation."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Herman Melville</b>
 </blockquote>
 </p>
 
