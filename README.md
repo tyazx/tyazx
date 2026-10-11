@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny."</i>
+<i>"Riches don't make a man rich, they only make him busier."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Christopher Columbus</b>
 </blockquote>
 </p>
 
