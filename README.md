@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is often safer to be in chains than to be free."</i>
+<i>"What is planted in each person's soul will sprout."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
