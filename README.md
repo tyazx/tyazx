@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you know, the more you know you don't know."</i>
+<i>"It is often safer to be in chains than to be free."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
