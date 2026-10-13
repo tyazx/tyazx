@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone you meet is fighting a battle you know nothing about. Be kind. Always."</i>
+<i>"Your purpose will be clear only when you listen to your heart."</i>
 <br>
-<b>- Robin Williams</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
