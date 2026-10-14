@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Greatest success comes just one step beyond the point at which defeat overtakes you."</i>
+<i>"See what you're doing wrong, laugh at it, change and do better."</i>
 <br>
-<b>- Unknown</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
