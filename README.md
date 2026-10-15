@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that."</i>
+<i>"Life can be wonderful if you're not afraid of it."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
