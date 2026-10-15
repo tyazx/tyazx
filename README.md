@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No grand idea was ever born in a conference, but a lot of foolish ideas have died there."</i>
+<i>"A little impatience will spoil great plans."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
