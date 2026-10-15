@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth."</i>
+<i>"No grand idea was ever born in a conference, but a lot of foolish ideas have died there."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
