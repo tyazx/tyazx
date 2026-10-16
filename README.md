@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one ever said life was fair. Just Eventful."</i>
+<i>"Through discipline comes freedom."</i>
 <br>
-<b>- Carol Burnett</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
