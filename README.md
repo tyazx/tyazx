@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear of death is fear of the Unknown."</i>
+<i>"A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board."</i>
 <br>
-<b>- Adi Da Samraj</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
