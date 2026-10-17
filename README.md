@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board."</i>
+<i>"Nothing can bring you peace but yourself."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
