@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing can bring you peace but yourself."</i>
+<i>"Awakening is possible only for those who seek it and want it."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- G.I. Gurdjieff</b>
 </blockquote>
 </p>
 
