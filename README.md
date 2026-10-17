@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The road to success is always under construction.."</i>
+<i>"Every day passes whether you participate or not."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
