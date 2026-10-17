@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A self that goes on changing is a self that goes on living."</i>
+<i>"The road to success is always under construction.."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
