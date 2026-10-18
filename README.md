@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To lose your temper is only useful once a year."</i>
+<i>"Always be a first-rate version of yourself, instead of a second-rate version of someone else."</i>
 <br>
-<b>- Colin R. Davis</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
