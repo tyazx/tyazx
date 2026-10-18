@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Weeds are flowers too, once you get to know them."</i>
+<i>"The first step is to establish that something is possible; then probability will occur."</i>
 <br>
-<b>- A.A. Milne</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
