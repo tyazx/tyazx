@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You drown not by falling into a river, but by staying submerged in it."</i>
+<i>"You are what you believe in. You become that which you believe you can become."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
