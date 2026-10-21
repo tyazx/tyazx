@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Awakening is possible only for those who seek it and want it."</i>
+<i>"Those who attain the middle Dominate the whole."</i>
 <br>
-<b>- G.I. Gurdjieff</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
