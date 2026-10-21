@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you believe you can, you can. If you believe you can't, then, well you can't."</i>
+<i>"Awakening is possible only for those who seek it and want it."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- G.I. Gurdjieff</b>
 </blockquote>
 </p>
 
