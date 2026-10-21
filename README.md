@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't stumble over something that's behind you."</i>
+<i>"If you let your head get too big, it'll break your neck."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
