@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Beauty is not in the face; beauty is a light in the heart."</i>
+<i>"The more people you help become successful the more successful you become."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
