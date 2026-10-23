@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunities don't often come along. So, when they do, you have to grab them."</i>
+<i>"There is little success where there is little laughter."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
