@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is stumbling from failure to failure with no loss of enthusiasm."</i>
+<i>"Don't waste your energy on being angry at something that somebody did six months ago or a year ago. It's over."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
