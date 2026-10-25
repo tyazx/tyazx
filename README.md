@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you do today can improve all your tomorrows."</i>
+<i>"Engage in those actions and thoughts that nurture the good qualities you want to have."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
