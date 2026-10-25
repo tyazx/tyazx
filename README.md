@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Engage in those actions and thoughts that nurture the good qualities you want to have."</i>
+<i>"Give me six hours to chop down a tree and I will spend the first four sharpening the axe."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
