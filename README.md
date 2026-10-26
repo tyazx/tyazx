@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do what is right, not what is easy, nor what is popular."</i>
+<i>"Human happiness and moral duty are inseparably connected."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
