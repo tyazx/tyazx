@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The difference between winning and losing is most often not quitting."</i>
+<i>"Do what is right, not what is easy, nor what is popular."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
