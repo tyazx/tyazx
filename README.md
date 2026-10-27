@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being."</i>
+<i>"Great loves too must be endured."</i>
 <br>
-<b>- Anita Krizzan</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
