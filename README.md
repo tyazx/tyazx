@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Receive without pride, let go without attachment."</i>
+<i>"If you want others to be happy, practice compassion. If you want to be happy, practice compassion."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
