@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want others to be happy, practice compassion. If you want to be happy, practice compassion."</i>
+<i>"Who you are is defined by what you're willing to struggle for."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
