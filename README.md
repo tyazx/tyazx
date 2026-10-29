@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Who you are is defined by what you're willing to struggle for."</i>
+<i>"Be brave. Take risks. Nothing can substitute experience."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
