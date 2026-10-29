@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be brave. Take risks. Nothing can substitute experience."</i>
+<i>"Concentrated power has always been the enemy of liberty."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
