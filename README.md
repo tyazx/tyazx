@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learning is a weightless treasure you can always carry easily."</i>
+<i>"Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
