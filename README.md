@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest adventure you can ever take is to live the life of your dreams."</i>
+<i>"Learning is a weightless treasure you can always carry easily."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
