@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt."</i>
+<i>"The biggest adventure you can ever take is to live the life of your dreams."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
