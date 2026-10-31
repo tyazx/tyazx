@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If there's a definition of freedom, I think it's this: living life on your terms."</i>
+<i>"The trouble with most of us is that we'd rather be ruined by praise than saved by criticism."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
