@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It doesn't matter where you are, you are nowhere compared to where you can go."</i>
+<i>"The privilege of a lifetime is to become who you truly are."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
