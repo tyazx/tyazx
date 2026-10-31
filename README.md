@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How many times do you have to get hit over the head until you figure out who's hitting you?"</i>
+<i>"It doesn't matter where you are, you are nowhere compared to where you can go."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
