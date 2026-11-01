@@ -8,7 +8,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are able to employ your will always for constructive purposes, you become the controller of your destiny."</i>
+<i>"The season of failure is the best time for sowing the seeds of success."</i>
 <br>
 <b>- Paramahansa Yogananda</b>
 </blockquote>
