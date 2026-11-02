@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Re-examine all that you have been told... dismiss that which insults your soul."</i>
+<i>"It is never too late to be what you might have been."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
