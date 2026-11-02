@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is never too late to be what you might have been."</i>
+<i>"Circumstances rule men; men do not rule circumstances."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
