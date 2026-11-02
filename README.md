@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Circumstances rule men; men do not rule circumstances."</i>
+<i>"The decisions of our past are the architects of our present."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
