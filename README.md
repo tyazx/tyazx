@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing endures but change."</i>
+<i>"Rest and be kind, you don't have to prove anything."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Jack Kerouac</b>
 </blockquote>
 </p>
 
