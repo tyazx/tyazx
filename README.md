@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rest and be kind, you don't have to prove anything."</i>
+<i>"The only people without problems are those in cemeteries."</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
