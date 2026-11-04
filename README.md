@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One mistake does not have to rule a person's entire life."</i>
+<i>"Success is walking from failure to failure with no loss of enthusiasm."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Colin R. Davis</b>
 </blockquote>
 </p>
 
