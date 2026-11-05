@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Until we can manage time, we can manage nothing else."</i>
+<i>"The wise warrior avoids the battle."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
