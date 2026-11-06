@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is good at any age, but the sooner you find it, the longer you will enjoy it."</i>
+<i>"I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
