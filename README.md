@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The Art of Peace begins with you."</i>
+<i>"True friendship ought never to conceal what it thinks."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
