@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people are old at 18 and some are young at 90. Time is a concept that humans created."</i>
+<i>"When it hurts - observe. Life is trying to teach you something."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
