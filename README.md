@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Faith means believing the unbelievable."</i>
+<i>"The Art of Peace begins with you."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
