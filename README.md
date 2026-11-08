@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are never too old to become younger."</i>
+<i>"Definiteness of purpose is the starting point of all achievement."</i>
 <br>
-<b>- Mae West</b>
+<b>- W. Clement Stone</b>
 </blockquote>
 </p>
 
