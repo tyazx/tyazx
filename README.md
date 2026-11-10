@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is a poor teacher."</i>
+<i>"To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
