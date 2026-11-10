@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When things are a disappointment, try not to be so discouraged."</i>
+<i>"The great use of life is to spend it for something that will outlast it."</i>
 <br>
-<b>- Carol Burnett</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
