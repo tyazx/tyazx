@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Empty your mind, be formless, shapeless, like water."</i>
+<i>"Failure is not fatal, but failure to change might be."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
