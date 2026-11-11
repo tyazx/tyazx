@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is not fatal, but failure to change might be."</i>
+<i>"We can know only that we know nothing. And that is the highest degree of human wisdom."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
