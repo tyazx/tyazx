@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The great use of life is to spend it for something that will outlast it."</i>
+<i>"Empty your mind, be formless, shapeless, like water."</i>
 <br>
-<b>- William James</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
