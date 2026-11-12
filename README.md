@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We build too many walls and not enough bridges."</i>
+<i>"He who permits himself to tell a lie once, finds it much easier to do it the second time."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
