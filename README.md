@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who permits himself to tell a lie once, finds it much easier to do it the second time."</i>
+<i>"Work joyfully and peacefully, knowing that right thoughts and right efforts inevitably bring about right results."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
