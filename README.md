@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is more real than nothing."</i>
+<i>"Hope is not a strategy. Luck is not a factor. Fear is not an option."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- James Cameron</b>
 </blockquote>
 </p>
 
