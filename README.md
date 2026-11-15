@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Discontent is the first necessity of progress."</i>
+<i>"You do not read a book for the book's sake, but for your own."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
