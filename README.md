@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In peace, sons bury their fathers. In war, fathers bury their sons."</i>
+<i>"Discontent is the first necessity of progress."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
