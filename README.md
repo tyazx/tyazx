@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You do not read a book for the book's sake, but for your own."</i>
+<i>"I think self-awareness is probably the most important thing towards being a champion."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Billie Jean King</b>
 </blockquote>
 </p>
 
