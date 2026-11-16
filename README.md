@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more perfect a person is on the outside, the more demons they have on the inside."</i>
+<i>"You may forget with whom you laughed, but you will never forget with whom you wept."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
