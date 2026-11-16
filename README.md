@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I think self-awareness is probably the most important thing towards being a champion."</i>
+<i>"You must be willing to do what others won't do, to have what others won't have."</i>
 <br>
-<b>- Billie Jean King</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
