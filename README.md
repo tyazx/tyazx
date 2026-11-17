@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Find the game where you can win, and then commit your life to playing it; and play to win."</i>
+<i>"A diamond is a piece of charcoal that handled stress exceptionally well."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
