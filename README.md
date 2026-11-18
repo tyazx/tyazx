@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is what happens to you while you're busy making other plans."</i>
+<i>"Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
