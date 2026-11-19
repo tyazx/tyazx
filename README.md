@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure comes from ego, greed, envy, fear, and imitation."</i>
+<i>"Constantly think about how you could be doing things better."</i>
 <br>
-<b>- Warren Buffett</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
