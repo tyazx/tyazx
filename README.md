@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man's character is his fate."</i>
+<i>"I have lost friends, some by death...others by sheer inability to cross the street."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
