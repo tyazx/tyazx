@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The season of failure is the best time for sowing the seeds of success."</i>
+<i>"Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
