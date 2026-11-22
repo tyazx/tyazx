@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who cannot be a good follower cannot be a good leader."</i>
+<i>"If you love life, don't waste time, for time is what life is made up of."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
