@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first step is to establish that something is possible; then probability will occur."</i>
+<i>"Paths are made by walking."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
