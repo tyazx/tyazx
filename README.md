@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can not live your life just based on what everyone else thinks."</i>
+<i>"Some of us learn from other people's mistakes and the rest of us have to be other people."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
