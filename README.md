@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some of us learn from other people's mistakes and the rest of us have to be other people."</i>
+<i>"Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
