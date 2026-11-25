@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Paths are made by walking."</i>
+<i>"You can not live your life just based on what everyone else thinks."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
