@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is about doing the right thing, not about doing everything right."</i>
+<i>"Remember that this moment is not your life, it's just a moment in your life. Focus on what is in front of you, right now."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Ryan Holiday</b>
 </blockquote>
 </p>
 
