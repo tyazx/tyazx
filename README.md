@@ -8,9 +8,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember that this moment is not your life, it's just a moment in your life. Focus on what is in front of you, right now."</i>
+<i>"If you correct your mind, the rest of your life will fall into place."</i>
 <br>
-<b>- Ryan Holiday</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
